@@ -1,0 +1,426 @@
+{
+ "updated": "9-oct",
+ "note": "Semilla inicial (research de reportes). Se refresca a diario.",
+ "tickers": {
+  "NVDA": {
+   "trend": "'$2 billones de backlog', capex hyperscalers 2027 ~$1.3T, debate 'pico vs sigue'",
+   "peak": "Días de earnings (beat & raise, guía 3T $108 bn)",
+   "news": [
+    {
+     "t": "Backlog de ~$2 billones y capex de hyperscalers 2027 ~$1.3T (revelado por la CFO)",
+     "s": "earnings call"
+    }
+   ]
+  },
+  "TSM": {
+   "trend": "run-up al 3T (15-oct), 'N2/2nm', capacidad reservada, lectura cruzada con superciclo de memoria",
+   "peak": "Días de earnings",
+   "news": [
+    {
+     "t": "2T récord, guía 2026 >40%, +100 bn en Arizona, dividendo +33%",
+     "s": "IR"
+    }
+   ]
+  },
+  "ASML": {
+   "trend": "UBS reafirma Buy antes del 3T, demanda EUV para IA/HBM satura capacidad",
+   "peak": "Días de earnings y noticias de China",
+   "news": [
+    {
+     "t": "Órdenes 2T €5.5 mM ('extremadamente fuertes'); guía 2026 elevada",
+     "s": "IR"
+    }
+   ]
+  },
+  "AMD": {
+   "trend": "'AMD OpenAI deal', 'warrants', 'MI450', duelo 'AMD vs NVDA'",
+   "peak": "Día del anuncio del acuerdo con OpenAI",
+   "news": [
+    {
+     "t": "Alianza con Anthropic (2 GW MI450) y Helios en Azure; +195% en 2026",
+     "s": "IR/prensa"
+    }
+   ]
+  },
+  "MRVL": {
+   "trend": "'custom silicon', 'Marvell Google deal', debate 'crecimiento vs margen'",
+   "peak": "Día del anuncio del acuerdo con Google",
+   "news": [
+    {
+     "t": "Acuerdo de silicio personalizado con Google (hasta ~$120 bn pipeline); cayó 7.6% por margen",
+     "s": "IR"
+    }
+   ]
+  },
+  "INTC": {
+   "trend": "'Intel government stake', 'NVIDIA Intel deal', '18A', 'turnaround'",
+   "peak": "Día del anuncio de la inversión de NVIDIA",
+   "news": [
+    {
+     "t": "Participación del gobierno EE.UU. (~10%), inversión de NVIDIA ~$5 bn y SoftBank ~$2 bn",
+     "s": "prensa"
+    }
+   ]
+  },
+  "005930": {
+   "trend": "'100 trillion won', 'supera a NVIDIA', HBM4/Vera Rubin, superciclo de memoria",
+   "peak": "Preliminar del 8-oct (titular global)",
+   "news": [
+    {
+     "t": "3T preliminar récord: supera 100 bill. de won de utilidad operativa; HBM4 calificado para Vera Rubin/MI455X",
+     "s": "prensa"
+    }
+   ]
+  },
+  "MU": {
+   "trend": "'superciclo', 'HBM sold out', debate 'pico de ciclo vs estructural'",
+   "peak": "Reporte (sep): blowout con reacción muda",
+   "news": [
+    {
+     "t": "Guía 1T $61.5 bn aplasta consenso; margen bruto en los 80s%",
+     "s": "IR"
+    }
+   ]
+  },
+  "SNDK": {
+   "trend": "'NAND shortage', 'SSD pricing', cruce con Micron/Samsung/SK Hynix",
+   "peak": "Reportes de pricing de memoria",
+   "news": [
+    {
+     "t": "Beat monstruoso (+372%, GM 84.6%), buyback $14 bn, backlog $93.9 bn",
+     "s": "IR"
+    }
+   ]
+  },
+  "WDC": {
+   "trend": "'HDD comeback', 'nearline demand', 'HAMR', cruce con Seagate",
+   "peak": "Upgrades de analistas y datos de pricing",
+   "news": [
+    {
+     "t": "Beat & raise en HDD nearline para IA; roadmap HAMR >100TB",
+     "s": "IR"
+    }
+   ]
+  },
+  "NVTS": {
+   "trend": "'Navitas NVIDIA 800V', 'GaN', mucho chatter de retail/meme",
+   "peak": "Cada mención de NVIDIA al 800V HVDC",
+   "news": [
+    {
+     "t": "Selección por NVIDIA para arquitectura de energía 800V HVDC en data centers",
+     "s": "prensa"
+    }
+   ]
+  },
+  "MSFT": {
+   "trend": "'Azure growth', 'Copilot', 'MSFT capex', debate ROI del gasto de IA",
+   "peak": "Anuncios de capacidad y relación con OpenAI",
+   "news": [
+    {
+     "t": "Azure superó 100 bn de ingresos anuales; 'demanda mayor que la oferta' (Nadella)",
+     "s": "earnings call"
+    }
+   ]
+  },
+  "GOOGL": {
+   "trend": "'Gemini 3', 'Google TPU', 'Cloud acceleration', giro de 'search is dead' a 'Google wins AI'",
+   "peak": "Lanzamientos de Gemini y upgrades de analistas",
+   "news": [
+    {
+     "t": "Cloud +~32% con margen al alza; backlog de Cloud ~$514 bn; alivio antimonopolio",
+     "s": "IR"
+    }
+   ]
+  },
+  "AMZN": {
+   "trend": "'AWS reacceleration', 'Trainium', 'Project Rainier Anthropic', debate capex",
+   "peak": "Día de +3.3% y anuncios de AWS/Anthropic",
+   "news": [
+    {
+     "t": "AWS reacelera (~20%+) con Trainium (Anthropic/Project Rainier); margen retail en expansión",
+     "s": "IR"
+    }
+   ]
+  },
+  "META": {
+   "trend": "'Meta superintelligence', 'AI talent war', 'capex', debate ROI del gasto",
+   "peak": "Fichajes de IA y guía de capex",
+   "news": [
+    {
+     "t": "Superclusters Prometheus/Hyperion y Superintelligence Labs (A. Wang); capex 2026 muy al alza",
+     "s": "prensa"
+    }
+   ]
+  },
+  "CRWV": {
+   "trend": "'CoreWeave OpenAI deal', 'neocloud', 'GPU backlog', debate deuda/concentración",
+   "peak": "Anuncios de contratos y reportes de venta de insiders",
+   "news": [
+    {
+     "t": "Backlog ~$104 bn (OpenAI/Microsoft), pero ~$35 bn de deuda y FCF muy negativo",
+     "s": "IR"
+    }
+   ]
+  },
+  "IREN": {
+   "trend": "'IREN AI pivot', 'Bitcoin miner to AI', 'data center power'",
+   "peak": "Anuncios de contratos de IA Cloud",
+   "news": [
+    {
+     "t": "Metamorfosis de minero de Bitcoin a nube de IA; ARR contratado ~$4 bn",
+     "s": "IR"
+    }
+   ]
+  },
+  "SPCX": {
+   "trend": "'Starlink subscribers', 'Starship launch', 'SpaceX IPO'",
+   "peak": "Pruebas de Starship y noticias de Starlink",
+   "news": [
+    {
+     "t": "Primer reporte público: doble beat (adj EBITDA $3.5 bn); narrativa IA/cómputo",
+     "s": "IR"
+    }
+   ]
+  },
+  "WYFI": {
+   "trend": "'Nscale/$865M', subidas de PT ($42-44), 'colocation/MW', dudas de 'cash burn'",
+   "peak": "Anuncio del contrato Nscale + upgrades de analistas",
+   "news": [
+    {
+     "t": "Contrato Nscale $865M/10 años (NC-1); nube >$540M (Baseten, Prime Intellect)",
+     "s": "IR"
+    }
+   ]
+  },
+  "PLTR": {
+   "trend": "'AIP', 'Karp', debate 'mejor negocio de IA vs valuación absurda'",
+   "peak": "Día de +5% y nuevos contratos",
+   "news": [
+    {
+     "t": "US commercial +149%, Regla del 40 en 155%; subió guía (rompió el 'sell the news')",
+     "s": "IR"
+    }
+   ]
+  },
+  "NOW": {
+   "trend": "'Now Assist', 'agentic AI', 'ServiceNow split'",
+   "peak": "Lanzamientos de producto y el split",
+   "news": [
+    {
+     "t": "AI ACV cruzó $1 bn (subido a $1.5 bn); cRPO +21%; split de acción 2026",
+     "s": "IR"
+    }
+   ]
+  },
+  "APP": {
+   "trend": "'AppLovin AXON', 'short report', 'e-commerce ads', duelo alcistas vs cortos",
+   "peak": "Cada short report o dato de e-commerce",
+   "news": [
+    {
+     "t": "Motor AXON con margen EBITDA ~84%; volatilidad por reportes de cortos",
+     "s": "prensa"
+    }
+   ]
+  },
+  "UPST": {
+   "trend": "'AI lending', 'rate cuts', debate recuperación vs riesgo de crédito",
+   "peak": "Datos macro/tasas de la Fed",
+   "news": [
+    {
+     "t": "Originaciones +61%; apuesta apalancada al ciclo de tasas (necesita recortes)",
+     "s": "IR"
+    }
+   ]
+  },
+  "PYPL": {
+   "trend": "'PayPal turnaround', 'Venmo', 'buybacks', 'agentic checkout'",
+   "peak": "Acuerdos de pago/IA",
+   "news": [
+    {
+     "t": "Interés de adquisición (Stripe+Advent ~$53 bn); foco en margen de transacción y recompras",
+     "s": "prensa"
+    }
+   ]
+  },
+  "COIN": {
+   "trend": "'Coinbase', 'USDC', 'Bitcoin price', 'crypto regulation'",
+   "peak": "Movimientos fuertes del Bitcoin",
+   "news": [
+    {
+     "t": "Récord de 10.3% de participación; 48% de ingresos netos de suscripciones; USDC ~$73 bn",
+     "s": "IR"
+    }
+   ]
+  },
+  "MSTR": {
+   "trend": "'Saylor', 'MSTR Bitcoin', 'mNAV premium', debate sostenibilidad del apalancamiento",
+   "peak": "Movimientos fuertes del BTC",
+   "news": [
+    {
+     "t": "843,775 BTC (~4% de la oferta); por 1ª vez VENDIÓ BTC para financiar preferentes",
+     "s": "IR"
+    }
+   ]
+  },
+  "UBER": {
+   "trend": "'robotaxi'/'Waymo', run-up a resultados 3T, debate 'value trap vs buy the dip'",
+   "peak": "Día del reporte 2T (5-ago)",
+   "news": [
+    {
+     "t": "Gross Bookings +24%, FCF TTM >$10 bn; guía 3T floja + 'riesgo robotaxi'",
+     "s": "IR"
+    }
+   ]
+  },
+  "CEG": {
+   "trend": "'Constellation nuclear', 'Three Mile Island', 'data center PPA'",
+   "peak": "Anuncios de PPAs y avances regulatorios",
+   "news": [
+    {
+     "t": "Mayor flota nuclear de EE.UU. + Calpine ($26.6 bn); PPAs a 15-20 años con hyperscalers",
+     "s": "IR"
+    }
+   ]
+  },
+  "VST": {
+   "trend": "'Vistra nuclear', 'data center PPA', 'ERCOT power'",
+   "peak": "Anuncios de PPAs y datos de demanda",
+   "news": [
+    {
+     "t": "PPAs nucleares de 20 años con Meta; Cogentrix suma 5.5 GW de gas; >$10 bn de caja 26-27",
+     "s": "IR"
+    }
+   ]
+  },
+  "GEV": {
+   "trend": "'gas turbine shortage', 'GE Vernova grid', 'power demand AI'",
+   "peak": "Datos de pedidos y acuerdos de energía de data centers",
+   "news": [
+    {
+     "t": "Backlog $176 bn; guía FY26 elevada; turbinas de gas prácticamente agotadas por años",
+     "s": "IR"
+    }
+   ]
+  },
+  "ETN": {
+   "trend": "'data center power', 'electrification', 'Eaton backlog'",
+   "peak": "Datos de backlog/capex de hyperscalers",
+   "news": [
+    {
+     "t": "Órdenes de data center +85%, backlog +43%; separa negocio de Mobility",
+     "s": "IR"
+    }
+   ]
+  },
+  "VRT": {
+   "trend": "'liquid cooling', 'Vertiv AI', 'data center capex'",
+   "peak": "Anuncios de capex de hyperscalers y datos de pedidos",
+   "news": [
+    {
+     "t": "Líder en enfriamiento líquido para racks 100kW+; book-to-bill >1; backlog $15 bn+",
+     "s": "IR"
+    }
+   ]
+  },
+  "CAT": {
+   "trend": "'Caterpillar data center', 'backup power', 'genset shortage'",
+   "peak": "Anuncios de capacidad de data centers",
+   "news": [
+    {
+     "t": "Acuerdo Utah/Joule por 4 GW; deal Microsoft-Chevron; gensets/turbinas para 'bring your own power'",
+     "s": "prensa"
+    }
+   ]
+  },
+  "BE": {
+   "trend": "'Bloom Energy data center', 'fuel cells', 'on-site power'",
+   "peak": "Cada anuncio de acuerdo",
+   "news": [
+    {
+     "t": "Ingresos +165%; Brookfield amplió alianza de $5 bn a $25 bn; energía on-site en meses",
+     "s": "IR"
+    }
+   ]
+  },
+  "NEE": {
+   "trend": "'NextEra demand', 'renewables backlog', 'data center load'",
+   "peak": "Guía y datos de demanda",
+   "news": [
+    {
+     "t": "Subió guía de crecimiento de EPS a 8%+; ~12 GW en pláticas de gran carga",
+     "s": "IR"
+    }
+   ]
+  },
+  "FSLR": {
+   "trend": "'First Solar backlog', 'US solar manufacturing', 'IRA 45X'",
+   "peak": "Cambios regulatorios/aranceles",
+   "news": [
+    {
+     "t": "PPAs con hyperscalers (Sun Streams 2 de Microsoft); ~14 GW de capacidad doméstica",
+     "s": "IR"
+    }
+   ]
+  },
+  "CCJ": {
+   "trend": "'uranium price', 'nuclear renaissance', 'Cameco Westinghouse'",
+   "peak": "Acuerdos nucleares y datos de precio del uranio",
+   "news": [
+    {
+     "t": "Uranio en máximos de 14 años; subió dividendo 50%; 49% de Westinghouse",
+     "s": "IR"
+    }
+   ]
+  },
+  "OKLO": {
+   "trend": "'Oklo SMR', 'Sam Altman nuclear', 'NRC approval'",
+   "peak": "Cada noticia regulatoria o de Altman",
+   "news": [
+    {
+     "t": "Micro-reactor Aurora (modelo PPA); HALEU vía Centrus desde 2029; respaldo de Sam Altman",
+     "s": "IR"
+    }
+   ]
+  },
+  "SMR": {
+   "trend": "'NuScale SMR', 'small modular reactor', 'nuclear AI'",
+   "peak": "Acuerdos y noticias regulatorias",
+   "news": [
+    {
+     "t": "Primer diseño SMR aprobado por la NRC; TVA y ENTRA1 empujan a 6 GW",
+     "s": "IR"
+    }
+   ]
+  },
+  "HIMS": {
+   "trend": "'GLP-1'/'semaglutide', debate 'value trap vs buy the dip', 'AI care'",
+   "peak": "Reporte 2T (10-ago) y propuesta FDA (may-26)",
+   "news": [
+    {
+     "t": "2T +38% pero compresión de margen (76%→64%) por viraje a GLP-1 de marca; guía 2026 elevada",
+     "s": "IR"
+    }
+   ]
+  },
+  "SLS": {
+   "trend": "'SELLAS REGAL', 'GPS AML', 'SLS009' en foros de biotech",
+   "peak": "Cualquier comunicado de datos clínicos",
+   "news": [
+    {
+     "t": "SLS009 (CDK9) con topline en 4T 2026; GPS (Fase 3 REGAL) retrasado ~1 año; caja $138 M",
+     "s": "IR"
+    }
+   ]
+  },
+  "HD": {
+   "trend": "'Home Depot', 'housing market', 'rate cuts', 'Pro sales'",
+   "peak": "Datos macro (tasas/vivienda)",
+   "news": [
+    {
+     "t": "Mínimo de 52 semanas por congelación de vivienda; beat limpio pero reafirmó (no subió) guía",
+     "s": "IR"
+    }
+   ]
+  }
+ }
+}
