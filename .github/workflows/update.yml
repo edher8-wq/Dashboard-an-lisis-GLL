@@ -2,9 +2,12 @@ name: Actualizar precios del tablero (Stooq)
 
 on:
   schedule:
-    # 23:30 UTC = ~16:30-17:30 hora Sinaloa, despues del cierre de EE.UU.
-    # Lunes a viernes.
-    - cron: "30 23 * * 1-5"
+    # Cada 30 min durante el horario de mercado de EE.UU. (lun-vie).
+    # 13:00-21:00 UTC cubre 9:30-16:00 ET tanto en horario de verano como de invierno.
+    # (GitHub Actions puede retrasar algunos disparos; es "casi" cada 30 min.)
+    - cron: "0,30 13-21 * * 1-5"
+    # Un respaldo tras el cierre para asegurar el precio de cierre definitivo.
+    - cron: "45 21 * * 1-5"
   workflow_dispatch: {}   # permite correrlo a mano desde la pestaña Actions
 
 permissions:
@@ -35,9 +38,10 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           if ! git diff --quiet -- index.html; then
             git add index.html
-            git commit -m "Precios al cierre ($(date -u +%Y-%m-%d)) — actualizacion automatica Stooq"
+            git commit -m "Precios ($(date -u +%Y-%m-%d\ %H:%MZ)) — actualizacion automatica"
+            git pull --rebase origin main || true
             git push
             echo "Precios actualizados y publicados."
           else
-            echo "Sin cambios de precio hoy; nada que publicar."
+            echo "Sin cambios de precio; nada que publicar."
           fi

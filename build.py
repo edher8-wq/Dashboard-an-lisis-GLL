@@ -44,25 +44,33 @@ def fetch_stooq(sym):
         return None
 
 def fetch_yahoo(yt):
-    """Yahoo Finance chart API (JSON, sin key). Fallback mas tolerante a IP de cloud."""
+    """Yahoo Finance chart API (JSON, sin key). Precio INTRADIA (regularMarketPrice,
+    ~15 min de retraso en el tier gratis) + cierre previo. Fallback a cierres si falta."""
     try:
-        url = f"https://query1.finance.yahoo.com/v8/finance/chart/{yt}?interval=1d&range=7d"
+        url = f"https://query1.finance.yahoo.com/v8/finance/chart/{yt}?interval=5m&range=1d"
         j = json.loads(_get(url).decode("utf-8","replace"))
         res = j["chart"]["result"][0]
-        ts = res["timestamp"]
+        meta = res.get("meta", {})
+        lc = meta.get("regularMarketPrice")
+        pc = meta.get("chartPreviousClose") or meta.get("previousClose")
+        t  = meta.get("regularMarketTime")
+        if lc is not None and pc:
+            d = datetime.utcfromtimestamp(t) if t else datetime.utcnow()
+            return float(lc), float(pc), d
+        # fallback: ultimos dos cierres del array
+        ts = res.get("timestamp", [])
         closes = res["indicators"]["quote"][0]["close"]
-        pairs = [(t,c) for t,c in zip(ts,closes) if c is not None]
-        if len(pairs) < 2:
-            return None
-        lc, pc = pairs[-1][1], pairs[-2][1]
-        return float(lc), float(pc), datetime.utcfromtimestamp(pairs[-1][0])
+        pairs = [(a,b) for a,b in zip(ts,closes) if b is not None]
+        if len(pairs) >= 2:
+            return float(pairs[-1][1]), float(pairs[-2][1]), datetime.utcfromtimestamp(pairs[-1][0])
+        return None
     except Exception as e:
         print(f"  [yahoo warn] {yt}: {e}", file=sys.stderr)
         return None
 
 def fetch(sym, yt):
-    """Intenta Stooq y, si falla, Yahoo."""
-    return fetch_stooq(sym) or fetch_yahoo(yt)
+    """Intraday primero (Yahoo); si falla, EOD de Stooq."""
+    return fetch_yahoo(yt) or fetch_stooq(sym)
 
 def extract_array(html, marker):
     """Extrae el literal [...] que sigue a `marker` con conteo de corchetes (respeta strings)."""
