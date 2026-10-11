@@ -58,7 +58,17 @@
   .repbtn{display:block;width:100%;margin-top:11px;text-align:center;text-decoration:none;background:var(--navy);color:#fff;font-weight:700;font-size:12px;font-family:inherit;border-radius:8px;padding:10px 12px;border:1px solid var(--navy);cursor:pointer;transition:.12s;}
   .repbtn:hover{background:#0a2d5e;}
   .repno{margin-top:11px;text-align:center;font-size:11px;color:var(--grey);background:var(--lgrey);border-radius:8px;padding:8px 10px;}
-  .closebtn{position:sticky;top:0;float:right;background:transparent;border:none;color:#fff;font-size:24px;cursor:pointer;line-height:1;}
+  #closeX{position:fixed;top:calc(env(safe-area-inset-top,0px) + 10px);right:14px;width:46px;height:46px;border:none;border-radius:50%;background:rgba(7,33,70,.92);color:#fff;font-size:28px;line-height:1;display:none;align-items:center;justify-content:center;z-index:60;cursor:pointer;box-shadow:0 2px 12px rgba(0,0,0,.4);-webkit-tap-highlight-color:transparent;}
+  .ov.show #closeX{display:flex;}
+  #closeX:active{background:#0a2d5e;transform:scale(.94);}
+  #pdfov{position:fixed;inset:0;z-index:100;background:#fff;display:none;flex-direction:column;}
+  #pdfov.show{display:flex;}
+  #pdfbar{display:flex;align-items:center;gap:10px;background:var(--navy);color:#fff;padding:calc(env(safe-area-inset-top,0px) + 9px) 12px 9px;}
+  #pdfback{background:rgba(255,255,255,.2);border:none;color:#fff;font-weight:700;font-size:14px;border-radius:8px;padding:9px 14px;cursor:pointer;-webkit-tap-highlight-color:transparent;}
+  #pdfback:active{background:rgba(255,255,255,.4);}
+  #pdftitle{font-size:12.5px;flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-weight:600;}
+  #pdfext{color:var(--aqua);font-weight:700;font-size:12px;text-decoration:none;white-space:nowrap;}
+  #pdfframe{flex:1;width:100%;border:none;background:#eceff3;}
   footer{margin-top:22px;font-size:10px;color:var(--grey);line-height:1.5;border-top:1px solid #dde3ea;padding-top:10px;}
   .tap{font-size:11px;color:var(--blue);font-weight:600;margin:10px 0 0;}
   #gate{position:fixed;inset:0;z-index:9999;background:var(--navy);display:flex;align-items:center;justify-content:center;padding:20px;}
@@ -110,7 +120,17 @@ function gchk(){var v=document.getElementById('gpw').value;if(v===PASS){try{sess
 </div>
 
 <div class="ov" id="ov" onclick="if(event.target===this)close_()">
+  <button id="closeX" onclick="close_()" aria-label="Cerrar">&times;</button>
   <div class="card"><div class="top" id="ctop"></div><div class="body" id="cbody"></div></div>
+</div>
+
+<div id="pdfov">
+  <div id="pdfbar">
+    <button id="pdfback" onclick="closepdf()">&larr; Volver</button>
+    <span id="pdftitle">Reporte</span>
+    <a id="pdfext" href="#" target="_blank" rel="noopener">Abrir ↗</a>
+  </div>
+  <iframe id="pdfframe" title="Reporte PDF"></iframe>
 </div>
 
 <script>
@@ -132,8 +152,7 @@ Object.keys(SEC).forEach(key=>{
 function open_(tk){
   const d=D.find(x=>x.tk===tk);const s=SEC[d.sec];const dc=d.dir===1?'up':(d.dir===0?'down':'flat');
   document.getElementById('ctop').innerHTML=
-    `<button class="closebtn" onclick="close_()">&times;</button>
-     <div class="sec" style="color:${s.color==='#B8912A'?'#ffd466':s.color}">${s.name}</div>
+    `<div class="sec" style="color:${s.color==='#B8912A'?'#ffd466':s.color}">${s.name}</div>
      <h3>${d.name}</h3><div class="tkr">${d.tk}</div>
      <div class="pxr"><div class="p">${d.px}</div><div class="c ${dc}">${d.ch}</div></div>`;
   let rows='';d.val.forEach(v=>{rows+=`<tr><td>${v[0]}</td><td>${v[1]}</td><td>${v[2]}</td></tr>`;});
@@ -154,16 +173,25 @@ function open_(tk){
      ${tb}
      <div class="pt"><b>Lectura / objetivo:</b> ${d.pt}</div>
      ${REP[d.tk]?`<button class="repbtn" onclick="openrep('${REP[d.tk][0]}')">📄 Ver reporte completo (PDF) — ${REP[d.tk][1]}</button>`:`<div class="repno">📄 Reporte PDF en preparación</div>`}`;
-  document.getElementById('ov').classList.add('show');document.querySelector('.card').scrollTop=0;
+  var ov=document.getElementById('ov');ov.classList.add('show');ov.scrollTop=0;document.querySelector('.card').scrollTop=0;lockScroll();
 }
+var _scy=0;
+function lockScroll(){_scy=window.scrollY||window.pageYOffset||0;document.body.style.position='fixed';document.body.style.top=(-_scy)+'px';document.body.style.left='0';document.body.style.right='0';document.body.style.width='100%';}
+function unlockScroll(){document.body.style.position='';document.body.style.top='';document.body.style.left='';document.body.style.right='';document.body.style.width='';window.scrollTo(0,_scy);}
+function isStandalone(){try{return (window.navigator.standalone===true)||(window.matchMedia&&window.matchMedia('(display-mode: standalone)').matches);}catch(e){return false;}}
 function openrep(k){
-  var a=document.createElement('a');
-  a.href=k+'.pdf'; a.target='_blank'; a.rel='noopener';
-  document.body.appendChild(a); a.click();
-  setTimeout(function(){a.remove();},500);
+  var url=k+'.pdf';
+  if(isStandalone()){showpdf(url);}
+  else{var a=document.createElement('a');a.href=url;a.target='_blank';a.rel='noopener';document.body.appendChild(a);a.click();setTimeout(function(){a.remove();},500);}
 }
-function close_(){document.getElementById('ov').classList.remove('show');}
-document.addEventListener('keydown',e=>{if(e.key==='Escape')close_();});
+function showpdf(url){
+  document.getElementById('pdfext').href=url;
+  document.getElementById('pdfframe').src=url;
+  document.getElementById('pdfov').classList.add('show');
+}
+function closepdf(){var p=document.getElementById('pdfov');p.classList.remove('show');document.getElementById('pdfframe').src='about:blank';}
+function close_(){document.getElementById('ov').classList.remove('show');unlockScroll();}
+document.addEventListener('keydown',e=>{if(e.key==='Escape'){if(document.getElementById('pdfov').classList.contains('show'))closepdf();else close_();}});
 </script>
 </body>
 </html>
