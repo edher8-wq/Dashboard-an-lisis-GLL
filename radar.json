@@ -25,6 +25,14 @@
     "d": "9-oct",
     "u": "https://www.sec.gov/Archives/edgar/data/753308/000200604126000006/0002006041-26-000006-index.htm"
    }
+  ],
+  "LDOS": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "9-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1336920/000133692026000287/0001336920-26-000287-index.htm"
+   }
   ]
  }
 }
