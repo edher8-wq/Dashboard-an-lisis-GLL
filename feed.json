@@ -1,11 +1,17 @@
 {
- "updated": "9-oct",
- "note": "Semilla inicial (research de reportes). Se refresca a diario.",
+ "updated": "12-oct",
+ "note": "Refresco diario. Jornada 12-oct: Dow al alza, Nasdaq a la baja por ventas en semiconductores/memoria e IA (SanDisk -6%, Samsung/SK Hynix -4%, Kospi -3.6%); META sube con el lanzamiento de su modelo 'Muse Wonder'. Las emisoras sin novedad conservan su research previo.",
  "tickers": {
   "NVDA": {
    "trend": "'$2 billones de backlog', capex hyperscalers 2027 ~$1.3T, debate 'pico vs sigue'",
    "peak": "Días de earnings (beat & raise, guía 3T $108 bn)",
    "news": [
+    {
+     "t": "Retrocede ~1.3% a $226.32 en una jornada de ventas en semiconductores/IA (la memoria arrastra al Nasdaq)",
+     "s": "The Motley Fool",
+     "d": "12-oct",
+     "u": "https://fool.com/coverage/stock-market-today/2026/10/12/stock-market-today-oct-12-dow-gains-as-memory-stocks-weigh-on-nasdaq"
+    },
     {
      "t": "Backlog de ~$2 billones y capex de hyperscalers 2027 ~$1.3T (revelado por la CFO)",
      "s": "earnings call"
@@ -16,6 +22,12 @@
    "trend": "run-up al 3T (15-oct), 'N2/2nm', capacidad reservada, lectura cruzada con superciclo de memoria",
    "peak": "Días de earnings",
    "news": [
+    {
+     "t": "Ingresos 3T récord: T$1.49 bill. (~$46.7 bn), +50% interanual, por encima del consenso; call de resultados el 15-oct",
+     "s": "Reuters / The Star",
+     "d": "8-oct",
+     "u": "https://www.thestar.com.my/tech/tech-news/2026/10/08/tsmc039s-third-quarter-revenue-surges-to-record-beating-market-forecast"
+    },
     {
      "t": "2T récord, guía 2026 >40%, +100 bn en Arizona, dividendo +33%",
      "s": "IR"
@@ -83,9 +95,15 @@
    ]
   },
   "SNDK": {
-   "trend": "'NAND shortage', 'SSD pricing', cruce con Micron/Samsung/SK Hynix",
+   "trend": "'NAND shortage', 'SSD pricing', jornada de ventas por temores de competencia en memoria; cruce con Micron/Samsung/SK Hynix",
    "peak": "Reportes de pricing de memoria",
    "news": [
+    {
+     "t": "Cae ~6% por temores de competencia en memoria; Samsung y SK Hynix -4% y el Kospi -3.6%",
+     "s": "Benzinga",
+     "d": "12-oct",
+     "u": "https://www.benzinga.com/markets/market-summary/26/10/62306422/nasdaq-100-falls-sandisk-tumbles-6-percent-ai-trade-falters-markets-monday"
+    },
     {
      "t": "Beat monstruoso (+372%, GM 84.6%), buyback $14 bn, backlog $93.9 bn",
      "s": "IR"
@@ -143,9 +161,15 @@
    ]
   },
   "META": {
-   "trend": "'Meta superintelligence', 'AI talent war', 'capex', debate ROI del gasto",
+   "trend": "'Meta superintelligence', lanzamiento del modelo 'Muse Wonder', 'AI talent war', 'capex', debate ROI del gasto",
    "peak": "Fichajes de IA y guía de capex",
    "news": [
+    {
+     "t": "Sube ~3.4% a $742.96 tras lanzar su nuevo modelo de IA 'Muse Wonder'",
+     "s": "The Motley Fool",
+     "d": "12-oct",
+     "u": "https://www.benzinga.com/markets/market-summary/26/10/62306422/nasdaq-100-falls-sandisk-tumbles-6-percent-ai-trade-falters-markets-monday"
+    },
     {
      "t": "Superclusters Prometheus/Hyperion y Superintelligence Labs (A. Wang); capex 2026 muy al alza",
      "s": "prensa"
@@ -336,6 +360,12 @@
    "trend": "'Bloom Energy data center', 'fuel cells', 'on-site power'",
    "peak": "Cada anuncio de acuerdo",
    "news": [
+    {
+     "t": "Cae ~6.9% por toma de ganancias tras su fuerte run-up reciente",
+     "s": "EconCurrents",
+     "d": "12-oct",
+     "u": "https://econcurrents.substack.com/p/12-october-2026-market-close-and"
+    },
     {
      "t": "Ingresos +165%; Brookfield amplió alianza de $5 bn a $25 bn; energía on-site en meses",
      "s": "IR"

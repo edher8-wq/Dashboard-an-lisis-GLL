@@ -1,1 +1,83 @@
-{"updated":"-","source":"IBKR opciones + social + analistas","tickers":{}}
+{
+ "updated": "12-oct",
+ "source": "IBKR opciones + social + analistas",
+ "tickers": {
+  "GOOGL": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 36% vs HV 28% (ratio 1.32) — salto de volatilidad (evento/earnings próximos)",
+    "d": "12-oct"
+   }
+  ],
+  "AMZN": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 39% vs HV 25% (ratio 1.55) — fuerte salto de volatilidad (earnings próximos)",
+    "d": "12-oct"
+   }
+  ],
+  "PLTR": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 56% vs HV 42% (ratio 1.34) — salto de volatilidad (earnings próximos)",
+    "d": "12-oct"
+   }
+  ],
+  "APP": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 73% vs HV 53% (ratio 1.39) — salto de volatilidad",
+    "d": "12-oct"
+   }
+  ],
+  "UPST": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 78% vs HV 48% (ratio 1.61) — fuerte salto de volatilidad",
+    "d": "12-oct"
+   }
+  ],
+  "UBER": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 41% vs HV 26% (ratio 1.58) — salto de volatilidad (earnings próximos)",
+    "d": "12-oct"
+   }
+  ],
+  "WYFI": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 110% vs HV 75% (ratio 1.46) — volatilidad extrema (nombre pequeño, muy sensible a noticias)",
+    "d": "12-oct"
+   }
+  ],
+  "FSLR": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 61% vs HV 43% (ratio 1.41) + volumen de calls 1.8x su promedio — sesgo alcista/evento",
+    "d": "12-oct"
+   }
+  ],
+  "NEE": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 24% vs HV 16% (ratio 1.50) — salto de volatilidad relativo (nombre defensivo)",
+    "d": "12-oct"
+   }
+  ],
+  "HIMS": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 81% vs HV 59% (ratio 1.38) — salto de volatilidad",
+    "d": "12-oct"
+   }
+  ],
+  "SLS": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 132% vs HV 74% (ratio 1.79) — volatilidad extrema (catalizador binario clínico próximo)",
+    "d": "12-oct"
+   }
+  ]
+ }
+}
