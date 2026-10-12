@@ -58,6 +58,22 @@
   .rd{margin-top:9px;font-size:11.5px;line-height:1.4;background:#FDECEC;border:1px solid #E6A9A9;border-radius:8px;padding:7px 10px;}
   .rd b{color:var(--navy);}
   .rtag{display:inline-block;background:var(--red);color:#fff;font-size:9px;font-weight:700;border-radius:4px;padding:1px 5px;margin-right:4px;vertical-align:middle;}
+  .layout{display:flex;gap:14px;align-items:flex-start;margin-top:6px;}
+  .maincol{flex:1;min-width:0;}
+  #market{flex:0 0 184px;background:#fff;border-radius:10px;box-shadow:0 1px 3px rgba(0,0,0,.08);padding:10px;position:sticky;top:10px;}
+  .mkt-h{font-size:12px;font-weight:800;color:var(--navy);margin-bottom:8px;display:flex;justify-content:space-between;align-items:center;gap:6px;}
+  .mkt-h span{font-size:10px;font-weight:600;color:var(--grey);}
+  .mtile{border:1px solid #e7ebf0;border-left:4px solid var(--blue);border-radius:8px;padding:7px 9px;margin-bottom:7px;}
+  .mtile:last-child{margin-bottom:0;}
+  .mtile .mn{font-size:11px;font-weight:700;color:var(--navy);}
+  .mtile .mv{font-size:15px;font-weight:800;margin-top:1px;}
+  .mtile .mc{font-size:10.5px;margin-top:1px;font-weight:700;}
+  @media(max-width:860px){
+    .layout{flex-direction:column;}
+    #market{position:static;flex:none;width:100%;}
+    #mkttiles{display:flex;gap:8px;overflow-x:auto;-webkit-overflow-scrolling:touch;padding-bottom:3px;}
+    .mtile{flex:0 0 auto;min-width:118px;margin-bottom:0;}
+  }
   .chip{position:relative;}
   .chip.rad::after{content:'';position:absolute;top:6px;right:6px;width:8px;height:8px;border-radius:50%;background:var(--red);box-shadow:0 0 0 2px #fff;}
   .repbtn{display:block;width:100%;margin-top:11px;text-align:center;text-decoration:none;background:var(--navy);color:#fff;font-weight:700;font-size:12px;font-family:inherit;border-radius:8px;padding:10px 12px;border:1px solid var(--navy);cursor:pointer;transition:.12s;}
@@ -117,8 +133,16 @@ function gchk(){var v=document.getElementById('gpw').value;if(v===PASS){try{sess
 </header>
 <div class="wrap">
   <p class="tap">▸ Toca cualquier ticker para ver precio, métricas, valuaciones interpretadas, resumen y el enlace al <b>reporte completo en PDF</b>.</p>
-  <div class="legend" id="legend"></div>
-  <div id="sectors"></div>
+  <div class="layout">
+    <aside id="market">
+      <div class="mkt-h">Mercados <span id="mktas">cargando…</span></div>
+      <div id="mkttiles"></div>
+    </aside>
+    <div class="maincol">
+      <div class="legend" id="legend"></div>
+      <div id="sectors"></div>
+    </div>
+  </div>
   <footer>
     <b>Aviso.</b> Documento de análisis interno de Análisis de Acciones GLL. No constituye asesoría de inversión, recomendación de compra o venta, ni oferta de valores. Precios al cierre del 9-oct-2026. Las emisoras sin utilidad presentan múltiplos distorsionados, interpretados como tales en su ficha.
   </footer>
@@ -158,6 +182,26 @@ Object.keys(SEC).forEach(key=>{
       <div class="tk">${d.tk}</div><div class="px">${d.px}</div><div class="ch ${dc}">${d.ch}</div></div>`;});
   host.innerHTML+=`<div class="sector"><h2 style="background:${s.color}">${s.name}<small>${items.length} emisoras</small></h2><div class="chips">${chips}</div></div>`;
 });
+const MKT=[{sym:"^IXIC",n:"Nasdaq"},{sym:"^NDX",n:"Nasdaq 100"},{sym:"^GSPC",n:"S&P 500"},{sym:"SOXX",n:"SOXX"},{sym:"BTC-USD",n:"BTC/USD"}];
+(function(){var el=document.getElementById('mkttiles');if(!el)return;
+  el.innerHTML=MKT.map(function(m){return '<div class="mtile" data-sym="'+m.sym+'"><div class="mn">'+m.n+'</div><div class="mv">—</div><div class="mc flat">—</div></div>';}).join('');})();
+function fmtLvl(v){return Number(v).toLocaleString('en-US',{maximumFractionDigits:2});}
+async function liveMarket(){
+  try{
+    var r=await fetch('/.netlify/functions/indices');
+    if(!r.ok)return;
+    var j=await r.json();var any=false;
+    MKT.forEach(function(m){
+      var q=j[m.sym];if(!q||typeof q.px!=='number')return;any=true;
+      var dc=q.dp>0?'up':(q.dp<0?'down':'flat');
+      var t=document.querySelector('.mtile[data-sym="'+m.sym+'"]');
+      if(t){t.querySelector('.mv').textContent=fmtLvl(q.px);
+        var c=t.querySelector('.mc');c.textContent=(q.dp>=0?'+':'')+Number(q.dp).toFixed(2)+'%';c.className='mc '+dc;
+        t.style.borderLeftColor=q.dp>0?'#0F7B44':(q.dp<0?'#B02A2A':'#1464A5');}
+    });
+    var el=document.getElementById('mktas');if(el)el.textContent=any?'· en vivo':'· n/d';
+  }catch(e){}
+}
 function open_(tk){
   const d=D.find(x=>x.tk===tk);const s=SEC[d.sec];const dc=d.dir===1?'up':(d.dir===0?'down':'flat');
   document.getElementById('ctop').innerHTML=
@@ -259,9 +303,9 @@ async function liveQuotes(){
 function startLive(){
   if(window._liveStarted)return;window._liveStarted=true;
   setPxStatus('⏳ Cargando precios en vivo…');
-  liveQuotes();
-  setInterval(function(){if(document.visibilityState==='visible')liveQuotes();},60000);
-  document.addEventListener('visibilitychange',function(){if(document.visibilityState==='visible')liveQuotes();});
+  liveQuotes();liveMarket();
+  setInterval(function(){if(document.visibilityState==='visible'){liveQuotes();liveMarket();}},60000);
+  document.addEventListener('visibilitychange',function(){if(document.visibilityState==='visible'){liveQuotes();liveMarket();}});
 }
 (function(){
   var g=document.getElementById('gate');
