@@ -29,19 +29,22 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Actualizar precios (Stooq)
+      - name: Actualizar precios (Stooq/Yahoo)
         run: python build.py
+
+      - name: Radar SEC EDGAR (8-K / Form 4 / 13D)
+        run: python radar_edgar.py || true
 
       - name: Commit si hubo cambios
         run: |
-          git config user.name "GLL price bot"
+          git config user.name "GLL bot"
           git config user.email "actions@users.noreply.github.com"
-          if ! git diff --quiet -- index.html; then
-            git add index.html
-            git commit -m "Precios ($(date -u +%Y-%m-%d\ %H:%MZ)) — actualizacion automatica"
+          git add index.html radar.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto ($(date -u +%Y-%m-%d\ %H:%MZ)): precios + radar SEC"
             git pull --rebase origin main || true
             git push
-            echo "Precios actualizados y publicados."
+            echo "Publicado."
           else
-            echo "Sin cambios de precio; nada que publicar."
+            echo "Sin cambios; nada que publicar."
           fi
