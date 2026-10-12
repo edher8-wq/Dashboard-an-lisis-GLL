@@ -36,7 +36,7 @@ function resp(code, obj) {
 
 function get(url) {
   return new Promise((resolve, reject) => {
-    const req = https.get(url, { timeout: 8000 }, (r) => {
+    const req = https.get(url, { timeout: 8000, headers: { "User-Agent": "mercadosgll/1.0", "Accept": "application/json" } }, (r) => {
       let d = "";
       r.on("data", (c) => (d += c));
       r.on("end", () => resolve(d));
