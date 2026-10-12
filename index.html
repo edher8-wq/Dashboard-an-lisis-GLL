@@ -209,9 +209,8 @@ function closepdf(){var p=document.getElementById('pdfov');p.classList.remove('s
 function close_(){document.getElementById('ov').classList.remove('show');unlockScroll();}
 document.addEventListener('keydown',e=>{if(e.key==='Escape'){if(document.getElementById('pdfov').classList.contains('show'))closepdf();else close_();}});
 
-/* ====== Precios en vivo (Finnhub, client-side) ====== */
-const FINNHUB_KEY="db6he59r01qspnlc0130db6he59r01qspnlc013g";
-const SKIP_LIVE={"005930":1}; /* Samsung (KRX): no está en Finnhub free → se queda al cierre */
+/* ====== Precios en vivo (vía función serverless de Netlify; la API key vive en el servidor) ====== */
+const SKIP_LIVE={"005930":1}; /* Samsung (KRX): no cotiza en la fuente → se queda al cierre */
 function fmtPx(c){return '$'+Number(c).toLocaleString('en-US',{minimumFractionDigits:2,maximumFractionDigits:2});}
 function fmtCh(dp){return (dp>=0?'+':'')+Number(dp).toFixed(1)+'%';}
 function applyQuote(tk,c,dp){
@@ -241,7 +240,7 @@ async function liveQuotes(){
       var slice=syms.slice(i,i+BATCH);
       await Promise.all(slice.map(async function(tk){
         try{
-          var r=await fetch('https://finnhub.io/api/v1/quote?symbol='+encodeURIComponent(tk)+'&token='+FINNHUB_KEY);
+          var r=await fetch('/.netlify/functions/quote?symbol='+encodeURIComponent(tk));
           if(!r.ok)return;
           var j=await r.json();
           if(j&&typeof j.c==='number'&&j.c>0){applyQuote(tk,j.c,typeof j.dp==='number'?j.dp:0);ok++;}
@@ -251,7 +250,7 @@ async function liveQuotes(){
     }
     if(ok>0){
       var now=new Date(),hh=('0'+now.getHours()).slice(-2),mm=('0'+now.getMinutes()).slice(-2);
-      setPxStatus('🟢 En vivo · '+hh+':'+mm+' (Finnhub) · Samsung al cierre');
+      setPxStatus('🟢 En vivo · '+hh+':'+mm+' · Samsung al cierre');
     }
   }finally{_liveBusy=false;}
 }
