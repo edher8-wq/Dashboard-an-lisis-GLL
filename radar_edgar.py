@@ -16,7 +16,8 @@ MES = ["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"]
 # Emisoras del tablero (US). Samsung (005930) excluida: coreana, no reporta a la SEC.
 TICKERS = ["AMZN","GOOGL","MSFT","META","NVDA","TSM","ASML","AMD","MRVL","INTC","MU",
  "SNDK","WDC","CRWV","IREN","SPCX","WYFI","PLTR","NOW","APP","UPST","PYPL","COIN","MSTR",
- "UBER","CEG","VST","GEV","ETN","VRT","CAT","BE","NEE","FSLR","CCJ","OKLO","SMR","HIMS","SLS","HD"]
+ "UBER","CEG","VST","GEV","ETN","VRT","CAT","BE","NEE","FSLR","CCJ","OKLO","SMR","HIMS","SLS","HD",
+ "LDOS","MMS","LUMN"]
 
 # Items de un 8-K -> que significan (los que mas mueven precio)
 ITEMS = {
