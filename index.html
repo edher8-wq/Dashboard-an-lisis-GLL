@@ -248,14 +248,17 @@ async function liveQuotes(){
       }));
       if(i+BATCH<syms.length)await new Promise(function(res){setTimeout(res,1100);});
     }
+    var now=new Date(),hh=('0'+now.getHours()).slice(-2),mm=('0'+now.getMinutes()).slice(-2);
     if(ok>0){
-      var now=new Date(),hh=('0'+now.getHours()).slice(-2),mm=('0'+now.getMinutes()).slice(-2);
       setPxStatus('🟢 En vivo · '+hh+':'+mm+' · Samsung al cierre');
+    }else{
+      setPxStatus('⚠️ En vivo no disponible ('+hh+':'+mm+') · mostrando último precio');
     }
   }finally{_liveBusy=false;}
 }
 function startLive(){
   if(window._liveStarted)return;window._liveStarted=true;
+  setPxStatus('⏳ Cargando precios en vivo…');
   liveQuotes();
   setInterval(function(){if(document.visibilityState==='visible')liveQuotes();},60000);
   document.addEventListener('visibilitychange',function(){if(document.visibilityState==='visible')liveQuotes();});
