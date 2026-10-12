@@ -108,8 +108,8 @@ function gchk(){var v=document.getElementById('gpw').value;if(v===PASS){try{sess
   <h1>Cuadro de exposición — Asset Allocation</h1>
   <p>Universo de cobertura por sector · Toca una emisora para abrir su ficha</p>
   <div class="ctx">
-    <span>Precios al cierre del 9-oct-2026 (viernes)</span>
-    <span>Variación = cambio del día (9-oct)</span>
+    <span id="pxstatus">Precios al cierre del 9-oct-2026 (viernes)</span>
+    <span>Variación = cambio del día</span>
     <span>41 emisoras · 8 sectores</span>
     <span>Actualizado: 10-oct-2026</span>
     <span>T = billón (trillion) · B = mil millones</span>
@@ -208,6 +208,67 @@ function showpdf(url){
 function closepdf(){var p=document.getElementById('pdfov');p.classList.remove('show');document.getElementById('pdfframe').src='about:blank';}
 function close_(){document.getElementById('ov').classList.remove('show');unlockScroll();}
 document.addEventListener('keydown',e=>{if(e.key==='Escape'){if(document.getElementById('pdfov').classList.contains('show'))closepdf();else close_();}});
+
+/* ====== Precios en vivo (Finnhub, client-side) ====== */
+const FINNHUB_KEY="db6he59r01qspnlc0130db6he59r01qspnlc013g";
+const SKIP_LIVE={"005930":1}; /* Samsung (KRX): no está en Finnhub free → se queda al cierre */
+function fmtPx(c){return '$'+Number(c).toLocaleString('en-US',{minimumFractionDigits:2,maximumFractionDigits:2});}
+function fmtCh(dp){return (dp>=0?'+':'')+Number(dp).toFixed(1)+'%';}
+function applyQuote(tk,c,dp){
+  const d=D.find(x=>x.tk===tk);if(!d)return;
+  d.px=fmtPx(c);d.ch=fmtCh(dp);d.dir=dp>0?1:(dp<0?-1:0);
+  const dc=d.dir===1?'up':(d.dir===-1?'flat':'down');
+  const chip=document.querySelector('.chip[data-tk="'+tk+'"]');
+  if(chip){var px=chip.querySelector('.px');if(px)px.textContent=d.px;
+    var ch=chip.querySelector('.ch');if(ch){ch.textContent=d.ch;ch.className='ch '+dc;}}
+  var ov=document.getElementById('ov');
+  if(ov&&ov.classList.contains('show')){
+    var tkr=document.querySelector('#ctop .tkr');
+    if(tkr&&tkr.textContent===tk){
+      var p=document.querySelector('#ctop .pxr .p');if(p)p.textContent=d.px;
+      var cc=document.querySelector('#ctop .pxr .c');if(cc){cc.textContent=d.ch;cc.className='c '+dc;}
+    }
+  }
+}
+function setPxStatus(t){var el=document.getElementById('pxstatus');if(el)el.textContent=t;}
+var _liveBusy=false;
+async function liveQuotes(){
+  if(_liveBusy)return;_liveBusy=true;
+  try{
+    var syms=D.map(function(d){return d.tk;}).filter(function(tk){return !SKIP_LIVE[tk];});
+    var ok=0,BATCH=8;
+    for(var i=0;i<syms.length;i+=BATCH){
+      var slice=syms.slice(i,i+BATCH);
+      await Promise.all(slice.map(async function(tk){
+        try{
+          var r=await fetch('https://finnhub.io/api/v1/quote?symbol='+encodeURIComponent(tk)+'&token='+FINNHUB_KEY);
+          if(!r.ok)return;
+          var j=await r.json();
+          if(j&&typeof j.c==='number'&&j.c>0){applyQuote(tk,j.c,typeof j.dp==='number'?j.dp:0);ok++;}
+        }catch(e){}
+      }));
+      if(i+BATCH<syms.length)await new Promise(function(res){setTimeout(res,1100);});
+    }
+    if(ok>0){
+      var now=new Date(),hh=('0'+now.getHours()).slice(-2),mm=('0'+now.getMinutes()).slice(-2);
+      setPxStatus('🟢 En vivo · '+hh+':'+mm+' (Finnhub) · Samsung al cierre');
+    }
+  }finally{_liveBusy=false;}
+}
+function startLive(){
+  if(window._liveStarted)return;window._liveStarted=true;
+  liveQuotes();
+  setInterval(function(){if(document.visibilityState==='visible')liveQuotes();},60000);
+  document.addEventListener('visibilitychange',function(){if(document.visibilityState==='visible')liveQuotes();});
+}
+(function(){
+  var g=document.getElementById('gate');
+  if(!g||g.classList.contains('hide')){startLive();}
+  else{
+    var mo=new MutationObserver(function(){if(g.classList.contains('hide')){startLive();mo.disconnect();}});
+    mo.observe(g,{attributes:true,attributeFilter:['class']});
+  }
+})();
 </script>
 </body>
 </html>
