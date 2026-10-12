@@ -251,8 +251,9 @@ var _scy=0;
 function lockScroll(){_scy=window.scrollY||window.pageYOffset||0;document.body.style.position='fixed';document.body.style.top=(-_scy)+'px';document.body.style.left='0';document.body.style.right='0';document.body.style.width='100%';}
 function unlockScroll(){document.body.style.position='';document.body.style.top='';document.body.style.left='';document.body.style.right='';document.body.style.width='';window.scrollTo(0,_scy);}
 function isStandalone(){try{return (window.navigator.standalone===true)||(window.matchMedia&&window.matchMedia('(display-mode: standalone)').matches);}catch(e){return false;}}
+var PDFVER="20261012b";
 function openrep(k){
-  var url=k+'.pdf';
+  var url=k+'.pdf?v='+PDFVER;
   if(isStandalone()){showpdf(url);}
   else{var a=document.createElement('a');a.href=url;a.target='_blank';a.rel='noopener';document.body.appendChild(a);a.click();setTimeout(function(){a.remove();},500);}
 }
