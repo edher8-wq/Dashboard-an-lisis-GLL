@@ -144,9 +144,10 @@ const D=[{"tk": "AMZN", "sec": "hiper", "name": "Amazon.com", "px": "$262.43", "
 const REP={"AMZN": ["amzn", "Amazon — Reporte ampliado (9-oct)"], "GOOGL": ["googl", "Alphabet — Reporte ampliado (9-oct)"], "MSFT": ["msft", "Microsoft — Reporte ampliado (9-oct)"], "META": ["meta", "Meta — Reporte ampliado (9-oct)"], "NVDA": ["nvda", "NVIDIA — Reporte ampliado (9-oct)"], "TSM": ["tsm", "TSMC — Reporte ampliado (9-oct)"], "ASML": ["asml", "ASML — Reporte ampliado (9-oct)"], "AMD": ["amd", "AMD — Reporte ampliado (9-oct)"], "MRVL": ["mrvl", "Marvell — Reporte ampliado (9-oct)"], "INTC": ["intc", "Intel — Reporte ampliado (9-oct)"], "005930": ["samsung", "Samsung — Reporte ampliado (9-oct)"], "MU": ["mu", "Micron — Reporte ampliado (9-oct)"], "SNDK": ["sndk", "Sandisk — Reporte ampliado (9-oct)"], "WDC": ["wdc", "Western Digital — Reporte ampliado (9-oct)"], "CRWV": ["crwv", "CoreWeave — Reporte ampliado (9-oct)"], "IREN": ["iren", "IREN — Reporte ampliado (9-oct)"], "SPCX": ["spcx", "SpaceX — Reporte ampliado (9-oct)"], "WYFI": ["wyfi", "WhiteFiber — Reporte ampliado (9-oct)"], "PLTR": ["pltr", "Palantir — Reporte ampliado (9-oct)"], "NOW": ["now", "ServiceNow — Reporte ampliado (9-oct)"], "APP": ["app", "AppLovin — Reporte ampliado (9-oct)"], "UPST": ["upst", "Upstart — Reporte ampliado (9-oct)"], "PYPL": ["pypl", "PayPal — Reporte ampliado (9-oct)"], "COIN": ["coin", "Coinbase — Reporte ampliado (9-oct)"], "MSTR": ["mstr", "Strategy — Reporte ampliado (9-oct)"], "UBER": ["uber", "Uber — Reporte ampliado (9-oct)"], "CEG": ["ceg", "Constellation — Reporte ampliado (9-oct)"], "VST": ["vst", "Vistra — Reporte ampliado (9-oct)"], "GEV": ["gev", "GE Vernova — Reporte ampliado (9-oct)"], "ETN": ["etn", "Eaton — Reporte ampliado (9-oct)"], "VRT": ["vrt", "Vertiv — Reporte ampliado (9-oct)"], "CAT": ["cat", "Caterpillar — Reporte ampliado (9-oct)"], "BE": ["be", "Bloom Energy — Reporte ampliado (9-oct)"], "NEE": ["nee", "NextEra — Reporte ampliado (9-oct)"], "FSLR": ["fslr", "First Solar — Reporte ampliado (9-oct)"], "CCJ": ["ccj", "Cameco — Reporte ampliado (9-oct)"], "OKLO": ["oklo", "Oklo — Reporte ampliado (9-oct)"], "SMR": ["smr", "NuScale — Reporte ampliado (9-oct)"], "HIMS": ["hims", "Hims & Hers — Reporte ampliado (9-oct)"], "SLS": ["sls", "Sellas — Reporte ampliado (9-oct)"], "HD": ["hd", "Home Depot — Reporte ampliado (9-oct)"]};
 window.FEED={};window.FEEDAS='';
 fetch('feed.json?_='+Date.now()).then(r=>r.ok?r.json():null).then(j=>{if(j){window.FEED=j.tickers||{};window.FEEDAS=j.updated||'';}}).catch(()=>{});
-window.RADAR={};
-function markRadar(){try{Object.keys(window.RADAR).forEach(function(tk){var c=document.querySelector('.chip[data-tk="'+tk+'"]');if(c)c.classList.add('rad');});}catch(e){}}
+window.RADAR={};window.RADAR2={};
+function markRadar(){try{var ks={};Object.keys(window.RADAR||{}).forEach(function(k){ks[k]=1;});Object.keys(window.RADAR2||{}).forEach(function(k){ks[k]=1;});Object.keys(ks).forEach(function(tk){var c=document.querySelector('.chip[data-tk="'+tk+'"]');if(c)c.classList.add('rad');});}catch(e){}}
 fetch('radar.json?_='+Date.now()).then(r=>r.ok?r.json():null).then(j=>{if(j){window.RADAR=j.tickers||{};markRadar();}}).catch(()=>{});
+fetch('radar_daily.json?_='+Date.now()).then(r=>r.ok?r.json():null).then(j=>{if(j){window.RADAR2=j.tickers||{};markRadar();}}).catch(()=>{});
 const lg=document.getElementById('legend');
 Object.values(SEC).forEach(s=>{lg.innerHTML+=`<div><i style="background:${s.color}"></i>${s.name}</div>`;});
 const host=document.getElementById('sectors');
@@ -173,10 +174,10 @@ function open_(tk){
   if(f&&(f.trend||f.peak)){
     tb=`<div class="tr"><b>🔥 Trending redes (10 días):</b> ${f.trend||'—'}${f.peak?`<br><b>⭐ Día pico:</b> ${f.peak}`:''}</div>`;
   } else if(d.trend){ tb=`<div class="tr"><b>🔥 Tendencia en redes (10 días):</b> ${d.trend}</div>`; }
-  const rs=(window.RADAR||{})[tk]||null;
+  const rs=[].concat((window.RADAR||{})[tk]||[],(window.RADAR2||{})[tk]||[]);
   let rb='';
-  if(rs&&rs.length){
-    rb=`<div class="rd"><b>🛰️ Radar SEC (últimos 3 días):</b><ul style="margin:5px 0 0 15px;padding:0">`+
+  if(rs.length){
+    rb=`<div class="rd"><b>🛰️ Radar (filings SEC + opciones/social/analistas):</b><ul style="margin:5px 0 0 15px;padding:0">`+
        rs.map(x=>`<li style="margin:2px 0"><span class="rtag">${x.type}</span>${x.u?`<a href="${x.u}" target="_blank" rel="noopener" style="color:inherit;text-decoration:underline">${x.t}</a>`:x.t} <small style="opacity:.65">· ${x.d}</small></li>`).join('')+`</ul></div>`;
   }
   document.getElementById('cbody').innerHTML=
