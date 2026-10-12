@@ -202,6 +202,18 @@ async function liveMarket(){
     var el=document.getElementById('mktas');if(el)el.textContent=any?'· en vivo':'· n/d';
   }catch(e){}
 }
+async function liveOpenTicker(){
+  try{
+    var ov=document.getElementById('ov');
+    if(!ov||!ov.classList.contains('show'))return;
+    var tkr=document.querySelector('#ctop .tkr');if(!tkr)return;
+    var tk=tkr.textContent.trim();if(!tk||SKIP_LIVE[tk])return;
+    var r=await fetch('/.netlify/functions/quote?symbol='+encodeURIComponent(tk));
+    if(!r.ok)return;
+    var j=await r.json();
+    if(j&&typeof j.c==='number'&&j.c>0)applyQuote(tk,j.c,typeof j.dp==='number'?j.dp:0);
+  }catch(e){}
+}
 function open_(tk){
   const d=D.find(x=>x.tk===tk);const s=SEC[d.sec];const dc=d.dir===1?'up':(d.dir===0?'down':'flat');
   document.getElementById('ctop').innerHTML=
@@ -304,7 +316,9 @@ function startLive(){
   if(window._liveStarted)return;window._liveStarted=true;
   setPxStatus('⏳ Cargando precios en vivo…');
   liveQuotes();liveMarket();
-  setInterval(function(){if(document.visibilityState==='visible'){liveQuotes();liveMarket();}},60000);
+  setInterval(function(){if(document.visibilityState==='visible')liveQuotes();},45000);     /* parrilla completa: 45s (tope plan gratis Finnhub, 60 llamadas/min) */
+  setInterval(function(){if(document.visibilityState==='visible')liveMarket();},15000);      /* índices + BTC (Yahoo): 15s */
+  setInterval(function(){if(document.visibilityState==='visible')liveOpenTicker();},15000);  /* ficha abierta: 15s */
   document.addEventListener('visibilitychange',function(){if(document.visibilityState==='visible'){liveQuotes();liveMarket();}});
 }
 (function(){
