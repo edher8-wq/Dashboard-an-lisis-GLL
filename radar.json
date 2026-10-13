@@ -1,5 +1,14 @@
 {
  "updated": "13-oct",
  "source": "SEC EDGAR",
- "tickers": {}
+ "tickers": {
+  "MSTR": [
+   {
+    "type": "8-K",
+    "t": "8-K: Regulation FD (divulgacion); Otros eventos relevantes; Estados financieros/anexos",
+    "d": "13-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526419726/0001193125-26-419726-index.htm"
+   }
+  ]
+ }
 }
