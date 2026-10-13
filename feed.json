@@ -1,6 +1,6 @@
 {
- "updated": "12-oct",
- "note": "Refresco diario. Jornada 12-oct: Dow al alza, Nasdaq a la baja por ventas en semiconductores/memoria e IA (SanDisk -6%, Samsung/SK Hynix -4%, Kospi -3.6%); META sube con el lanzamiento de su modelo 'Muse Wonder'. Las emisoras sin novedad conservan su research previo.",
+ "updated": "13-oct",
+ "note": "Refresco diario. Jornada 13-oct (martes): índices a la baja (Dow -0.35%, S&P ~plano, Nasdaq -0.15%) por un nuevo selloff de memoria tras avances de la china CXMT en memoria más eficiente (Micron -5%, Samsung -7%, SK Hynix -4%, WDC -8%; Kospi >-5%); arranque mixto de resultados bancarios (JPMorgan falló EPS, Goldman batió). En la mira: datos de inflación y resultados de TSMC el 15-oct. Las emisoras sin novedad conservan su research previo.",
  "tickers": {
   "NVDA": {
    "trend": "'$2 billones de backlog', capex hyperscalers 2027 ~$1.3T, debate 'pico vs sigue'",
@@ -79,6 +79,12 @@
    "peak": "Preliminar del 8-oct (titular global)",
    "news": [
     {
+     "t": "Cae ~7.4% en el selloff de memoria por los avances de CXMT; el Kospi retrocede más de 5%",
+     "s": "TheStreet",
+     "d": "13-oct",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-13-2026"
+    },
+    {
      "t": "3T preliminar récord: supera 100 bill. de won de utilidad operativa; HBM4 calificado para Vera Rubin/MI455X",
      "s": "prensa"
     }
@@ -88,6 +94,12 @@
    "trend": "'superciclo', 'HBM sold out', debate 'pico de ciclo vs estructural'",
    "peak": "Reporte (sep): blowout con reacción muda",
    "news": [
+    {
+     "t": "Cae ~5.2% por temores de competencia tras avances de la china CXMT en un diseño de memoria más eficiente",
+     "s": "TheStreet",
+     "d": "13-oct",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-13-2026"
+    },
     {
      "t": "Guía 1T $61.5 bn aplasta consenso; margen bruto en los 80s%",
      "s": "IR"
@@ -114,6 +126,12 @@
    "trend": "'HDD comeback', 'nearline demand', 'HAMR', cruce con Seagate",
    "peak": "Upgrades de analistas y datos de pricing",
    "news": [
+    {
+     "t": "Cae ~7.7% tras recorte de PT de UBS a $470; arrastrada por el selloff de memoria/almacenamiento (avances de CXMT en China)",
+     "s": "TheStreet",
+     "d": "13-oct",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-13-2026"
+    },
     {
      "t": "Beat & raise en HDD nearline para IA; roadmap HAMR >100TB",
      "s": "IR"
