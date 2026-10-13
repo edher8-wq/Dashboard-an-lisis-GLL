@@ -2,12 +2,34 @@
  "updated": "13-oct",
  "source": "SEC EDGAR",
  "tickers": {
+  "NVDA": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "13-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1045810/000215218826000007/0002152188-26-000007-index.htm"
+   }
+  ],
   "MSTR": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "13-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526420388/0001193125-26-420388-index.htm"
+   },
    {
     "type": "8-K",
     "t": "8-K: Regulation FD (divulgacion); Otros eventos relevantes; Estados financieros/anexos",
     "d": "13-oct",
     "u": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526419726/0001193125-26-419726-index.htm"
+   }
+  ],
+  "OKLO": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "13-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1849056/000214679026000019/0002146790-26-000019-index.htm"
    }
   ]
  }
