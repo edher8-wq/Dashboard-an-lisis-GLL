@@ -2,12 +2,42 @@
  "updated": "14-oct",
  "source": "SEC EDGAR",
  "tickers": {
+  "MSFT": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "14-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/789019/000078901926000226/0000789019-26-000226-index.htm"
+   }
+  ],
+  "META": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "14-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326015598/0000950103-26-015598-index.htm"
+   }
+  ],
   "NVDA": [
    {
     "type": "Form 4",
     "t": "Form 4",
     "d": "13-oct",
     "u": "https://www.sec.gov/Archives/edgar/data/1045810/000215218826000007/0002152188-26-000007-index.htm"
+   }
+  ],
+  "CRWV": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "14-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000449/0001769628-26-000449-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "14-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000448/0001769628-26-000448-index.htm"
    }
   ],
   "PLTR": [
