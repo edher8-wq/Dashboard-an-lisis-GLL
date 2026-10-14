@@ -38,6 +38,34 @@
     "u": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526419726/0001193125-26-419726-index.htm"
    }
   ],
+  "UBER": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "14-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1543151/000146823326000011/0001468233-26-000011-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "14-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1543151/000119069926000005/0001190699-26-000005-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "14-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1543151/000109035526000008/0001090355-26-000008-index.htm"
+   }
+  ],
+  "NEE": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "14-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/753308/000176937826000009/0001769378-26-000009-index.htm"
+   }
+  ],
   "OKLO": [
    {
     "type": "Form 4",
