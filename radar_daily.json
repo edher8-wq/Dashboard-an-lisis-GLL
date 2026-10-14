@@ -1,104 +1,108 @@
 {
- "updated": "13-oct",
+ "updated": "14-oct",
  "source": "IBKR opciones + social + analistas",
  "tickers": {
-  "GOOGL": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 36% vs HV 27% (ratio 1.32) — salto de volatilidad (earnings próximos)",
-    "d": "13-oct"
-   }
-  ],
   "AMZN": [
    {
     "type": "Opciones",
-    "t": "IV anual 40% vs HV 25% (ratio 1.61) — fuerte salto de volatilidad (earnings próximos)",
-    "d": "13-oct"
+    "t": "IV anual 40% vs HV 24% (ratio 1.66) — fuerte salto de volatilidad (earnings próximos)",
+    "d": "14-oct"
    }
   ],
-  "PLTR": [
+  "CRWV": [
    {
     "type": "Opciones",
-    "t": "IV anual 58% vs HV 42% (ratio 1.37) — salto de volatilidad (earnings próximos)",
-    "d": "13-oct"
-   }
-  ],
-  "APP": [
+    "t": "Volumen de calls 2.8x y de puts 4.8x su promedio — actividad de opciones muy inusual",
+    "d": "14-oct"
+   },
    {
-    "type": "Opciones",
-    "t": "IV anual 77% vs HV 52% (ratio 1.48) — salto de volatilidad",
-    "d": "13-oct"
-   }
-  ],
-  "UPST": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 77% vs HV 45% (ratio 1.73) — fuerte salto de volatilidad",
-    "d": "13-oct"
-   }
-  ],
-  "PYPL": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 44% vs HV 30% (ratio 1.44) — salto de volatilidad",
-    "d": "13-oct"
-   }
-  ],
-  "UBER": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 42% vs HV 26% (ratio 1.60) — salto de volatilidad (earnings próximos)",
-    "d": "13-oct"
+    "type": "Social",
+    "t": "Chatter social disparado vs su promedio ('Yikes' de Elon Musk; desplome ~14% por su rendimiento de bonos)",
+    "d": "14-oct"
    }
   ],
   "WYFI": [
    {
     "type": "Opciones",
-    "t": "IV anual 105% vs HV 74% (ratio 1.41) — volatilidad extrema (nombre pequeño, muy sensible a noticias)",
-    "d": "13-oct"
+    "t": "Volumen de puts 2.7x su promedio; IV anual 126% vs HV 74% (ratio 1.70) — volatilidad extrema (nombre pequeño)",
+    "d": "14-oct"
+   }
+  ],
+  "IREN": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 104% vs HV 69% (ratio 1.50) — fuerte salto de volatilidad",
+    "d": "14-oct"
+   }
+  ],
+  "PLTR": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 62% vs HV 42% (ratio 1.46) — salto de volatilidad (earnings próximos)",
+    "d": "14-oct"
+   }
+  ],
+  "UPST": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 73% vs HV 44% (ratio 1.65) — fuerte salto de volatilidad",
+    "d": "14-oct"
+   }
+  ],
+  "PYPL": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 45% vs HV 30% (ratio 1.51) — salto de volatilidad",
+    "d": "14-oct"
+   }
+  ],
+  "UBER": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 44% vs HV 26% (ratio 1.69) — salto de volatilidad (earnings próximos)",
+    "d": "14-oct"
+   }
+  ],
+  "APP": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 79% vs HV 52% (ratio 1.54) — salto de volatilidad",
+    "d": "14-oct"
    }
   ],
   "CAT": [
    {
     "type": "Opciones",
-    "t": "IV anual 45% vs HV 34% (ratio 1.33) — salto de volatilidad",
-    "d": "13-oct"
+    "t": "IV anual 47% vs HV 35% (ratio 1.33) — salto de volatilidad",
+    "d": "14-oct"
    }
   ],
   "NEE": [
    {
     "type": "Opciones",
-    "t": "IV anual 26% vs HV 16% (ratio 1.64) — salto de volatilidad relativo (nombre defensivo)",
-    "d": "13-oct"
+    "t": "IV anual 26% vs HV 16% (ratio 1.62) — salto de volatilidad relativo (nombre defensivo)",
+    "d": "14-oct"
    }
   ],
   "FSLR": [
    {
     "type": "Opciones",
-    "t": "IV anual 60% vs HV 44% (ratio 1.38) — salto de volatilidad",
-    "d": "13-oct"
+    "t": "IV anual 61% vs HV 44% (ratio 1.38) — salto de volatilidad",
+    "d": "14-oct"
    }
   ],
   "HIMS": [
    {
     "type": "Opciones",
-    "t": "IV anual 84% vs HV 58% (ratio 1.45) — salto de volatilidad",
-    "d": "13-oct"
+    "t": "IV anual 86% vs HV 59% (ratio 1.44) — salto de volatilidad",
+    "d": "14-oct"
    }
   ],
   "SLS": [
    {
     "type": "Opciones",
-    "t": "IV anual 136% vs HV 73% (ratio 1.87) — volatilidad extrema (catalizador binario clínico próximo)",
-    "d": "13-oct"
-   }
-  ],
-  "WDC": [
-   {
-    "type": "Analista",
-    "t": "UBS recorta PT a $470 (bajista); la acción cae ~7.7% en la sesión",
-    "d": "13-oct",
-    "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-13-2026"
+    "t": "IV anual 140% vs HV 73% (ratio 1.91) — volatilidad extrema (catalizador binario clínico próximo)",
+    "d": "14-oct"
    }
   ]
  }

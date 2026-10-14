@@ -1,11 +1,17 @@
 {
- "updated": "13-oct",
- "note": "Refresco diario. Jornada 13-oct (martes): índices a la baja (Dow -0.35%, S&P ~plano, Nasdaq -0.15%) por un nuevo selloff de memoria tras avances de la china CXMT en memoria más eficiente (Micron -5%, Samsung -7%, SK Hynix -4%, WDC -8%; Kospi >-5%); arranque mixto de resultados bancarios (JPMorgan falló EPS, Goldman batió). En la mira: datos de inflación y resultados de TSMC el 15-oct. Las emisoras sin novedad conservan su research previo.",
+ "updated": "14-oct",
+ "note": "Refresco diario. Jornada 14-oct (miércoles): fuerte caída tecnológica tras un IPC de septiembre más caliente de lo previsto (+3.7% interanual; subyacente 2.6%). El Nasdaq cae 1.88% (su mayor caída diaria desde julio) y el Russell 2000 1.93%, con los semiconductores (SOXX -2.3%) en su 7ª sesión consecutiva a la baja (~10% por debajo del 5-oct). Suben los rendimientos del Tesoro y las probabilidades de otra subida de la Fed el 28-oct (~45%); salud fue el refugio del día. CoreWeave se desploma ~14% por el salto de su rendimiento de bonos. Mañana (15-oct) reportan TSMC y más banca. Las emisoras sin novedad conservan su research previo.",
  "tickers": {
   "NVDA": {
    "trend": "'$2 billones de backlog', capex hyperscalers 2027 ~$1.3T, debate 'pico vs sigue'",
    "peak": "Días de earnings (beat & raise, guía 3T $108 bn)",
    "news": [
+    {
+     "t": "Cae ~1.9% en una nueva sesión de ventas en semiconductores (SOXX -2.3%, 7º día a la baja) tras el IPC caliente",
+     "s": "Benzinga",
+     "d": "14-oct",
+     "u": "https://www.benzinga.com/markets/equities/26/10/62360140/nasdaq-100-drops-1-on-hot-cpi-soxx-falls-7th-day-stock-market-today"
+    },
     {
      "t": "Retrocede ~1.3% a $226.32 en una jornada de ventas en semiconductores/IA (la memoria arrastra al Nasdaq)",
      "s": "The Motley Fool",
@@ -48,6 +54,12 @@
    "trend": "'AMD OpenAI deal', 'warrants', 'MI450', duelo 'AMD vs NVDA'",
    "peak": "Día del anuncio del acuerdo con OpenAI",
    "news": [
+    {
+     "t": "Retrocede ~3.5%, el más castigado de los grandes chips en el selloff por el IPC",
+     "s": "Benzinga",
+     "d": "14-oct",
+     "u": "https://www.benzinga.com/markets/equities/26/10/62360140/nasdaq-100-drops-1-on-hot-cpi-soxx-falls-7th-day-stock-market-today"
+    },
     {
      "t": "Alianza con Anthropic (2 GW MI450) y Helios en Azure; +195% en 2026",
      "s": "IR/prensa"
@@ -94,6 +106,12 @@
    "trend": "'superciclo', 'HBM sold out', debate 'pico de ciclo vs estructural'",
    "peak": "Reporte (sep): blowout con reacción muda",
    "news": [
+    {
+     "t": "Cae ~1.6% en la jornada de ventas de semis por el IPC caliente",
+     "s": "Benzinga",
+     "d": "14-oct",
+     "u": "https://www.benzinga.com/markets/equities/26/10/62360140/nasdaq-100-drops-1-on-hot-cpi-soxx-falls-7th-day-stock-market-today"
+    },
     {
      "t": "Cae ~5.2% por temores de competencia tras avances de la china CXMT en un diseño de memoria más eficiente",
      "s": "TheStreet",
@@ -183,6 +201,12 @@
    "peak": "Fichajes de IA y guía de capex",
    "news": [
     {
+     "t": "Baja ~2.1% en la caída tecnológica por el IPC",
+     "s": "Benzinga",
+     "d": "14-oct",
+     "u": "https://www.benzinga.com/markets/equities/26/10/62360140/nasdaq-100-drops-1-on-hot-cpi-soxx-falls-7th-day-stock-market-today"
+    },
+    {
      "t": "Sube ~3.4% a $742.96 tras lanzar su nuevo modelo de IA 'Muse Wonder'",
      "s": "The Motley Fool",
      "d": "12-oct",
@@ -195,9 +219,15 @@
    ]
   },
   "CRWV": {
-   "trend": "'CoreWeave OpenAI deal', 'neocloud', 'GPU backlog', debate deuda/concentración",
-   "peak": "Anuncios de contratos y reportes de venta de insiders",
+   "trend": "'CoreWeave bond yield ~15%', reacción de Elon Musk ('Yikes'), 'neocloud', debate deuda/concentración",
+   "peak": "Día del desplome del ~14% por el salto del rendimiento de sus bonos",
    "news": [
+    {
+     "t": "Se desploma ~13.8%: su rendimiento de bonos tocó ~15% y un 'Yikes' de Elon Musk avivan dudas sobre su deuda",
+     "s": "Benzinga",
+     "d": "14-oct",
+     "u": "https://www.benzinga.com/markets/equities/26/10/62360140/nasdaq-100-drops-1-on-hot-cpi-soxx-falls-7th-day-stock-market-today"
+    },
     {
      "t": "Backlog ~$104 bn (OpenAI/Microsoft), pero ~$35 bn de deuda y FCF muy negativo",
      "s": "IR"
@@ -209,6 +239,12 @@
    "peak": "Anuncios de contratos de IA Cloud",
    "news": [
     {
+     "t": "Cae ~8.5% arrastrada por la debilidad de los nombres de IA/data center y el alza de rendimientos",
+     "s": "Benzinga",
+     "d": "14-oct",
+     "u": "https://www.benzinga.com/markets/equities/26/10/62360140/nasdaq-100-drops-1-on-hot-cpi-soxx-falls-7th-day-stock-market-today"
+    },
+    {
      "t": "Metamorfosis de minero de Bitcoin a nube de IA; ARR contratado ~$4 bn",
      "s": "IR"
     }
@@ -218,6 +254,12 @@
    "trend": "'Starlink subscribers', 'Starship launch', 'SpaceX IPO'",
    "peak": "Pruebas de Starship y noticias de Starlink",
    "news": [
+    {
+     "t": "Sube ~0.34% a $157.08, resistiendo la caída general del mercado",
+     "s": "TheStreet",
+     "d": "14-oct",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-14-2026"
+    },
     {
      "t": "Primer reporte público: doble beat (adj EBITDA $3.5 bn); narrativa IA/cómputo",
      "s": "IR"
@@ -368,6 +410,12 @@
    "trend": "'Caterpillar data center', 'backup power', 'genset shortage'",
    "peak": "Anuncios de capacidad de data centers",
    "news": [
+    {
+     "t": "Cae ~1.8% con el alza de rendimientos y el giro defensivo del mercado",
+     "s": "Benzinga",
+     "d": "14-oct",
+     "u": "https://www.benzinga.com/markets/equities/26/10/62360140/nasdaq-100-drops-1-on-hot-cpi-soxx-falls-7th-day-stock-market-today"
+    },
     {
      "t": "Acuerdo Utah/Joule por 4 GW; deal Microsoft-Chevron; gensets/turbinas para 'bring your own power'",
      "s": "prensa"
