@@ -1,108 +1,123 @@
 {
- "updated": "14-oct",
+ "updated": "15-oct",
  "source": "IBKR opciones + social + analistas",
  "tickers": {
-  "AMZN": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 40% vs HV 24% (ratio 1.66) — fuerte salto de volatilidad (earnings próximos)",
-    "d": "14-oct"
-   }
-  ],
   "CRWV": [
    {
     "type": "Opciones",
-    "t": "Volumen de calls 2.8x y de puts 4.8x su promedio — actividad de opciones muy inusual",
-    "d": "14-oct"
+    "t": "Volumen de calls 3.7x y de puts 3.2x su promedio - actividad de opciones muy inusual",
+    "d": "15-oct"
    },
    {
     "type": "Social",
-    "t": "Chatter social disparado vs su promedio ('Yikes' de Elon Musk; desplome ~14% por su rendimiento de bonos)",
-    "d": "14-oct"
-   }
-  ],
-  "WYFI": [
-   {
-    "type": "Opciones",
-    "t": "Volumen de puts 2.7x su promedio; IV anual 126% vs HV 74% (ratio 1.70) — volatilidad extrema (nombre pequeño)",
-    "d": "14-oct"
+    "t": "Chatter social disparado vs su promedio (rebote ~+5.9% tras caer ~9.5%; drama del rendimiento de sus bonos y 'Yikes' de Elon)",
+    "d": "15-oct"
    }
   ],
   "IREN": [
    {
     "type": "Opciones",
-    "t": "IV anual 104% vs HV 69% (ratio 1.50) — fuerte salto de volatilidad",
-    "d": "14-oct"
+    "t": "Volumen de calls y puts ~2.2x su promedio; IV anual 103% vs HV 71% (ratio 1.46) - actividad y volatilidad muy elevadas",
+    "d": "15-oct"
+   }
+  ],
+  "WYFI": [
+   {
+    "type": "Opciones",
+    "t": "Volumen de calls 5.3x su promedio (apetito alcista, nombre pequeno); IV anual 114% vs HV 75% (ratio 1.52)",
+    "d": "15-oct"
+   }
+  ],
+  "GOOGL": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 37% vs HV 28% (ratio 1.33) - salto de volatilidad (earnings proximos)",
+    "d": "15-oct"
+   }
+  ],
+  "AMZN": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 39% vs HV 24% (ratio 1.65) - fuerte salto de volatilidad (earnings proximos)",
+    "d": "15-oct"
    }
   ],
   "PLTR": [
    {
     "type": "Opciones",
-    "t": "IV anual 62% vs HV 42% (ratio 1.46) — salto de volatilidad (earnings próximos)",
-    "d": "14-oct"
-   }
-  ],
-  "UPST": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 73% vs HV 44% (ratio 1.65) — fuerte salto de volatilidad",
-    "d": "14-oct"
-   }
-  ],
-  "PYPL": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 45% vs HV 30% (ratio 1.51) — salto de volatilidad",
-    "d": "14-oct"
-   }
-  ],
-  "UBER": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 44% vs HV 26% (ratio 1.69) — salto de volatilidad (earnings próximos)",
-    "d": "14-oct"
+    "t": "IV anual 61% vs HV 42% (ratio 1.44) - salto de volatilidad (earnings proximos)",
+    "d": "15-oct"
    }
   ],
   "APP": [
    {
     "type": "Opciones",
-    "t": "IV anual 79% vs HV 52% (ratio 1.54) — salto de volatilidad",
-    "d": "14-oct"
+    "t": "IV anual 76% vs HV 51% (ratio 1.48) - salto de volatilidad",
+    "d": "15-oct"
+   }
+  ],
+  "UPST": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 84% vs HV 45% (ratio 1.87) - fuerte salto de volatilidad",
+    "d": "15-oct"
+   }
+  ],
+  "PYPL": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 45% vs HV 30% (ratio 1.52) - salto de volatilidad (earnings proximos)",
+    "d": "15-oct"
+   }
+  ],
+  "UBER": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 45% vs HV 27% (ratio 1.66) - salto de volatilidad (earnings proximos)",
+    "d": "15-oct"
    }
   ],
   "CAT": [
    {
     "type": "Opciones",
-    "t": "IV anual 47% vs HV 35% (ratio 1.33) — salto de volatilidad",
-    "d": "14-oct"
+    "t": "IV anual 46% vs HV 35% (ratio 1.30) - salto de volatilidad",
+    "d": "15-oct"
    }
   ],
   "NEE": [
    {
     "type": "Opciones",
-    "t": "IV anual 26% vs HV 16% (ratio 1.62) — salto de volatilidad relativo (nombre defensivo)",
-    "d": "14-oct"
+    "t": "IV anual 26% vs HV 16% (ratio 1.61) - salto de volatilidad relativo (nombre defensivo)",
+    "d": "15-oct"
    }
   ],
   "FSLR": [
    {
     "type": "Opciones",
-    "t": "IV anual 61% vs HV 44% (ratio 1.38) — salto de volatilidad",
-    "d": "14-oct"
+    "t": "IV anual 60% vs HV 45% (ratio 1.35) - salto de volatilidad",
+    "d": "15-oct"
    }
   ],
   "HIMS": [
    {
     "type": "Opciones",
-    "t": "IV anual 86% vs HV 59% (ratio 1.44) — salto de volatilidad",
-    "d": "14-oct"
+    "t": "IV anual 94% vs HV 60% (ratio 1.56) - fuerte salto de volatilidad",
+    "d": "15-oct"
    }
   ],
   "SLS": [
    {
     "type": "Opciones",
-    "t": "IV anual 140% vs HV 73% (ratio 1.91) — volatilidad extrema (catalizador binario clínico próximo)",
-    "d": "14-oct"
+    "t": "IV anual 143% vs HV 73% (ratio 1.95) - volatilidad extrema (catalizador binario clinico proximo)",
+    "d": "15-oct"
+   }
+  ],
+  "WDC": [
+   {
+    "type": "Analista",
+    "t": "UBS recorta PT a $470 (presion bajista)",
+    "d": "13-oct",
+    "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-13-2026"
    }
   ]
  }

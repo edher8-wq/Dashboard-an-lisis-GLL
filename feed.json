@@ -1,6 +1,6 @@
 {
- "updated": "14-oct",
- "note": "Refresco diario. Jornada 14-oct (miércoles): fuerte caída tecnológica tras un IPC de septiembre más caliente de lo previsto (+3.7% interanual; subyacente 2.6%). El Nasdaq cae 1.88% (su mayor caída diaria desde julio) y el Russell 2000 1.93%, con los semiconductores (SOXX -2.3%) en su 7ª sesión consecutiva a la baja (~10% por debajo del 5-oct). Suben los rendimientos del Tesoro y las probabilidades de otra subida de la Fed el 28-oct (~45%); salud fue el refugio del día. CoreWeave se desploma ~14% por el salto de su rendimiento de bonos. Mañana (15-oct) reportan TSMC y más banca. Las emisoras sin novedad conservan su research previo.",
+ "updated": "15-oct",
+ "note": "Refresco diario. Jornada 15-oct (jueves): rotacion clara fuera de tecnologia. Tras un desplome nocturno de la memoria en Asia (SK Hynix -11% y Samsung -9% en Corea; Kospi -8%), Wall Street dio un giro: Dow +1.08% y Russell 2000 +1.38%, S&P 500 +0.33%, mientras el Nasdaq cerro casi plano (+0.08%) tras abrir -1.3% y recuperar >1.5% desde minimos. Lideraron salud (+1.9%), materiales y consumo discrecional; tecnologia -0.65%. TSMC reporto un 3T record (utilidad neta +68.7%, ingresos US$46.7 bn, margen bruto 66.4%) y guia 4T muy fuerte (US$52-54 bn), pero su ADR cayo ~4% porque el margen bajo desde 67.7%. El PPI de septiembre salio caliente (+6.3% interanual) y el rendimiento del Tesoro a 10 anos cedio a ~5.10%. CoreWeave protagonizo un rebote notable. Las emisoras sin novedad conservan su research previo.",
  "tickers": {
   "NVDA": {
    "trend": "'$2 billones de backlog', capex hyperscalers 2027 ~$1.3T, debate 'pico vs sigue'",
@@ -28,6 +28,12 @@
    "trend": "run-up al 3T (15-oct), 'N2/2nm', capacidad reservada, lectura cruzada con superciclo de memoria",
    "peak": "Días de earnings",
    "news": [
+    {
+     "t": "3T 2026 record (reportado 15-oct): utilidad neta NT$763 bn (+68.7% interanual), ingresos US$46.72 bn (+41.2%), margen bruto 66.4%; guia 4T US$52.3-54.3 bn. Pese al beat, el ADR cayo ~4% por el leve descenso de margen (desde 67.7%)",
+     "s": "SEC 6-K / TheStreet",
+     "d": "15-oct",
+     "u": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm"
+    },
     {
      "t": "Ingresos 3T récord: T$1.49 bill. (~$46.7 bn), +50% interanual, por encima del consenso; call de resultados el 15-oct",
      "s": "Reuters / The Star",
@@ -90,6 +96,12 @@
    "trend": "'100 trillion won', 'supera a NVIDIA', HBM4/Vera Rubin, superciclo de memoria",
    "peak": "Preliminar del 8-oct (titular global)",
    "news": [
+    {
+     "t": "Se hunde ~9% en Corea en el desplome nocturno de la memoria (SK Hynix -11%, Kospi -8%)",
+     "s": "TheStreet / CNN",
+     "d": "15-oct",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-15-2026"
+    },
     {
      "t": "Cae ~7.4% en el selloff de memoria por los avances de CXMT; el Kospi retrocede más de 5%",
      "s": "TheStreet",
@@ -223,6 +235,12 @@
    "peak": "Día del desplome del ~14% por el salto del rendimiento de sus bonos",
    "news": [
     {
+     "t": "Fuerte rebote: revierte una caida matutina de ~9.5% y cierra ~+5.9% en la jornada de rotacion",
+     "s": "TS2 / TheStreet",
+     "d": "15-oct",
+     "u": "https://ts2.tech/en/dow-jumps-1-1-russell-2000-rises-1-4-as-broad-rotation-beats-tech/"
+    },
+    {
      "t": "Se desploma ~13.8%: su rendimiento de bonos tocó ~15% y un 'Yikes' de Elon Musk avivan dudas sobre su deuda",
      "s": "Benzinga",
      "d": "14-oct",
@@ -254,6 +272,12 @@
    "trend": "'Starlink subscribers', 'Starship launch', 'SpaceX IPO'",
    "peak": "Pruebas de Starship y noticias de Starlink",
    "news": [
+    {
+     "t": "Cae ~2.3% a ~$148 en la debilidad de los nombres espaciales/IA (Rocket Lab -10%)",
+     "s": "TheStreet",
+     "d": "15-oct",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-15-2026"
+    },
     {
      "t": "Sube ~0.34% a $157.08, resistiendo la caída general del mercado",
      "s": "TheStreet",
