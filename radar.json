@@ -1,5 +1,5 @@
 {
- "updated": "14-oct",
+ "updated": "15-oct",
  "source": "SEC EDGAR",
  "tickers": {
   "MSFT": [
@@ -41,6 +41,12 @@
    }
   ],
   "PLTR": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "14-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1321655/000193052626000013/0001930526-26-000013-index.htm"
+   },
    {
     "type": "Form 4",
     "t": "Form 4",
