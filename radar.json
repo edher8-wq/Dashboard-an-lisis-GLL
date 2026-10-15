@@ -94,6 +94,14 @@
     "u": "https://www.sec.gov/Archives/edgar/data/1543151/000109035526000008/0001090355-26-000008-index.htm"
    }
   ],
+  "CAT": [
+   {
+    "type": "8-K",
+    "t": "8-K: Cambio en directivos/consejo; Otros eventos relevantes; Estados financieros/anexos",
+    "d": "15-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/18230/000110465926116198/0001104659-26-116198-index.htm"
+   }
+  ],
   "NEE": [
    {
     "type": "Form 4",
@@ -103,6 +111,18 @@
    }
   ],
   "OKLO": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "15-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1849056/000214768026000014/0002147680-26-000014-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "15-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1849056/000214682826000010/0002146828-26-000010-index.htm"
+   },
    {
     "type": "Form 4",
     "t": "Form 4",
