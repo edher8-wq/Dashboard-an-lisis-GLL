@@ -6,6 +6,12 @@
    {
     "type": "Form 4",
     "t": "Form 4",
+    "d": "15-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/789019/000078901926000228/0000789019-26-000228-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
     "d": "14-oct",
     "u": "https://www.sec.gov/Archives/edgar/data/789019/000078901926000226/0000789019-26-000226-index.htm"
    }
@@ -128,6 +134,20 @@
     "t": "Form 4",
     "d": "13-oct",
     "u": "https://www.sec.gov/Archives/edgar/data/1849056/000214679026000019/0002146790-26-000019-index.htm"
+   }
+  ],
+  "HIMS": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "15-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1773751/000177375126000227/0001773751-26-000227-index.htm"
+   },
+   {
+    "type": "Form 3",
+    "t": "Form 3",
+    "d": "15-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1773751/000177375126000226/0001773751-26-000226-index.htm"
    }
   ]
  }
