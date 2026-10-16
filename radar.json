@@ -40,6 +40,38 @@
     "u": "https://www.sec.gov/Archives/edgar/data/1045810/000215218826000007/0002152188-26-000007-index.htm"
    }
   ],
+  "MRVL": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "16-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1835632/000162828026066169/0001628280-26-066169-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "16-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1835632/000162828026066141/0001628280-26-066141-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "16-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1835632/000162828026066137/0001628280-26-066137-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "16-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1835632/000162828026066132/0001628280-26-066132-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "16-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1835632/000162828026066130/0001628280-26-066130-index.htm"
+   }
+  ],
   "MU": [
    {
     "type": "Form 4",
@@ -112,6 +144,40 @@
     "u": "https://www.sec.gov/Archives/edgar/data/1321655/000182392326000013/0001823923-26-000013-index.htm"
    }
   ],
+  "APP": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "16-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1751008/000161515126000006/0001615151-26-000006-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "16-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1751008/000120918926000010/0001209189-26-000010-index.htm"
+   }
+  ],
+  "PYPL": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "16-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1633917/000200641626000019/0002006416-26-000019-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "16-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1633917/000190527226000018/0001905272-26-000018-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "16-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1633917/000186220926000010/0001862209-26-000010-index.htm"
+   }
+  ],
   "MSTR": [
    {
     "type": "8-K",
@@ -150,6 +216,14 @@
     "t": "Form 4",
     "d": "14-oct",
     "u": "https://www.sec.gov/Archives/edgar/data/1543151/000109035526000008/0001090355-26-000008-index.htm"
+   }
+  ],
+  "ETN": [
+   {
+    "type": "8-K",
+    "t": "8-K: Otros eventos relevantes; Estados financieros/anexos",
+    "d": "16-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000034/0001551182-26-000034-index.htm"
    }
   ],
   "CAT": [
