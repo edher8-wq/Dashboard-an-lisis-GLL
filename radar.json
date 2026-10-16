@@ -1,7 +1,15 @@
 {
- "updated": "15-oct",
+ "updated": "16-oct",
  "source": "SEC EDGAR",
  "tickers": {
+  "GOOGL": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "15-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526423187/0001193125-26-423187-index.htm"
+   }
+  ],
   "MSFT": [
    {
     "type": "Form 4",
@@ -30,6 +38,44 @@
     "t": "Form 4",
     "d": "13-oct",
     "u": "https://www.sec.gov/Archives/edgar/data/1045810/000215218826000007/0002152188-26-000007-index.htm"
+   }
+  ],
+  "MU": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "15-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/723125/000124265426000016/0001242654-26-000016-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "15-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/723125/000159319926000005/0001593199-26-000005-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "15-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/723125/000159319926000004/0001593199-26-000004-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "15-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/723125/000149828726000001/0001498287-26-000001-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "15-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/723125/000168949826000002/0001689498-26-000002-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "15-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/723125/000156823826000001/0001568238-26-000001-index.htm"
    }
   ],
   "CRWV": [
@@ -67,6 +113,12 @@
    }
   ],
   "MSTR": [
+   {
+    "type": "8-K",
+    "t": "8-K: Regulation FD (divulgacion); Otros eventos relevantes",
+    "d": "16-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526423400/0001193125-26-423400-index.htm"
+   },
    {
     "type": "Form 4",
     "t": "Form 4",
@@ -121,13 +173,13 @@
     "type": "Form 4",
     "t": "Form 4",
     "d": "15-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1849056/000214768026000014/0002147680-26-000014-index.htm"
+    "u": "https://www.sec.gov/Archives/edgar/data/1849056/000214682826000010/0002146828-26-000010-index.htm"
    },
    {
     "type": "Form 4",
     "t": "Form 4",
     "d": "15-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1849056/000214682826000010/0002146828-26-000010-index.htm"
+    "u": "https://www.sec.gov/Archives/edgar/data/1849056/000214768026000014/0002147680-26-000014-index.htm"
    },
    {
     "type": "Form 4",
