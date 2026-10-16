@@ -1,11 +1,17 @@
 {
- "updated": "15-oct",
- "note": "Refresco diario. Jornada 15-oct (jueves): rotacion clara fuera de tecnologia. Tras un desplome nocturno de la memoria en Asia (SK Hynix -11% y Samsung -9% en Corea; Kospi -8%), Wall Street dio un giro: Dow +1.08% y Russell 2000 +1.38%, S&P 500 +0.33%, mientras el Nasdaq cerro casi plano (+0.08%) tras abrir -1.3% y recuperar >1.5% desde minimos. Lideraron salud (+1.9%), materiales y consumo discrecional; tecnologia -0.65%. TSMC reporto un 3T record (utilidad neta +68.7%, ingresos US$46.7 bn, margen bruto 66.4%) y guia 4T muy fuerte (US$52-54 bn), pero su ADR cayo ~4% porque el margen bajo desde 67.7%. El PPI de septiembre salio caliente (+6.3% interanual) y el rendimiento del Tesoro a 10 anos cedio a ~5.10%. CoreWeave protagonizo un rebote notable. Las emisoras sin novedad conservan su research previo.",
+ "updated": "16-oct",
+ "note": "Refresco diario. Jornada 16-oct (viernes): fuerte venta en tecnologia y temores de 'burbuja' de IA. El Nasdaq cayo 2.14% (26,140), el S&P 500 1.09% (7,659) y el Russell 2000 1.72%; el Dow aguanto mejor (-0.34%, 52,002) por la rotacion a defensivos y energia (+2.52% con el alza del petroleo). El SOX se hundio 3.83% con sus 30 componentes a la baja, por la competencia china en memoria (avances de CXMT en DRAM 4F2) y el temor a que el gasto en data centers este financiado con deuda. CoreWeave se desplomo ~11.9% (deuda >$51 bn, bonos en niveles distressed) pese a la defensa de Jensen Huang. ASML reporto un 3T record con fuerte beat de BPA. NVDA resistio al alza. Las emisoras sin novedad conservan su research previo.",
  "tickers": {
   "NVDA": {
    "trend": "'$2 billones de backlog', capex hyperscalers 2027 ~$1.3T, debate 'pico vs sigue'",
    "peak": "Días de earnings (beat & raise, guía 3T $108 bn)",
    "news": [
+    {
+     "t": "Resiste al alza a contracorriente del Nasdaq (-2.14%); Jensen Huang dice que llegan pedidos de chips de IA 'casi cada dia'",
+     "s": "TradingKey",
+     "d": "16-oct",
+     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
+    },
     {
      "t": "Cae ~1.9% en una nueva sesión de ventas en semiconductores (SOXX -2.3%, 7º día a la baja) tras el IPC caliente",
      "s": "Benzinga",
@@ -17,10 +23,6 @@
      "s": "The Motley Fool",
      "d": "12-oct",
      "u": "https://fool.com/coverage/stock-market-today/2026/10/12/stock-market-today-oct-12-dow-gains-as-memory-stocks-weigh-on-nasdaq"
-    },
-    {
-     "t": "Backlog de ~$2 billones y capex de hyperscalers 2027 ~$1.3T (revelado por la CFO)",
-     "s": "earnings call"
     }
    ]
   },
@@ -51,6 +53,12 @@
    "peak": "Días de earnings y noticias de China",
    "news": [
     {
+     "t": "3T record (15-oct): BPA EUR12.95 (vs ~EUR10.68 est.) e ingresos ~EUR11.7 bn; la accion sube ~3% pese a una guia cauta; 'la capacidad es la restriccion'",
+     "s": "IndMoney / newsquawk",
+     "d": "15-oct",
+     "u": "https://www.indmoney.com/blog/us-stocks/asml-stock"
+    },
+    {
      "t": "Órdenes 2T €5.5 mM ('extremadamente fuertes'); guía 2026 elevada",
      "s": "IR"
     }
@@ -60,6 +68,12 @@
    "trend": "'AMD OpenAI deal', 'warrants', 'MI450', duelo 'AMD vs NVDA'",
    "peak": "Día del anuncio del acuerdo con OpenAI",
    "news": [
+    {
+     "t": "Cae ~5.95% en el desplome de semiconductores (SOX -3.83%) por la competencia china (CXMT) y temores de burbuja de IA",
+     "s": "TradingKey",
+     "d": "16-oct",
+     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
+    },
     {
      "t": "Retrocede ~3.5%, el más castigado de los grandes chips en el selloff por el IPC",
      "s": "Benzinga",
@@ -77,6 +91,12 @@
    "peak": "Día del anuncio del acuerdo con Google",
    "news": [
     {
+     "t": "Cae ~5.56% arrastrada por el selloff general de chips (SOX -3.83%, 30/30 a la baja)",
+     "s": "TradingKey",
+     "d": "16-oct",
+     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
+    },
+    {
      "t": "Acuerdo de silicio personalizado con Google (hasta ~$120 bn pipeline); cayó 7.6% por margen",
      "s": "IR"
     }
@@ -86,6 +106,12 @@
    "trend": "'Intel government stake', 'NVIDIA Intel deal', '18A', 'turnaround'",
    "peak": "Día del anuncio de la inversión de NVIDIA",
    "news": [
+    {
+     "t": "Cae ~5.79% en el selloff de semis y por temores de competencia china en memoria/logica",
+     "s": "TradingKey",
+     "d": "16-oct",
+     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
+    },
     {
      "t": "Participación del gobierno EE.UU. (~10%), inversión de NVIDIA ~$5 bn y SoftBank ~$2 bn",
      "s": "prensa"
@@ -119,6 +145,12 @@
    "peak": "Reporte (sep): blowout con reacción muda",
    "news": [
     {
+     "t": "Cae ~5.63%; temor a que el avance de la china CXMT en DRAM 4F2 alivie la escasez de memoria",
+     "s": "TradingKey",
+     "d": "16-oct",
+     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
+    },
+    {
      "t": "Cae ~1.6% en la jornada de ventas de semis por el IPC caliente",
      "s": "Benzinga",
      "d": "14-oct",
@@ -129,10 +161,6 @@
      "s": "TheStreet",
      "d": "13-oct",
      "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-13-2026"
-    },
-    {
-     "t": "Guía 1T $61.5 bn aplasta consenso; margen bruto en los 80s%",
-     "s": "IR"
     }
    ]
   },
@@ -140,6 +168,12 @@
    "trend": "'NAND shortage', 'SSD pricing', jornada de ventas por temores de competencia en memoria; cruce con Micron/Samsung/SK Hynix",
    "peak": "Reportes de pricing de memoria",
    "news": [
+    {
+     "t": "Cae ~6.85% en el selloff de memoria/almacenamiento (Seagate -7.5%, WDC -6.9%)",
+     "s": "TradingKey",
+     "d": "16-oct",
+     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
+    },
     {
      "t": "Cae ~6% por temores de competencia en memoria; Samsung y SK Hynix -4% y el Kospi -3.6%",
      "s": "Benzinga",
@@ -156,6 +190,12 @@
    "trend": "'HDD comeback', 'nearline demand', 'HAMR', cruce con Seagate",
    "peak": "Upgrades de analistas y datos de pricing",
    "news": [
+    {
+     "t": "Cae ~6.86% en el selloff de memoria/almacenamiento por los avances de CXMT en China",
+     "s": "TradingKey",
+     "d": "16-oct",
+     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
+    },
     {
      "t": "Cae ~7.7% tras recorte de PT de UBS a $470; arrastrada por el selloff de memoria/almacenamiento (avances de CXMT en China)",
      "s": "TheStreet",
@@ -193,6 +233,12 @@
    "peak": "Lanzamientos de Gemini y upgrades de analistas",
    "news": [
     {
+     "t": "Nombrada entre las big tech cuya caja podria tensarse por el gasto en data centers (temor de burbuja de IA)",
+     "s": "TradingKey",
+     "d": "16-oct",
+     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
+    },
+    {
      "t": "Cloud +~32% con margen al alza; backlog de Cloud ~$514 bn; alivio antimonopolio",
      "s": "IR"
     }
@@ -213,6 +259,12 @@
    "peak": "Fichajes de IA y guía de capex",
    "news": [
     {
+     "t": "Nombrada entre las big tech cuya caja podria tensarse por el gasto en data centers (temor de burbuja de IA)",
+     "s": "TradingKey",
+     "d": "16-oct",
+     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
+    },
+    {
      "t": "Baja ~2.1% en la caída tecnológica por el IPC",
      "s": "Benzinga",
      "d": "14-oct",
@@ -223,10 +275,6 @@
      "s": "The Motley Fool",
      "d": "12-oct",
      "u": "https://www.benzinga.com/markets/market-summary/26/10/62306422/nasdaq-100-falls-sandisk-tumbles-6-percent-ai-trade-falters-markets-monday"
-    },
-    {
-     "t": "Superclusters Prometheus/Hyperion y Superintelligence Labs (A. Wang); capex 2026 muy al alza",
-     "s": "prensa"
     }
    ]
   },
@@ -234,6 +282,12 @@
    "trend": "'CoreWeave bond yield ~15%', reacción de Elon Musk ('Yikes'), 'neocloud', debate deuda/concentración",
    "peak": "Día del desplome del ~14% por el salto del rendimiento de sus bonos",
    "news": [
+    {
+     "t": "Se desploma ~11.9% a $61.39: deuda total >$51 bn y bonos en niveles distressed (CDS a 5 anos ~1,117 pb); Jensen Huang la defiende ('su fortaleza financiera mejora cada dia')",
+     "s": "TradingKey / TheStreet",
+     "d": "16-oct",
+     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
+    },
     {
      "t": "Fuerte rebote: revierte una caida matutina de ~9.5% y cierra ~+5.9% en la jornada de rotacion",
      "s": "TS2 / TheStreet",
@@ -245,10 +299,6 @@
      "s": "Benzinga",
      "d": "14-oct",
      "u": "https://www.benzinga.com/markets/equities/26/10/62360140/nasdaq-100-drops-1-on-hot-cpi-soxx-falls-7th-day-stock-market-today"
-    },
-    {
-     "t": "Backlog ~$104 bn (OpenAI/Microsoft), pero ~$35 bn de deuda y FCF muy negativo",
-     "s": "IR"
     }
    ]
   },
@@ -273,6 +323,12 @@
    "peak": "Pruebas de Starship y noticias de Starlink",
    "news": [
     {
+     "t": "Sube ~1.16% a $150.35: Evercore ISI eleva PT a $275 (desde $230, Outperform) y reportes de que el Roadster de Tesla usara propulsores de SpaceX",
+     "s": "TheStreet",
+     "d": "16-oct",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-16-2026"
+    },
+    {
      "t": "Cae ~2.3% a ~$148 en la debilidad de los nombres espaciales/IA (Rocket Lab -10%)",
      "s": "TheStreet",
      "d": "15-oct",
@@ -283,10 +339,6 @@
      "s": "TheStreet",
      "d": "14-oct",
      "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-14-2026"
-    },
-    {
-     "t": "Primer reporte público: doble beat (adj EBITDA $3.5 bn); narrativa IA/cómputo",
-     "s": "IR"
     }
    ]
   },
