@@ -1,11 +1,17 @@
 {
- "updated": "16-oct",
- "note": "Refresco diario. Jornada 16-oct (viernes): fuerte venta en tecnologia y temores de 'burbuja' de IA. El Nasdaq cayo 2.14% (26,140), el S&P 500 1.09% (7,659) y el Russell 2000 1.72%; el Dow aguanto mejor (-0.34%, 52,002) por la rotacion a defensivos y energia (+2.52% con el alza del petroleo). El SOX se hundio 3.83% con sus 30 componentes a la baja, por la competencia china en memoria (avances de CXMT en DRAM 4F2) y el temor a que el gasto en data centers este financiado con deuda. CoreWeave se desplomo ~11.9% (deuda >$51 bn, bonos en niveles distressed) pese a la defensa de Jensen Huang. ASML reporto un 3T record con fuerte beat de BPA. NVDA resistio al alza. Las emisoras sin novedad conservan su research previo.",
+ "updated": "19-oct",
+ "note": "Refresco diario. Jornada 19-oct (lunes): fuerte rebote tecnologico y vuelve la confianza en IA tras el desplome del viernes. El Nasdaq subio 1.11% (26,431), el S&P 500 0.41% (7,691) y el SOX 1.61% (11,316, 26/30 al alza), liderados por la memoria (Micron, SanDisk, WDC). El Dow quedo casi plano (-0.07%, 51,966) por la debilidad de utilities (NRG -3.6%) y defensivos. BofA afirma que las valuaciones de memoria tocaron fondo. CoreWeave recibio upgrade de Goldman a Buy pero cerro volatil (~-0.4%). Amazon (+5%) subio con Morgan Stanley reiterandola como top pick (PT $350) y el lanzamiento de TorchNeuron (PyTorch en Trainium). Intel (+4%) con upgrade de JPMorgan. Semana cargada de resultados (Netflix 20-oct; Tesla, Meta e IBM 21-oct; Amazon 29-oct). Las emisoras sin novedad conservan su research previo.",
  "tickers": {
   "NVDA": {
    "trend": "'$2 billones de backlog', capex hyperscalers 2027 ~$1.3T, debate 'pico vs sigue'",
    "peak": "Días de earnings (beat & raise, guía 3T $108 bn)",
    "news": [
+    {
+     "t": "Lidera el rebote tecnologico (~+1.4%); anuncia una simulacion cuantica tolerante a fallos de 104 qubits sobre 8,192 GPUs que, segun la empresa, podria reducir ~90% los qubits fisicos requeridos",
+     "s": "TradingKey",
+     "d": "19-oct",
+     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262224387-us-stock-market-close-nasdaq-rise-memory-micron-sandisk-tradingkey"
+    },
     {
      "t": "Resiste al alza a contracorriente del Nasdaq (-2.14%); Jensen Huang dice que llegan pedidos de chips de IA 'casi cada dia'",
      "s": "TradingKey",
@@ -13,16 +19,10 @@
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
     },
     {
-     "t": "Cae ~1.9% en una nueva sesión de ventas en semiconductores (SOXX -2.3%, 7º día a la baja) tras el IPC caliente",
+     "t": "Cae ~1.9% en una nueva sesion de ventas en semiconductores (SOXX -2.3%, 7o dia a la baja) tras el IPC caliente",
      "s": "Benzinga",
      "d": "14-oct",
      "u": "https://www.benzinga.com/markets/equities/26/10/62360140/nasdaq-100-drops-1-on-hot-cpi-soxx-falls-7th-day-stock-market-today"
-    },
-    {
-     "t": "Retrocede ~1.3% a $226.32 en una jornada de ventas en semiconductores/IA (la memoria arrastra al Nasdaq)",
-     "s": "The Motley Fool",
-     "d": "12-oct",
-     "u": "https://fool.com/coverage/stock-market-today/2026/10/12/stock-market-today-oct-12-dow-gains-as-memory-stocks-weigh-on-nasdaq"
     }
    ]
   },
@@ -69,16 +69,16 @@
    "peak": "Día del anuncio del acuerdo con OpenAI",
    "news": [
     {
+     "t": "Rebota con el sector de chips (SOX +1.61%, 26/30 al alza) tras el desplome del viernes",
+     "s": "TradingKey / TheStreet",
+     "d": "19-oct",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-19-2026-nasdaq-futures-climb-as-tech-rebound-from-sell-off"
+    },
+    {
      "t": "Cae ~5.95% en el desplome de semiconductores (SOX -3.83%) por la competencia china (CXMT) y temores de burbuja de IA",
      "s": "TradingKey",
      "d": "16-oct",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
-    },
-    {
-     "t": "Retrocede ~3.5%, el más castigado de los grandes chips en el selloff por el IPC",
-     "s": "Benzinga",
-     "d": "14-oct",
-     "u": "https://www.benzinga.com/markets/equities/26/10/62360140/nasdaq-100-drops-1-on-hot-cpi-soxx-falls-7th-day-stock-market-today"
     },
     {
      "t": "Alianza con Anthropic (2 GW MI450) y Helios en Azure; +195% en 2026",
@@ -107,13 +107,19 @@
    "peak": "Día del anuncio de la inversión de NVIDIA",
    "news": [
     {
+     "t": "JPMorgan la sube a Neutral (desde Underweight), PT $85; sube ~4% (premarket) en el rebote de semis",
+     "s": "TheStreet",
+     "d": "19-oct",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-19-2026-nasdaq-futures-climb-as-tech-rebound-from-sell-off"
+    },
+    {
      "t": "Cae ~5.79% en el selloff de semis y por temores de competencia china en memoria/logica",
      "s": "TradingKey",
      "d": "16-oct",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
     },
     {
-     "t": "Participación del gobierno EE.UU. (~10%), inversión de NVIDIA ~$5 bn y SoftBank ~$2 bn",
+     "t": "Participacion del gobierno EE.UU. (~10%), inversion de NVIDIA ~$5 bn y SoftBank ~$2 bn",
      "s": "prensa"
     }
    ]
@@ -141,9 +147,15 @@
    ]
   },
   "MU": {
-   "trend": "'superciclo', 'HBM sold out', debate 'pico de ciclo vs estructural'",
+   "trend": "'superciclo', 'HBM sold out', 'memory bottom' (BofA); debate pico vs estructural tras el rebote",
    "peak": "Reporte (sep): blowout con reacción muda",
    "news": [
+    {
+     "t": "Rebota ~+2.97% en el repunte de memoria; BofA dice que las valuaciones de memoria tocaron fondo (P/E 2027-28 ~2-3x)",
+     "s": "TradingKey / TheStreet",
+     "d": "19-oct",
+     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262224387-us-stock-market-close-nasdaq-rise-memory-micron-sandisk-tradingkey"
+    },
     {
      "t": "Cae ~5.63%; temor a que el avance de la china CXMT en DRAM 4F2 alivie la escasez de memoria",
      "s": "TradingKey",
@@ -151,13 +163,7 @@
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
     },
     {
-     "t": "Cae ~1.6% en la jornada de ventas de semis por el IPC caliente",
-     "s": "Benzinga",
-     "d": "14-oct",
-     "u": "https://www.benzinga.com/markets/equities/26/10/62360140/nasdaq-100-drops-1-on-hot-cpi-soxx-falls-7th-day-stock-market-today"
-    },
-    {
-     "t": "Cae ~5.2% por temores de competencia tras avances de la china CXMT en un diseño de memoria más eficiente",
+     "t": "Cae ~5.2% por temores de competencia tras avances de la china CXMT en un diseno de memoria mas eficiente",
      "s": "TheStreet",
      "d": "13-oct",
      "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-13-2026"
@@ -169,16 +175,16 @@
    "peak": "Reportes de pricing de memoria",
    "news": [
     {
+     "t": "Sube ~+5.53% en el rebote de memoria/almacenamiento; comentarios de NVIDIA sobre estandarizacion de memoria dan soporte (cotiza ~$1,370 vs maximo de junio ~$2,335)",
+     "s": "TradingKey / TheStreet",
+     "d": "19-oct",
+     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262224387-us-stock-market-close-nasdaq-rise-memory-micron-sandisk-tradingkey"
+    },
+    {
      "t": "Cae ~6.85% en el selloff de memoria/almacenamiento (Seagate -7.5%, WDC -6.9%)",
      "s": "TradingKey",
      "d": "16-oct",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
-    },
-    {
-     "t": "Cae ~6% por temores de competencia en memoria; Samsung y SK Hynix -4% y el Kospi -3.6%",
-     "s": "Benzinga",
-     "d": "12-oct",
-     "u": "https://www.benzinga.com/markets/market-summary/26/10/62306422/nasdaq-100-falls-sandisk-tumbles-6-percent-ai-trade-falters-markets-monday"
     },
     {
      "t": "Beat monstruoso (+372%, GM 84.6%), buyback $14 bn, backlog $93.9 bn",
@@ -191,16 +197,16 @@
    "peak": "Upgrades de analistas y datos de pricing",
    "news": [
     {
+     "t": "Sube ~+6.1%; Wall Street Zen la sube a Strong Buy de cara a resultados del 1T el 22-oct",
+     "s": "TheStreet",
+     "d": "19-oct",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-19-2026-nasdaq-futures-climb-as-tech-rebound-from-sell-off"
+    },
+    {
      "t": "Cae ~6.86% en el selloff de memoria/almacenamiento por los avances de CXMT en China",
      "s": "TradingKey",
      "d": "16-oct",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
-    },
-    {
-     "t": "Cae ~7.7% tras recorte de PT de UBS a $470; arrastrada por el selloff de memoria/almacenamiento (avances de CXMT en China)",
-     "s": "TheStreet",
-     "d": "13-oct",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-13-2026"
     },
     {
      "t": "Beat & raise en HDD nearline para IA; roadmap HAMR >100TB",
@@ -245,11 +251,17 @@
    ]
   },
   "AMZN": {
-   "trend": "'AWS reacceleration', 'Trainium', 'Project Rainier Anthropic', debate capex",
+   "trend": "'AWS reacceleration', 'Trainium', 'TorchNeuron', 'MS top pick $350', debate capex",
    "peak": "Día de +3.3% y anuncios de AWS/Anthropic",
    "news": [
     {
-     "t": "AWS reacelera (~20%+) con Trainium (Anthropic/Project Rainier); margen retail en expansión",
+     "t": "Sube ~+4.95%: Morgan Stanley (Brian Nowak) reitera Overweight y top pick y eleva PT a $350 (desde $335); lanza TorchNeuron (corre PyTorch en Trainium); resultados 3T el 29-oct",
+     "s": "TheStreet / TradingKey",
+     "d": "19-oct",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-19-2026-nasdaq-futures-climb-as-tech-rebound-from-sell-off"
+    },
+    {
+     "t": "AWS reacelera (~20%+) con Trainium (Anthropic/Project Rainier); margen retail en expansion",
      "s": "IR"
     }
    ]
@@ -259,16 +271,16 @@
    "peak": "Fichajes de IA y guía de capex",
    "news": [
     {
+     "t": "Baja ~0.5% a contracorriente del rebote; resultados 3T el 21-oct tras el cierre",
+     "s": "TheStreet",
+     "d": "19-oct",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-19-2026-nasdaq-futures-climb-as-tech-rebound-from-sell-off"
+    },
+    {
      "t": "Nombrada entre las big tech cuya caja podria tensarse por el gasto en data centers (temor de burbuja de IA)",
      "s": "TradingKey",
      "d": "16-oct",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
-    },
-    {
-     "t": "Baja ~2.1% en la caída tecnológica por el IPC",
-     "s": "Benzinga",
-     "d": "14-oct",
-     "u": "https://www.benzinga.com/markets/equities/26/10/62360140/nasdaq-100-drops-1-on-hot-cpi-soxx-falls-7th-day-stock-market-today"
     },
     {
      "t": "Sube ~3.4% a $742.96 tras lanzar su nuevo modelo de IA 'Muse Wonder'",
@@ -279,23 +291,23 @@
    ]
   },
   "CRWV": {
-   "trend": "'CoreWeave bond yield ~15%', reacción de Elon Musk ('Yikes'), 'neocloud', debate deuda/concentración",
+   "trend": "'CoreWeave debt', 'Goldman upgrade', bonos distressed, 'neocloud'; chatter aun elevado",
    "peak": "Día del desplome del ~14% por el salto del rendimiento de sus bonos",
    "news": [
     {
-     "t": "Se desploma ~11.9% a $61.39: deuda total >$51 bn y bonos en niveles distressed (CDS a 5 anos ~1,117 pb); Jensen Huang la defiende ('su fortaleza financiera mejora cada dia')",
+     "t": "Goldman Sachs la sube a Buy (desde Neutral), PT $139 (desde $106); Jefferies, BofA, Deutsche Bank y JPMorgan reiteran postura alcista tras el selloff. Sesion volatil: revierte ganancias y cierra ~-0.4% a ~$61",
+     "s": "TradingKey / TheStreet",
+     "d": "19-oct",
+     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262224387-us-stock-market-close-nasdaq-rise-memory-micron-sandisk-tradingkey"
+    },
+    {
+     "t": "Se desploma ~11.9% a $61.39: deuda total >$51 bn y bonos en niveles distressed (CDS a 5 anos ~1,117 pb); Jensen Huang la defiende",
      "s": "TradingKey / TheStreet",
      "d": "16-oct",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
     },
     {
-     "t": "Fuerte rebote: revierte una caida matutina de ~9.5% y cierra ~+5.9% en la jornada de rotacion",
-     "s": "TS2 / TheStreet",
-     "d": "15-oct",
-     "u": "https://ts2.tech/en/dow-jumps-1-1-russell-2000-rises-1-4-as-broad-rotation-beats-tech/"
-    },
-    {
-     "t": "Se desploma ~13.8%: su rendimiento de bonos tocó ~15% y un 'Yikes' de Elon Musk avivan dudas sobre su deuda",
+     "t": "Se desploma ~13.8%: su rendimiento de bonos toco ~15% y un 'Yikes' de Elon Musk avivan dudas sobre su deuda",
      "s": "Benzinga",
      "d": "14-oct",
      "u": "https://www.benzinga.com/markets/equities/26/10/62360140/nasdaq-100-drops-1-on-hot-cpi-soxx-falls-7th-day-stock-market-today"
@@ -323,6 +335,12 @@
    "peak": "Pruebas de Starship y noticias de Starlink",
    "news": [
     {
+     "t": "Baja ~0.45% (premarket ~$145.92); reporta resultados el 20-oct tras el cierre; lanzamiento Bandwagon-5",
+     "s": "TheStreet",
+     "d": "19-oct",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-19-2026-nasdaq-futures-climb-as-tech-rebound-from-sell-off"
+    },
+    {
      "t": "Sube ~1.16% a $150.35: Evercore ISI eleva PT a $275 (desde $230, Outperform) y reportes de que el Roadster de Tesla usara propulsores de SpaceX",
      "s": "TheStreet",
      "d": "16-oct",
@@ -333,12 +351,6 @@
      "s": "TheStreet",
      "d": "15-oct",
      "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-15-2026"
-    },
-    {
-     "t": "Sube ~0.34% a $157.08, resistiendo la caída general del mercado",
-     "s": "TheStreet",
-     "d": "14-oct",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-14-2026"
     }
    ]
   },
@@ -357,7 +369,13 @@
    "peak": "Día de +5% y nuevos contratos",
    "news": [
     {
-     "t": "US commercial +149%, Regla del 40 en 155%; subió guía (rompió el 'sell the news')",
+     "t": "Rebota ~+4.36% con el sector de IA/software en la recuperacion del mercado",
+     "s": "TheStreet",
+     "d": "19-oct",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-19-2026-nasdaq-futures-climb-as-tech-rebound-from-sell-off"
+    },
+    {
+     "t": "US commercial +149%, Regla del 40 en 155%; subio guia (rompio el 'sell the news')",
      "s": "IR"
     }
    ]
