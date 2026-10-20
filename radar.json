@@ -10,6 +10,14 @@
     "u": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000184/0000002488-26-000184-index.htm"
    }
   ],
+  "MU": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "20-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/723125/000156823826000003/0001568238-26-000003-index.htm"
+   }
+  ],
   "SPCX": [
    {
     "type": "8-K",
