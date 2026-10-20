@@ -1,11 +1,17 @@
 {
- "updated": "19-oct",
- "note": "Refresco diario. Jornada 19-oct (lunes): fuerte rebote tecnologico y vuelve la confianza en IA tras el desplome del viernes. El Nasdaq subio 1.11% (26,431), el S&P 500 0.41% (7,691) y el SOX 1.61% (11,316, 26/30 al alza), liderados por la memoria (Micron, SanDisk, WDC). El Dow quedo casi plano (-0.07%, 51,966) por la debilidad de utilities (NRG -3.6%) y defensivos. BofA afirma que las valuaciones de memoria tocaron fondo. CoreWeave recibio upgrade de Goldman a Buy pero cerro volatil (~-0.4%). Amazon (+5%) subio con Morgan Stanley reiterandola como top pick (PT $350) y el lanzamiento de TorchNeuron (PyTorch en Trainium). Intel (+4%) con upgrade de JPMorgan. Semana cargada de resultados (Netflix 20-oct; Tesla, Meta e IBM 21-oct; Amazon 29-oct). Las emisoras sin novedad conservan su research previo.",
+ "updated": "20-oct",
+ "note": "Refresco diario. Jornada 20-oct (martes): rotacion defensiva y pausa en el rally de IA. El Dow subio 1.02% (52,497) y el S&P 500 0.29% (7,712), pero el Nasdaq cerro plano (-0.02%, 26,424) y el Russell 2000 lidero (+1.65%); salud, utilities y defensivos al frente (salud en maximo historico). Los semiconductores abrieron a la baja y cerraron con alza modesta tras romper su racha de caidas. Meta cayo por 5a sesion antes de resultados (21-oct). SpaceX reporto un 3T espectacular tras el cierre (ingresos +161% a $14.6 bn; su unidad de IA supera a Starlink) y sube en after-hours. CoreWeave marco minimo de 52 semanas por su deuda. El bono a 10 anos sigue >5.1%. Semana de earnings: Tesla/Meta/IBM 21-oct, NextEra ~24-oct, PayPal ~28-oct, Amazon 29-oct. Las emisoras sin novedad conservan su research previo.",
  "tickers": {
   "NVDA": {
    "trend": "'$2 billones de backlog', capex hyperscalers 2027 ~$1.3T, debate 'pico vs sigue'",
    "peak": "Días de earnings (beat & raise, guía 3T $108 bn)",
    "news": [
+    {
+     "t": "Sigue en tendencia bajista (~$213); checks de TD Cowen apuntan a que NVIDIA da soporte crediticio a Oracle (backstops o arrendando capacidad). Reportes: ByteDance/Alibaba/Tencent habrian ordenado >$35 bn en chips RTX PRO 5500 (sin garantia de surtido)",
+     "s": "Investrade / everhint",
+     "d": "20-oct",
+     "u": "https://investrade.com/market-review-october-20-2026/"
+    },
     {
      "t": "Lidera el rebote tecnologico (~+1.4%); anuncia una simulacion cuantica tolerante a fallos de 104 qubits sobre 8,192 GPUs que, segun la empresa, podria reducir ~90% los qubits fisicos requeridos",
      "s": "TradingKey",
@@ -17,12 +23,6 @@
      "s": "TradingKey",
      "d": "16-oct",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
-    },
-    {
-     "t": "Cae ~1.9% en una nueva sesion de ventas en semiconductores (SOXX -2.3%, 7o dia a la baja) tras el IPC caliente",
-     "s": "Benzinga",
-     "d": "14-oct",
-     "u": "https://www.benzinga.com/markets/equities/26/10/62360140/nasdaq-100-drops-1-on-hot-cpi-soxx-falls-7th-day-stock-market-today"
     }
    ]
   },
@@ -107,6 +107,12 @@
    "peak": "Día del anuncio de la inversión de NVIDIA",
    "news": [
     {
+     "t": "~$91.55, sobrevendida tras una ruptura de doble techo; el rebote de semis pierde impulso en una sesion de rotacion defensiva",
+     "s": "everhint",
+     "d": "20-oct",
+     "u": "https://www.everhint.com/stock-market-news-october-20-2026-morning-update-last-12-hours-pacific-time/"
+    },
+    {
      "t": "JPMorgan la sube a Neutral (desde Underweight), PT $85; sube ~4% (premarket) en el rebote de semis",
      "s": "TheStreet",
      "d": "19-oct",
@@ -117,10 +123,6 @@
      "s": "TradingKey",
      "d": "16-oct",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
-    },
-    {
-     "t": "Participacion del gobierno EE.UU. (~10%), inversion de NVIDIA ~$5 bn y SoftBank ~$2 bn",
-     "s": "prensa"
     }
    ]
   },
@@ -151,6 +153,12 @@
    "peak": "Reporte (sep): blowout con reacción muda",
    "news": [
     {
+     "t": "Anuncia inversion en procesamiento de minerales criticos en EE.UU. para reforzar su cadena de suministro domestica de semiconductores",
+     "s": "Investrade",
+     "d": "20-oct",
+     "u": "https://investrade.com/market-review-october-20-2026/"
+    },
+    {
      "t": "Rebota ~+2.97% en el repunte de memoria; BofA dice que las valuaciones de memoria tocaron fondo (P/E 2027-28 ~2-3x)",
      "s": "TradingKey / TheStreet",
      "d": "19-oct",
@@ -161,12 +169,6 @@
      "s": "TradingKey",
      "d": "16-oct",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
-    },
-    {
-     "t": "Cae ~5.2% por temores de competencia tras avances de la china CXMT en un diseno de memoria mas eficiente",
-     "s": "TheStreet",
-     "d": "13-oct",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-13-2026"
     }
    ]
   },
@@ -229,6 +231,12 @@
    "peak": "Anuncios de capacidad y relación con OpenAI",
    "news": [
     {
+     "t": "Se retira de un acuerdo de data center con Nscale en Reino Unido por un retraso en el suministro de energia (~$531)",
+     "s": "everhint",
+     "d": "20-oct",
+     "u": "https://www.everhint.com/stock-market-news-october-20-2026-morning-update-last-12-hours-pacific-time/"
+    },
+    {
      "t": "Azure superó 100 bn de ingresos anuales; 'demanda mayor que la oferta' (Nadella)",
      "s": "earnings call"
     }
@@ -255,6 +263,12 @@
    "peak": "Día de +3.3% y anuncios de AWS/Anthropic",
    "news": [
     {
+     "t": "Sube ~0.4% a ~$263; anuncia 300,000+ contrataciones de temporada (+20% interanual) e inversion de EUR16 bn en Alemania; resultados 3T el 29-oct",
+     "s": "everhint",
+     "d": "20-oct",
+     "u": "https://www.everhint.com/stock-market-news-october-20-2026-morning-update-last-12-hours-pacific-time/"
+    },
+    {
      "t": "Sube ~+4.95%: Morgan Stanley (Brian Nowak) reitera Overweight y top pick y eleva PT a $350 (desde $335); lanza TorchNeuron (corre PyTorch en Trainium); resultados 3T el 29-oct",
      "s": "TheStreet / TradingKey",
      "d": "19-oct",
@@ -271,6 +285,12 @@
    "peak": "Fichajes de IA y guía de capex",
    "news": [
     {
+     "t": "Cae >2% a ~$689, 5a sesion consecutiva a la baja, muy por debajo del maximo del 13-oct ($771); reporta 3T el 21-oct tras el cierre",
+     "s": "Investrade",
+     "d": "20-oct",
+     "u": "https://investrade.com/market-review-october-20-2026/"
+    },
+    {
      "t": "Baja ~0.5% a contracorriente del rebote; resultados 3T el 21-oct tras el cierre",
      "s": "TheStreet",
      "d": "19-oct",
@@ -281,12 +301,6 @@
      "s": "TradingKey",
      "d": "16-oct",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
-    },
-    {
-     "t": "Sube ~3.4% a $742.96 tras lanzar su nuevo modelo de IA 'Muse Wonder'",
-     "s": "The Motley Fool",
-     "d": "12-oct",
-     "u": "https://www.benzinga.com/markets/market-summary/26/10/62306422/nasdaq-100-falls-sandisk-tumbles-6-percent-ai-trade-falters-markets-monday"
     }
    ]
   },
@@ -294,6 +308,12 @@
    "trend": "'CoreWeave debt', 'Goldman upgrade', bonos distressed, 'neocloud'; chatter aun elevado",
    "peak": "Día del desplome del ~14% por el salto del rendimiento de sus bonos",
    "news": [
+    {
+     "t": "Nuevo minimo de 52 semanas (~$58): sigue cayendo mientras los inversores examinan la deuda que financia su buildout de data centers; analistas senalan altos costos de financiamiento",
+     "s": "Investrade / everhint",
+     "d": "20-oct",
+     "u": "https://www.everhint.com/stock-market-news-october-20-2026-morning-update-last-12-hours-pacific-time/"
+    },
     {
      "t": "Goldman Sachs la sube a Buy (desde Neutral), PT $139 (desde $106); Jefferies, BofA, Deutsche Bank y JPMorgan reiteran postura alcista tras el selloff. Sesion volatil: revierte ganancias y cierra ~-0.4% a ~$61",
      "s": "TradingKey / TheStreet",
@@ -305,12 +325,6 @@
      "s": "TradingKey / TheStreet",
      "d": "16-oct",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
-    },
-    {
-     "t": "Se desploma ~13.8%: su rendimiento de bonos toco ~15% y un 'Yikes' de Elon Musk avivan dudas sobre su deuda",
-     "s": "Benzinga",
-     "d": "14-oct",
-     "u": "https://www.benzinga.com/markets/equities/26/10/62360140/nasdaq-100-drops-1-on-hot-cpi-soxx-falls-7th-day-stock-market-today"
     }
    ]
   },
@@ -335,6 +349,12 @@
    "peak": "Pruebas de Starship y noticias de Starlink",
    "news": [
     {
+     "t": "3T 2026 espectacular (tras el cierre 20-oct): ingresos $14.6 bn (+161% interanual), utilidad neta $4.4 bn (vs -$1.1 bn hace un ano) y EBITDA ajustado +306% a $8.8 bn. Su unidad de IA 'Super Intelligence' ($7.6 bn, +830%) supera a Starlink ($5.2 bn, +69%, 13.6M suscriptores); capex $19.6 bn ($16.4 bn en IA). La accion sube tras el cierre",
+     "s": "Drive Tesla / CNBC",
+     "d": "20-oct",
+     "u": "https://driveteslacanada.ca/news/spacex-q3-2026-earnings-revenue-ai-starlink/"
+    },
+    {
      "t": "Baja ~0.45% (premarket ~$145.92); reporta resultados el 20-oct tras el cierre; lanzamiento Bandwagon-5",
      "s": "TheStreet",
      "d": "19-oct",
@@ -345,12 +365,6 @@
      "s": "TheStreet",
      "d": "16-oct",
      "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-16-2026"
-    },
-    {
-     "t": "Cae ~2.3% a ~$148 en la debilidad de los nombres espaciales/IA (Rocket Lab -10%)",
-     "s": "TheStreet",
-     "d": "15-oct",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-15-2026"
     }
    ]
   },
@@ -576,6 +590,12 @@
    "trend": "'NuScale SMR', 'small modular reactor', 'nuclear AI'",
    "peak": "Acuerdos y noticias regulatorias",
    "news": [
+    {
+     "t": "Barclays la baja a Underweight por retrasos comerciales e incertidumbre en contratos (sector SMR/nuclear bajo presion)",
+     "s": "Investrade",
+     "d": "20-oct",
+     "u": "https://investrade.com/market-review-october-20-2026/"
+    },
     {
      "t": "Primer diseño SMR aprobado por la NRC; TVA y ENTRA1 empujan a 6 GW",
      "s": "IR"

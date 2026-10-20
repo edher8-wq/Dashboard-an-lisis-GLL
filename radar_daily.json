@@ -1,18 +1,46 @@
 {
- "updated": "19-oct",
+ "updated": "20-oct",
  "source": "IBKR opciones + social + analistas",
  "tickers": {
+  "SPCX": [
+   {
+    "type": "Social",
+    "t": "Chatter social disparado vs su promedio (X/Reddit/StockTwits) por el 3T espectacular tras el cierre: su unidad de IA supera a Starlink",
+    "d": "20-oct"
+   }
+  ],
   "AMZN": [
    {
     "type": "Opciones",
-    "t": "IV anual 40% vs HV 25% (ratio 1.60) - salto de volatilidad (earnings 29-oct); volumen de calls y puts ~1.4-1.6x su promedio",
-    "d": "19-oct"
+    "t": "IV anual 40% vs HV 26% (ratio 1.57) - salto de volatilidad (earnings 29-oct)",
+    "d": "20-oct"
    },
    {
     "type": "Analista",
-    "t": "Morgan Stanley (Brian Nowak) reitera Overweight y top pick; eleva PT a $350 (desde $335)",
+    "t": "Morgan Stanley (Brian Nowak) reitera Overweight y top pick; PT $350",
     "d": "19-oct",
     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-19-2026-nasdaq-futures-climb-as-tech-rebound-from-sell-off"
+   }
+  ],
+  "CRWV": [
+   {
+    "type": "Social",
+    "t": "Chatter social disparado vs su promedio (Reddit/StockTwits) por la saga de su deuda y el nuevo minimo de 52 semanas",
+    "d": "20-oct"
+   },
+   {
+    "type": "Analista",
+    "t": "Goldman Sachs sube a Buy (desde Neutral), PT $139; Jefferies, BofA, Deutsche Bank y JPMorgan reiteran postura alcista",
+    "d": "19-oct",
+    "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262224387-us-stock-market-close-nasdaq-rise-memory-micron-sandisk-tradingkey"
+   }
+  ],
+  "SMR": [
+   {
+    "type": "Analista",
+    "t": "Barclays la baja a Underweight por retrasos comerciales e incertidumbre en contratos",
+    "d": "20-oct",
+    "u": "https://investrade.com/market-review-october-20-2026/"
    }
   ],
   "INTC": [
@@ -31,89 +59,74 @@
     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-19-2026-nasdaq-futures-climb-as-tech-rebound-from-sell-off"
    }
   ],
-  "CRWV": [
-   {
-    "type": "Analista",
-    "t": "Goldman Sachs sube a Buy (desde Neutral), PT $139 (desde $106); Jefferies, BofA, Deutsche Bank y JPMorgan reiteran postura alcista",
-    "d": "19-oct",
-    "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262224387-us-stock-market-close-nasdaq-rise-memory-micron-sandisk-tradingkey"
-   }
-  ],
-  "WYFI": [
-   {
-    "type": "Opciones",
-    "t": "Volumen de puts 3.5x su promedio + IV anual 115% vs HV 78% (ratio 1.47) - actividad y volatilidad muy elevadas (nombre pequeno)",
-    "d": "19-oct"
-   }
-  ],
-  "IREN": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 106% vs HV 77% (ratio 1.37) - volatilidad elevada",
-    "d": "19-oct"
-   }
-  ],
   "PLTR": [
    {
     "type": "Opciones",
-    "t": "IV anual 64% vs HV 42% (ratio 1.53) - salto de volatilidad (earnings proximos)",
-    "d": "19-oct"
+    "t": "IV anual 63% vs HV 42% (ratio 1.51) - salto de volatilidad (earnings proximos); hoy dominan los puts (puts > calls)",
+    "d": "20-oct"
    }
   ],
   "UPST": [
    {
     "type": "Opciones",
-    "t": "IV anual 77% vs HV 47% (ratio 1.65) - fuerte salto de volatilidad (earnings proximos)",
-    "d": "19-oct"
+    "t": "IV anual 75% vs HV 47% (ratio 1.61) - fuerte salto de volatilidad (earnings proximos)",
+    "d": "20-oct"
    }
   ],
   "PYPL": [
    {
     "type": "Opciones",
-    "t": "IV anual 44% vs HV 28% (ratio 1.57) - salto de volatilidad (earnings proximos)",
-    "d": "19-oct"
+    "t": "IV anual 43% vs HV 28% (ratio 1.50) - salto de volatilidad (earnings proximos ~28-oct)",
+    "d": "20-oct"
    }
   ],
   "UBER": [
    {
     "type": "Opciones",
-    "t": "IV anual 43% vs HV 26% (ratio 1.65) - salto de volatilidad (earnings proximos)",
-    "d": "19-oct"
+    "t": "IV anual 43% vs HV 26% (ratio 1.66) - salto de volatilidad (earnings proximos); hoy dominan los puts (puts > calls)",
+    "d": "20-oct"
    }
   ],
   "APP": [
    {
     "type": "Opciones",
-    "t": "IV anual 77% vs HV 50% (ratio 1.53) - salto de volatilidad (earnings proximos)",
-    "d": "19-oct"
-   }
-  ],
-  "NEE": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 25% vs HV 17% (ratio 1.50) - salto de volatilidad relativo (nombre defensivo)",
-    "d": "19-oct"
-   }
-  ],
-  "FSLR": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 60% vs HV 46% (ratio 1.32) - salto de volatilidad; hoy dominan los puts (puts > calls)",
-    "d": "19-oct"
+    "t": "IV anual 79% vs HV 50% (ratio 1.57) - salto de volatilidad (earnings proximos); hoy dominan los puts (puts > calls)",
+    "d": "20-oct"
    }
   ],
   "HIMS": [
    {
     "type": "Opciones",
-    "t": "IV anual 89% vs HV 64% (ratio 1.39) - fuerte salto de volatilidad",
-    "d": "19-oct"
+    "t": "IV anual 89% vs HV 65% (ratio 1.37) - fuerte salto de volatilidad",
+    "d": "20-oct"
+   }
+  ],
+  "IREN": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 109% vs HV 79% (ratio 1.38) - volatilidad elevada",
+    "d": "20-oct"
+   }
+  ],
+  "WYFI": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 115% vs HV 80% (ratio 1.44) - volatilidad muy elevada (nombre pequeno)",
+    "d": "20-oct"
+   }
+  ],
+  "NEE": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 26% vs HV 17% (ratio 1.51) - salto de volatilidad relativo (nombre defensivo; earnings ~24-oct)",
+    "d": "20-oct"
    }
   ],
   "SLS": [
    {
     "type": "Opciones",
-    "t": "IV anual 151% vs HV 76% (ratio 1.99) - volatilidad extrema (catalizador clinico binario proximo)",
-    "d": "19-oct"
+    "t": "IV anual 156% vs HV 76% (ratio 2.05) - volatilidad extrema (catalizador clinico binario proximo)",
+    "d": "20-oct"
    }
   ]
  }
