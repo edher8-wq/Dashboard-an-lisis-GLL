@@ -25,6 +25,14 @@
     "d": "19-oct",
     "u": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526424688/0001193125-26-424688-index.htm"
    }
+  ],
+  "MMS": [
+   {
+    "type": "8-K",
+    "t": "8-K: Acuerdo material nuevo; Resultados (earnings); Regulation FD (divulgacion); Estados financieros/anexos",
+    "d": "20-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1032220/000103222026000038/0001032220-26-000038-index.htm"
+   }
   ]
  }
 }
