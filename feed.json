@@ -1,11 +1,17 @@
 {
- "updated": "20-oct",
- "note": "Refresco diario. Jornada 20-oct (martes): rotacion defensiva y pausa en el rally de IA. El Dow subio 1.02% (52,497) y el S&P 500 0.29% (7,712), pero el Nasdaq cerro plano (-0.02%, 26,424) y el Russell 2000 lidero (+1.65%); salud, utilities y defensivos al frente (salud en maximo historico). Los semiconductores abrieron a la baja y cerraron con alza modesta tras romper su racha de caidas. Meta cayo por 5a sesion antes de resultados (21-oct). SpaceX reporto un 3T espectacular tras el cierre (ingresos +161% a $14.6 bn; su unidad de IA supera a Starlink) y sube en after-hours. CoreWeave marco minimo de 52 semanas por su deuda. El bono a 10 anos sigue >5.1%. Semana de earnings: Tesla/Meta/IBM 21-oct, NextEra ~24-oct, PayPal ~28-oct, Amazon 29-oct. Las emisoras sin novedad conservan su research previo.",
+ "updated": "21-oct",
+ "note": "Refresco diario. Jornada 21-oct (miercoles): rebote de IA/tech. El Nasdaq +1.05% (26,703) lidero, el S&P 500 +0.59% (~7,757) y el Dow +0.69% (52,856); el Russell 2000 +0.27%. Tecnologia (XLK +1.68%) e industriales al frente; salud, consumo basico y utilities rezagados. El VIX cayo ~3.1% a 16.77 y el bono a 10 anos ronda 5.15%. Meta reporto 3T tras el cierre (ingresos $64.6 bn, bate el estimado) y Tesla tambien reporto. SpaceX se disparo ~8% tras un 3T espectacular (ingresos $14.6 bn +161%; su unidad de IA ya supera a Starlink), JPMorgan le subio el PT a $500 y Musk confirmo comites para estudiar una fusion SpaceX-Tesla. NVIDIA (+2.5%) presento en su GTC de Berlin el 'DSX POD' (data center modular con Vera Rubin). Datos de vivienda debiles (MBA): solicitudes -5.3%, tasa fija 30a a 7.41%. Semana de earnings: WDC 22-oct, PayPal ~28-oct, Amazon 29-oct. Las emisoras sin novedad conservan su research previo.",
  "tickers": {
   "NVDA": {
    "trend": "'$2 billones de backlog', capex hyperscalers 2027 ~$1.3T, debate 'pico vs sigue'",
    "peak": "Días de earnings (beat & raise, guía 3T $108 bn)",
    "news": [
+    {
+     "t": "Sube ~+2.5% a ~$222. En su GTC de Berlin presenta el 'DSX POD', un data center de IA modular (tamano de contenedor) con Vera Rubin que, segun la empresa, recorta el despliegue de 6 meses a 14 dias (primeras entregas inicios 2027). Ademas, con Amkor ampliara >300% la capacidad de empaquetado avanzado a 2028 y pone $1.1 bn por adelantado para asegurar capacidad de pruebas; Jensen Huang: 'la demanda es extraordinaria'",
+     "s": "Yahoo Finance / Investrade",
+     "d": "21-oct",
+     "u": "https://investrade.com/market-review-october-21-2026/"
+    },
     {
      "t": "Sigue en tendencia bajista (~$213); checks de TD Cowen apuntan a que NVIDIA da soporte crediticio a Oracle (backstops o arrendando capacidad). Reportes: ByteDance/Alibaba/Tencent habrian ordenado >$35 bn en chips RTX PRO 5500 (sin garantia de surtido)",
      "s": "Investrade / everhint",
@@ -17,12 +23,6 @@
      "s": "TradingKey",
      "d": "19-oct",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262224387-us-stock-market-close-nasdaq-rise-memory-micron-sandisk-tradingkey"
-    },
-    {
-     "t": "Resiste al alza a contracorriente del Nasdaq (-2.14%); Jensen Huang dice que llegan pedidos de chips de IA 'casi cada dia'",
-     "s": "TradingKey",
-     "d": "16-oct",
-     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
     }
    ]
   },
@@ -153,6 +153,12 @@
    "peak": "Reporte (sep): blowout con reacción muda",
    "news": [
     {
+     "t": "Su unidad en Taiwan y el sindicato de su planta de Taichung alcanzan un acuerdo laboral; ambas partes se retiran de la mediacion prevista para el 22-oct (terminos no revelados)",
+     "s": "Investrade",
+     "d": "21-oct",
+     "u": "https://investrade.com/market-review-october-21-2026/"
+    },
+    {
      "t": "Anuncia inversion en procesamiento de minerales criticos en EE.UU. para reforzar su cadena de suministro domestica de semiconductores",
      "s": "Investrade",
      "d": "20-oct",
@@ -163,12 +169,6 @@
      "s": "TradingKey / TheStreet",
      "d": "19-oct",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262224387-us-stock-market-close-nasdaq-rise-memory-micron-sandisk-tradingkey"
-    },
-    {
-     "t": "Cae ~5.63%; temor a que el avance de la china CXMT en DRAM 4F2 alivie la escasez de memoria",
-     "s": "TradingKey",
-     "d": "16-oct",
-     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
     }
    ]
   },
@@ -285,6 +285,12 @@
    "peak": "Fichajes de IA y guía de capex",
    "news": [
     {
+     "t": "Reporta 3T tras el cierre: ingresos $64.6 bn, por encima del estimado de $63.3 bn (BPA GAAP $3.83). Antes del reporte, Semafor informo que Meta planea emitir acciones sin voto para financiar su inversion en IA sin diluir el control de Mark Zuckerberg. Venia de 5 sesiones consecutivas a la baja",
+     "s": "Vistapglobal / Yahoo Finance",
+     "d": "21-oct",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-oct-21-065700416.html"
+    },
+    {
      "t": "Cae >2% a ~$689, 5a sesion consecutiva a la baja, muy por debajo del maximo del 13-oct ($771); reporta 3T el 21-oct tras el cierre",
      "s": "Investrade",
      "d": "20-oct",
@@ -295,12 +301,6 @@
      "s": "TheStreet",
      "d": "19-oct",
      "u": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-19-2026-nasdaq-futures-climb-as-tech-rebound-from-sell-off"
-    },
-    {
-     "t": "Nombrada entre las big tech cuya caja podria tensarse por el gasto en data centers (temor de burbuja de IA)",
-     "s": "TradingKey",
-     "d": "16-oct",
-     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
     }
    ]
   },
@@ -308,6 +308,12 @@
    "trend": "'CoreWeave debt', 'Goldman upgrade', bonos distressed, 'neocloud'; chatter aun elevado",
    "peak": "Día del desplome del ~14% por el salto del rendimiento de sus bonos",
    "news": [
+    {
+     "t": "Truist senala que los comentarios de SpaceX sobre demanda de computo en su 3T respaldan el poder de fijacion de precios y periodos de repago mas cortos para los neoclouds de IA, nombrando a CoreWeave y Nebius",
+     "s": "Investrade",
+     "d": "21-oct",
+     "u": "https://investrade.com/market-review-october-21-2026/"
+    },
     {
      "t": "Nuevo minimo de 52 semanas (~$58): sigue cayendo mientras los inversores examinan la deuda que financia su buildout de data centers; analistas senalan altos costos de financiamiento",
      "s": "Investrade / everhint",
@@ -319,12 +325,6 @@
      "s": "TradingKey / TheStreet",
      "d": "19-oct",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262224387-us-stock-market-close-nasdaq-rise-memory-micron-sandisk-tradingkey"
-    },
-    {
-     "t": "Se desploma ~11.9% a $61.39: deuda total >$51 bn y bonos en niveles distressed (CDS a 5 anos ~1,117 pb); Jensen Huang la defiende",
-     "s": "TradingKey / TheStreet",
-     "d": "16-oct",
-     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
     }
    ]
   },
@@ -332,6 +332,12 @@
    "trend": "'IREN AI pivot', 'Bitcoin miner to AI', 'data center power'",
    "peak": "Anuncios de contratos de IA Cloud",
    "news": [
+    {
+     "t": "Crea 'IREN Europe' y obtiene licencia de obra civil para un data center de IA de ~300 MW en Badajoz (Extremadura, Espana), con operaciones iniciales previstas para 2028",
+     "s": "Investrade",
+     "d": "21-oct",
+     "u": "https://investrade.com/market-review-october-21-2026/"
+    },
     {
      "t": "Cae ~8.5% arrastrada por la debilidad de los nombres de IA/data center y el alza de rendimientos",
      "s": "Benzinga",
@@ -349,10 +355,10 @@
    "peak": "Pruebas de Starship y noticias de Starlink",
    "news": [
     {
-     "t": "3T 2026 espectacular (tras el cierre 20-oct): ingresos $14.6 bn (+161% interanual), utilidad neta $4.4 bn (vs -$1.1 bn hace un ano) y EBITDA ajustado +306% a $8.8 bn. Su unidad de IA 'Super Intelligence' ($7.6 bn, +830%) supera a Starlink ($5.2 bn, +69%, 13.6M suscriptores); capex $19.6 bn ($16.4 bn en IA). La accion sube tras el cierre",
-     "s": "Drive Tesla / CNBC",
-     "d": "20-oct",
-     "u": "https://driveteslacanada.ca/news/spacex-q3-2026-earnings-revenue-ai-starlink/"
+     "t": "Se dispara ~8% tras un 3T espectacular (reportado 20-oct tras el cierre): ingresos $14.6 bn (+161%, vs est. $12.72 bn), utilidad operativa $2.8 bn y neta $4.4 bn; su unidad 'Super Intelligence' ($7.56 bn, desde $813 M) ya es el mayor segmento y supera a Starlink. JPMorgan (Doug Anmuth) eleva el PT a $500 (desde $240). Musk dice que SpaceX y Tesla formaron comites independientes para estudiar una fusion ('aun sin acuerdo')",
+     "s": "CNBC / Yahoo Finance",
+     "d": "21-oct",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-oct-21-065700416.html"
     },
     {
      "t": "Baja ~0.45% (premarket ~$145.92); reporta resultados el 20-oct tras el cierre; lanzamiento Bandwagon-5",
@@ -551,6 +557,12 @@
    "peak": "Guía y datos de demanda",
    "news": [
     {
+     "t": "Reporta resultados esta semana; el gobernador de Virginia pide un congelamiento de tarifas electricas por 6 anos como condicion para aprobar la fusion NextEra-Dominion Energy",
+     "s": "moomoo",
+     "d": "21-oct",
+     "u": "https://www.moomoo.com/community/feed/wednesday-market-update-october-21-2026-117477748834310"
+    },
+    {
      "t": "Subió guía de crecimiento de EPS a 8%+; ~12 GW en pláticas de gran carga",
      "s": "IR"
     }
@@ -606,6 +618,12 @@
    "trend": "'GLP-1'/'semaglutide', debate 'value trap vs buy the dip', 'AI care'",
    "peak": "Reporte 2T (10-ago) y propuesta FDA (may-26)",
    "news": [
+    {
+     "t": "Sube tras lanzar en Alemania un servicio de perdida de peso para hombres (expansion internacional de su oferta GLP-1)",
+     "s": "moomoo",
+     "d": "21-oct",
+     "u": "https://www.moomoo.com/community/feed/wednesday-market-update-october-21-2026-117477748834310"
+    },
     {
      "t": "2T +38% pero compresión de margen (76%→64%) por viraje a GLP-1 de marca; guía 2026 elevada",
      "s": "IR"
