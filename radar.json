@@ -2,6 +2,14 @@
  "updated": "21-oct",
  "source": "SEC EDGAR",
  "tickers": {
+  "META": [
+   {
+    "type": "8-K",
+    "t": "8-K: Acuerdo material nuevo; Resultados (earnings); Otros eventos relevantes; Estados financieros/anexos",
+    "d": "21-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/0001628280-26-066700-index.htm"
+   }
+  ],
   "AMD": [
    {
     "type": "Form 4",
