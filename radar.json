@@ -1,5 +1,5 @@
 {
- "updated": "20-oct",
+ "updated": "21-oct",
  "source": "SEC EDGAR",
  "tickers": {
   "AMD": [
@@ -48,6 +48,44 @@
     "t": "8-K: Regulation FD (divulgacion); Otros eventos relevantes",
     "d": "19-oct",
     "u": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526424688/0001193125-26-424688-index.htm"
+   }
+  ],
+  "UBER": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "20-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1543151/000211186726000014/0002111867-26-000014-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "20-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1543151/000207176126000013/0002071761-26-000013-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "20-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1543151/000162620126000023/0001626201-26-000023-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "20-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1543151/000177529726000014/0001775297-26-000014-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "20-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1543151/000152532126000011/0001525321-26-000011-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "20-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1543151/000109035526000009/0001090355-26-000009-index.htm"
    }
   ],
   "OKLO": [
