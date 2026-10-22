@@ -32,12 +32,26 @@
     "u": "https://www.sec.gov/Archives/edgar/data/723125/000156823826000003/0001568238-26-000003-index.htm"
    }
   ],
+  "SNDK": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "22-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/2023554/000124264826000047/0001242648-26-000047-index.htm"
+   }
+  ],
   "WDC": [
    {
     "type": "8-K",
     "t": "8-K: Resultados (earnings); Estados financieros/anexos",
     "d": "22-oct",
     "u": "https://www.sec.gov/Archives/edgar/data/106040/000162828026066882/0001628280-26-066882-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "22-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/106040/000126682426000217/0001266824-26-000217-index.htm"
    }
   ],
   "SPCX": [
