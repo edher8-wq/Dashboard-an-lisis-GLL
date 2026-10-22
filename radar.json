@@ -32,6 +32,14 @@
     "u": "https://www.sec.gov/Archives/edgar/data/723125/000156823826000003/0001568238-26-000003-index.htm"
    }
   ],
+  "WDC": [
+   {
+    "type": "8-K",
+    "t": "8-K: Resultados (earnings); Estados financieros/anexos",
+    "d": "22-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/106040/000162828026066882/0001628280-26-066882-index.htm"
+   }
+  ],
   "SPCX": [
    {
     "type": "8-K",
@@ -102,6 +110,14 @@
     "u": "https://www.sec.gov/Archives/edgar/data/1543151/000109035526000009/0001090355-26-000009-index.htm"
    }
   ],
+  "BE": [
+   {
+    "type": "8-K",
+    "t": "8-K: Resultados (earnings); Regulation FD (divulgacion); Estados financieros/anexos",
+    "d": "22-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026066890/0001628280-26-066890-index.htm"
+   }
+  ],
   "NEE": [
    {
     "type": "8-K",
@@ -111,6 +127,12 @@
    }
   ],
   "OKLO": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "22-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1849056/000214679026000023/0002146790-26-000023-index.htm"
+   },
    {
     "type": "Form 4",
     "t": "Form 4",
