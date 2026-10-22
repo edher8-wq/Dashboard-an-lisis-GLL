@@ -1,11 +1,17 @@
 {
- "updated": "21-oct",
- "note": "Refresco diario. Jornada 21-oct (miercoles): rebote de IA/tech. El Nasdaq +1.05% (26,703) lidero, el S&P 500 +0.59% (~7,757) y el Dow +0.69% (52,856); el Russell 2000 +0.27%. Tecnologia (XLK +1.68%) e industriales al frente; salud, consumo basico y utilities rezagados. El VIX cayo ~3.1% a 16.77 y el bono a 10 anos ronda 5.15%. Meta reporto 3T tras el cierre (ingresos $64.6 bn, bate el estimado) y Tesla tambien reporto. SpaceX se disparo ~8% tras un 3T espectacular (ingresos $14.6 bn +161%; su unidad de IA ya supera a Starlink), JPMorgan le subio el PT a $500 y Musk confirmo comites para estudiar una fusion SpaceX-Tesla. NVIDIA (+2.5%) presento en su GTC de Berlin el 'DSX POD' (data center modular con Vera Rubin). Datos de vivienda debiles (MBA): solicitudes -5.3%, tasa fija 30a a 7.41%. Semana de earnings: WDC 22-oct, PayPal ~28-oct, Amazon 29-oct. Las emisoras sin novedad conservan su research previo.",
+ "updated": "22-oct",
+ "note": "Refresco diario. Jornada 22-oct (jueves): fuerte selloff tecnologico por renovados temores sobre el gasto en IA y sus retornos. El Nasdaq cae ~2.6% (~26,009) liderando las perdidas y el S&P 500 ~1.2% (~7,663); el Dow aguanta plano (~52,868) y el Russell 2000 +0.1%. Los semiconductores lideran la caida (Lam Research -9% tras resultados; AMAT/KLAC ~-6%). El VIX salta ~14% a 19.03 y el bono a 10 anos baja a ~4.95%. Meta se desploma ~7% pese a batir (ingresos $64 bn, BPA GAAP $3.83) y anunciar un split 2:1 via nuevas acciones Clase C sin voto; subio el piso de su capex 2026 a $135-145 bn. Tesla -3% pese al beat. CoreWeave -10% y SpaceX -9% (devuelve el salto post-earnings del miercoles). Western Digital y Bloom Energy reportaron: WDC bate y eleva guia pero cae por toma de ganancias; BE con un trimestre 'blowout' de infraestructura de IA; NextEra batio el 21-oct. Petroleo al alza (tensiones Iran/Houthi, Brent >$110) y Bitcoin por debajo de $82k. Las emisoras sin novedad conservan su research previo.",
  "tickers": {
   "NVDA": {
    "trend": "'$2 billones de backlog', capex hyperscalers 2027 ~$1.3T, debate 'pico vs sigue'",
    "peak": "Días de earnings (beat & raise, guía 3T $108 bn)",
    "news": [
+    {
+     "t": "Cae ~4% (a ~$212) en el selloff de semiconductores por renovados temores sobre el gasto en IA; retrocede menos que otros chips. Lam Research (-9% tras resultados) lidera la caida del sector",
+     "s": "Yahoo Finance / Motley Fool",
+     "d": "22-oct",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"
+    },
     {
      "t": "Sube ~+2.5% a ~$222. En su GTC de Berlin presenta el 'DSX POD', un data center de IA modular (tamano de contenedor) con Vera Rubin que, segun la empresa, recorta el despliegue de 6 meses a 14 dias (primeras entregas inicios 2027). Ademas, con Amkor ampliara >300% la capacidad de empaquetado avanzado a 2028 y pone $1.1 bn por adelantado para asegurar capacidad de pruebas; Jensen Huang: 'la demanda es extraordinaria'",
      "s": "Yahoo Finance / Investrade",
@@ -17,12 +23,6 @@
      "s": "Investrade / everhint",
      "d": "20-oct",
      "u": "https://investrade.com/market-review-october-20-2026/"
-    },
-    {
-     "t": "Lidera el rebote tecnologico (~+1.4%); anuncia una simulacion cuantica tolerante a fallos de 104 qubits sobre 8,192 GPUs que, segun la empresa, podria reducir ~90% los qubits fisicos requeridos",
-     "s": "TradingKey",
-     "d": "19-oct",
-     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262224387-us-stock-market-close-nasdaq-rise-memory-micron-sandisk-tradingkey"
     }
    ]
   },
@@ -69,6 +69,12 @@
    "peak": "Día del anuncio del acuerdo con OpenAI",
    "news": [
     {
+     "t": "Cae ~4-5% en el selloff de semiconductores por temores de burbuja/gasto en IA (Lam Research -9% tras resultados; AMAT y KLAC ~-6%)",
+     "s": "Yahoo Finance",
+     "d": "22-oct",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"
+    },
+    {
      "t": "Rebota con el sector de chips (SOX +1.61%, 26/30 al alza) tras el desplome del viernes",
      "s": "TradingKey / TheStreet",
      "d": "19-oct",
@@ -79,10 +85,6 @@
      "s": "TradingKey",
      "d": "16-oct",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
-    },
-    {
-     "t": "Alianza con Anthropic (2 GW MI450) y Helios en Azure; +195% en 2026",
-     "s": "IR/prensa"
     }
    ]
   },
@@ -107,6 +109,12 @@
    "peak": "Día del anuncio de la inversión de NVIDIA",
    "news": [
     {
+     "t": "Retrocede ~4-5% arrastrada por el selloff general de chips tras los resultados de Lam Research y los temores sobre el gasto en IA",
+     "s": "Yahoo Finance",
+     "d": "22-oct",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"
+    },
+    {
      "t": "~$91.55, sobrevendida tras una ruptura de doble techo; el rebote de semis pierde impulso en una sesion de rotacion defensiva",
      "s": "everhint",
      "d": "20-oct",
@@ -117,12 +125,6 @@
      "s": "TheStreet",
      "d": "19-oct",
      "u": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-19-2026-nasdaq-futures-climb-as-tech-rebound-from-sell-off"
-    },
-    {
-     "t": "Cae ~5.79% en el selloff de semis y por temores de competencia china en memoria/logica",
-     "s": "TradingKey",
-     "d": "16-oct",
-     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
     }
    ]
   },
@@ -153,6 +155,12 @@
    "peak": "Reporte (sep): blowout con reacción muda",
    "news": [
     {
+     "t": "Retrocede en el selloff de semiconductores/memoria por renovados temores sobre el gasto en IA",
+     "s": "Motley Fool",
+     "d": "22-oct",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-oct-22-164714116.html"
+    },
+    {
      "t": "Su unidad en Taiwan y el sindicato de su planta de Taichung alcanzan un acuerdo laboral; ambas partes se retiran de la mediacion prevista para el 22-oct (terminos no revelados)",
      "s": "Investrade",
      "d": "21-oct",
@@ -163,12 +171,6 @@
      "s": "Investrade",
      "d": "20-oct",
      "u": "https://investrade.com/market-review-october-20-2026/"
-    },
-    {
-     "t": "Rebota ~+2.97% en el repunte de memoria; BofA dice que las valuaciones de memoria tocaron fondo (P/E 2027-28 ~2-3x)",
-     "s": "TradingKey / TheStreet",
-     "d": "19-oct",
-     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262224387-us-stock-market-close-nasdaq-rise-memory-micron-sandisk-tradingkey"
     }
    ]
   },
@@ -176,6 +178,12 @@
    "trend": "'NAND shortage', 'SSD pricing', jornada de ventas por temores de competencia en memoria; cruce con Micron/Samsung/SK Hynix",
    "peak": "Reportes de pricing de memoria",
    "news": [
+    {
+     "t": "Cae ~4-5% en el selloff de semiconductores/almacenamiento por temores sobre el gasto en IA",
+     "s": "Yahoo Finance",
+     "d": "22-oct",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"
+    },
     {
      "t": "Sube ~+5.53% en el rebote de memoria/almacenamiento; comentarios de NVIDIA sobre estandarizacion de memoria dan soporte (cotiza ~$1,370 vs maximo de junio ~$2,335)",
      "s": "TradingKey / TheStreet",
@@ -187,10 +195,6 @@
      "s": "TradingKey",
      "d": "16-oct",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
-    },
-    {
-     "t": "Beat monstruoso (+372%, GM 84.6%), buyback $14 bn, backlog $93.9 bn",
-     "s": "IR"
     }
    ]
   },
@@ -198,6 +202,12 @@
    "trend": "'HDD comeback', 'nearline demand', 'HAMR', cruce con Seagate",
    "peak": "Upgrades de analistas y datos de pricing",
    "news": [
+    {
+     "t": "Reporta 1T FY27 (22-oct): bate estimaciones y eleva su guia, pero la accion cae (premarket/intradia) por toma de ganancias tras el fuerte run-up; la guia se percibe como insuficientemente superior",
+     "s": "finviz / Tiger Brokers",
+     "d": "22-oct",
+     "u": "https://finviz.com/news/378272/western-digital-beats-forecasts-and-raises-outlook-but-shares-fall-in-premarket-trading"
+    },
     {
      "t": "Sube ~+6.1%; Wall Street Zen la sube a Strong Buy de cara a resultados del 1T el 22-oct",
      "s": "TheStreet",
@@ -209,10 +219,6 @@
      "s": "TradingKey",
      "d": "16-oct",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
-    },
-    {
-     "t": "Beat & raise en HDD nearline para IA; roadmap HAMR >100TB",
-     "s": "IR"
     }
    ]
   },
@@ -231,6 +237,12 @@
    "peak": "Anuncios de capacidad y relación con OpenAI",
    "news": [
     {
+     "t": "Cae ~2.2% (a ~$521) en el retroceso tecnologico por temores sobre el gasto en IA y sus retornos",
+     "s": "Motley Fool",
+     "d": "22-oct",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-oct-22-164714116.html"
+    },
+    {
      "t": "Se retira de un acuerdo de data center con Nscale en Reino Unido por un retraso en el suministro de energia (~$531)",
      "s": "everhint",
      "d": "20-oct",
@@ -246,6 +258,12 @@
    "trend": "'Gemini 3', 'Google TPU', 'Cloud acceleration', giro de 'search is dead' a 'Google wins AI'",
    "peak": "Lanzamientos de Gemini y upgrades de analistas",
    "news": [
+    {
+     "t": "Cae ~3.1% (a ~$321) en el retroceso de las big tech por temores sobre el gasto en data centers/IA",
+     "s": "Motley Fool",
+     "d": "22-oct",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-oct-22-164714116.html"
+    },
     {
      "t": "Nombrada entre las big tech cuya caja podria tensarse por el gasto en data centers (temor de burbuja de IA)",
      "s": "TradingKey",
@@ -263,6 +281,12 @@
    "peak": "Día de +3.3% y anuncios de AWS/Anthropic",
    "news": [
     {
+     "t": "Cae ~4.6% (a ~$250) en el selloff de IA/tech; resultados 3T el 29-oct",
+     "s": "Motley Fool",
+     "d": "22-oct",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-oct-22-164714116.html"
+    },
+    {
      "t": "Sube ~0.4% a ~$263; anuncia 300,000+ contrataciones de temporada (+20% interanual) e inversion de EUR16 bn en Alemania; resultados 3T el 29-oct",
      "s": "everhint",
      "d": "20-oct",
@@ -273,17 +297,19 @@
      "s": "TheStreet / TradingKey",
      "d": "19-oct",
      "u": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-19-2026-nasdaq-futures-climb-as-tech-rebound-from-sell-off"
-    },
-    {
-     "t": "AWS reacelera (~20%+) con Trainium (Anthropic/Project Rainier); margen retail en expansion",
-     "s": "IR"
     }
    ]
   },
   "META": {
-   "trend": "'Meta superintelligence', lanzamiento del modelo 'Muse Wonder', 'AI talent war', 'capex', debate ROI del gasto",
+   "trend": "'Meta superintelligence', split 2:1 (acciones Clase C sin voto), capex al alza (piso $135-145 bn), 'AI talent war', debate ROI del gasto",
    "peak": "Fichajes de IA y guía de capex",
    "news": [
+    {
+     "t": "Se desploma ~7% (a ~$649) pese a batir en el 3T (ingresos $64 bn; BPA GAAP $3.83 vs $3.56 est.) y anunciar un split 2:1 via nuevas acciones Clase C sin voto (para que Zuckerberg conserve el control ante la Prop 40 de California). Subio el piso de su capex 2026 a $135-145 bn y cito $825 bn en compromisos de gasto; el mercado castiga el gasto en IA",
+     "s": "Yahoo Finance",
+     "d": "22-oct",
+     "u": "https://finance.yahoo.com/technology/article/meta-stock-drops-more-than-6-despite-strong-q3-results-stock-split-151218152.html"
+    },
     {
      "t": "Reporta 3T tras el cierre: ingresos $64.6 bn, por encima del estimado de $63.3 bn (BPA GAAP $3.83). Antes del reporte, Semafor informo que Meta planea emitir acciones sin voto para financiar su inversion en IA sin diluir el control de Mark Zuckerberg. Venia de 5 sesiones consecutivas a la baja",
      "s": "Vistapglobal / Yahoo Finance",
@@ -295,12 +321,6 @@
      "s": "Investrade",
      "d": "20-oct",
      "u": "https://investrade.com/market-review-october-20-2026/"
-    },
-    {
-     "t": "Baja ~0.5% a contracorriente del rebote; resultados 3T el 21-oct tras el cierre",
-     "s": "TheStreet",
-     "d": "19-oct",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-19-2026-nasdaq-futures-climb-as-tech-rebound-from-sell-off"
     }
    ]
   },
@@ -308,6 +328,12 @@
    "trend": "'CoreWeave debt', 'Goldman upgrade', bonos distressed, 'neocloud'; chatter aun elevado",
    "peak": "Día del desplome del ~14% por el salto del rendimiento de sus bonos",
    "news": [
+    {
+     "t": "Cae ~10%: resurgen las preocupaciones por su costo de capital y su balance cargado de deuda para financiar el buildout de data centers",
+     "s": "Yahoo Finance",
+     "d": "22-oct",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"
+    },
     {
      "t": "Truist senala que los comentarios de SpaceX sobre demanda de computo en su 3T respaldan el poder de fijacion de precios y periodos de repago mas cortos para los neoclouds de IA, nombrando a CoreWeave y Nebius",
      "s": "Investrade",
@@ -319,12 +345,6 @@
      "s": "Investrade / everhint",
      "d": "20-oct",
      "u": "https://www.everhint.com/stock-market-news-october-20-2026-morning-update-last-12-hours-pacific-time/"
-    },
-    {
-     "t": "Goldman Sachs la sube a Buy (desde Neutral), PT $139 (desde $106); Jefferies, BofA, Deutsche Bank y JPMorgan reiteran postura alcista tras el selloff. Sesion volatil: revierte ganancias y cierra ~-0.4% a ~$61",
-     "s": "TradingKey / TheStreet",
-     "d": "19-oct",
-     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262224387-us-stock-market-close-nasdaq-rise-memory-micron-sandisk-tradingkey"
     }
    ]
   },
@@ -351,9 +371,15 @@
    ]
   },
   "SPCX": {
-   "trend": "'Starlink subscribers', 'Starship launch', 'SpaceX IPO'",
+   "trend": "'Starlink subscribers', 'Super Intelligence > Starlink', posible fusion SpaceX-Tesla, volatilidad post-earnings",
    "peak": "Pruebas de Starship y noticias de Starlink",
    "news": [
+    {
+     "t": "Cae ~9% (a ~$145), devolviendo mas de la mitad del salto post-earnings del miercoles al venderse las acciones tech; Tesla (-3%) tambien retrocede pese a batir",
+     "s": "Yahoo Finance / Motley Fool",
+     "d": "22-oct",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"
+    },
     {
      "t": "Se dispara ~8% tras un 3T espectacular (reportado 20-oct tras el cierre): ingresos $14.6 bn (+161%, vs est. $12.72 bn), utilidad operativa $2.8 bn y neta $4.4 bn; su unidad 'Super Intelligence' ($7.56 bn, desde $813 M) ya es el mayor segmento y supera a Starlink. JPMorgan (Doug Anmuth) eleva el PT a $500 (desde $240). Musk dice que SpaceX y Tesla formaron comites independientes para estudiar una fusion ('aun sin acuerdo')",
      "s": "CNBC / Yahoo Finance",
@@ -365,12 +391,6 @@
      "s": "TheStreet",
      "d": "19-oct",
      "u": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-19-2026-nasdaq-futures-climb-as-tech-rebound-from-sell-off"
-    },
-    {
-     "t": "Sube ~1.16% a $150.35: Evercore ISI eleva PT a $275 (desde $230, Outperform) y reportes de que el Roadster de Tesla usara propulsores de SpaceX",
-     "s": "TheStreet",
-     "d": "16-oct",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-16-2026"
     }
    ]
   },
@@ -445,6 +465,12 @@
    "peak": "Movimientos fuertes del Bitcoin",
    "news": [
     {
+     "t": "Baja ~3.6% (cerro el miercoles en $177.08) siguiendo la caida del Bitcoin por debajo de $82k (~$81,711, -2.1%)",
+     "s": "Ted Pillows / Substack",
+     "d": "22-oct",
+     "u": "https://tedpillows.substack.com/p/crypto-and-finance-market-report-fad"
+    },
+    {
      "t": "Récord de 10.3% de participación; 48% de ingresos netos de suscripciones; USDC ~$73 bn",
      "s": "IR"
     }
@@ -454,6 +480,12 @@
    "trend": "'Saylor', 'MSTR Bitcoin', 'mNAV premium', debate sostenibilidad del apalancamiento",
    "peak": "Movimientos fuertes del BTC",
    "news": [
+    {
+     "t": "Cae ~4.9% (tras cerrar el miercoles +7.5% en $153.48), retroceso mas fuerte que Coinbase por la caida del Bitcoin (<$82k)",
+     "s": "Ted Pillows / Substack",
+     "d": "22-oct",
+     "u": "https://tedpillows.substack.com/p/crypto-and-finance-market-report-fad"
+    },
     {
      "t": "843,775 BTC (~4% de la oferta); por 1ª vez VENDIÓ BTC para financiar preferentes",
      "s": "IR"
@@ -541,6 +573,12 @@
    "peak": "Cada anuncio de acuerdo",
    "news": [
     {
+     "t": "Reporta 3T 2026 (22-oct): trimestre 'blowout' que la afianza como play de infraestructura de IA de alto crecimiento (planes de duplicar capacidad en 2026 hacia ~4x los ingresos de 2025)",
+     "s": "Chartmill / io-fund",
+     "d": "22-oct",
+     "u": "https://www.chartmill.com/news/BE/Chartmill-51918-Bloom-Energy-NYSEBE-Delivers-Blowout-Quarter-Solidifying-Its-Position-as-a-High-Growth-AI-Infrastructure-Play"
+    },
+    {
      "t": "Cae ~6.9% por toma de ganancias tras su fuerte run-up reciente",
      "s": "EconCurrents",
      "d": "12-oct",
@@ -556,6 +594,12 @@
    "trend": "'NextEra demand', 'renewables backlog', 'data center load'",
    "peak": "Guía y datos de demanda",
    "news": [
+    {
+     "t": "3T 2026 (reportado 21-oct): utilidad ajustada por accion por encima de estimaciones (beat); reafirma su trayectoria de crecimiento de EPS",
+     "s": "RTTNews / AOL",
+     "d": "21-oct",
+     "u": "https://www.aol.com/articles/takeaways-nextera-energy-nee-q3-143809932.html"
+    },
     {
      "t": "Reporta resultados esta semana; el gobernador de Virginia pide un congelamiento de tarifas electricas por 6 anos como condicion para aprobar la fusion NextEra-Dominion Energy",
      "s": "moomoo",

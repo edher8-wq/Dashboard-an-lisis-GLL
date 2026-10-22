@@ -1,115 +1,110 @@
 {
- "updated": "21-oct",
+ "updated": "22-oct",
  "source": "IBKR opciones + social + analistas",
  "tickers": {
-  "SPCX": [
+  "NVDA": [
    {
     "type": "Opciones",
-    "t": "Volumen de calls 2.5x su promedio (apetito alcista); puts tambien 2.4x — actividad record de opciones tras el 3T espectacular",
-    "d": "21-oct"
-   },
-   {
-    "type": "Social",
-    "t": "Chatter social disparado vs su promedio (X/Reddit/StockTwits) por el 3T blowout y el tuit de Musk sobre la posible fusion SpaceX-Tesla",
-    "d": "21-oct"
-   },
-   {
-    "type": "Analista",
-    "t": "JPMorgan (Doug Anmuth) eleva el PT a $500 (desde $240)",
-    "d": "21-oct",
-    "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-oct-21-065700416.html"
-   }
-  ],
-  "UBER": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 43% vs HV 26% (ratio 1.65) - salto de volatilidad (earnings proximos); hoy calls y puts a la par",
-    "d": "21-oct"
-   }
-  ],
-  "APP": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 80% vs HV 50% (ratio 1.60) - fuerte salto de volatilidad (earnings proximos)",
-    "d": "21-oct"
-   }
-  ],
-  "UPST": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 76% vs HV 48% (ratio 1.59) - fuerte salto de volatilidad (earnings proximos)",
-    "d": "21-oct"
+    "t": "IV anual 43% vs HV 31% (ratio 1.40) - salto de volatilidad en pleno selloff de semiconductores",
+    "d": "22-oct"
    }
   ],
   "AMZN": [
    {
     "type": "Opciones",
-    "t": "IV anual 41% vs HV 26% (ratio 1.59) - salto de volatilidad (earnings 29-oct)",
-    "d": "21-oct"
-   }
-  ],
-  "PYPL": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 43% vs HV 28% (ratio 1.54) - salto de volatilidad (earnings ~28-oct); hoy dominan los calls (calls 1.9x su promedio vs puts muy debiles)",
-    "d": "21-oct"
-   }
-  ],
-  "PLTR": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 63% vs HV 42% (ratio 1.50) - salto de volatilidad (earnings proximos)",
-    "d": "21-oct"
-   }
-  ],
-  "IREN": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 112% vs HV 79% (ratio 1.41) - volatilidad muy elevada (buildout de IA/data centers)",
-    "d": "21-oct"
+    "t": "IV anual 43% vs HV 25% (ratio 1.68) - salto de volatilidad (earnings 29-oct)",
+    "d": "22-oct"
    }
   ],
   "WYFI": [
    {
     "type": "Opciones",
-    "t": "IV anual 115% vs HV 82% (ratio 1.40) - volatilidad muy elevada (nombre pequeno)",
-    "d": "21-oct"
+    "t": "IV anual 132% vs HV 83% (ratio 1.59) - volatilidad extrema (nombre pequeno)",
+    "d": "22-oct"
+   }
+  ],
+  "PLTR": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 65% vs HV 43% (ratio 1.51) - salto de volatilidad (earnings proximos)",
+    "d": "22-oct"
+   }
+  ],
+  "UPST": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 77% vs HV 48% (ratio 1.61) - fuerte salto de volatilidad (earnings proximos)",
+    "d": "22-oct"
+   }
+  ],
+  "PYPL": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 44% vs HV 28% (ratio 1.56) - salto de volatilidad (earnings ~28-oct)",
+    "d": "22-oct"
+   }
+  ],
+  "UBER": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 44% vs HV 26% (ratio 1.68) - salto de volatilidad (earnings proximos)",
+    "d": "22-oct"
+   }
+  ],
+  "APP": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 82% vs HV 51% (ratio 1.62) - fuerte salto de volatilidad (earnings proximos)",
+    "d": "22-oct"
    }
   ],
   "NEE": [
    {
     "type": "Opciones",
-    "t": "IV anual 23% vs HV 17% (ratio 1.36) - salto de volatilidad relativo (earnings; nombre defensivo); puts 1.8x su promedio (cobertura)",
-    "d": "21-oct"
-   }
-  ],
-  "HIMS": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 87% vs HV 66% (ratio 1.32) - salto de volatilidad",
-    "d": "21-oct"
+    "t": "IV anual 24% vs HV 18% (ratio 1.36) - salto de volatilidad relativo tras resultados (nombre defensivo)",
+    "d": "22-oct"
    }
   ],
   "FSLR": [
    {
     "type": "Opciones",
-    "t": "IV anual 61% vs HV 47% (ratio 1.31) - salto de volatilidad relativo",
-    "d": "21-oct"
+    "t": "IV anual 62% vs HV 45% (ratio 1.39) - salto de volatilidad relativo",
+    "d": "22-oct"
+   }
+  ],
+  "HIMS": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 90% vs HV 66% (ratio 1.36) - salto de volatilidad",
+    "d": "22-oct"
    }
   ],
   "SLS": [
    {
     "type": "Opciones",
-    "t": "IV anual 154% vs HV 79% (ratio 1.96) - volatilidad extrema (catalizador clinico binario proximo)",
-    "d": "21-oct"
+    "t": "IV anual 153% vs HV 79% (ratio 1.94) - volatilidad extrema (catalizador clinico binario proximo)",
+    "d": "22-oct"
+   }
+  ],
+  "HD": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 33% vs HV 25% (ratio 1.31) - salto de volatilidad relativo (nombre defensivo)",
+    "d": "22-oct"
+   }
+  ],
+  "META": [
+   {
+    "type": "Social",
+    "t": "Chatter social disparado vs su promedio (X/Reddit/StockTwits) por el desplome ~7% post-earnings y el anuncio del split 2:1",
+    "d": "22-oct"
    }
   ],
   "CRWV": [
    {
-    "type": "Analista",
-    "t": "Truist: los comentarios de SpaceX sobre demanda de computo respaldan el pricing power y repagos mas cortos de los neoclouds; nombra a CoreWeave y Nebius",
-    "d": "21-oct",
-    "u": "https://investrade.com/market-review-october-21-2026/"
+    "type": "Social",
+    "t": "Chatter social disparado vs su promedio por la caida ~10% y las renovadas dudas sobre su deuda",
+    "d": "22-oct"
    }
   ],
   "SMR": [
