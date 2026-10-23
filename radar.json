@@ -16,6 +16,14 @@
     "u": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/0001628280-26-066700-index.htm"
    }
   ],
+  "MRVL": [
+   {
+    "type": "8-K",
+    "t": "8-K: Acuerdo material nuevo; Estados financieros/anexos",
+    "d": "23-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1835632/000119312526430424/0001193125-26-430424-index.htm"
+   }
+  ],
   "MU": [
    {
     "type": "Form 4",
@@ -124,6 +132,12 @@
   ],
   "NEE": [
    {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "23-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/753308/000195991026000008/0001959910-26-000008-index.htm"
+   },
+   {
     "type": "8-K",
     "t": "8-K: Resultados (earnings); Estados financieros/anexos",
     "d": "21-oct",
@@ -150,6 +164,14 @@
     "t": "8-K: Acuerdo material nuevo; Resultados (earnings); Regulation FD (divulgacion); Estados financieros/anexos",
     "d": "20-oct",
     "u": "https://www.sec.gov/Archives/edgar/data/1032220/000103222026000038/0001032220-26-000038-index.htm"
+   }
+  ],
+  "LUMN": [
+   {
+    "type": "8-K",
+    "t": "8-K: Cambio en directivos/consejo; Estados financieros/anexos",
+    "d": "23-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/18926/000001892626000065/0000018926-26-000065-index.htm"
    }
   ]
  }
