@@ -1,11 +1,17 @@
 {
- "updated": "22-oct",
- "note": "Refresco diario. Jornada 22-oct (jueves): fuerte selloff tecnologico por renovados temores sobre el gasto en IA y sus retornos. El Nasdaq cae ~2.6% (~26,009) liderando las perdidas y el S&P 500 ~1.2% (~7,663); el Dow aguanta plano (~52,868) y el Russell 2000 +0.1%. Los semiconductores lideran la caida (Lam Research -9% tras resultados; AMAT/KLAC ~-6%). El VIX salta ~14% a 19.03 y el bono a 10 anos baja a ~4.95%. Meta se desploma ~7% pese a batir (ingresos $64 bn, BPA GAAP $3.83) y anunciar un split 2:1 via nuevas acciones Clase C sin voto; subio el piso de su capex 2026 a $135-145 bn. Tesla -3% pese al beat. CoreWeave -10% y SpaceX -9% (devuelve el salto post-earnings del miercoles). Western Digital y Bloom Energy reportaron: WDC bate y eleva guia pero cae por toma de ganancias; BE con un trimestre 'blowout' de infraestructura de IA; NextEra batio el 21-oct. Petroleo al alza (tensiones Iran/Houthi, Brent >$110) y Bitcoin por debajo de $82k. Las emisoras sin novedad conservan su research previo.",
+ "updated": "23-oct",
+ "note": "Refresco diario. Jornada 23-oct (viernes): cierre a la baja que corona una semana volatil, con el Dow cayendo ~1.2% (-653 pts a 52,215) por delante del S&P 500 (-0.52% a 7,624) y el Nasdaq (-0.21% a 25,955); aun asi el Dow cerro la semana en verde (~+1.4%) mientras el S&P y el Nasdaq encadenan su 2a semana consecutiva a la baja. Persisten los temores sobre el gasto en IA (ahora tambien el debate de si los hyperscalers gastan 'demasiado poco'). El SOX rebota +0.44% a 10,779 (17/30 al alza) y CrowdStrike salta +8% liderando un rally de ciberseguridad. El VIX sube a 19.45 y el bono a 10 anos queda en ~4.99%. El petroleo se dispara (WTI +4% a $103.44; Brent $116.72, maximo de 6 meses, por tensiones con Iran) y el oro cae ~1.2% a $4,010. Bitcoin ~$80,800 (por debajo de $82k). Bloom Energy se hunde ~11% pese a su 'blowout' por dudas de flujo de caja; Microsoft avanza en sus chips Maia para inferencia; Apple supero brevemente a NVIDIA como la empresa mas valiosa (~$5.1 bill. cada una) antes de que NVIDIA recuperara el liderato. Las emisoras sin novedad conservan su research previo.",
  "tickers": {
   "NVDA": {
    "trend": "'$2 billones de backlog', capex hyperscalers 2027 ~$1.3T, debate 'pico vs sigue'",
    "peak": "Días de earnings (beat & raise, guía 3T $108 bn)",
    "news": [
+    {
+     "t": "Cierra mixta en una sesion volatil; Apple la supero brevemente como la empresa mas valiosa del mundo (~$5.1 billones cada una) antes de que NVIDIA recuperara el liderato. Microsoft anuncia que desplegara sus propios chips Maia para inferencia (BI: 'ni cerca' de la tecnologia de NVIDIA), un leve viento en contra",
+     "s": "Yahoo Finance / TheStreet",
+     "d": "23-oct",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
+    },
     {
      "t": "Cae ~4% (a ~$212) en el selloff de semiconductores por renovados temores sobre el gasto en IA; retrocede menos que otros chips. Lam Research (-9% tras resultados) lidera la caida del sector",
      "s": "Yahoo Finance / Motley Fool",
@@ -17,12 +23,6 @@
      "s": "Yahoo Finance / Investrade",
      "d": "21-oct",
      "u": "https://investrade.com/market-review-october-21-2026/"
-    },
-    {
-     "t": "Sigue en tendencia bajista (~$213); checks de TD Cowen apuntan a que NVIDIA da soporte crediticio a Oracle (backstops o arrendando capacidad). Reportes: ByteDance/Alibaba/Tencent habrian ordenado >$35 bn en chips RTX PRO 5500 (sin garantia de surtido)",
-     "s": "Investrade / everhint",
-     "d": "20-oct",
-     "u": "https://investrade.com/market-review-october-20-2026/"
     }
    ]
   },
@@ -109,6 +109,12 @@
    "peak": "Día del anuncio de la inversión de NVIDIA",
    "news": [
     {
+     "t": "Recibe de la FCC una exencion de 1 ano para actualizar (software/firmware/hardware) los vehiculos guiados automatizados (AGV) de fabricacion extranjera en sus fabricas de EE.UU.",
+     "s": "TradingKey",
+     "d": "23-oct",
+     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262236830-us-market-close-dow-drop-consumer-healthcare-chips-rebound-crowdstrike-tradingkey"
+    },
+    {
      "t": "Retrocede ~4-5% arrastrada por el selloff general de chips tras los resultados de Lam Research y los temores sobre el gasto en IA",
      "s": "Yahoo Finance",
      "d": "22-oct",
@@ -119,12 +125,6 @@
      "s": "everhint",
      "d": "20-oct",
      "u": "https://www.everhint.com/stock-market-news-october-20-2026-morning-update-last-12-hours-pacific-time/"
-    },
-    {
-     "t": "JPMorgan la sube a Neutral (desde Underweight), PT $85; sube ~4% (premarket) en el rebote de semis",
-     "s": "TheStreet",
-     "d": "19-oct",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-19-2026-nasdaq-futures-climb-as-tech-rebound-from-sell-off"
     }
    ]
   },
@@ -155,6 +155,12 @@
    "peak": "Reporte (sep): blowout con reacción muda",
    "news": [
     {
+     "t": "El CEO ve la oferta de memoria ajustada (tight) durante ~2 anos y confirma que el HBM4 ya esta en produccion de alto volumen",
+     "s": "TradingKey",
+     "d": "23-oct",
+     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262236830-us-market-close-dow-drop-consumer-healthcare-chips-rebound-crowdstrike-tradingkey"
+    },
+    {
      "t": "Retrocede en el selloff de semiconductores/memoria por renovados temores sobre el gasto en IA",
      "s": "Motley Fool",
      "d": "22-oct",
@@ -165,12 +171,6 @@
      "s": "Investrade",
      "d": "21-oct",
      "u": "https://investrade.com/market-review-october-21-2026/"
-    },
-    {
-     "t": "Anuncia inversion en procesamiento de minerales criticos en EE.UU. para reforzar su cadena de suministro domestica de semiconductores",
-     "s": "Investrade",
-     "d": "20-oct",
-     "u": "https://investrade.com/market-review-october-20-2026/"
     }
    ]
   },
@@ -237,6 +237,12 @@
    "peak": "Anuncios de capacidad y relación con OpenAI",
    "news": [
     {
+     "t": "Avanza en su silicio propio: planea desplegar sus chips Maia para inferencia de IA y reducir su dependencia de NVIDIA; Bloomberg Intelligence advierte que Maia esta 'ni cerca' de la tecnologia de NVIDIA/Alphabet",
+     "s": "TheStreet",
+     "d": "23-oct",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-23-2026"
+    },
+    {
      "t": "Cae ~2.2% (a ~$521) en el retroceso tecnologico por temores sobre el gasto en IA y sus retornos",
      "s": "Motley Fool",
      "d": "22-oct",
@@ -247,10 +253,6 @@
      "s": "everhint",
      "d": "20-oct",
      "u": "https://www.everhint.com/stock-market-news-october-20-2026-morning-update-last-12-hours-pacific-time/"
-    },
-    {
-     "t": "Azure superó 100 bn de ingresos anuales; 'demanda mayor que la oferta' (Nadella)",
-     "s": "earnings call"
     }
    ]
   },
@@ -305,6 +307,12 @@
    "peak": "Fichajes de IA y guía de capex",
    "news": [
     {
+     "t": "Recorta parte de las perdidas del jueves (habia caido ~7% tras resultados); analistas notan que mantuvo sin cambios su guia de capex y dio 'muy poco color' sobre sus planes futuros",
+     "s": "Yahoo Finance / TheStreet",
+     "d": "23-oct",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
+    },
+    {
      "t": "Se desploma ~7% (a ~$649) pese a batir en el 3T (ingresos $64 bn; BPA GAAP $3.83 vs $3.56 est.) y anunciar un split 2:1 via nuevas acciones Clase C sin voto (para que Zuckerberg conserve el control ante la Prop 40 de California). Subio el piso de su capex 2026 a $135-145 bn y cito $825 bn en compromisos de gasto; el mercado castiga el gasto en IA",
      "s": "Yahoo Finance",
      "d": "22-oct",
@@ -315,12 +323,6 @@
      "s": "Vistapglobal / Yahoo Finance",
      "d": "21-oct",
      "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-oct-21-065700416.html"
-    },
-    {
-     "t": "Cae >2% a ~$689, 5a sesion consecutiva a la baja, muy por debajo del maximo del 13-oct ($771); reporta 3T el 21-oct tras el cierre",
-     "s": "Investrade",
-     "d": "20-oct",
-     "u": "https://investrade.com/market-review-october-20-2026/"
     }
    ]
   },
@@ -328,6 +330,12 @@
    "trend": "'CoreWeave debt', 'Goldman upgrade', bonos distressed, 'neocloud'; chatter aun elevado",
    "peak": "Día del desplome del ~14% por el salto del rendimiento de sus bonos",
    "news": [
+    {
+     "t": "Sigue entre los neoclouds golpeados por las dudas sobre sus costos de financiamiento; un analisis resume que 'tiene un problema de prestamista, no de clientes'",
+     "s": "TheStreet / Yahoo Finance",
+     "d": "23-oct",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-23-2026"
+    },
     {
      "t": "Cae ~10%: resurgen las preocupaciones por su costo de capital y su balance cargado de deuda para financiar el buildout de data centers",
      "s": "Yahoo Finance",
@@ -339,12 +347,6 @@
      "s": "Investrade",
      "d": "21-oct",
      "u": "https://investrade.com/market-review-october-21-2026/"
-    },
-    {
-     "t": "Nuevo minimo de 52 semanas (~$58): sigue cayendo mientras los inversores examinan la deuda que financia su buildout de data centers; analistas senalan altos costos de financiamiento",
-     "s": "Investrade / everhint",
-     "d": "20-oct",
-     "u": "https://www.everhint.com/stock-market-news-october-20-2026-morning-update-last-12-hours-pacific-time/"
     }
    ]
   },
@@ -375,6 +377,12 @@
    "peak": "Pruebas de Starship y noticias de Starlink",
    "news": [
     {
+     "t": "Rebota +1.89% a $147.49; JPMorgan (Doug Anmuth) dice que no considera emitir acciones y que tiene capacidad de deuda. Bernstein califica de 'decisivo' un reporte de que SpaceX negocia arrendar hasta 80,000 torres celulares. Sigue el debate sobre una posible fusion con Tesla (dudas antimonopolio)",
+     "s": "Yahoo Finance / TradingKey",
+     "d": "23-oct",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
+    },
+    {
      "t": "Cae ~9% (a ~$145), devolviendo mas de la mitad del salto post-earnings del miercoles al venderse las acciones tech; Tesla (-3%) tambien retrocede pese a batir",
      "s": "Yahoo Finance / Motley Fool",
      "d": "22-oct",
@@ -385,12 +393,6 @@
      "s": "CNBC / Yahoo Finance",
      "d": "21-oct",
      "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-oct-21-065700416.html"
-    },
-    {
-     "t": "Baja ~0.45% (premarket ~$145.92); reporta resultados el 20-oct tras el cierre; lanzamiento Bandwagon-5",
-     "s": "TheStreet",
-     "d": "19-oct",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-19-2026-nasdaq-futures-climb-as-tech-rebound-from-sell-off"
     }
    ]
   },
@@ -465,6 +467,12 @@
    "peak": "Movimientos fuertes del Bitcoin",
    "news": [
     {
+     "t": "Presionada por la debilidad cripto: Bitcoin cae a ~$80,800 (por debajo de $82k)",
+     "s": "Yahoo Finance",
+     "d": "23-oct",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
+    },
+    {
      "t": "Baja ~3.6% (cerro el miercoles en $177.08) siguiendo la caida del Bitcoin por debajo de $82k (~$81,711, -2.1%)",
      "s": "Ted Pillows / Substack",
      "d": "22-oct",
@@ -480,6 +488,12 @@
    "trend": "'Saylor', 'MSTR Bitcoin', 'mNAV premium', debate sostenibilidad del apalancamiento",
    "peak": "Movimientos fuertes del BTC",
    "news": [
+    {
+     "t": "Sigue la presion por la caida del Bitcoin (~$80,800, por debajo de $82k)",
+     "s": "Yahoo Finance",
+     "d": "23-oct",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
+    },
     {
      "t": "Cae ~4.9% (tras cerrar el miercoles +7.5% en $153.48), retroceso mas fuerte que Coinbase por la caida del Bitcoin (<$82k)",
      "s": "Ted Pillows / Substack",
@@ -573,6 +587,12 @@
    "peak": "Cada anuncio de acuerdo",
    "news": [
     {
+     "t": "Se hunde ~11.1% pese al 'blowout' del 3T (beat y alza de guia): el mercado castiga el flujo de caja negativo y el alto capex del buildout",
+     "s": "TheStreet",
+     "d": "23-oct",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-23-2026"
+    },
+    {
      "t": "Reporta 3T 2026 (22-oct): trimestre 'blowout' que la afianza como play de infraestructura de IA de alto crecimiento (planes de duplicar capacidad en 2026 hacia ~4x los ingresos de 2025)",
      "s": "Chartmill / io-fund",
      "d": "22-oct",
@@ -583,10 +603,6 @@
      "s": "EconCurrents",
      "d": "12-oct",
      "u": "https://econcurrents.substack.com/p/12-october-2026-market-close-and"
-    },
-    {
-     "t": "Ingresos +165%; Brookfield amplió alianza de $5 bn a $25 bn; energía on-site en meses",
-     "s": "IR"
     }
    ]
   },
