@@ -34,16 +34,30 @@
   ],
   "WDC": [
    {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "22-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/106040/000126682426000217/0001266824-26-000217-index.htm"
+   },
+   {
     "type": "8-K",
     "t": "8-K: Resultados (earnings); Estados financieros/anexos",
     "d": "22-oct",
     "u": "https://www.sec.gov/Archives/edgar/data/106040/000162828026066882/0001628280-26-066882-index.htm"
+   }
+  ],
+  "CRWV": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "22-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000451/0001769628-26-000451-index.htm"
    },
    {
     "type": "Form 4",
     "t": "Form 4",
     "d": "22-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/106040/000126682426000217/0001266824-26-000217-index.htm"
+    "u": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000450/0001769628-26-000450-index.htm"
    }
   ],
   "SPCX": [
