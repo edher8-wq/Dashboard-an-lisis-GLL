@@ -1,5 +1,5 @@
 {
- "updated": "23-oct",
+ "updated": "24-oct",
  "source": "SEC EDGAR",
  "tickers": {
   "META": [
@@ -22,14 +22,6 @@
     "t": "8-K: Acuerdo material nuevo; Estados financieros/anexos",
     "d": "23-oct",
     "u": "https://www.sec.gov/Archives/edgar/data/1835632/000119312526430424/0001193125-26-430424-index.htm"
-   }
-  ],
-  "MU": [
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "20-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/723125/000156823826000003/0001568238-26-000003-index.htm"
    }
   ],
   "SNDK": [
@@ -68,60 +60,6 @@
     "u": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000450/0001769628-26-000450-index.htm"
    }
   ],
-  "SPCX": [
-   {
-    "type": "8-K",
-    "t": "8-K: Resultados (earnings); Estados financieros/anexos",
-    "d": "20-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/0001628280-26-066482-index.htm"
-   }
-  ],
-  "UPST": [
-   {
-    "type": "8-K",
-    "t": "8-K: Acuerdo material nuevo; Deuda/obligacion material",
-    "d": "20-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1647639/000164763926000071/0001647639-26-000071-index.htm"
-   }
-  ],
-  "UBER": [
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "20-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1543151/000211186726000014/0002111867-26-000014-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "20-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1543151/000207176126000013/0002071761-26-000013-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "20-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1543151/000162620126000023/0001626201-26-000023-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "20-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1543151/000177529726000014/0001775297-26-000014-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "20-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1543151/000152532126000011/0001525321-26-000011-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "20-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1543151/000109035526000009/0001090355-26-000009-index.htm"
-   }
-  ],
   "BE": [
    {
     "type": "8-K",
@@ -150,20 +88,6 @@
     "t": "Form 4",
     "d": "22-oct",
     "u": "https://www.sec.gov/Archives/edgar/data/1849056/000214679026000023/0002146790-26-000023-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "20-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1849056/000214679026000021/0002146790-26-000021-index.htm"
-   }
-  ],
-  "MMS": [
-   {
-    "type": "8-K",
-    "t": "8-K: Acuerdo material nuevo; Resultados (earnings); Regulation FD (divulgacion); Estados financieros/anexos",
-    "d": "20-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1032220/000103222026000038/0001032220-26-000038-index.htm"
    }
   ],
   "LUMN": [
