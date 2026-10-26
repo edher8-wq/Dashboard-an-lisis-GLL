@@ -1,109 +1,89 @@
 {
- "updated": "23-oct",
+ "updated": "26-oct",
  "source": "IBKR opciones + social + analistas",
  "tickers": {
   "NVDA": [
    {
     "type": "Opciones",
-    "t": "IV anual 42% vs HV 31% (ratio 1.34) - salto de volatilidad",
-    "d": "23-oct"
+    "t": "IV anual 41% vs HV 31% (ratio 1.31) - salto de volatilidad",
+    "d": "26-oct"
+   }
+  ],
+  "MSFT": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 33% vs HV 25% (ratio 1.32) - salto de volatilidad (earnings 28-oct)",
+    "d": "26-oct"
    }
   ],
   "AMZN": [
    {
     "type": "Opciones",
-    "t": "IV anual 44% vs HV 26% (ratio 1.66) - salto de volatilidad (earnings 29-oct)",
-    "d": "23-oct"
+    "t": "IV anual 44% vs HV 26% (ratio 1.69) - salto de volatilidad (earnings 29-oct)",
+    "d": "26-oct"
    }
   ],
   "WYFI": [
    {
     "type": "Opciones",
-    "t": "IV anual 123% vs HV 85% (ratio 1.45) - volatilidad extrema (nombre pequeno)",
-    "d": "23-oct"
+    "t": "IV anual 127% vs HV 84% (ratio 1.50) - volatilidad extrema (nombre pequeno)",
+    "d": "26-oct"
    }
   ],
   "IREN": [
    {
     "type": "Opciones",
     "t": "IV anual 111% vs HV 82% (ratio 1.35) - volatilidad extrema (play data center IA)",
-    "d": "23-oct"
+    "d": "26-oct"
    }
   ],
   "PLTR": [
    {
     "type": "Opciones",
-    "t": "IV anual 65% vs HV 43% (ratio 1.51) - salto de volatilidad (earnings principios nov)",
-    "d": "23-oct"
+    "t": "IV anual 64% vs HV 43% (ratio 1.48) - salto de volatilidad (earnings principios nov)",
+    "d": "26-oct"
    }
   ],
   "UPST": [
    {
     "type": "Opciones",
-    "t": "IV anual 76% vs HV 48% (ratio 1.57) - fuerte salto de volatilidad (earnings proximos)",
-    "d": "23-oct"
+    "t": "IV anual 78% vs HV 47% (ratio 1.67) - fuerte salto de volatilidad (earnings proximos)",
+    "d": "26-oct"
    }
   ],
   "PYPL": [
    {
     "type": "Opciones",
-    "t": "IV anual 45% vs HV 27% (ratio 1.67) - salto de volatilidad (earnings fin de oct)",
-    "d": "23-oct"
+    "t": "Volumen de puts 3.4x su promedio (cobertura/bajista) + IV anual 46% vs HV 27% (ratio 1.70) de cara a resultados",
+    "d": "26-oct"
    }
   ],
   "UBER": [
    {
     "type": "Opciones",
     "t": "IV anual 43% vs HV 24% (ratio 1.81) - fuerte salto de volatilidad (earnings proximos)",
-    "d": "23-oct"
+    "d": "26-oct"
    }
   ],
   "APP": [
    {
     "type": "Opciones",
-    "t": "IV anual 83% vs HV 50% (ratio 1.65) - fuerte salto de volatilidad (earnings proximos)",
-    "d": "23-oct"
-   }
-  ],
-  "BE": [
-   {
-    "type": "Opciones",
-    "t": "Volumen de calls 2.9x su promedio (228k vs 80k) - fuerte apetito alcista tras el 'blowout' del 3T",
-    "d": "23-oct"
-   },
-   {
-    "type": "Social",
-    "t": "Chatter de retail elevado tras el 'blowout' del 3T y la caida ~11%; volumen de calls disparado (ver Opciones)",
-    "d": "23-oct",
-    "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-23-2026"
+    "t": "IV anual 81% vs HV 50% (ratio 1.63) - fuerte salto de volatilidad (earnings proximos)",
+    "d": "26-oct"
    }
   ],
   "FSLR": [
    {
     "type": "Opciones",
-    "t": "IV anual 61% vs HV 44% (ratio 1.40) - salto de volatilidad",
-    "d": "23-oct"
+    "t": "IV anual 59% vs HV 43% (ratio 1.37) - salto de volatilidad (earnings 29-oct)",
+    "d": "26-oct"
    }
   ],
   "HIMS": [
    {
     "type": "Opciones",
-    "t": "IV anual 90% vs HV 66% (ratio 1.35) - salto de volatilidad",
-    "d": "23-oct"
-   }
-  ],
-  "SLS": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 145% vs HV 81% (ratio 1.79) - volatilidad extrema (catalizador clinico binario)",
-    "d": "23-oct"
-   }
-  ],
-  "HD": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 34% vs HV 25% (ratio 1.33) - salto de volatilidad relativo (nombre defensivo)",
-    "d": "23-oct"
+    "t": "IV anual 88% vs HV 67% (ratio 1.32) - salto de volatilidad",
+    "d": "26-oct"
    }
   ]
  }
