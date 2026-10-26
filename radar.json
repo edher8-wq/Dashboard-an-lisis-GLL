@@ -1,21 +1,7 @@
 {
- "updated": "24-oct",
+ "updated": "26-oct",
  "source": "SEC EDGAR",
  "tickers": {
-  "META": [
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "21-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326015980/0000950103-26-015980-index.htm"
-   },
-   {
-    "type": "8-K",
-    "t": "8-K: Acuerdo material nuevo; Resultados (earnings); Otros eventos relevantes; Estados financieros/anexos",
-    "d": "21-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/0001628280-26-066700-index.htm"
-   }
-  ],
   "MRVL": [
    {
     "type": "8-K",
@@ -24,48 +10,28 @@
     "u": "https://www.sec.gov/Archives/edgar/data/1835632/000119312526430424/0001193125-26-430424-index.htm"
    }
   ],
-  "SNDK": [
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "22-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/2023554/000124264826000047/0001242648-26-000047-index.htm"
-   }
-  ],
-  "WDC": [
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "22-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/106040/000126682426000217/0001266824-26-000217-index.htm"
-   },
+  "SPCX": [
    {
     "type": "8-K",
-    "t": "8-K: Resultados (earnings); Estados financieros/anexos",
-    "d": "22-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/106040/000162828026066882/0001628280-26-066882-index.htm"
+    "t": "8-K: Otros eventos relevantes",
+    "d": "26-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1181412/000110465926118614/0001104659-26-118614-index.htm"
    }
   ],
-  "CRWV": [
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "22-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000451/0001769628-26-000451-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "22-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000450/0001769628-26-000450-index.htm"
-   }
-  ],
-  "BE": [
+  "MSTR": [
    {
     "type": "8-K",
-    "t": "8-K: Resultados (earnings); Regulation FD (divulgacion); Estados financieros/anexos",
-    "d": "22-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026066890/0001628280-26-066890-index.htm"
+    "t": "8-K: Regulation FD (divulgacion); Otros eventos relevantes",
+    "d": "26-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526431146/0001193125-26-431146-index.htm"
+   }
+  ],
+  "VRT": [
+   {
+    "type": "8-K",
+    "t": "8-K: Regulation FD (divulgacion); Estados financieros/anexos",
+    "d": "26-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1674101/000162828026067127/0001628280-26-067127-index.htm"
    }
   ],
   "NEE": [
@@ -74,20 +40,6 @@
     "t": "Form 4",
     "d": "23-oct",
     "u": "https://www.sec.gov/Archives/edgar/data/753308/000195991026000008/0001959910-26-000008-index.htm"
-   },
-   {
-    "type": "8-K",
-    "t": "8-K: Resultados (earnings); Estados financieros/anexos",
-    "d": "21-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/753308/000075330826000077/0000753308-26-000077-index.htm"
-   }
-  ],
-  "OKLO": [
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "22-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1849056/000214679026000023/0002146790-26-000023-index.htm"
    }
   ],
   "LUMN": [
