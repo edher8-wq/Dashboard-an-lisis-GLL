@@ -10,6 +10,14 @@
     "u": "https://www.sec.gov/Archives/edgar/data/1181412/000110465926118614/0001104659-26-118614-index.htm"
    }
   ],
+  "PYPL": [
+   {
+    "type": "8-K",
+    "t": "8-K: Resultados (earnings); Estados financieros/anexos",
+    "d": "27-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000086/0001633917-26-000086-index.htm"
+   }
+  ],
   "MSTR": [
    {
     "type": "8-K",
@@ -19,6 +27,12 @@
    }
   ],
   "VRT": [
+   {
+    "type": "8-K",
+    "t": "8-K: Adquisicion/venta completada; Regulation FD (divulgacion); Estados financieros/anexos",
+    "d": "27-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1674101/000162828026067393/0001628280-26-067393-index.htm"
+   },
    {
     "type": "8-K",
     "t": "8-K: Regulation FD (divulgacion); Estados financieros/anexos",
