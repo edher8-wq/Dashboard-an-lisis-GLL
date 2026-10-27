@@ -1,11 +1,17 @@
 {
- "updated": "26-oct",
- "note": "Refresco diario. Jornada 26-oct (lunes): Wall Street arranca la semana al alza -Nasdaq +0.82% a 26,169; S&P 500 +0.70% a 7,677; Dow +0.28% a 52,362- impulsada por el anuncio de salida a bolsa de Anthropic (presento su prospecto ante la SEC para cotizar en Nasdaq como 'ANT'; algunos inversores la valoran cerca de $1.5 billones, abajo desde ~$2 billones hace una semana) y la expectativa por una semana cargada: resultados de las megacaps tecnologicas (Microsoft, Alphabet y ServiceNow el miercoles 28; Amazon, Coinbase, First Solar y Caterpillar el jueves 29) y la reunion de la Fed (28-29 oct). Meta cae ~1.7% tras anunciar un plan para levantar ~$95 mil millones en capital (~$22.5B Clase A, $12.5B preferentes y ~$60B venta ATM Clase C) para financiar IA; NVIDIA, AMD y Broadcom figuran como posibles compradores de hasta $5B en sus acciones. El SOX rebota +3% (aunque sigue ~-12% en octubre). Los 'neoclouds' (CoreWeave, IREN) se vuelven volatiles tras la advertencia de Elon Musk sobre el cierre de financiamiento a data centers de IA sin ingresos propios; SpaceX asegura $40B en deuda para GPUs. Bloom Energy salta ~7.5%. El bono a 10 anos ~4.97%; el petroleo cae (WTI ~$101.8, -1.5%) por menor tension con Iran; el oro sube a ~$4,038. Las emisoras sin novedad conservan su research previo.",
+ "updated": "27-oct",
+ "note": "Refresco diario. Jornada 27-oct (martes): Wall Street sube liderado por la IA y los semiconductores -Nasdaq +1.18% a 26,478; S&P 500 +0.60% a 7,723; Dow casi plano +0.03% a 52,378 (lastrado por Boeing); Russell 2000 +1.16%-. El catalizador fue el acuerdo de financiamiento Broadcom-Anthropic (un SPV respaldado por BofA, BlackRock, Citi y Morgan Stanley financia compras de chips de Broadcom arrendados a Anthropic, con 'residual value support' de Broadcom), que alivio los temores sobre como se pagara el buildout de IA e impulso a los chips: AVGO +4.6% (y upgrade de DA Davidson a Buy, PT $400 desde $350), AMD +4%, WDC +6.2%, INTC +3.4%, Seagate +3.9%. NVIDIA (+0.9% a ~$218) anuncio un plan para invertir $3 mil millones en Meta y presento su diseno de referencia DSX POD (reduce el despliegue de data centers de 6 meses a 14 dias). La confianza del consumidor sorprendio al alza (91.7 vs 80.4 est.) y los pedidos de bienes durables subieron 1.8%. Arranca la reunion de la Fed (27-28 oct; decision el miercoles 2pm ET, sin cambios esperados; el mercado da ~83% de probabilidad a un alza en diciembre). El gobierno ofrecio hasta $5B de financiamiento condicional a Constellation (CEG) para modernizar su flota nuclear (~1.1 GW) y aprobo tres proyectos eolicos (NEE/GE Vernova al alza). Semana cargada de earnings: Microsoft, Alphabet y ServiceNow el miercoles 28; Amazon, Coinbase, First Solar y Caterpillar el jueves 29. PayPal reporto 3T (beat en BPA, ingresos $8.58B por debajo del estimado, subio guia de BPA a ~$5.60 y recorto miles de empleos). Bitcoin rebota levemente a ~$80,600. El bono a 10 anos ~4.99%; el petroleo baja (WTI ~$99.9). Las emisoras sin novedad conservan su research previo.",
  "tickers": {
   "NVDA": {
    "trend": "'$2 billones de backlog', capex hyperscalers 2027 ~$1.3T, debate 'pico vs sigue'",
    "peak": "Días de earnings (beat & raise, guía 3T $108 bn)",
    "news": [
+    {
+     "t": "Sube ~0.9% a ~$217.94 en el rebote de semiconductores por el acuerdo de financiamiento Broadcom-Anthropic. Anuncia un plan para invertir $3 mil millones en Meta y presenta su diseno de referencia DSX POD (reduce el despliegue de data centers de 6 meses a 14 dias)",
+     "s": "VistaP Global",
+     "d": "27-oct",
+     "u": "https://vistapglobal.com/stock-market-today-october-27-2026-nasdaq-gains-1-18-as-ai-stocks-lead-ahead-of-wednesdays-fed-decision-amwl-ceg-eprx-googl-hood-ko-meta-modd-msft-nvda-orcl-rcl-ser-ups"
+    },
     {
      "t": "Meta la nombra (junto con AMD y Broadcom) como posible comprador de hasta $5 mil millones en sus acciones Clase A; WSJ: NVIDIA y Micron concentran ~34% del 'boom' de ganancias corporativas de EE.UU.",
      "s": "Investrade",
@@ -17,12 +23,6 @@
      "s": "Yahoo Finance / TheStreet",
      "d": "23-oct",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
-    },
-    {
-     "t": "Cae ~4% (a ~$212) en el selloff de semiconductores por renovados temores sobre el gasto en IA; retrocede menos que otros chips. Lam Research (-9% tras resultados) lidera la caida del sector",
-     "s": "Yahoo Finance / Motley Fool",
-     "d": "22-oct",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"
     }
    ]
   },
@@ -69,6 +69,12 @@
    "peak": "Día del anuncio del acuerdo con OpenAI",
    "news": [
     {
+     "t": "Sube ~4% con el rally de chips tras el acuerdo de financiamiento Broadcom-Anthropic (SPV de BofA/BlackRock/Citi/Morgan Stanley que arrienda hardware a Anthropic), que alivia las dudas sobre como se financiara la expansion de IA",
+     "s": "World Today Journal",
+     "d": "27-oct",
+     "u": "https://world-today-journal.com/nasdaq-rises-as-broadcoms-anthropic-deal-boosts-chip-stocks/"
+    },
+    {
      "t": "Meta la incluye (con NVIDIA y Broadcom) como posible comprador de hasta $5 mil millones en sus acciones Clase A para financiar su expansion de IA",
      "s": "Investrade",
      "d": "26-oct",
@@ -79,12 +85,6 @@
      "s": "Yahoo Finance",
      "d": "22-oct",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"
-    },
-    {
-     "t": "Rebota con el sector de chips (SOX +1.61%, 26/30 al alza) tras el desplome del viernes",
-     "s": "TradingKey / TheStreet",
-     "d": "19-oct",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-19-2026-nasdaq-futures-climb-as-tech-rebound-from-sell-off"
     }
    ]
   },
@@ -109,6 +109,12 @@
    "peak": "Día del anuncio de la inversión de NVIDIA",
    "news": [
     {
+     "t": "Sube ~3.4% con el rebote de semiconductores tras el acuerdo de financiamiento Broadcom-Anthropic",
+     "s": "World Today Journal",
+     "d": "27-oct",
+     "u": "https://world-today-journal.com/nasdaq-rises-as-broadcoms-anthropic-deal-boosts-chip-stocks/"
+    },
+    {
      "t": "Recibe de la FCC una exencion de 1 ano para actualizar (software/firmware/hardware) los vehiculos guiados automatizados (AGV) de fabricacion extranjera en sus fabricas de EE.UU.",
      "s": "TradingKey",
      "d": "23-oct",
@@ -119,12 +125,6 @@
      "s": "Yahoo Finance",
      "d": "22-oct",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"
-    },
-    {
-     "t": "~$91.55, sobrevendida tras una ruptura de doble techo; el rebote de semis pierde impulso en una sesion de rotacion defensiva",
-     "s": "everhint",
-     "d": "20-oct",
-     "u": "https://www.everhint.com/stock-market-news-october-20-2026-morning-update-last-12-hours-pacific-time/"
     }
    ]
   },
@@ -203,6 +203,12 @@
    "peak": "Upgrades de analistas y datos de pricing",
    "news": [
     {
+     "t": "Sube ~6.2%, lider del rebote de almacenamiento/chips, impulsada por el acuerdo Broadcom-Anthropic que descomprime el financiamiento del buildout de IA",
+     "s": "World Today Journal",
+     "d": "27-oct",
+     "u": "https://world-today-journal.com/nasdaq-rises-as-broadcoms-anthropic-deal-boosts-chip-stocks/"
+    },
+    {
      "t": "Reporta 1T FY27 (22-oct): bate estimaciones y eleva su guia, pero la accion cae (premarket/intradia) por toma de ganancias tras el fuerte run-up; la guia se percibe como insuficientemente superior",
      "s": "finviz / Tiger Brokers",
      "d": "22-oct",
@@ -213,12 +219,6 @@
      "s": "TheStreet",
      "d": "19-oct",
      "u": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-19-2026-nasdaq-futures-climb-as-tech-rebound-from-sell-off"
-    },
-    {
-     "t": "Cae ~6.86% en el selloff de memoria/almacenamiento por los avances de CXMT en China",
-     "s": "TradingKey",
-     "d": "16-oct",
-     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
     }
    ]
   },
@@ -237,6 +237,12 @@
    "peak": "Resultados miercoles 28-oct (AMC)",
    "news": [
     {
+     "t": "Reporta 1T fiscal el miercoles 28-oct tras el cierre; foco en el capex de IA (~$45.9B) y Azure; consenso BPA ~$4.27 e ingresos ~$90.6B",
+     "s": "VistaP Global",
+     "d": "27-oct",
+     "u": "https://vistapglobal.com/stock-market-today-october-27-2026-nasdaq-gains-1-18-as-ai-stocks-lead-ahead-of-wednesdays-fed-decision-amwl-ceg-eprx-googl-hood-ko-meta-modd-msft-nvda-orcl-rcl-ser-ups"
+    },
+    {
      "t": "Reporta resultados del 1T fiscal el miercoles 28-oct tras el cierre (llamada 5:30pm ET); foco en Azure y capex de IA",
      "s": "StockTitan",
      "d": "26-oct",
@@ -247,12 +253,6 @@
      "s": "TheStreet",
      "d": "23-oct",
      "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-23-2026"
-    },
-    {
-     "t": "Cae ~2.2% (a ~$521) en el retroceso tecnologico por temores sobre el gasto en IA y sus retornos",
-     "s": "Motley Fool",
-     "d": "22-oct",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-oct-22-164714116.html"
     }
    ]
   },
@@ -260,6 +260,12 @@
    "trend": "'Gemini 3', 'Google TPU', 'Cloud acceleration', giro de 'search is dead' a 'Google wins AI'",
    "peak": "Resultados miercoles 28-oct (AMC)",
    "news": [
+    {
+     "t": "Reporta resultados el miercoles 28-oct tras el cierre; consenso BPA ~$3.01 e ingresos ~$127.8B (Google Cloud ~$28.9B). Oracle desplegara las TPU de Alphabet en su infraestructura (nuevo canal comercial para su silicio)",
+     "s": "VistaP Global",
+     "d": "27-oct",
+     "u": "https://vistapglobal.com/stock-market-today-october-27-2026-nasdaq-gains-1-18-as-ai-stocks-lead-ahead-of-wednesdays-fed-decision-amwl-ceg-eprx-googl-hood-ko-meta-modd-msft-nvda-orcl-rcl-ser-ups"
+    },
     {
      "t": "Reporta resultados el miercoles 28-oct tras el cierre (llamada 4:30pm ET); foco en Google Cloud y Gemini",
      "s": "StockTitan",
@@ -271,12 +277,6 @@
      "s": "Motley Fool",
      "d": "22-oct",
      "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-oct-22-164714116.html"
-    },
-    {
-     "t": "Nombrada entre las big tech cuya caja podria tensarse por el gasto en data centers (temor de burbuja de IA)",
-     "s": "TradingKey",
-     "d": "16-oct",
-     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
     }
    ]
   },
@@ -309,6 +309,12 @@
    "peak": "Fichajes de IA y guía de capex",
    "news": [
     {
+     "t": "NVIDIA anuncia un plan para invertir $3 mil millones en Meta (ampliando su colaboracion en torno a los modelos Muse AI); Meta eleva su oferta de acciones comunes a ~$25 mil millones (desde $22.5B) a $625/accion dentro de su plan de ~$95-97.5B para financiar IA",
+     "s": "VistaP Global / Investrade",
+     "d": "27-oct",
+     "u": "https://vistapglobal.com/stock-market-today-october-27-2026-nasdaq-gains-1-18-as-ai-stocks-lead-ahead-of-wednesdays-fed-decision-amwl-ceg-eprx-googl-hood-ko-meta-modd-msft-nvda-orcl-rcl-ser-ups"
+    },
+    {
      "t": "Anuncia un plan para levantar ~$95 mil millones en capital (~$22.5B Clase A, $12.5B preferentes y ~$60B venta ATM Clase C) para financiar infraestructura de IA; la accion cae ~1.7%",
      "s": "TheStreet/Investrade",
      "d": "26-oct",
@@ -319,12 +325,6 @@
      "s": "Yahoo Finance / TheStreet",
      "d": "23-oct",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
-    },
-    {
-     "t": "Se desploma ~7% (a ~$649) pese a batir en el 3T (ingresos $64 bn; BPA GAAP $3.83 vs $3.56 est.) y anunciar un split 2:1 via nuevas acciones Clase C sin voto (para que Zuckerberg conserve el control ante la Prop 40 de California). Subio el piso de su capex 2026 a $135-145 bn y cito $825 bn en compromisos de gasto; el mercado castiga el gasto en IA",
-     "s": "Yahoo Finance",
-     "d": "22-oct",
-     "u": "https://finance.yahoo.com/technology/article/meta-stock-drops-more-than-6-despite-strong-q3-results-stock-split-151218152.html"
     }
    ]
   },
@@ -332,6 +332,12 @@
    "trend": "'CoreWeave debt', 'Goldman upgrade', bonos distressed, 'neocloud'; chatter aun elevado",
    "peak": "Día del desplome del ~14% por el salto del rendimiento de sus bonos",
    "news": [
+    {
+     "t": "Rebota con los nombres de data center/'neocloud' por el alivio sobre el financiamiento del buildout de IA (acuerdo Broadcom-Anthropic) y comentarios de Celestica (CLS)",
+     "s": "Investrade",
+     "d": "27-oct",
+     "u": "https://investrade.com/market-review-october-27-2026/"
+    },
     {
      "t": "El grupo de 'neoclouds' se vuelve volatil tras advertencia de Elon Musk de que los mercados de deuda cerraron el financiamiento a operadores de data centers de IA sin ingresos propios; CRWV cae y luego rebota",
      "s": "Investrade",
@@ -343,12 +349,6 @@
      "s": "TheStreet / Yahoo Finance",
      "d": "23-oct",
      "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-23-2026"
-    },
-    {
-     "t": "Cae ~10%: resurgen las preocupaciones por su costo de capital y su balance cargado de deuda para financiar el buildout de data centers",
-     "s": "Yahoo Finance",
-     "d": "22-oct",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"
     }
    ]
   },
@@ -356,6 +356,12 @@
    "trend": "'IREN AI pivot', 'Bitcoin miner to AI', 'data center power'",
    "peak": "Anuncios de contratos de IA Cloud",
    "news": [
+    {
+     "t": "Rebota con los 'neoclouds'/data center en la sesion de recuperacion de la IA",
+     "s": "Investrade",
+     "d": "27-oct",
+     "u": "https://investrade.com/market-review-october-27-2026/"
+    },
     {
      "t": "Arrastrada por la volatilidad de los 'neoclouds' tras la advertencia de Musk sobre el financiamiento de data centers de IA",
      "s": "Investrade",
@@ -367,12 +373,6 @@
      "s": "Investrade",
      "d": "21-oct",
      "u": "https://investrade.com/market-review-october-21-2026/"
-    },
-    {
-     "t": "Cae ~8.5% arrastrada por la debilidad de los nombres de IA/data center y el alza de rendimientos",
-     "s": "Benzinga",
-     "d": "14-oct",
-     "u": "https://www.benzinga.com/markets/equities/26/10/62360140/nasdaq-100-drops-1-on-hot-cpi-soxx-falls-7th-day-stock-market-today"
     }
    ]
   },
@@ -461,6 +461,12 @@
    "peak": "Resultados (esperado) martes 27-oct",
    "news": [
     {
+     "t": "Reporta 3T 2026 (27-oct): BPA ajustado por encima de lo esperado (beat) pero ingresos $8.58 mil millones por debajo del estimado (~$8.71B); TPV $487.14B con crecimiento de Venmo; sube su guia de BPA ajustado 2026 a ~$5.60 (desde $5.38) y anuncia recorte de miles de empleos con apuesta por IA",
+     "s": "Investrade / Benzinga",
+     "d": "27-oct",
+     "u": "https://investrade.com/market-review-october-27-2026/"
+    },
+    {
      "t": "Interés de adquisición (Stripe+Advent ~$53 bn); foco en margen de transacción y recompras",
      "s": "prensa"
     }
@@ -531,6 +537,12 @@
    "peak": "Anuncios de PPAs y avances regulatorios",
    "news": [
     {
+     "t": "El gobierno de EE.UU. ofrece hasta $5 mil millones en financiamiento condicional para modernizar su flota nuclear (Illinois/Maryland/Pensilvania), que anadiria ~1.1 GW de capacidad",
+     "s": "VistaP Global / Investrade",
+     "d": "27-oct",
+     "u": "https://vistapglobal.com/stock-market-today-october-27-2026-nasdaq-gains-1-18-as-ai-stocks-lead-ahead-of-wednesdays-fed-decision-amwl-ceg-eprx-googl-hood-ko-meta-modd-msft-nvda-orcl-rcl-ser-ups"
+    },
+    {
      "t": "Mayor flota nuclear de EE.UU. + Calpine ($26.6 bn); PPAs a 15-20 años con hyperscalers",
      "s": "IR"
     }
@@ -550,6 +562,12 @@
    "trend": "'gas turbine shortage', 'GE Vernova grid', 'power demand AI'",
    "peak": "Resultados miercoles 28-oct (BMO)",
    "news": [
+    {
+     "t": "Sube con las renovables tras la aprobacion de tres proyectos eolicos; reporta resultados el miercoles 28-oct (BMO)",
+     "s": "Investrade",
+     "d": "27-oct",
+     "u": "https://investrade.com/market-review-october-27-2026/"
+    },
     {
      "t": "Backlog $176 bn; guía FY26 elevada; turbinas de gas prácticamente agotadas por años",
      "s": "IR"
@@ -621,6 +639,12 @@
    "peak": "Guía y datos de demanda",
    "news": [
     {
+     "t": "Sube con las renovables despues de que el gobierno aprobara tres proyectos eolicos estancados",
+     "s": "Investrade",
+     "d": "27-oct",
+     "u": "https://investrade.com/market-review-october-27-2026/"
+    },
+    {
      "t": "3T 2026 (reportado 21-oct): utilidad ajustada por accion por encima de estimaciones (beat); reafirma su trayectoria de crecimiento de EPS",
      "s": "RTTNews / AOL",
      "d": "21-oct",
@@ -631,10 +655,6 @@
      "s": "moomoo",
      "d": "21-oct",
      "u": "https://www.moomoo.com/community/feed/wednesday-market-update-october-21-2026-117477748834310"
-    },
-    {
-     "t": "Subió guía de crecimiento de EPS a 8%+; ~12 GW en pláticas de gran carga",
-     "s": "IR"
     }
    ]
   },
