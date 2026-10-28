@@ -4,6 +4,12 @@
  "tickers": {
   "GOOGL": [
    {
+    "type": "8-K",
+    "t": "8-K: Resultados (earnings); Estados financieros/anexos",
+    "d": "28-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/0001652044-26-000080-index.htm"
+   },
+   {
     "type": "Form 4",
     "t": "Form 4",
     "d": "27-oct",
@@ -32,12 +38,34 @@
     "t": "Form 4",
     "d": "27-oct",
     "u": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526434837/0001193125-26-434837-index.htm"
+   }
+  ],
+  "MSFT": [
+   {
+    "type": "8-K",
+    "t": "8-K: Otros eventos relevantes; Estados financieros/anexos",
+    "d": "28-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436149/0001193125-26-436149-index.htm"
+   },
+   {
+    "type": "8-K",
+    "t": "8-K: Resultados (earnings); Estados financieros/anexos",
+    "d": "28-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436122/0001193125-26-436122-index.htm"
+   }
+  ],
+  "META": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "28-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326016314/0000950103-26-016314-index.htm"
    },
    {
     "type": "Form 4",
     "t": "Form 4",
-    "d": "27-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526434831/0001193125-26-434831-index.htm"
+    "d": "28-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326016313/0000950103-26-016313-index.htm"
    }
   ],
   "SPCX": [
@@ -46,6 +74,20 @@
     "t": "8-K: Otros eventos relevantes",
     "d": "26-oct",
     "u": "https://www.sec.gov/Archives/edgar/data/1181412/000110465926118614/0001104659-26-118614-index.htm"
+   }
+  ],
+  "NOW": [
+   {
+    "type": "8-K",
+    "t": "8-K: Resultados (earnings); Estados financieros/anexos",
+    "d": "28-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000095/0001373715-26-000095-index.htm"
+   },
+   {
+    "type": "8-K",
+    "t": "8-K: Resultados (earnings); Estados financieros/anexos",
+    "d": "28-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000092/0001373715-26-000092-index.htm"
    }
   ],
   "PYPL": [
