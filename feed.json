@@ -1,6 +1,6 @@
 {
- "updated": "28-oct",
- "note": "Refresco diario. Jornada 28-oct (miercoles): Wall Street cierra al alza con el S&P 500 en RECORD a 7,743.98 (+0.28%); Nasdaq +0.27% a 26,549.85; Dow +0.19% a 52,475.10. La Fed mantuvo las tasas sin cambios en un voto dividido 10-2; el presidente Kevin Warsh reafirmo el compromiso con bajar la inflacion y dijo que la politica 'no jugo ningun papel', dejando la decision de diciembre dependiente de los datos. El Treasury a 10 anos subio a ~5.02%. Energia lidero; real estate y utilities cayeron. SK Hynix se disparo +13.3% tras resultados record del 3T (utilidad operativa x7, margen 80%, DRAM/HBM 'agotados' hasta 2029) e impulso la memoria: Micron +5.9% (~$983), Sandisk +7.7% (~$1,405). Oracle +11% tras su investor day; Vertiv +17% por el optimismo en infraestructura de IA. Tras el cierre reportaron las big tech: Microsoft batio (ingresos $92.3B +19%, BPA aj. $4.89, Azure +48% vs 44% est., capex $45.2B por debajo de lo esperado) y subio ~2% AH; Alphabet batio en nube (Google Cloud +103% a $30.7B) pero cayo ~8% AH por utilidad operativa ($40.6B) e ingresos ligeramente por debajo y mayor cash burn (FCF -$9.1B); ServiceNow se desplomo ~17% pese a ingresos en linea ($4.11B, +20.5%) por BPA aj. por debajo ($1.00 vs $1.02) y escepticismo sobre la disrupcion por IA. GE Vernova batio (+3.7%): ~$30B en pedidos, backlog de $176B hacia ~$200B, compra Trench Group por $9B y doblo su recompra a $20B. Bitcoin rebota levemente a ~$81,200 (+0.5%). Manana (jueves 29): Amazon, Coinbase, First Solar, Caterpillar e Intel reportan. Las emisoras sin novedad conservan su research previo.",
+ "updated": "29-oct",
+ "note": "Refresco diario. Jornada 29-oct (jueves): Wall Street rompe su racha de 6 cierres record y retrocede - S&P 500 7,720.39 (-0.31%), Nasdaq 26,184.72 (-1.38%) y Dow 52,342.56 (-0.25%) - lastrado por las big tech. Alphabet se hunde ~12.3% (a ~$282), el mayor lastre del Nasdaq, en el coletazo de sus resultados del 28-oct (mayor cash burn de IA, FCF -$9.1B). Dia cargado de resultados. Antes de abrir, Caterpillar batio pero cayo ~9% (ingresos record $20.68B +17%; sin guia numerica; Power Generation +30% por data centers). Tras el cierre reportaron: Amazon (ingresos $201.9B +12% algo por debajo; BPA $1.89 miss; AWS +39% a $46B acelerando y proyecta >40% en 2027-28; capex 2026 ~$220B) cerro -4.25% a $243.79 y cayo mas AH por el capex/guia pese al salto de AWS; Intel se desploma ~18% (batio el 3T con ingresos $16.51B +21% y BPA aj. $0.52, pero guia 4T floja ~$15.5B vs $17.0B est.); Coinbase (BPA GAAP $2.51 inflado por $715M de ganancia mark-to-market en cripto; ingresos $1.22B ~en linea pero -35% interanual por baja volatilidad; suscripciones +3% a $570M); First Solar (BPA beat, ingresos miss, guia de ventas suave y recompra de $500M). La Fed (decision del 28-oct) mantuvo tasas en voto dividido con diciembre dependiente de datos y Powell/Warsh moderaron las expectativas de recorte. Bitcoin cae ~2.6% a ~$78,964. Las emisoras sin novedad conservan su research previo.",
  "tickers": {
   "NVDA": {
    "trend": "'$2 billones de backlog', $3B en la oferta de Meta (Vera Rubin), capex hyperscalers, debate 'pico vs sigue'",
@@ -106,8 +106,14 @@
   },
   "INTC": {
    "trend": "'Intel government stake', alianza con Oracle (Xeon/X14), '18A', 'turnaround'",
-   "peak": "Dia del anuncio de la inversion de NVIDIA",
+   "peak": "Resultados 29-oct (AMC): -18%",
    "news": [
+    {
+     "t": "Reporta 3T tras el cierre y se desploma ~18% (a ~$76): ingresos $16.51B (+20.9% interanual, bate $16.42B est.) y BPA ajustado $0.52 (vs $0.40 est.), con margen operativo 15.3% (desde 5%). Pero la guia 4T decepciona: ingresos ~$15.5B (vs $17.02B est.) y BPA aj. ~$0.25 (vs $0.44 est.); el CEO Lip-Bu Tan cita demanda 'extraordinaria' por los Xeon",
+     "s": "StockStory / FinancialContent",
+     "d": "29-oct",
+     "u": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-29-intel-nasdaqintc-posts-better-than-expected-sales-in-q3-but-stock-drops-182"
+    },
     {
      "t": "Amplia su alianza multianual con Oracle (mas capacidad Xeon para Oracle Cloud Infrastructure y futuros X14 con procesadores Diamond Rapids). Reporta resultados del 3T manana 29-oct tras el cierre",
      "s": "TipRanks",
@@ -119,12 +125,6 @@
      "s": "World Today Journal",
      "d": "27-oct",
      "u": "https://world-today-journal.com/nasdaq-rises-as-broadcoms-anthropic-deal-boosts-chip-stocks/"
-    },
-    {
-     "t": "Recibe de la FCC una exencion de 1 ano para actualizar los vehiculos guiados automatizados (AGV) de fabricacion extranjera en sus fabricas de EE.UU.",
-     "s": "TradingKey",
-     "d": "23-oct",
-     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262236830-us-market-close-dow-drop-consumer-healthcare-chips-rebound-crowdstrike-tradingkey"
     }
    ]
   },
@@ -258,8 +258,14 @@
   },
   "GOOGL": {
    "trend": "'Gemini 3', 'Google TPU', Google Cloud +103%, debate 'cash burn de IA'",
-   "peak": "Resultados 28-oct (AMC): cae ~8% AH",
+   "peak": "Resultados 28-oct (AMC) y continuacion 29-oct (-12%)",
    "news": [
+    {
+     "t": "Extiende la caida: se hunde ~12.3% (a ~$282), uno de los mayores lastres del Nasdaq, prolongando el castigo por sus resultados del 3T (utilidad operativa e ingresos algo por debajo y mayor cash burn de IA, FCF -$9.1B)",
+     "s": "The Motley Fool",
+     "d": "29-oct",
+     "u": "https://www.fool.com/coverage/stock-market-today/2026/10/29/stock-market-today-oct-29-amazon-falls-on-q3-earnings-report-and-capex-concerns/"
+    },
     {
      "t": "Reporta 3T tras el cierre y CAE ~8% AH: ingresos $127.6B (+25%, ligeramente por debajo de $128.2B est.) pese a Google Cloud +103% a $30.7B (vs 90% est.); decepcionan la utilidad operativa ($40.6B vs $43.2B est.), la utilidad neta ($26.5B) y el FCF (-$9.1B), con mayor cash burn financiado con $12.4B en acciones y $28.7B en deuda",
      "s": "Cautious Optimism",
@@ -271,19 +277,19 @@
      "s": "VistaP Global",
      "d": "27-oct",
      "u": "https://vistapglobal.com/stock-market-today-october-27-2026-nasdaq-gains-1-18-as-ai-stocks-lead-ahead-of-wednesdays-fed-decision-amwl-ceg-eprx-googl-hood-ko-meta-modd-msft-nvda-orcl-rcl-ser-ups"
-    },
-    {
-     "t": "Cae ~3.1% (a ~$321) en el retroceso de las big tech por temores sobre el gasto en data centers/IA",
-     "s": "Motley Fool",
-     "d": "22-oct",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-oct-22-164714116.html"
     }
    ]
   },
   "AMZN": {
-   "trend": "'AWS reacceleration', 'Trainium', 'MS top pick $350/$400', debate capex",
-   "peak": "Resultados jueves 29-oct (AMC)",
+   "trend": "'AWS +39%', 'Trainium', capex ~$220B, debate aceleracion de nube vs cash burn",
+   "peak": "Resultados 29-oct (AMC)",
    "news": [
+    {
+     "t": "Reporta 3T tras el cierre: ingresos $201.9B (+12% interanual, vs $202.2B est.), BPA diluido $1.89 (vs $1.97 est.) y AWS +39% interanual a $46B (acelera desde 37% en 2T), con proyeccion de AWS >40% en 2027-28; guia 4T $240-247B (vs $244.5B est.) y capex 2026 de ~$220B. La accion cerro -4.25% a $243.79 y cayo mas AH por el capex/guia pese a la aceleracion de la nube",
+     "s": "The Motley Fool",
+     "d": "29-oct",
+     "u": "https://www.fool.com/investing/2026/10/29/aws-jumps-39-as-amazons-cash-flow-sinks-rapid-earn/"
+    },
     {
      "t": "Reporta 3T manana 29-oct tras el cierre; Wall Street espera que el crecimiento de AWS se acelere a ~41% y maneja un PT tope de ~$400",
      "s": "TradingKey",
@@ -295,12 +301,6 @@
      "s": "TheStreet",
      "d": "26-oct",
      "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-26-2026"
-    },
-    {
-     "t": "Sube ~0.4% a ~$263; anuncia 300,000+ contrataciones de temporada (+20% interanual) e inversion de EUR16 bn en Alemania",
-     "s": "everhint",
-     "d": "20-oct",
-     "u": "https://www.everhint.com/stock-market-news-october-20-2026-morning-update-last-12-hours-pacific-time/"
     }
    ]
   },
@@ -492,8 +492,14 @@
   },
   "COIN": {
    "trend": "'Coinbase', 'USDC', 'Bitcoin price', 'crypto regulation'",
-   "peak": "Resultados jueves 29-oct (AMC)",
+   "peak": "Resultados 29-oct (AMC)",
    "news": [
+    {
+     "t": "Reporta 3T tras el cierre: BPA GAAP $2.51 (vs $0.07 est.) inflado por una ganancia de $715M en cripto mantenido para inversion (mark-to-market); utilidad neta ajustada $77.7M; ingresos $1.22B (~en linea pero -35% interanual) por volatilidad cripto en minimos de varios anos; suscripciones y servicios +3% a $570M (USDC) y 4o trimestre consecutivo ganando cuota de spot. Guia 4T suscripciones $550-630M",
+     "s": "24/7 Wall St. / Benzinga",
+     "d": "29-oct",
+     "u": "https://247wallst.com/cards/coinbase-q3-2026-earnings-coin-01m64mx57w30bfqhgy98k84a66"
+    },
     {
      "t": "Reporta 3T manana 29-oct tras el cierre (foco en ingresos de trading, USDC y costos); Bitcoin rebota levemente a ~$81,200 (+0.5%) tras la Fed",
      "s": "The Motley Fool / CoinDCX",
@@ -505,10 +511,6 @@
      "s": "Yahoo Finance",
      "d": "23-oct",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
-    },
-    {
-     "t": "Record de 10.3% de participacion; 48% de ingresos netos de suscripciones; USDC ~$73 bn",
-     "s": "IR"
     }
    ]
   },
@@ -626,8 +628,14 @@
   },
   "CAT": {
    "trend": "'Caterpillar data center', 'backup power', 'genset shortage'",
-   "peak": "Resultados jueves 29-oct (BMO)",
+   "peak": "Resultados 29-oct (BMO): -9%",
    "news": [
+    {
+     "t": "Reporta 3T antes de la apertura y CAE ~9% (a ~$648) pese al beat: ingresos record $20.68B (+17.3%, apenas bajo $20.69B est.) y BPA ajustado $7.20 (vs $7.04 est., ayudado por $128M de reembolsos de aranceles IEEPA); Power Generation +30% a $3.42B por turbinas/motores para data centers. El mercado castiga la ausencia de guia numerica y premia solo a quien sube pronosticos (como Vertiv)",
+     "s": "24/7 Wall St. / The Motley Fool",
+     "d": "29-oct",
+     "u": "https://247wallst.com/investing/2026/10/29/caterpillar-beat-earnings-and-still-dropped-9-the-ai-power-trade-just-hit-the-same-wall-as-software/"
+    },
     {
      "t": "Reporta 3T manana 29-oct antes de la apertura; foco en gensets/turbinas para data centers ('bring your own power') y en la demanda de energia por IA",
      "s": "Yahoo Finance / Kiplinger",
@@ -690,8 +698,14 @@
   },
   "FSLR": {
    "trend": "'First Solar backlog', 'US solar manufacturing', 'IRA 45X'",
-   "peak": "Resultados jueves 29-oct (AMC)",
+   "peak": "Resultados 29-oct (AMC)",
    "news": [
+    {
+     "t": "Reporta 3T tras el cierre: BPA por encima del estimado (beat) pero ingresos por debajo (miss) y guia de ventas suave; actualiza su guia anual y anuncia un programa de recompra de acciones de $500M",
+     "s": "StockStory / Chartmill",
+     "d": "29-oct",
+     "u": "https://stockstory.org/us/stocks/nasdaq/fslr/news/earnings/first-solar-nasdaqfslr-misses-q3-2026-sales-expectations"
+    },
     {
      "t": "Reporta 3T manana 29-oct tras el cierre; foco en el backlog de PPAs con hyperscalers y la capacidad domestica (~14 GW) bajo el 45X",
      "s": "Yahoo Finance",
