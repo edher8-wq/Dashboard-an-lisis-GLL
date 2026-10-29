@@ -1,5 +1,5 @@
 {
- "updated": "28-oct",
+ "updated": "29-oct",
  "source": "SEC EDGAR",
  "tickers": {
   "GOOGL": [
@@ -78,16 +78,40 @@
   ],
   "NOW": [
    {
-    "type": "8-K",
-    "t": "8-K: Resultados (earnings); Estados financieros/anexos",
+    "type": "Form 4",
+    "t": "Form 4",
     "d": "28-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000095/0001373715-26-000095-index.htm"
+    "u": "https://www.sec.gov/Archives/edgar/data/1373715/000164960926000037/0001649609-26-000037-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "28-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1373715/000133494426000036/0001334944-26-000036-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "28-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1373715/000166742226000038/0001667422-26-000038-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "28-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1373715/000178106426000020/0001781064-26-000020-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "28-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1373715/000146539126000032/0001465391-26-000032-index.htm"
    },
    {
     "type": "8-K",
     "t": "8-K: Resultados (earnings); Estados financieros/anexos",
     "d": "28-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000092/0001373715-26-000092-index.htm"
+    "u": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000095/0001373715-26-000095-index.htm"
    }
   ],
   "PYPL": [
