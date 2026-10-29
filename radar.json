@@ -2,6 +2,14 @@
  "updated": "29-oct",
  "source": "SEC EDGAR",
  "tickers": {
+  "AMZN": [
+   {
+    "type": "8-K",
+    "t": "8-K: Resultados (earnings); Estados financieros/anexos",
+    "d": "29-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/0001018724-26-000038-index.htm"
+   }
+  ],
   "GOOGL": [
    {
     "type": "8-K",
@@ -56,6 +64,12 @@
   ],
   "META": [
    {
+    "type": "8-K",
+    "t": "8-K: Acuerdo material nuevo; Cambio a derechos de accionistas; Cambio de estatutos; Estados financieros/anexos",
+    "d": "29-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1326801/000119312526438017/0001193125-26-438017-index.htm"
+   },
+   {
     "type": "Form 4",
     "t": "Form 4",
     "d": "28-oct",
@@ -66,6 +80,22 @@
     "t": "Form 4",
     "d": "28-oct",
     "u": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326016313/0000950103-26-016313-index.htm"
+   }
+  ],
+  "INTC": [
+   {
+    "type": "8-K",
+    "t": "8-K: Resultados (earnings); Estados financieros/anexos",
+    "d": "29-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000188/0000050863-26-000188-index.htm"
+   }
+  ],
+  "SNDK": [
+   {
+    "type": "8-K",
+    "t": "8-K: Resultados (earnings); Otros eventos relevantes; Estados financieros/anexos",
+    "d": "29-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/2023554/000162828026068243/0001628280-26-068243-index.htm"
    }
   ],
   "SPCX": [
@@ -122,7 +152,27 @@
     "u": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000086/0001633917-26-000086-index.htm"
    }
   ],
+  "COIN": [
+   {
+    "type": "8-K",
+    "t": "8-K: Resultados (earnings); Estados financieros/anexos",
+    "d": "29-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000121/0001679788-26-000121-index.htm"
+   }
+  ],
   "MSTR": [
+   {
+    "type": "8-K",
+    "t": "8-K: Cambio a derechos de accionistas; Cambio de estatutos; Votacion de accionistas; Regulation FD (divulgacion); Otros eventos relevantes; Estados financieros/anexos",
+    "d": "29-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526437776/0001193125-26-437776-index.htm"
+   },
+   {
+    "type": "8-K",
+    "t": "8-K: Resultados (earnings); Cambio en directivos/consejo; Regulation FD (divulgacion); Estados financieros/anexos",
+    "d": "29-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1050446/000105044626000047/0001050446-26-000047-index.htm"
+   },
    {
     "type": "8-K",
     "t": "8-K: Otros eventos relevantes",
@@ -188,6 +238,22 @@
     "t": "Form 4",
     "d": "27-oct",
     "u": "https://www.sec.gov/Archives/edgar/data/18230/000110465926119131/0001104659-26-119131-index.htm"
+   }
+  ],
+  "FSLR": [
+   {
+    "type": "8-K",
+    "t": "8-K: Resultados (earnings); Otros eventos relevantes; Estados financieros/anexos",
+    "d": "29-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1274494/000127449426000211/0001274494-26-000211-index.htm"
+   }
+  ],
+  "HIMS": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "29-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1773751/000183781726000021/0001837817-26-000021-index.htm"
    }
   ]
  }
