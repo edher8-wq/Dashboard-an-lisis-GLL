@@ -1,5 +1,5 @@
 {
- "updated": "29-oct",
+ "updated": "30-oct",
  "source": "SEC EDGAR",
  "tickers": {
   "AMZN": [
@@ -98,14 +98,6 @@
     "u": "https://www.sec.gov/Archives/edgar/data/2023554/000162828026068243/0001628280-26-068243-index.htm"
    }
   ],
-  "SPCX": [
-   {
-    "type": "8-K",
-    "t": "8-K: Otros eventos relevantes",
-    "d": "26-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1181412/000110465926118614/0001104659-26-118614-index.htm"
-   }
-  ],
   "NOW": [
    {
     "type": "Form 4",
@@ -178,12 +170,6 @@
     "t": "8-K: Otros eventos relevantes",
     "d": "28-oct",
     "u": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526435451/0001193125-26-435451-index.htm"
-   },
-   {
-    "type": "8-K",
-    "t": "8-K: Regulation FD (divulgacion); Otros eventos relevantes",
-    "d": "26-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526431146/0001193125-26-431146-index.htm"
    }
   ],
   "GEV": [
@@ -206,12 +192,6 @@
     "t": "8-K: Adquisicion/venta completada; Regulation FD (divulgacion); Estados financieros/anexos",
     "d": "27-oct",
     "u": "https://www.sec.gov/Archives/edgar/data/1674101/000162828026067393/0001628280-26-067393-index.htm"
-   },
-   {
-    "type": "8-K",
-    "t": "8-K: Regulation FD (divulgacion); Estados financieros/anexos",
-    "d": "26-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1674101/000162828026067127/0001628280-26-067127-index.htm"
    }
   ],
   "CAT": [
