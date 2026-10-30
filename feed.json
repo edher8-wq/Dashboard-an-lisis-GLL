@@ -1,11 +1,17 @@
 {
- "updated": "29-oct",
- "note": "Refresco diario. Jornada 29-oct (jueves): Wall Street rompe su racha de 6 cierres record y retrocede - S&P 500 7,720.39 (-0.31%), Nasdaq 26,184.72 (-1.38%) y Dow 52,342.56 (-0.25%) - lastrado por las big tech. Alphabet se hunde ~12.3% (a ~$282), el mayor lastre del Nasdaq, en el coletazo de sus resultados del 28-oct (mayor cash burn de IA, FCF -$9.1B). Dia cargado de resultados. Antes de abrir, Caterpillar batio pero cayo ~9% (ingresos record $20.68B +17%; sin guia numerica; Power Generation +30% por data centers). Tras el cierre reportaron: Amazon (ingresos $201.9B +12% algo por debajo; BPA $1.89 miss; AWS +39% a $46B acelerando y proyecta >40% en 2027-28; capex 2026 ~$220B) cerro -4.25% a $243.79 y cayo mas AH por el capex/guia pese al salto de AWS; Intel se desploma ~18% (batio el 3T con ingresos $16.51B +21% y BPA aj. $0.52, pero guia 4T floja ~$15.5B vs $17.0B est.); Coinbase (BPA GAAP $2.51 inflado por $715M de ganancia mark-to-market en cripto; ingresos $1.22B ~en linea pero -35% interanual por baja volatilidad; suscripciones +3% a $570M); First Solar (BPA beat, ingresos miss, guia de ventas suave y recompra de $500M). La Fed (decision del 28-oct) mantuvo tasas en voto dividido con diciembre dependiente de datos y Powell/Warsh moderaron las expectativas de recorte. Bitcoin cae ~2.6% a ~$78,964. Las emisoras sin novedad conservan su research previo.",
+ "updated": "30-oct",
+ "note": "Refresco diario. Jornada 30-oct (viernes): Wall Street cierra octubre con una fuerte ola de ventas - S&P 500 7,580.07 (-1.82%), Nasdaq 25,437.00 (-2.86%) y Dow 51,770.31 (-1.09%) - lastrado por las big tech y las dudas sobre el gasto en IA. Intel protagoniza el dia con un desplome ~29% (su peor caida diaria historica) tras advertir que quemara caja en 2026 y dar una guia 4T floja con demanda PC debil. Amazon revierte un salto premarket de ~+10% y cierra ~-2% por el miss del 3T (AWS +39% pero se enfria publicidad; FCF a 12 meses con salida record >$42B y capex 2026 ~$220B). Alphabet encadena perdidas tras su peor dia en 20+ anos (FCF 3T -$9.1B) y Meta entra en territorio bajista (>20% bajo su maximo de 52 semanas; primer FCF negativo desde 2012). Bitcoin cae a ~$76,700 (-2.7%) tras un hackeo de $6.3B a Binance, arrastrando a Coinbase y Strategy (MSTR). First Solar presiona por el miss de ingresos del 3T ($1.23B vs $1.29B est.) y recorte de guia FY26. Las emisoras sin novedad conservan su research previo.",
  "tickers": {
   "NVDA": {
    "trend": "'$2 billones de backlog', $3B en la oferta de Meta (Vera Rubin), capex hyperscalers, debate 'pico vs sigue'",
    "peak": "Dias de earnings (beat & raise)",
    "news": [
+    {
+     "t": "Arrastrada por el selloff de big tech que cierra octubre (Nasdaq -2.86%); cotiza ~-12% debajo de su maximo de 52 semanas",
+     "s": "Yahoo Finance",
+     "d": "30-oct",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+    },
     {
      "t": "Retrocede ~1.2% a ~$215.38 en una sesion mixta de chips. Plan de invertir $3 mil millones en la oferta de acciones de Meta (Meta usara mas sistemas NVIDIA, incluidos Vera Rubin y Vera CPUs). Oracle sumara chips de Google, Cerebras y SambaNova (mas competencia potencial)",
      "s": "TipRanks / The Motley Fool",
@@ -17,12 +23,6 @@
      "s": "VistaP Global",
      "d": "27-oct",
      "u": "https://vistapglobal.com/stock-market-today-october-27-2026-nasdaq-gains-1-18-as-ai-stocks-lead-ahead-of-wednesdays-fed-decision-amwl-ceg-eprx-googl-hood-ko-meta-modd-msft-nvda-orcl-rcl-ser-ups"
-    },
-    {
-     "t": "Meta la nombra (junto con AMD y Broadcom) como posible comprador de hasta $5 mil millones en sus acciones Clase A; WSJ: NVIDIA y Micron concentran ~34% del 'boom' de ganancias corporativas de EE.UU.",
-     "s": "Investrade",
-     "d": "26-oct",
-     "u": "https://investrade.com/market-review-october-26-2026/"
     }
    ]
   },
@@ -109,6 +109,12 @@
    "peak": "Resultados 29-oct (AMC): -18%",
    "news": [
     {
+     "t": "Se desploma ~29% en la sesion, la mayor caida diaria de su historia, tras advertir que quemara caja en 2026 y dar una guia 4T floja (ingresos ~$15.5B) con demanda PC debil ligada a los precios de la memoria",
+     "s": "Yahoo Finance / StockTitan",
+     "d": "30-oct",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+    },
+    {
      "t": "Reporta 3T tras el cierre y se desploma ~18% (a ~$76): ingresos $16.51B (+20.9% interanual, bate $16.42B est.) y BPA ajustado $0.52 (vs $0.40 est.), con margen operativo 15.3% (desde 5%). Pero la guia 4T decepciona: ingresos ~$15.5B (vs $17.02B est.) y BPA aj. ~$0.25 (vs $0.44 est.); el CEO Lip-Bu Tan cita demanda 'extraordinaria' por los Xeon",
      "s": "StockStory / FinancialContent",
      "d": "29-oct",
@@ -119,12 +125,6 @@
      "s": "TipRanks",
      "d": "28-oct",
      "u": "https://www.tipranks.com/news/why-are-ai-chip-stocks-amd-intel-and-nvidia-rising-today-october-28"
-    },
-    {
-     "t": "Sube ~3.4% con el rebote de semiconductores tras el acuerdo de financiamiento Broadcom-Anthropic",
-     "s": "World Today Journal",
-     "d": "27-oct",
-     "u": "https://world-today-journal.com/nasdaq-rises-as-broadcoms-anthropic-deal-boosts-chip-stocks/"
     }
    ]
   },
@@ -179,6 +179,12 @@
    "peak": "Reportes de pricing de memoria",
    "news": [
     {
+     "t": "Cae con el selloff general de semiconductores pese al 'beat & raise' del sector memoria",
+     "s": "Yahoo Finance",
+     "d": "30-oct",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+    },
+    {
      "t": "Sube ~7.7% a ~$1,405 en el rally de memoria/almacenamiento impulsado por los resultados record de SK Hynix y la demanda de memoria de IA",
      "s": "The Motley Fool",
      "d": "28-oct",
@@ -189,12 +195,6 @@
      "s": "TradingKey / TheStreet",
      "d": "19-oct",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262224387-us-stock-market-close-nasdaq-rise-memory-micron-sandisk-tradingkey"
-    },
-    {
-     "t": "Cae ~6.85% en el selloff de memoria/almacenamiento (Seagate -7.5%, WDC -6.9%)",
-     "s": "TradingKey",
-     "d": "16-oct",
-     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
     }
    ]
   },
@@ -261,6 +261,12 @@
    "peak": "Resultados 28-oct (AMC) y continuacion 29-oct (-12%)",
    "news": [
     {
+     "t": "Sigue cayendo tras su peor dia en mas de 20 anos (jueves); el mercado castiga el FCF negativo de -$9.1B del 3T en plena ola de ventas de IA",
+     "s": "Yahoo Finance",
+     "d": "30-oct",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+    },
+    {
      "t": "Extiende la caida: se hunde ~12.3% (a ~$282), uno de los mayores lastres del Nasdaq, prolongando el castigo por sus resultados del 3T (utilidad operativa e ingresos algo por debajo y mayor cash burn de IA, FCF -$9.1B)",
      "s": "The Motley Fool",
      "d": "29-oct",
@@ -271,12 +277,6 @@
      "s": "Cautious Optimism",
      "d": "28-oct",
      "u": "https://www.cautiousoptimism.news/msft-alpha-earnings"
-    },
-    {
-     "t": "Preview: consenso previo ingresos ~$127.8B (Google Cloud ~$28.9B). Oracle desplegara las TPU de Alphabet en su infraestructura (nuevo canal comercial para su silicio)",
-     "s": "VistaP Global",
-     "d": "27-oct",
-     "u": "https://vistapglobal.com/stock-market-today-october-27-2026-nasdaq-gains-1-18-as-ai-stocks-lead-ahead-of-wednesdays-fed-decision-amwl-ceg-eprx-googl-hood-ko-meta-modd-msft-nvda-orcl-rcl-ser-ups"
     }
    ]
   },
@@ -284,6 +284,12 @@
    "trend": "'AWS +39%', 'Trainium', capex ~$220B, debate aceleracion de nube vs cash burn",
    "peak": "Resultados 29-oct (AMC)",
    "news": [
+    {
+     "t": "Revierte el salto premarket (~+10%) y cierra ~-2% tras el miss del 3T: pese a AWS +39%, se enfria el crecimiento de publicidad y el FCF a 12 meses marca una salida record de >$42B con capex 2026 ~$220B",
+     "s": "Yahoo Finance / CNBC",
+     "d": "30-oct",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+    },
     {
      "t": "Reporta 3T tras el cierre: ingresos $201.9B (+12% interanual, vs $202.2B est.), BPA diluido $1.89 (vs $1.97 est.) y AWS +39% interanual a $46B (acelera desde 37% en 2T), con proyeccion de AWS >40% en 2027-28; guia 4T $240-247B (vs $244.5B est.) y capex 2026 de ~$220B. La accion cerro -4.25% a $243.79 y cayo mas AH por el capex/guia pese a la aceleracion de la nube",
      "s": "The Motley Fool",
@@ -295,12 +301,6 @@
      "s": "TradingKey",
      "d": "28-oct",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262242086-amazon-q3-earnings-preview-aws-amzn-tradingkey"
-    },
-    {
-     "t": "AWS firma un acuerdo de infraestructura de IA con Verizon por mas de $2 mil millones",
-     "s": "TheStreet",
-     "d": "26-oct",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-26-2026"
     }
    ]
   },
@@ -308,6 +308,12 @@
    "trend": "'Meta superintelligence', NVIDIA $3B + AMD $1B en su oferta, capex al alza, debate ROI",
    "peak": "Fichajes de IA y guia de capex",
    "news": [
+    {
+     "t": "Entra en territorio bajista: cae >20% desde su maximo de 52 semanas tras la venta por resultados; reporto su primer FCF negativo desde 2012",
+     "s": "Yahoo Finance",
+     "d": "30-oct",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+    },
     {
      "t": "Retrocede ~1.2% en la sesion. Amplia su guerra de infraestructura de IA: AMD confirma Helios corriendo en Meta e invertira $1B en su oferta de acciones, y NVIDIA invertira $3B (Meta usara mas sistemas NVIDIA, incluidos Vera Rubin)",
      "s": "TipRanks / The Motley Fool",
@@ -319,12 +325,6 @@
      "s": "VistaP Global / Investrade",
      "d": "27-oct",
      "u": "https://vistapglobal.com/stock-market-today-october-27-2026-nasdaq-gains-1-18-as-ai-stocks-lead-ahead-of-wednesdays-fed-decision-amwl-ceg-eprx-googl-hood-ko-meta-modd-msft-nvda-orcl-rcl-ser-ups"
-    },
-    {
-     "t": "Anuncia un plan para levantar ~$95 mil millones en capital (~$22.5B Clase A, $12.5B preferentes y ~$60B venta ATM Clase C) para financiar infraestructura de IA; la accion cae ~1.7%",
-     "s": "TheStreet/Investrade",
-     "d": "26-oct",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-26-2026"
     }
    ]
   },
@@ -495,6 +495,12 @@
    "peak": "Resultados 29-oct (AMC)",
    "news": [
     {
+     "t": "Cae (>6% en premarket) tras resultados del 3T decepcionantes y la debilidad cripto; Bitcoin retrocede a ~$76,700 (-2.7%) por el hackeo de $6.3B a Binance",
+     "s": "Yahoo Finance",
+     "d": "30-oct",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+    },
+    {
      "t": "Reporta 3T tras el cierre: BPA GAAP $2.51 (vs $0.07 est.) inflado por una ganancia de $715M en cripto mantenido para inversion (mark-to-market); utilidad neta ajustada $77.7M; ingresos $1.22B (~en linea pero -35% interanual) por volatilidad cripto en minimos de varios anos; suscripciones y servicios +3% a $570M (USDC) y 4o trimestre consecutivo ganando cuota de spot. Guia 4T suscripciones $550-630M",
      "s": "24/7 Wall St. / Benzinga",
      "d": "29-oct",
@@ -505,12 +511,6 @@
      "s": "The Motley Fool / CoinDCX",
      "d": "28-oct",
      "u": "https://www.fool.com/coverage/stock-market-today/2026/10/28/crypto-market-today-oct-28-bitcoin-and-altcoins-gain-as-fed-decision-clears-the-way-for-big-tech-earnings/"
-    },
-    {
-     "t": "Presionada por la debilidad cripto: Bitcoin cae a ~$80,800 (por debajo de $82k)",
-     "s": "Yahoo Finance",
-     "d": "23-oct",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
     }
    ]
   },
@@ -518,6 +518,12 @@
    "trend": "'Saylor', 'MSTR Bitcoin', 'mNAV premium', debate sostenibilidad del apalancamiento",
    "peak": "Movimientos fuertes del BTC",
    "news": [
+    {
+     "t": "Cae (>6% en premarket) junto con Coinbase por el desplome del Bitcoin a ~$76,700 (-2.7%) tras el hackeo de $6.3B a Binance",
+     "s": "Yahoo Finance",
+     "d": "30-oct",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+    },
     {
      "t": "Bitcoin rebota levemente a ~$81,200 (+0.5%) tras la Fed; Michael Saylor reitera que el BTC superara los $100,000 en los proximos 12 meses",
      "s": "The Motley Fool",
@@ -529,10 +535,6 @@
      "s": "Ted Pillows / Substack",
      "d": "22-oct",
      "u": "https://tedpillows.substack.com/p/crypto-and-finance-market-report-fad"
-    },
-    {
-     "t": "843,775 BTC (~4% de la oferta); por 1a vez VENDIO BTC para financiar preferentes",
-     "s": "IR"
     }
    ]
   },
@@ -701,6 +703,12 @@
    "peak": "Resultados 29-oct (AMC)",
    "news": [
     {
+     "t": "Presionada tras confirmarse el miss del 3T: ingresos $1.23B vs $1.29B est. y recorte de la guia de ingresos FY26",
+     "s": "Yahoo Finance",
+     "d": "30-oct",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+    },
+    {
      "t": "Reporta 3T tras el cierre: BPA por encima del estimado (beat) pero ingresos por debajo (miss) y guia de ventas suave; actualiza su guia anual y anuncia un programa de recompra de acciones de $500M",
      "s": "StockStory / Chartmill",
      "d": "29-oct",
@@ -711,10 +719,6 @@
      "s": "Yahoo Finance",
      "d": "28-oct",
      "u": "https://finance.yahoo.com/markets/stocks/articles/first-solar-release-q3-earnings-124000020.html"
-    },
-    {
-     "t": "PPAs con hyperscalers (Sun Streams 2 de Microsoft); ~14 GW de capacidad domestica",
-     "s": "IR"
     }
    ]
   },
