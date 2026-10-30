@@ -98,6 +98,22 @@
     "u": "https://www.sec.gov/Archives/edgar/data/2023554/000162828026068243/0001628280-26-068243-index.htm"
    }
   ],
+  "WDC": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "30-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/106040/000126682426000219/0001266824-26-000219-index.htm"
+   }
+  ],
+  "CRWV": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "30-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000452/0001769628-26-000452-index.htm"
+   }
+  ],
   "NOW": [
    {
     "type": "Form 4",
