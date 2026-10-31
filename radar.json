@@ -1,5 +1,5 @@
 {
- "updated": "30-oct",
+ "updated": "31-oct",
  "source": "SEC EDGAR",
  "tickers": {
   "AMZN": [
@@ -12,40 +12,16 @@
   ],
   "GOOGL": [
    {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "30-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526442116/0001193125-26-442116-index.htm"
+   },
+   {
     "type": "8-K",
     "t": "8-K: Resultados (earnings); Estados financieros/anexos",
     "d": "28-oct",
     "u": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/0001652044-26-000080-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "27-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526434846/0001193125-26-434846-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "27-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526434841/0001193125-26-434841-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "27-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526434840/0001193125-26-434840-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "27-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526434839/0001193125-26-434839-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "27-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526434837/0001193125-26-434837-index.htm"
    }
   ],
   "MSFT": [
@@ -114,6 +90,26 @@
     "u": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000452/0001769628-26-000452-index.htm"
    }
   ],
+  "PLTR": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "30-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1321655/000182392326000015/0001823923-26-000015-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "30-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1321655/000182415926000015/0001824159-26-000015-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "30-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1321655/000182394026000012/0001823940-26-000012-index.htm"
+   }
+  ],
   "NOW": [
    {
     "type": "Form 4",
@@ -154,10 +150,10 @@
   ],
   "PYPL": [
    {
-    "type": "8-K",
-    "t": "8-K: Resultados (earnings); Estados financieros/anexos",
-    "d": "27-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000086/0001633917-26-000086-index.htm"
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "30-oct",
+    "u": "https://www.sec.gov/Archives/edgar/data/1633917/000200641626000021/0002006416-26-000021-index.htm"
    }
   ],
   "COIN": [
@@ -202,12 +198,6 @@
     "t": "8-K: Resultados (earnings); Regulation FD (divulgacion); Estados financieros/anexos",
     "d": "28-oct",
     "u": "https://www.sec.gov/Archives/edgar/data/1674101/000162828026067707/0001628280-26-067707-index.htm"
-   },
-   {
-    "type": "8-K",
-    "t": "8-K: Adquisicion/venta completada; Regulation FD (divulgacion); Estados financieros/anexos",
-    "d": "27-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1674101/000162828026067393/0001628280-26-067393-index.htm"
    }
   ],
   "CAT": [
@@ -216,24 +206,6 @@
     "t": "8-K: Resultados (earnings); Regulation FD (divulgacion); Estados financieros/anexos",
     "d": "29-oct",
     "u": "https://www.sec.gov/Archives/edgar/data/18230/000001823026000052/0000018230-26-000052-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "27-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/18230/000110465926119134/0001104659-26-119134-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "27-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/18230/000110465926119132/0001104659-26-119132-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "27-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/18230/000110465926119131/0001104659-26-119131-index.htm"
    }
   ],
   "FSLR": [
