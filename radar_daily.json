@@ -1,122 +1,94 @@
 {
- "updated": "30-oct",
+ "updated": "2-nov",
  "source": "IBKR opciones + social + analistas",
  "tickers": {
   "NVDA": [
    {
     "type": "Opciones",
-    "t": "IV anual 45% vs HV 30% (ratio 1.52) - salto de volatilidad",
-    "d": "30-oct"
-   }
-  ],
-  "ASML": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 51% vs HV 37% (ratio 1.39) - salto de volatilidad",
-    "d": "30-oct"
-   }
-  ],
-  "INTC": [
-   {
-    "type": "Opciones",
-    "t": "Volumen de calls 3.4x y puts 3.9x su promedio - actividad extrema (peor caida diaria historica ~29%)",
-    "d": "30-oct"
-   },
-   {
-    "type": "Social",
-    "t": "Chatter social disparado vs su promedio (Reddit/StockTwits) por el desplome record",
-    "d": "30-oct"
-   }
-  ],
-  "AMZN": [
-   {
-    "type": "Opciones",
-    "t": "Volumen de puts 2.4x su promedio - actividad inusual (post-earnings, revierte a -2%)",
-    "d": "30-oct"
-   }
-  ],
-  "SNDK": [
-   {
-    "type": "Opciones",
-    "t": "Volumen de puts 2.3x su promedio (cobertura en el selloff de memoria)",
-    "d": "30-oct"
-   }
-  ],
-  "COIN": [
-   {
-    "type": "Opciones",
-    "t": "Volumen de puts 2.0x su promedio (cobertura tras resultados del 29-oct)",
-    "d": "30-oct"
-   }
-  ],
-  "NOW": [
-   {
-    "type": "Opciones",
-    "t": "Volumen de calls 2.0x y puts 2.1x su promedio - actividad inusual (tras desplome ~17% del 28-oct)",
-    "d": "30-oct"
-   }
-  ],
-  "WYFI": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 125% vs HV 87% (ratio 1.43) - alta volatilidad implicita",
-    "d": "30-oct"
+    "t": "IV anual 47% vs HV 31% (ratio 1.53) - salto de volatilidad (acuerdo OpenAI-Amazon)",
+    "d": "2-nov"
    }
   ],
   "PLTR": [
    {
     "type": "Opciones",
-    "t": "IV anual 72% vs HV 42% (ratio 1.70) - fuerte salto de volatilidad (earnings ~3-nov)",
-    "d": "30-oct"
+    "t": "IV anual 70% vs HV 43% (ratio 1.62) - fuerte salto de volatilidad (resultados 3T hoy tras el cierre)",
+    "d": "2-nov"
+   },
+   {
+    "type": "Social",
+    "t": "Chatter social disparado vs su promedio (Reddit/StockTwits) por los resultados del 3T y el debate de valuacion",
+    "d": "2-nov"
+   }
+  ],
+  "CRWV": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 129% vs HV 96% (ratio 1.34) - salto de volatilidad (neocloud/costos de financiamiento)",
+    "d": "2-nov"
+   }
+  ],
+  "IREN": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 128% vs HV 86% (ratio 1.49) - fuerte salto de volatilidad",
+    "d": "2-nov"
+   }
+  ],
+  "WYFI": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 119% vs HV 90% (ratio 1.32) - alta volatilidad implicita",
+    "d": "2-nov"
    }
   ],
   "UPST": [
    {
     "type": "Opciones",
-    "t": "IV anual 82% vs HV 46% (ratio 1.78) - fuerte salto de volatilidad (earnings proximos)",
-    "d": "30-oct"
+    "t": "Volumen de calls 4.7x y puts 4.4x su promedio - actividad extrema; IV anual 83% vs HV 48% (ratio 1.72), earnings proximos",
+    "d": "2-nov"
    }
   ],
   "UBER": [
    {
     "type": "Opciones",
-    "t": "IV anual 46% vs HV 24% (ratio 1.93) - fuerte salto de volatilidad (earnings proximos)",
-    "d": "30-oct"
+    "t": "IV anual 45% vs HV 24% (ratio 1.88) - fuerte salto de volatilidad (earnings proximos)",
+    "d": "2-nov"
    }
   ],
   "APP": [
    {
     "type": "Opciones",
-    "t": "IV anual 80% vs HV 48% (ratio 1.66) - fuerte salto de volatilidad (earnings proximos)",
-    "d": "30-oct"
+    "t": "IV anual 96% vs HV 50% (ratio 1.90) - fuerte salto de volatilidad (earnings proximos)",
+    "d": "2-nov"
    }
   ],
   "OKLO": [
    {
     "type": "Opciones",
-    "t": "IV anual 85% vs HV 62% (ratio 1.37) - salto de volatilidad",
-    "d": "30-oct"
+    "t": "IV anual 88% vs HV 65% (ratio 1.36) - salto de volatilidad",
+    "d": "2-nov"
    }
   ],
   "HIMS": [
    {
     "type": "Opciones",
-    "t": "IV anual 89% vs HV 66% (ratio 1.36) - salto de volatilidad (earnings proximos)",
-    "d": "30-oct"
+    "t": "IV anual 91% vs HV 67% (ratio 1.35) - salto de volatilidad (earnings proximos)",
+    "d": "2-nov"
    }
   ],
   "SLS": [
    {
     "type": "Opciones",
-    "t": "IV anual 211% vs HV 86% (ratio 2.45) - volatilidad extrema (posible catalizador clinico)",
-    "d": "30-oct"
+    "t": "IV anual 223% vs HV 87% (ratio 2.57) - volatilidad extrema (posible catalizador clinico)",
+    "d": "2-nov"
    }
   ],
   "HD": [
    {
     "type": "Opciones",
-    "t": "IV anual 33% vs HV 25% (ratio 1.32) - salto de volatilidad (earnings mediados nov)",
-    "d": "30-oct"
+    "t": "IV anual 34% vs HV 25% (ratio 1.35) - salto de volatilidad (earnings mediados nov)",
+    "d": "2-nov"
    }
   ]
  }

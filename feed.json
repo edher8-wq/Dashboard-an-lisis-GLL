@@ -1,11 +1,17 @@
 {
- "updated": "30-oct",
- "note": "Refresco diario. Jornada 30-oct (viernes): Wall Street cierra octubre con una fuerte ola de ventas - S&P 500 7,580.07 (-1.82%), Nasdaq 25,437.00 (-2.86%) y Dow 51,770.31 (-1.09%) - lastrado por las big tech y las dudas sobre el gasto en IA. Intel protagoniza el dia con un desplome ~29% (su peor caida diaria historica) tras advertir que quemara caja en 2026 y dar una guia 4T floja con demanda PC debil. Amazon revierte un salto premarket de ~+10% y cierra ~-2% por el miss del 3T (AWS +39% pero se enfria publicidad; FCF a 12 meses con salida record >$42B y capex 2026 ~$220B). Alphabet encadena perdidas tras su peor dia en 20+ anos (FCF 3T -$9.1B) y Meta entra en territorio bajista (>20% bajo su maximo de 52 semanas; primer FCF negativo desde 2012). Bitcoin cae a ~$76,700 (-2.7%) tras un hackeo de $6.3B a Binance, arrastrando a Coinbase y Strategy (MSTR). First Solar presiona por el miss de ingresos del 3T ($1.23B vs $1.29B est.) y recorte de guia FY26. Las emisoras sin novedad conservan su research previo.",
+ "updated": "2-nov",
+ "note": "Refresco diario. Jornada 2-nov (lunes): Wall Street arranca noviembre al alza liderada por Amazon, que cierra en MAXIMO HISTORICO (~+6%) tras firmar un acuerdo de $38 mil millones a 7 anos con OpenAI: AWS proveera el computo (acceso inmediato a cientos de miles de GPUs NVIDIA GB200/GB300) para entrenar y ejecutar sus modelos, con capacidad plena prevista para fin de 2026. S&P 500 +0.2% (~6,851), Nasdaq +0.5% (~23,834); el Dow cede ~0.5% (~47,336), lastrado por Kimberly-Clark (-14.6%, acuerda comprar Kenvue +12.3% por $40B). NVIDIA sube ~3% por el mismo acuerdo. El ISM manufacturero de octubre cae a 48.7 (octavo mes en contraccion) y el informe de empleo probablemente se retrase por el cierre de gobierno. Semana cargada de resultados: Palantir (hoy tras el cierre) y AMD (manana 3-nov). Las emisoras sin novedad conservan su research previo.",
  "tickers": {
   "NVDA": {
-   "trend": "'$2 billones de backlog', $3B en la oferta de Meta (Vera Rubin), capex hyperscalers, debate 'pico vs sigue'",
+   "trend": "'OpenAI-Amazon $38B', GPUs GB200/GB300, '$2 billones de backlog', $3B en la oferta de Meta (Vera Rubin), capex hyperscalers, debate 'pico vs sigue'",
    "peak": "Dias de earnings (beat & raise)",
    "news": [
+    {
+     "t": "Sube ~3% tras el acuerdo OpenAI-Amazon: AWS dara a OpenAI acceso inmediato a cientos de miles de GPUs NVIDIA (GB200/GB300) dentro de un contrato de $38 mil millones a 7 anos (capacidad plena para fin de 2026)",
+     "s": "TipRanks",
+     "d": "2-nov",
+     "u": "https://www.tipranks.com/news/amazon-stock-amzn-jumps-6-on-38b-cloud-deal-with-chatgpt-maker-openai"
+    },
     {
      "t": "Arrastrada por el selloff de big tech que cierra octubre (Nasdaq -2.86%); cotiza ~-12% debajo de su maximo de 52 semanas",
      "s": "Yahoo Finance",
@@ -17,12 +23,6 @@
      "s": "TipRanks / The Motley Fool",
      "d": "28-oct",
      "u": "https://www.tipranks.com/news/why-are-ai-chip-stocks-amd-intel-and-nvidia-rising-today-october-28"
-    },
-    {
-     "t": "Sube ~0.9% a ~$217.94 en el rebote de semiconductores por el acuerdo de financiamiento Broadcom-Anthropic. Anuncia un plan para invertir $3 mil millones en Meta y presenta su diseno de referencia DSX POD (reduce el despliegue de data centers de 6 meses a 14 dias)",
-     "s": "VistaP Global",
-     "d": "27-oct",
-     "u": "https://vistapglobal.com/stock-market-today-october-27-2026-nasdaq-gains-1-18-as-ai-stocks-lead-ahead-of-wednesdays-fed-decision-amwl-ceg-eprx-googl-hood-ko-meta-modd-msft-nvda-orcl-rcl-ser-ups"
     }
    ]
   },
@@ -65,9 +65,15 @@
    ]
   },
   "AMD": {
-   "trend": "'AMD OpenAI deal', Helios en Meta, $1B en la oferta de Meta, 'MI450', duelo 'AMD vs NVDA'",
+   "trend": "preview 3T, 'AMD OpenAI deal', Helios en Meta, $1B en la oferta de Meta, 'MI450', duelo 'AMD vs NVDA'",
    "peak": "Dia del anuncio del acuerdo con OpenAI",
    "news": [
+    {
+     "t": "Preview 3T (reporta manana 3-nov tras el cierre): analistas esperan un trimestre fuerte de data center (MI350/MI450, Helios); la accion resbala en premarket por el deterioro del sentimiento tech y las altas expectativas",
+     "s": "TipRanks / StockTwits",
+     "d": "2-nov",
+     "u": "https://www.tipranks.com/news/amd-reports-earnings-tuesday-heres-why-analysts-expect-a-strong-data-center-quarter"
+    },
     {
      "t": "Confirma que sus sistemas rack-scale Helios ya corren en Meta e invertira $1 mil millones en la oferta de acciones de Meta (amplia el acuerdo de hasta 6 GW de GPUs). Reporta resultados del 3T el 3-nov",
      "s": "TipRanks",
@@ -79,12 +85,6 @@
      "s": "World Today Journal",
      "d": "27-oct",
      "u": "https://world-today-journal.com/nasdaq-rises-as-broadcoms-anthropic-deal-boosts-chip-stocks/"
-    },
-    {
-     "t": "Meta la incluye (con NVIDIA y Broadcom) como posible comprador de hasta $5 mil millones en sus acciones Clase A para financiar su expansion de IA",
-     "s": "Investrade",
-     "d": "26-oct",
-     "u": "https://investrade.com/market-review-october-26-2026/"
     }
    ]
   },
@@ -281,9 +281,15 @@
    ]
   },
   "AMZN": {
-   "trend": "'AWS +39%', 'Trainium', capex ~$220B, debate aceleracion de nube vs cash burn",
-   "peak": "Resultados 29-oct (AMC)",
+   "trend": "'OpenAI $38B AWS deal', 'AWS +39%', 'Trainium', capex ~$220B, debate aceleracion de nube vs cash burn",
+   "peak": "2-nov: maximo historico por el acuerdo con OpenAI",
    "news": [
+    {
+     "t": "Cierra en MAXIMO HISTORICO (~+6%) tras firmar un acuerdo de $38 mil millones a 7 anos con OpenAI: AWS proveera el computo para entrenar y ejecutar sus modelos (acceso inmediato a cientos de miles de GPUs NVIDIA GB200/GB300), con capacidad plena para fin de 2026. 'This partnership is a turning point' (Matt Garman, AWS). Se suma al salto de ~+10% del viernes por el 3T",
+     "s": "TipRanks / Yahoo Finance",
+     "d": "2-nov",
+     "u": "https://www.tipranks.com/news/amazon-stock-amzn-jumps-6-on-38b-cloud-deal-with-chatgpt-maker-openai"
+    },
     {
      "t": "Revierte el salto premarket (~+10%) y cierra ~-2% tras el miss del 3T: pese a AWS +39%, se enfria el crecimiento de publicidad y el FCF a 12 meses marca una salida record de >$42B con capex 2026 ~$220B",
      "s": "Yahoo Finance / CNBC",
@@ -295,12 +301,6 @@
      "s": "The Motley Fool",
      "d": "29-oct",
      "u": "https://www.fool.com/investing/2026/10/29/aws-jumps-39-as-amazons-cash-flow-sinks-rapid-earn/"
-    },
-    {
-     "t": "Reporta 3T manana 29-oct tras el cierre; Wall Street espera que el crecimiento de AWS se acelere a ~41% y maneja un PT tope de ~$400",
-     "s": "TradingKey",
-     "d": "28-oct",
-     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262242086-amazon-q3-earnings-preview-aws-amzn-tradingkey"
     }
    ]
   },
@@ -411,20 +411,20 @@
    ]
   },
   "PLTR": {
-   "trend": "'AIP', 'Karp', debate 'mejor negocio de IA vs valuacion absurda'",
-   "peak": "Dia de +5% y nuevos contratos",
+   "trend": "'AIP', beat & raise vs valuacion, 'Karp', debate 'mejor negocio de IA vs valuacion absurda'",
+   "peak": "Resultados 3T (2-nov AMC): beat & raise con reaccion negativa",
    "news": [
+    {
+     "t": "3T blowout (reportado tras el cierre): ingresos +63% interanual (vs ~50% est.), BPA ajustado +110% (vs ~70% est.), US commercial +121%, FCF ajustado +24% a $540M, caja $6.4B sin deuda; sube guia FY a 53% de crecimiento (desde 45%, ingresos ~$4.40B) y guia 4T +61%. Pese al beat, la accion cae ~8.5% por valuacion ('sell the news')",
+     "s": "Roic.ai / CNBC",
+     "d": "2-nov",
+     "u": "https://www.roic.ai/news/palantir-shares-drop-85-despite-stellar-q3-earnings-beat-11-04-2025"
+    },
     {
      "t": "Cotiza plana (~$198.73) en la sesion; el mercado se posiciona para los resultados del 3T (esperados ~3-nov), con expectativas altas tras el run-up",
      "s": "HeyGoTrade",
      "d": "28-oct",
      "u": "https://www.heygotrade.com/en/news/palantir-pltr-stock-news-october-28-2026/"
-    },
-    {
-     "t": "Rebota ~+4.36% con el sector de IA/software en la recuperacion del mercado",
-     "s": "TheStreet",
-     "d": "19-oct",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-19-2026-nasdaq-futures-climb-as-tech-rebound-from-sell-off"
     },
     {
      "t": "US commercial +149%, Regla del 40 en 155%; subio guia (rompio el 'sell the news')",
