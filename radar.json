@@ -1,15 +1,7 @@
 {
- "updated": "2-nov",
+ "updated": "3-nov",
  "source": "SEC EDGAR",
  "tickers": {
-  "GOOGL": [
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "30-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526442116/0001193125-26-442116-index.htm"
-   }
-  ],
   "MRVL": [
    {
     "type": "8-K",
@@ -24,20 +16,12 @@
     "u": "https://www.sec.gov/Archives/edgar/data/1835632/000119312526442714/0001193125-26-442714-index.htm"
    }
   ],
-  "WDC": [
+  "INTC": [
    {
     "type": "Form 4",
     "t": "Form 4",
-    "d": "30-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/106040/000126682426000219/0001266824-26-000219-index.htm"
-   }
-  ],
-  "CRWV": [
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "30-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000452/0001769628-26-000452-index.htm"
+    "d": "2-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000194/0000050863-26-000194-index.htm"
    }
   ],
   "PLTR": [
@@ -46,24 +30,6 @@
     "t": "8-K: Resultados (earnings); Regulation FD (divulgacion); Estados financieros/anexos",
     "d": "2-nov",
     "u": "https://www.sec.gov/Archives/edgar/data/1321655/000132165526000045/0001321655-26-000045-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "30-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1321655/000182392326000015/0001823923-26-000015-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "30-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1321655/000182415926000015/0001824159-26-000015-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "30-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1321655/000182394026000012/0001823940-26-000012-index.htm"
    }
   ],
   "APP": [
@@ -90,14 +56,6 @@
     "t": "Form 4",
     "d": "2-nov",
     "u": "https://www.sec.gov/Archives/edgar/data/1751008/000184839526000015/0001848395-26-000015-index.htm"
-   }
-  ],
-  "PYPL": [
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "30-oct",
-    "u": "https://www.sec.gov/Archives/edgar/data/1633917/000200641626000021/0002006416-26-000021-index.htm"
    }
   ],
   "MSTR": [
