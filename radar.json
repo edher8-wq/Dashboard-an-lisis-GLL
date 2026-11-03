@@ -2,6 +2,14 @@
  "updated": "3-nov",
  "source": "SEC EDGAR",
  "tickers": {
+  "TSM": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "3-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000732/0001046179-26-000732-index.htm"
+   }
+  ],
   "MRVL": [
    {
     "type": "8-K",
@@ -58,6 +66,14 @@
     "u": "https://www.sec.gov/Archives/edgar/data/1751008/000184839526000015/0001848395-26-000015-index.htm"
    }
   ],
+  "UPST": [
+   {
+    "type": "8-K",
+    "t": "8-K: Resultados (earnings); Estados financieros/anexos",
+    "d": "3-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1647639/000164763926000083/0001647639-26-000083-index.htm"
+   }
+  ],
   "MSTR": [
    {
     "type": "8-K",
@@ -66,7 +82,21 @@
     "u": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526442707/0001193125-26-442707-index.htm"
    }
   ],
+  "ETN": [
+   {
+    "type": "8-K",
+    "t": "8-K: Resultados (earnings); Estados financieros/anexos",
+    "d": "3-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000037/0001551182-26-000037-index.htm"
+   }
+  ],
   "CAT": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "3-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/18230/000110465926121809/0001104659-26-121809-index.htm"
+   },
    {
     "type": "Form 3",
     "t": "Form 3",
@@ -86,6 +116,14 @@
     "t": "Form 4",
     "d": "2-nov",
     "u": "https://www.sec.gov/Archives/edgar/data/1849056/000214768026000016/0002147680-26-000016-index.htm"
+   }
+  ],
+  "LDOS": [
+   {
+    "type": "8-K",
+    "t": "8-K: Resultados (earnings); Estados financieros/anexos",
+    "d": "3-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1336920/000133692026000290/0001336920-26-000290-index.htm"
    }
   ]
  }
