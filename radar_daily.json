@@ -1,94 +1,95 @@
 {
- "updated": "2-nov",
+ "updated": "3-nov",
  "source": "IBKR opciones + social + analistas",
  "tickers": {
   "NVDA": [
    {
     "type": "Opciones",
-    "t": "IV anual 47% vs HV 31% (ratio 1.53) - salto de volatilidad (acuerdo OpenAI-Amazon)",
-    "d": "2-nov"
+    "t": "IV anual 46% vs HV 31% (ratio 1.47) - salto de volatilidad (selloff de IA, NVDA ~-4%)",
+    "d": "3-nov"
+   }
+  ],
+  "AMD": [
+   {
+    "type": "Social",
+    "t": "Chatter social disparado vs su promedio (Reddit/StockTwits) por los resultados del 3T (hoy tras el cierre)",
+    "d": "3-nov"
    }
   ],
   "PLTR": [
    {
-    "type": "Opciones",
-    "t": "IV anual 70% vs HV 43% (ratio 1.62) - fuerte salto de volatilidad (resultados 3T hoy tras el cierre)",
-    "d": "2-nov"
+    "type": "Social",
+    "t": "Chatter social disparado vs su promedio (Reddit/StockTwits) por el blowout del 3T y el desplome ~8% por valuacion",
+    "d": "3-nov"
    },
    {
-    "type": "Social",
-    "t": "Chatter social disparado vs su promedio (Reddit/StockTwits) por los resultados del 3T y el debate de valuacion",
-    "d": "2-nov"
-   }
-  ],
-  "CRWV": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 129% vs HV 96% (ratio 1.34) - salto de volatilidad (neocloud/costos de financiamiento)",
-    "d": "2-nov"
-   }
-  ],
-  "IREN": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 128% vs HV 86% (ratio 1.49) - fuerte salto de volatilidad",
-    "d": "2-nov"
-   }
-  ],
-  "WYFI": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 119% vs HV 90% (ratio 1.32) - alta volatilidad implicita",
-    "d": "2-nov"
-   }
-  ],
-  "UPST": [
-   {
-    "type": "Opciones",
-    "t": "Volumen de calls 4.7x y puts 4.4x su promedio - actividad extrema; IV anual 83% vs HV 48% (ratio 1.72), earnings proximos",
-    "d": "2-nov"
+    "type": "Analista",
+    "t": "Goldman Sachs sube PT a $188 (desde $141, mantiene Neutral)",
+    "d": "3-nov",
+    "u": "https://247wallst.com/investing/2025/11/04/here-are-tuesdays-top-wall-street-analyst-research-calls-apple-abbvie-broadcom-cyberark-palantir-technologies-and-more/"
    }
   ],
   "UBER": [
    {
     "type": "Opciones",
-    "t": "IV anual 45% vs HV 24% (ratio 1.88) - fuerte salto de volatilidad (earnings proximos)",
-    "d": "2-nov"
+    "t": "IV anual 44% vs HV 25% (ratio 1.77) - fuerte salto de volatilidad (resultados 3T, accion ~-5%)",
+    "d": "3-nov"
    }
   ],
   "APP": [
    {
     "type": "Opciones",
-    "t": "IV anual 96% vs HV 50% (ratio 1.90) - fuerte salto de volatilidad (earnings proximos)",
-    "d": "2-nov"
+    "t": "IV anual 91% vs HV 50% (ratio 1.83) - fuerte salto de volatilidad (earnings proximos)",
+    "d": "3-nov"
+   }
+  ],
+  "WYFI": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 156% vs HV 91% (ratio 1.72) - volatilidad implicita extrema",
+    "d": "3-nov"
+   }
+  ],
+  "IREN": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 126% vs HV 87% (ratio 1.45) - fuerte salto de volatilidad",
+    "d": "3-nov"
+   }
+  ],
+  "UPST": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 66% vs HV 50% (ratio 1.31) - salto de volatilidad (earnings proximos)",
+    "d": "3-nov"
    }
   ],
   "OKLO": [
    {
     "type": "Opciones",
-    "t": "IV anual 88% vs HV 65% (ratio 1.36) - salto de volatilidad",
-    "d": "2-nov"
+    "t": "IV anual 91% vs HV 65% (ratio 1.39) - salto de volatilidad",
+    "d": "3-nov"
    }
   ],
   "HIMS": [
    {
     "type": "Opciones",
-    "t": "IV anual 91% vs HV 67% (ratio 1.35) - salto de volatilidad (earnings proximos)",
-    "d": "2-nov"
+    "t": "IV anual 93% vs HV 69% (ratio 1.34) - salto de volatilidad",
+    "d": "3-nov"
    }
   ],
   "SLS": [
    {
     "type": "Opciones",
-    "t": "IV anual 223% vs HV 87% (ratio 2.57) - volatilidad extrema (posible catalizador clinico)",
-    "d": "2-nov"
+    "t": "IV anual 237% vs HV 87% (ratio 2.71) - volatilidad extrema (posible catalizador clinico)",
+    "d": "3-nov"
    }
   ],
   "HD": [
    {
     "type": "Opciones",
-    "t": "IV anual 34% vs HV 25% (ratio 1.35) - salto de volatilidad (earnings mediados nov)",
-    "d": "2-nov"
+    "t": "IV anual 34% vs HV 26% (ratio 1.32) - salto de volatilidad (earnings mediados nov)",
+    "d": "3-nov"
    }
   ]
  }

@@ -1,11 +1,17 @@
 {
- "updated": "2-nov",
- "note": "Refresco diario. Jornada 2-nov (lunes): Wall Street arranca noviembre al alza liderada por Amazon, que cierra en MAXIMO HISTORICO (~+6%) tras firmar un acuerdo de $38 mil millones a 7 anos con OpenAI: AWS proveera el computo (acceso inmediato a cientos de miles de GPUs NVIDIA GB200/GB300) para entrenar y ejecutar sus modelos, con capacidad plena prevista para fin de 2026. S&P 500 +0.2% (~6,851), Nasdaq +0.5% (~23,834); el Dow cede ~0.5% (~47,336), lastrado por Kimberly-Clark (-14.6%, acuerda comprar Kenvue +12.3% por $40B). NVIDIA sube ~3% por el mismo acuerdo. El ISM manufacturero de octubre cae a 48.7 (octavo mes en contraccion) y el informe de empleo probablemente se retrase por el cierre de gobierno. Semana cargada de resultados: Palantir (hoy tras el cierre) y AMD (manana 3-nov). Las emisoras sin novedad conservan su research previo.",
+ "updated": "3-nov",
+ "note": "Refresco diario. Jornada 3-nov (martes): Wall Street retrocede por temores de burbuja de IA y valuaciones caras; el Nasdaq cae -2.0% (~23,348), el S&P 500 -1.2% (~6,771) y el Dow -0.5% (~47,085). Morgan Stanley (Ted Pick) dice que 'los mercados parecen caros' y ve posible correccion de 10-15%. El Bitcoin pierde los $100,000 por primera vez desde junio. Palantir se desploma ~7.9% pese a su blowout del 3T (castigo por valuacion, ~294x beneficios futuros), NVIDIA cae ~4% y Uber -5.1% tras resultados. AMD reporta el 3T hoy tras el cierre: bate (ingresos $9.25B, +36%; data center $4.34B, +22%) pero la accion cae ~3-4% AH por margenes (data center 25% vs 29%) y la incertidumbre de envios a China. Las emisoras sin novedad conservan su research previo.",
  "tickers": {
   "NVDA": {
    "trend": "'OpenAI-Amazon $38B', GPUs GB200/GB300, '$2 billones de backlog', $3B en la oferta de Meta (Vera Rubin), capex hyperscalers, debate 'pico vs sigue'",
    "peak": "Dias de earnings (beat & raise)",
    "news": [
+    {
+     "t": "Cae ~4% en la jornada de aversion al riesgo por temores de burbuja de IA (Nasdaq -2%); cotiza a ~44x beneficios futuros. Morgan Stanley (Ted Pick) advierte que 'los mercados estan caros' y ve posible correccion de 10-15%",
+     "s": "Kiplinger",
+     "d": "3-nov",
+     "u": "https://www.kiplinger.com/investing/stocks/stocks-retreat-as-bubble-worries-ramp-up-stock-market-today"
+    },
     {
      "t": "Sube ~3% tras el acuerdo OpenAI-Amazon: AWS dara a OpenAI acceso inmediato a cientos de miles de GPUs NVIDIA (GB200/GB300) dentro de un contrato de $38 mil millones a 7 anos (capacidad plena para fin de 2026)",
      "s": "TipRanks",
@@ -17,12 +23,6 @@
      "s": "Yahoo Finance",
      "d": "30-oct",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
-    },
-    {
-     "t": "Retrocede ~1.2% a ~$215.38 en una sesion mixta de chips. Plan de invertir $3 mil millones en la oferta de acciones de Meta (Meta usara mas sistemas NVIDIA, incluidos Vera Rubin y Vera CPUs). Oracle sumara chips de Google, Cerebras y SambaNova (mas competencia potencial)",
-     "s": "TipRanks / The Motley Fool",
-     "d": "28-oct",
-     "u": "https://www.tipranks.com/news/why-are-ai-chip-stocks-amd-intel-and-nvidia-rising-today-october-28"
     }
    ]
   },
@@ -69,6 +69,12 @@
    "peak": "Dia del anuncio del acuerdo con OpenAI",
    "news": [
     {
+     "t": "Reporta 3T hoy tras el cierre y SUPERA: ingresos $9.25B (+36% interanual, vs $8.74B est.) y BPA aj. $1.20 (vs $1.16 est.); data center $4.34B (+22%) pero su margen cae a 25% (desde 29%), client +46% y gaming +181%. Guia 4T ~$9.6B (+25%) con margen bruto aj. ~54.5% que decepciona; la accion cae ~3-4% AH por margenes y la incertidumbre de envios a China (MI308). MI450: Oracle desplegara 50,000 y OpenAI ~6 GW",
+     "s": "SiliconANGLE",
+     "d": "3-nov",
+     "u": "https://siliconangle.com/2025/11/04/amds-revenue-profit-jump-stock-falls-margins-disappoint"
+    },
+    {
      "t": "Preview 3T (reporta manana 3-nov tras el cierre): analistas esperan un trimestre fuerte de data center (MI350/MI450, Helios); la accion resbala en premarket por el deterioro del sentimiento tech y las altas expectativas",
      "s": "TipRanks / StockTwits",
      "d": "2-nov",
@@ -79,12 +85,6 @@
      "s": "TipRanks",
      "d": "28-oct",
      "u": "https://www.tipranks.com/news/why-are-ai-chip-stocks-amd-intel-and-nvidia-rising-today-october-28"
-    },
-    {
-     "t": "Sube ~4% con el rally de chips tras el acuerdo de financiamiento Broadcom-Anthropic (SPV de BofA/BlackRock/Citi/Morgan Stanley que arrienda hardware a Anthropic), que alivia las dudas sobre como se financiara la expansion de IA",
-     "s": "World Today Journal",
-     "d": "27-oct",
-     "u": "https://world-today-journal.com/nasdaq-rises-as-broadcoms-anthropic-deal-boosts-chip-stocks/"
     }
    ]
   },
@@ -415,6 +415,12 @@
    "peak": "Resultados 3T (2-nov AMC): beat & raise con reaccion negativa",
    "news": [
     {
+     "t": "Extiende la caida ~7.9% pese al blowout del 3T, castigada por la valuacion (~294x beneficios futuros, +174% en el ano) en plena jornada de temores de burbuja de IA. Goldman Sachs sube su PT a $188 (desde $141, mantiene Neutral)",
+     "s": "Kiplinger / 24-7 Wall St.",
+     "d": "3-nov",
+     "u": "https://www.kiplinger.com/investing/stocks/stocks-retreat-as-bubble-worries-ramp-up-stock-market-today"
+    },
+    {
      "t": "3T blowout (reportado tras el cierre): ingresos +63% interanual (vs ~50% est.), BPA ajustado +110% (vs ~70% est.), US commercial +121%, FCF ajustado +24% a $540M, caja $6.4B sin deuda; sube guia FY a 53% de crecimiento (desde 45%, ingresos ~$4.40B) y guia 4T +61%. Pese al beat, la accion cae ~8.5% por valuacion ('sell the news')",
      "s": "Roic.ai / CNBC",
      "d": "2-nov",
@@ -425,10 +431,6 @@
      "s": "HeyGoTrade",
      "d": "28-oct",
      "u": "https://www.heygotrade.com/en/news/palantir-pltr-stock-news-october-28-2026/"
-    },
-    {
-     "t": "US commercial +149%, Regla del 40 en 155%; subio guia (rompio el 'sell the news')",
-     "s": "IR"
     }
    ]
   },
@@ -495,6 +497,12 @@
    "peak": "Resultados 29-oct (AMC)",
    "news": [
     {
+     "t": "Presionada por la debilidad cripto: el Bitcoin cae por debajo de $100,000 por primera vez desde junio en una jornada de aversion al riesgo",
+     "s": "Kiplinger",
+     "d": "3-nov",
+     "u": "https://www.kiplinger.com/investing/stocks/stocks-retreat-as-bubble-worries-ramp-up-stock-market-today"
+    },
+    {
      "t": "Cae (>6% en premarket) tras resultados del 3T decepcionantes y la debilidad cripto; Bitcoin retrocede a ~$76,700 (-2.7%) por el hackeo de $6.3B a Binance",
      "s": "Yahoo Finance",
      "d": "30-oct",
@@ -505,12 +513,6 @@
      "s": "24/7 Wall St. / Benzinga",
      "d": "29-oct",
      "u": "https://247wallst.com/cards/coinbase-q3-2026-earnings-coin-01m64mx57w30bfqhgy98k84a66"
-    },
-    {
-     "t": "Reporta 3T manana 29-oct tras el cierre (foco en ingresos de trading, USDC y costos); Bitcoin rebota levemente a ~$81,200 (+0.5%) tras la Fed",
-     "s": "The Motley Fool / CoinDCX",
-     "d": "28-oct",
-     "u": "https://www.fool.com/coverage/stock-market-today/2026/10/28/crypto-market-today-oct-28-bitcoin-and-altcoins-gain-as-fed-decision-clears-the-way-for-big-tech-earnings/"
     }
    ]
   },
@@ -518,6 +520,12 @@
    "trend": "'Saylor', 'MSTR Bitcoin', 'mNAV premium', debate sostenibilidad del apalancamiento",
    "peak": "Movimientos fuertes del BTC",
    "news": [
+    {
+     "t": "Cae con el Bitcoin, que pierde los $100,000 por primera vez desde junio en la sesion de aversion al riesgo (apuesta apalancada al BTC)",
+     "s": "Kiplinger",
+     "d": "3-nov",
+     "u": "https://www.kiplinger.com/investing/stocks/stocks-retreat-as-bubble-worries-ramp-up-stock-market-today"
+    },
     {
      "t": "Cae (>6% en premarket) junto con Coinbase por el desplome del Bitcoin a ~$76,700 (-2.7%) tras el hackeo de $6.3B a Binance",
      "s": "Yahoo Finance",
@@ -529,12 +537,6 @@
      "s": "The Motley Fool",
      "d": "28-oct",
      "u": "https://www.fool.com/investing/2026/10/28/strategys-michael-saylor-predicts-bitcoin-will-soa/"
-    },
-    {
-     "t": "Cae ~4.9% (tras cerrar el miercoles +7.5% en $153.48), retroceso mas fuerte que Coinbase por la caida del Bitcoin (<$82k)",
-     "s": "Ted Pillows / Substack",
-     "d": "22-oct",
-     "u": "https://tedpillows.substack.com/p/crypto-and-finance-market-report-fad"
     }
    ]
   },
@@ -542,6 +544,12 @@
    "trend": "'robotaxi'/'Waymo', run-up a resultados 3T, debate 'value trap vs buy the dip'",
    "peak": "Dia del reporte 2T (5-ago)",
    "news": [
+    {
+     "t": "Reporta 3T y la accion cae ~5.1%: BPA $3.11 (inflado por un beneficio fiscal de $4.9B) e ingresos $13.5B por encima del estimado; arrastrada ademas por la venta general de IA/valuacion",
+     "s": "Kiplinger",
+     "d": "3-nov",
+     "u": "https://www.kiplinger.com/investing/stocks/stocks-retreat-as-bubble-worries-ramp-up-stock-market-today"
+    },
     {
      "t": "Mencionada entre los posibles pretendientes por Instacart (CART) segun reportes; DoorDash estaria en conversaciones avanzadas",
      "s": "Investrade",
