@@ -1,11 +1,17 @@
 {
- "updated": "3-nov",
- "note": "Refresco diario. Jornada 3-nov (martes): Wall Street retrocede por temores de burbuja de IA y valuaciones caras; el Nasdaq cae -2.0% (~23,348), el S&P 500 -1.2% (~6,771) y el Dow -0.5% (~47,085). Morgan Stanley (Ted Pick) dice que 'los mercados parecen caros' y ve posible correccion de 10-15%. El Bitcoin pierde los $100,000 por primera vez desde junio. Palantir se desploma ~7.9% pese a su blowout del 3T (castigo por valuacion, ~294x beneficios futuros), NVIDIA cae ~4% y Uber -5.1% tras resultados. AMD reporta el 3T hoy tras el cierre: bate (ingresos $9.25B, +36%; data center $4.34B, +22%) pero la accion cae ~3-4% AH por margenes (data center 25% vs 29%) y la incertidumbre de envios a China. Las emisoras sin novedad conservan su research previo.",
+ "updated": "4-nov",
+ "note": "Refresco diario. Jornada 4-nov (miercoles): fuerte rally de alivio tras la victoria democrata en las elecciones intermedias (los democratas barren ambas camaras del Congreso), que deja un gobierno dividido con Trump y reduce la incertidumbre de politica. El Dow se dispara +3.03% (+1,569 pts, a 53,356), su mayor rally post-intermedias en 44 anos; el S&P 500 +1.58% (7,689) y el Nasdaq +1.44% (25,737); el VIX se hunde ~-20% a 16.7. El petroleo colapsa ~-7.8% (WTI ~$88.5) al enfriarse el riesgo de escalada con Iran (el sector energetico es el mas rezagado). Big tech lidera el rebote: Amazon +7.2% y Microsoft +7.1% (maximo historico), Apple +6.3%, Alphabet +4.1%; NVIDIA y los semiconductores quedan rezagados tras las subidas previas. El Bitcoin sigue debil (~$80,150, muy por debajo de $100,000). Uber sube ~3.5% pese a una guia 4T floja; SpaceX cae ~6.4% por un acuerdo de 5G con Qualcomm; CVS se hunde por su plan de escision. Las emisoras sin novedad conservan su research previo.",
  "tickers": {
   "NVDA": {
    "trend": "'OpenAI-Amazon $38B', GPUs GB200/GB300, '$2 billones de backlog', $3B en la oferta de Meta (Vera Rubin), capex hyperscalers, debate 'pico vs sigue'",
    "peak": "Dias de earnings (beat & raise)",
    "news": [
+    {
+     "t": "Queda rezagada frente al rally general (Dow +3.03%): en una sesion liderada por el resto de big tech, los semiconductores pierden fuerza tras sus subidas previas mientras el mercado rota al alivio post-electoral",
+     "s": "TheStreet",
+     "d": "4-nov",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
+    },
     {
      "t": "Cae ~4% en la jornada de aversion al riesgo por temores de burbuja de IA (Nasdaq -2%); cotiza a ~44x beneficios futuros. Morgan Stanley (Ted Pick) advierte que 'los mercados estan caros' y ve posible correccion de 10-15%",
      "s": "Kiplinger",
@@ -17,12 +23,6 @@
      "s": "TipRanks",
      "d": "2-nov",
      "u": "https://www.tipranks.com/news/amazon-stock-amzn-jumps-6-on-38b-cloud-deal-with-chatgpt-maker-openai"
-    },
-    {
-     "t": "Arrastrada por el selloff de big tech que cierra octubre (Nasdaq -2.86%); cotiza ~-12% debajo de su maximo de 52 semanas",
-     "s": "Yahoo Finance",
-     "d": "30-oct",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
     }
    ]
   },
@@ -237,6 +237,12 @@
    "peak": "Resultados 28-oct (AMC): Azure +48%",
    "news": [
     {
+     "t": "Salta ~+7.1% y marca maximo historico intradia en el rally de alivio post-elecciones, entre los mayores impulsores del Dow y el Nasdaq",
+     "s": "TheStreet",
+     "d": "4-nov",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
+    },
+    {
      "t": "Reporta FQ1'27 tras el cierre y supera: ingresos $92.3B (+19% interanual, vs $90.7B est.), BPA ajustado $4.89 (vs $4.73 est.), Azure +48% (vs 44% est.) y capex $45.2B (por debajo de ~$50.7B est.). La accion sube ~2% AH",
      "s": "Cautious Optimism / CNBC",
      "d": "28-oct",
@@ -247,12 +253,6 @@
      "s": "TheStreet",
      "d": "23-oct",
      "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-23-2026"
-    },
-    {
-     "t": "Preview: foco en el capex de IA y Azure; consenso previo BPA ~$4.27 e ingresos ~$90.6B",
-     "s": "VistaP Global",
-     "d": "27-oct",
-     "u": "https://vistapglobal.com/stock-market-today-october-27-2026-nasdaq-gains-1-18-as-ai-stocks-lead-ahead-of-wednesdays-fed-decision-amwl-ceg-eprx-googl-hood-ko-meta-modd-msft-nvda-orcl-rcl-ser-ups"
     }
    ]
   },
@@ -260,6 +260,12 @@
    "trend": "'Gemini 3', 'Google TPU', Google Cloud +103%, debate 'cash burn de IA'",
    "peak": "Resultados 28-oct (AMC) y continuacion 29-oct (-12%)",
    "news": [
+    {
+     "t": "Rebota ~+4.1% con el rally post-electoral, recuperando parte del desplome que sufrio por sus resultados del 3T",
+     "s": "TheStreet",
+     "d": "4-nov",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
+    },
     {
      "t": "Sigue cayendo tras su peor dia en mas de 20 anos (jueves); el mercado castiga el FCF negativo de -$9.1B del 3T en plena ola de ventas de IA",
      "s": "Yahoo Finance",
@@ -271,12 +277,6 @@
      "s": "The Motley Fool",
      "d": "29-oct",
      "u": "https://www.fool.com/coverage/stock-market-today/2026/10/29/stock-market-today-oct-29-amazon-falls-on-q3-earnings-report-and-capex-concerns/"
-    },
-    {
-     "t": "Reporta 3T tras el cierre y CAE ~8% AH: ingresos $127.6B (+25%, ligeramente por debajo de $128.2B est.) pese a Google Cloud +103% a $30.7B (vs 90% est.); decepcionan la utilidad operativa ($40.6B vs $43.2B est.), la utilidad neta ($26.5B) y el FCF (-$9.1B), con mayor cash burn financiado con $12.4B en acciones y $28.7B en deuda",
-     "s": "Cautious Optimism",
-     "d": "28-oct",
-     "u": "https://www.cautiousoptimism.news/msft-alpha-earnings"
     }
    ]
   },
@@ -284,6 +284,12 @@
    "trend": "'OpenAI $38B AWS deal', 'AWS +39%', 'Trainium', capex ~$220B, debate aceleracion de nube vs cash burn",
    "peak": "2-nov: maximo historico por el acuerdo con OpenAI",
    "news": [
+    {
+     "t": "Encabeza a big tech con ~+7.2% y toca maximo historico intradia en el rally de alivio tras la victoria democrata en las intermedias",
+     "s": "TheStreet",
+     "d": "4-nov",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
+    },
     {
      "t": "Cierra en MAXIMO HISTORICO (~+6%) tras firmar un acuerdo de $38 mil millones a 7 anos con OpenAI: AWS proveera el computo para entrenar y ejecutar sus modelos (acceso inmediato a cientos de miles de GPUs NVIDIA GB200/GB300), con capacidad plena para fin de 2026. 'This partnership is a turning point' (Matt Garman, AWS). Se suma al salto de ~+10% del viernes por el 3T",
      "s": "TipRanks / Yahoo Finance",
@@ -295,12 +301,6 @@
      "s": "Yahoo Finance / CNBC",
      "d": "30-oct",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
-    },
-    {
-     "t": "Reporta 3T tras el cierre: ingresos $201.9B (+12% interanual, vs $202.2B est.), BPA diluido $1.89 (vs $1.97 est.) y AWS +39% interanual a $46B (acelera desde 37% en 2T), con proyeccion de AWS >40% en 2027-28; guia 4T $240-247B (vs $244.5B est.) y capex 2026 de ~$220B. La accion cerro -4.25% a $243.79 y cayo mas AH por el capex/guia pese a la aceleracion de la nube",
-     "s": "The Motley Fool",
-     "d": "29-oct",
-     "u": "https://www.fool.com/investing/2026/10/29/aws-jumps-39-as-amazons-cash-flow-sinks-rapid-earn/"
     }
    ]
   },
@@ -308,6 +308,12 @@
    "trend": "'Meta superintelligence', NVIDIA $3B + AMD $1B en su oferta, capex al alza, debate ROI",
    "peak": "Fichajes de IA y guia de capex",
    "news": [
+    {
+     "t": "Rebota con big tech en el rally post-electoral (Dow +3%), recuperando parte de la caida reciente a territorio bajista",
+     "s": "TheStreet",
+     "d": "4-nov",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
+    },
     {
      "t": "Entra en territorio bajista: cae >20% desde su maximo de 52 semanas tras la venta por resultados; reporto su primer FCF negativo desde 2012",
      "s": "Yahoo Finance",
@@ -319,12 +325,6 @@
      "s": "TipRanks / The Motley Fool",
      "d": "28-oct",
      "u": "https://www.tipranks.com/news/why-are-ai-chip-stocks-amd-intel-and-nvidia-rising-today-october-28"
-    },
-    {
-     "t": "NVIDIA anuncia un plan para invertir $3 mil millones en Meta; Meta eleva su oferta de acciones comunes a ~$25 mil millones (desde $22.5B) a $625/accion dentro de su plan de ~$95-97.5B para financiar IA",
-     "s": "VistaP Global / Investrade",
-     "d": "27-oct",
-     "u": "https://vistapglobal.com/stock-market-today-october-27-2026-nasdaq-gains-1-18-as-ai-stocks-lead-ahead-of-wednesdays-fed-decision-amwl-ceg-eprx-googl-hood-ko-meta-modd-msft-nvda-orcl-rcl-ser-ups"
     }
    ]
   },
@@ -381,6 +381,12 @@
    "peak": "Pruebas de Starship y noticias de Starlink",
    "news": [
     {
+     "t": "Cae ~6.4% en premarket tras conocerse un acuerdo de 5G con Qualcomm, desmarcandose del fuerte rally general del mercado",
+     "s": "TheStreet",
+     "d": "4-nov",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
+    },
+    {
      "t": "SpaceX asegura $40 mil millones en financiamiento de deuda para GPUs; Musk dice que no comprara 'neoclouds'; Barclays sube a Tesla citando una posible fusion con SpaceX",
      "s": "Investrade",
      "d": "26-oct",
@@ -391,12 +397,6 @@
      "s": "Yahoo Finance / TradingKey",
      "d": "23-oct",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
-    },
-    {
-     "t": "Cae ~9% (a ~$145), devolviendo mas de la mitad del salto post-earnings del miercoles al venderse las acciones tech",
-     "s": "Yahoo Finance / Motley Fool",
-     "d": "22-oct",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"
     }
    ]
   },
@@ -497,6 +497,12 @@
    "peak": "Resultados 29-oct (AMC)",
    "news": [
     {
+     "t": "El Bitcoin sigue debil (~$80,150), muy por debajo de los $100,000, lo que presiona a las plataformas cripto pese al rally general de la bolsa",
+     "s": "VistaP Global / TheStreet",
+     "d": "4-nov",
+     "u": "https://vistapglobal.com/stock-market-today-november-4-2026-dow-surges-1569-points-as-oil-plunges-after-midterm-elections-aapl-cvs-docs-eprx-googl-law-modd-msft-nvda-qcom-ser-spcx-stz-tap/"
+    },
+    {
      "t": "Presionada por la debilidad cripto: el Bitcoin cae por debajo de $100,000 por primera vez desde junio en una jornada de aversion al riesgo",
      "s": "Kiplinger",
      "d": "3-nov",
@@ -507,12 +513,6 @@
      "s": "Yahoo Finance",
      "d": "30-oct",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
-    },
-    {
-     "t": "Reporta 3T tras el cierre: BPA GAAP $2.51 (vs $0.07 est.) inflado por una ganancia de $715M en cripto mantenido para inversion (mark-to-market); utilidad neta ajustada $77.7M; ingresos $1.22B (~en linea pero -35% interanual) por volatilidad cripto en minimos de varios anos; suscripciones y servicios +3% a $570M (USDC) y 4o trimestre consecutivo ganando cuota de spot. Guia 4T suscripciones $550-630M",
-     "s": "24/7 Wall St. / Benzinga",
-     "d": "29-oct",
-     "u": "https://247wallst.com/cards/coinbase-q3-2026-earnings-coin-01m64mx57w30bfqhgy98k84a66"
     }
    ]
   },
@@ -520,6 +520,12 @@
    "trend": "'Saylor', 'MSTR Bitcoin', 'mNAV premium', debate sostenibilidad del apalancamiento",
    "peak": "Movimientos fuertes del BTC",
    "news": [
+    {
+     "t": "Apuesta apalancada al BTC: el Bitcoin cae a ~$80,150, lejos de los $100,000, pesando sobre la accion aun en una jornada de fuerte rally bursatil",
+     "s": "VistaP Global / TheStreet",
+     "d": "4-nov",
+     "u": "https://vistapglobal.com/stock-market-today-november-4-2026-dow-surges-1569-points-as-oil-plunges-after-midterm-elections-aapl-cvs-docs-eprx-googl-law-modd-msft-nvda-qcom-ser-spcx-stz-tap/"
+    },
     {
      "t": "Cae con el Bitcoin, que pierde los $100,000 por primera vez desde junio en la sesion de aversion al riesgo (apuesta apalancada al BTC)",
      "s": "Kiplinger",
@@ -531,12 +537,6 @@
      "s": "Yahoo Finance",
      "d": "30-oct",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
-    },
-    {
-     "t": "Bitcoin rebota levemente a ~$81,200 (+0.5%) tras la Fed; Michael Saylor reitera que el BTC superara los $100,000 en los proximos 12 meses",
-     "s": "The Motley Fool",
-     "d": "28-oct",
-     "u": "https://www.fool.com/investing/2026/10/28/strategys-michael-saylor-predicts-bitcoin-will-soa/"
     }
    ]
   },
@@ -544,6 +544,12 @@
    "trend": "'robotaxi'/'Waymo', run-up a resultados 3T, debate 'value trap vs buy the dip'",
    "peak": "Dia del reporte 2T (5-ago)",
    "news": [
+    {
+     "t": "Sube ~+3.5% pese a una guia 4T floja, sumandose al rally post-electoral (el dia previo habia caido ~5% tras reportar el 3T con BPA inflado por un beneficio fiscal)",
+     "s": "TheStreet",
+     "d": "4-nov",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
+    },
     {
      "t": "Reporta 3T y la accion cae ~5.1%: BPA $3.11 (inflado por un beneficio fiscal de $4.9B) e ingresos $13.5B por encima del estimado; arrastrada ademas por la venta general de IA/valuacion",
      "s": "Kiplinger",
@@ -555,10 +561,6 @@
      "s": "Investrade",
      "d": "26-oct",
      "u": "https://investrade.com/market-review-october-26-2026/"
-    },
-    {
-     "t": "Gross Bookings +24%, FCF TTM >$10 bn; guia 3T floja + 'riesgo robotaxi'",
-     "s": "IR"
     }
    ]
   },
