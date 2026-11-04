@@ -42,6 +42,12 @@
    {
     "type": "Form 4",
     "t": "Form 4",
+    "d": "4-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000195/0000050863-26-000195-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
     "d": "2-nov",
     "u": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000194/0000050863-26-000194-index.htm"
    }
@@ -116,6 +122,14 @@
     "t": "8-K: Regulation FD (divulgacion); Otros eventos relevantes",
     "d": "2-nov",
     "u": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526442707/0001193125-26-442707-index.htm"
+   }
+  ],
+  "UBER": [
+   {
+    "type": "8-K",
+    "t": "8-K: Resultados (earnings); Cambio en directivos/consejo; Estados financieros/anexos",
+    "d": "4-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000039/0001543151-26-000039-index.htm"
    }
   ],
   "ETN": [
