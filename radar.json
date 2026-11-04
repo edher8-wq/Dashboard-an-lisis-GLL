@@ -1,5 +1,5 @@
 {
- "updated": "3-nov",
+ "updated": "4-nov",
  "source": "SEC EDGAR",
  "tickers": {
   "TSM": [
@@ -10,7 +10,21 @@
     "u": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000732/0001046179-26-000732-index.htm"
    }
   ],
+  "AMD": [
+   {
+    "type": "8-K",
+    "t": "8-K: Resultados (earnings); Regulation FD (divulgacion); Estados financieros/anexos",
+    "d": "3-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000188/0000002488-26-000188-index.htm"
+   }
+  ],
   "MRVL": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "3-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1835632/000162828026069600/0001628280-26-069600-index.htm"
+   },
    {
     "type": "8-K",
     "t": "8-K: Acuerdo material nuevo; Estados financieros/anexos",
@@ -30,6 +44,28 @@
     "t": "Form 4",
     "d": "2-nov",
     "u": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000194/0000050863-26-000194-index.htm"
+   }
+  ],
+  "SNDK": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "3-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/2023554/000124264826000049/0001242648-26-000049-index.htm"
+   }
+  ],
+  "WYFI": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "3-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/2042022/000121390026115645/0001213900-26-115645-index.htm"
+   },
+   {
+    "type": "8-K",
+    "t": "8-K: Acuerdo material nuevo; Adquisicion/venta completada; Regulation FD (divulgacion); Estados financieros/anexos",
+    "d": "3-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/2042022/000121390026115575/0001213900-26-115575-index.htm"
    }
   ],
   "PLTR": [
@@ -102,6 +138,22 @@
     "t": "Form 3",
     "d": "2-nov",
     "u": "https://www.sec.gov/Archives/edgar/data/18230/000110465926121054/0001104659-26-121054-index.htm"
+   }
+  ],
+  "BE": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "3-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1664703/000119312526445581/0001193125-26-445581-index.htm"
+   }
+  ],
+  "NEE": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "3-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/753308/000196045726000008/0001960457-26-000008-index.htm"
    }
   ],
   "OKLO": [
