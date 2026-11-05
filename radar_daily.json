@@ -1,102 +1,113 @@
 {
- "updated": "4-nov",
+ "updated": "5-nov",
  "source": "IBKR opciones + social + analistas",
  "tickers": {
   "NVDA": [
    {
     "type": "Opciones",
-    "t": "IV anual 46% vs HV 33% (ratio 1.40) - salto de volatilidad (semis rezagados en el rally)",
-    "d": "4-nov"
-   }
-  ],
-  "APP": [
-   {
-    "type": "Opciones",
-    "t": "Volumen de calls 2.6x y de puts 2.0x su promedio (actividad inusual); IV 71% vs HV 50% - posicionamiento previo a earnings",
-    "d": "4-nov"
-   }
-  ],
-  "VST": [
-   {
-    "type": "Opciones",
-    "t": "Volumen de calls 2.2x y de puts 2.0x su promedio - actividad de opciones inusual",
-    "d": "4-nov"
-   }
-  ],
-  "NEE": [
-   {
-    "type": "Opciones",
-    "t": "Volumen de calls 2.1x su promedio (apetito alcista; posible lectura pro-renovables tras la victoria democrata)",
-    "d": "4-nov"
-   }
-  ],
-  "FSLR": [
-   {
-    "type": "Opciones",
-    "t": "Volumen de calls 2.4x su promedio (apetito alcista; posible lectura pro-solar tras la victoria democrata)",
-    "d": "4-nov"
-   }
-  ],
-  "UBER": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 33% vs HV 24% (ratio 1.39) y volumen de calls 1.8x su promedio - salto de volatilidad post-resultados",
-    "d": "4-nov"
-   }
-  ],
-  "WYFI": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 135% vs HV 92% (ratio 1.47) - volatilidad implicita extrema",
-    "d": "4-nov"
-   }
-  ],
-  "OKLO": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 92% vs HV 66% (ratio 1.40) - salto de volatilidad",
-    "d": "4-nov"
-   }
-  ],
-  "HIMS": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 90% vs HV 67% (ratio 1.35) - salto de volatilidad",
-    "d": "4-nov"
-   }
-  ],
-  "SLS": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 220% vs HV 88% (ratio 2.51) - volatilidad extrema (posible catalizador clinico)",
-    "d": "4-nov"
-   }
-  ],
-  "HD": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 33% vs HV 25% (ratio 1.30) - salto de volatilidad (earnings mediados de nov)",
-    "d": "4-nov"
-   }
-  ],
-  "PLTR": [
-   {
-    "type": "Social",
-    "t": "Chatter social disparado vs su promedio (Reddit/StockTwits) por el blowout del 3T y el desplome ~8% por valuacion",
-    "d": "4-nov"
+    "t": "IV anual 61% vs HV 33% (ratio 1.84) y volumen de puts ~1.9x su promedio - salto de volatilidad en la jornada de panico (-9%)",
+    "d": "5-nov"
    },
    {
-    "type": "Analista",
-    "t": "Goldman Sachs sube PT a $188 (desde $141, mantiene Neutral)",
-    "d": "3-nov",
-    "u": "https://247wallst.com/investing/2025/11/04/here-are-tuesdays-top-wall-street-analyst-research-calls-apple-abbvie-broadcom-cyberark-palantir-technologies-and-more/"
+    "type": "Social",
+    "t": "Chatter social disparado vs su promedio: epicentro del selloff de IA ('estan disparandole a los generales')",
+    "d": "5-nov"
+   }
+  ],
+  "TSM": [
+   {
+    "type": "Opciones",
+    "t": "Volumen de puts 2.0x su promedio e IV 50% vs HV 36% (ratio 1.36) - cobertura tras caida -10%",
+    "d": "5-nov"
+   }
+  ],
+  "INTC": [
+   {
+    "type": "Opciones",
+    "t": "Volumen de puts 2.1x su promedio (cobertura/bajista) tras caida ~-11%",
+    "d": "5-nov"
    }
   ],
   "AMD": [
    {
     "type": "Social",
-    "t": "Chatter social disparado vs su promedio (Reddit/StockTwits) por los resultados del 3T (beat con caida por margenes/China)",
-    "d": "4-nov"
+    "t": "Chatter social disparado vs su promedio por la caida ~-15% (comentarios de la CEO Lisa Su)",
+    "d": "5-nov"
+   }
+  ],
+  "APP": [
+   {
+    "type": "Opciones",
+    "t": "Volumen de calls 6.8x y de puts 4.0x su promedio tras salto ~+28% (blowout de resultados 3T)",
+    "d": "5-nov"
+   },
+   {
+    "type": "Social",
+    "t": "Chatter social disparado vs su promedio: unico gran verde del dia (+28% por earnings)",
+    "d": "5-nov"
+   }
+  ],
+  "PLTR": [
+   {
+    "type": "Social",
+    "t": "Chatter social disparado vs su promedio: pierde >10% (~$40B), ~25% bajo su record, en pleno debate de valuacion/burbuja",
+    "d": "5-nov"
+   }
+  ],
+  "VST": [
+   {
+    "type": "Opciones",
+    "t": "Volumen de puts 2.1x su promedio (cobertura/bajista) en el selloff de energia para IA",
+    "d": "5-nov"
+   }
+  ],
+  "SMR": [
+   {
+    "type": "Opciones",
+    "t": "Volumen de puts 2.8x su promedio e IV 101% vs HV 76% (ratio 1.32) - panico en nucleares (-16%)",
+    "d": "5-nov"
+   }
+  ],
+  "OKLO": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 101% vs HV 69% (ratio 1.46) - salto de volatilidad (-13%)",
+    "d": "5-nov"
+   }
+  ],
+  "HIMS": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 97% vs HV 69% (ratio 1.41) - salto de volatilidad (-11%)",
+    "d": "5-nov"
+   }
+  ],
+  "SLS": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 236% vs HV 88% (ratio 2.70) - volatilidad extrema (posible catalizador clinico)",
+    "d": "5-nov"
+   }
+  ],
+  "WYFI": [
+   {
+    "type": "Opciones",
+    "t": "Volumen de calls 4.8x su promedio (actividad inusual pese a la caida -14%)",
+    "d": "5-nov"
+   }
+  ],
+  "UBER": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 37% vs HV 28% (ratio 1.31) - volatilidad elevada tras resultados",
+    "d": "5-nov"
+   }
+  ],
+  "UPST": [
+   {
+    "type": "Opciones",
+    "t": "IV anual 70% vs HV 51% (ratio 1.36) - salto de volatilidad",
+    "d": "5-nov"
    }
   ]
  }

@@ -1,11 +1,17 @@
 {
- "updated": "4-nov",
- "note": "Refresco diario. Jornada 4-nov (miercoles): fuerte rally de alivio tras la victoria democrata en las elecciones intermedias (los democratas barren ambas camaras del Congreso), que deja un gobierno dividido con Trump y reduce la incertidumbre de politica. El Dow se dispara +3.03% (+1,569 pts, a 53,356), su mayor rally post-intermedias en 44 anos; el S&P 500 +1.58% (7,689) y el Nasdaq +1.44% (25,737); el VIX se hunde ~-20% a 16.7. El petroleo colapsa ~-7.8% (WTI ~$88.5) al enfriarse el riesgo de escalada con Iran (el sector energetico es el mas rezagado). Big tech lidera el rebote: Amazon +7.2% y Microsoft +7.1% (maximo historico), Apple +6.3%, Alphabet +4.1%; NVIDIA y los semiconductores quedan rezagados tras las subidas previas. El Bitcoin sigue debil (~$80,150, muy por debajo de $100,000). Uber sube ~3.5% pese a una guia 4T floja; SpaceX cae ~6.4% por un acuerdo de 5G con Qualcomm; CVS se hunde por su plan de escision. Las emisoras sin novedad conservan su research previo.",
+ "updated": "5-nov",
+ "note": "Refresco diario. Jornada 5-nov (jueves): brutal reversion del rally post-electoral y estallido de un selloff de IA/semiconductores que mete al Nasdaq en correccion. Nasdaq -5.52% (24,315), S&P 500 -4.36% (7,354) y Dow -3.44% (-1,833 pts, a 51,523); el indice de semiconductores SOX se desploma -12.25% (9,011) y el Russell 2000 -4.45%. El VIX se dispara +69.7% a 28.18, su mayor salto diario en mas de 2 anos. Nomura (McElligott): 'estan disparandole a los generales' - los institucionales venden a los ganadores de 2026 para asegurar ganancias antes de fin de ano, con temores regulatorios sobre los data centers tras la victoria democrata; Vanda habla de 'capitulacion' retail (~$358M de venta neta, la mayor desde marzo 2020). Los chips lideran la caida: NVDA (-9%) rompe su media de 200 dias, AMD ~-15%, MU ~-12%, TSM ~-10%, MRVL ~-16%; PLTR ~-10%. Excepcion: AppLovin se dispara ~+28% por un blowout del 3T. El complejo de energia/data center se hunde (VRT -14%, BE -16%, SMR -16%, OKLO -13%, GEV -8%, ETN/CAT ~-7%). El petroleo rebota (WTI ~$91, +3.2%). Las emisoras sin novedad conservan su research previo.",
  "tickers": {
   "NVDA": {
    "trend": "'OpenAI-Amazon $38B', GPUs GB200/GB300, '$2 billones de backlog', $3B en la oferta de Meta (Vera Rubin), capex hyperscalers, debate 'pico vs sigue'",
    "peak": "Dias de earnings (beat & raise)",
    "news": [
+    {
+     "t": "Se hunde ~9% en el estallido del selloff de IA/chips: rompe su media movil de 200 dias y acumula ~-15% en el mes (SOX -12.25%). La IV implicita salta a ~61% (vs HV 33%) de cara a resultados (~19-nov)",
+     "s": "Yahoo Finance",
+     "d": "5-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
     {
      "t": "Queda rezagada frente al rally general (Dow +3.03%): en una sesion liderada por el resto de big tech, los semiconductores pierden fuerza tras sus subidas previas mientras el mercado rota al alivio post-electoral",
      "s": "TheStreet",
@@ -17,12 +23,6 @@
      "s": "Kiplinger",
      "d": "3-nov",
      "u": "https://www.kiplinger.com/investing/stocks/stocks-retreat-as-bubble-worries-ramp-up-stock-market-today"
-    },
-    {
-     "t": "Sube ~3% tras el acuerdo OpenAI-Amazon: AWS dara a OpenAI acceso inmediato a cientos de miles de GPUs NVIDIA (GB200/GB300) dentro de un contrato de $38 mil millones a 7 anos (capacidad plena para fin de 2026)",
-     "s": "TipRanks",
-     "d": "2-nov",
-     "u": "https://www.tipranks.com/news/amazon-stock-amzn-jumps-6-on-38b-cloud-deal-with-chatgpt-maker-openai"
     }
    ]
   },
@@ -30,6 +30,12 @@
    "trend": "run-up al 3T (15-oct), 'N2/2nm', capacidad reservada, lectura cruzada con superciclo de memoria",
    "peak": "Dias de earnings",
    "news": [
+    {
+     "t": "Cae ~10% arrastrada por el desplome de semiconductores (SOX -12.25%); el volumen de puts sube a ~2x su promedio (cobertura)",
+     "s": "Yahoo Finance",
+     "d": "5-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
     {
      "t": "3T 2026 record (reportado 15-oct): utilidad neta NT$763 bn (+68.7% interanual), ingresos US$46.72 bn (+41.2%), margen bruto 66.4%; guia 4T US$52.3-54.3 bn. Pese al beat, el ADR cayo ~4% por el leve descenso de margen (desde 67.7%)",
      "s": "SEC 6-K / TheStreet",
@@ -41,10 +47,6 @@
      "s": "Reuters / The Star",
      "d": "8-oct",
      "u": "https://www.thestar.com.my/tech/tech-news/2026/10/08/tsmc039s-third-quarter-revenue-surges-to-record-beating-market-forecast"
-    },
-    {
-     "t": "2T record, guia 2026 >40%, +100 bn en Arizona, dividendo +33%",
-     "s": "IR"
     }
    ]
   },
@@ -69,6 +71,12 @@
    "peak": "Dia del anuncio del acuerdo con OpenAI",
    "news": [
     {
+     "t": "Se desploma ~15% en el selloff de IA/chips (acumula ~-22% en el mes); la CEO Lisa Su resta importancia: 'el mercado a veces puede ser un poco cortoplacista'",
+     "s": "Yahoo Finance",
+     "d": "5-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
+    {
      "t": "Reporta 3T hoy tras el cierre y SUPERA: ingresos $9.25B (+36% interanual, vs $8.74B est.) y BPA aj. $1.20 (vs $1.16 est.); data center $4.34B (+22%) pero su margen cae a 25% (desde 29%), client +46% y gaming +181%. Guia 4T ~$9.6B (+25%) con margen bruto aj. ~54.5% que decepciona; la accion cae ~3-4% AH por margenes y la incertidumbre de envios a China (MI308). MI450: Oracle desplegara 50,000 y OpenAI ~6 GW",
      "s": "SiliconANGLE",
      "d": "3-nov",
@@ -79,12 +87,6 @@
      "s": "TipRanks / StockTwits",
      "d": "2-nov",
      "u": "https://www.tipranks.com/news/amd-reports-earnings-tuesday-heres-why-analysts-expect-a-strong-data-center-quarter"
-    },
-    {
-     "t": "Confirma que sus sistemas rack-scale Helios ya corren en Meta e invertira $1 mil millones en la oferta de acciones de Meta (amplia el acuerdo de hasta 6 GW de GPUs). Reporta resultados del 3T el 3-nov",
-     "s": "TipRanks",
-     "d": "28-oct",
-     "u": "https://www.tipranks.com/news/why-are-ai-chip-stocks-amd-intel-and-nvidia-rising-today-october-28"
     }
    ]
   },
@@ -92,6 +94,12 @@
    "trend": "'custom silicon', 'Marvell Google deal', debate 'crecimiento vs margen'",
    "peak": "Dia del anuncio del acuerdo con Google",
    "news": [
+    {
+     "t": "Se desploma ~16% arrastrada por el selloff generalizado de chips (SOX -12.25%), devolviendo buena parte del rally del hype de 'silicio personalizado'",
+     "s": "Yahoo Finance",
+     "d": "5-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
     {
      "t": "Cae ~5.56% arrastrada por el selloff general de chips (SOX -3.83%, 30/30 a la baja)",
      "s": "TradingKey",
@@ -109,6 +117,12 @@
    "peak": "Resultados 29-oct (AMC): -18%",
    "news": [
     {
+     "t": "Cae ~11% en el selloff de chips; el volumen de puts salta a ~2.1x su promedio (cobertura/bajista)",
+     "s": "Yahoo Finance",
+     "d": "5-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
+    {
      "t": "Se desploma ~29% en la sesion, la mayor caida diaria de su historia, tras advertir que quemara caja en 2026 y dar una guia 4T floja (ingresos ~$15.5B) con demanda PC debil ligada a los precios de la memoria",
      "s": "Yahoo Finance / StockTitan",
      "d": "30-oct",
@@ -119,12 +133,6 @@
      "s": "StockStory / FinancialContent",
      "d": "29-oct",
      "u": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-29-intel-nasdaqintc-posts-better-than-expected-sales-in-q3-but-stock-drops-182"
-    },
-    {
-     "t": "Amplia su alianza multianual con Oracle (mas capacidad Xeon para Oracle Cloud Infrastructure y futuros X14 con procesadores Diamond Rapids). Reporta resultados del 3T manana 29-oct tras el cierre",
-     "s": "TipRanks",
-     "d": "28-oct",
-     "u": "https://www.tipranks.com/news/why-are-ai-chip-stocks-amd-intel-and-nvidia-rising-today-october-28"
     }
    ]
   },
@@ -155,6 +163,12 @@
    "peak": "Reporte (sep): blowout con reaccion muda",
    "news": [
     {
+     "t": "Cae ~12% intradia, uno de los nombres mas golpeados del sector memoria/chips en la correccion del Nasdaq",
+     "s": "Yahoo Finance",
+     "d": "5-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
+    {
      "t": "Sube ~5.9% a ~$983 en el rally de memoria tras los resultados record de SK Hynix (margen 80%, DRAM/HBM agotados hasta 2029); los traders se inclinan por la demanda de memoria de IA",
      "s": "The Motley Fool",
      "d": "28-oct",
@@ -165,12 +179,6 @@
      "s": "Investrade",
      "d": "26-oct",
      "u": "https://investrade.com/market-review-october-26-2026/"
-    },
-    {
-     "t": "El CEO ve la oferta de memoria ajustada (tight) durante ~2 anos y confirma que el HBM4 ya esta en produccion de alto volumen",
-     "s": "TradingKey",
-     "d": "23-oct",
-     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262236830-us-market-close-dow-drop-consumer-healthcare-chips-rebound-crowdstrike-tradingkey"
     }
    ]
   },
@@ -237,6 +245,12 @@
    "peak": "Resultados 28-oct (AMC): Azure +48%",
    "news": [
     {
+     "t": "Cae con big tech en la jornada de aversion al riesgo (Nasdaq -5.52%), tras marcar maximos el dia previo",
+     "s": "Yahoo Finance",
+     "d": "5-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
+    {
      "t": "Salta ~+7.1% y marca maximo historico intradia en el rally de alivio post-elecciones, entre los mayores impulsores del Dow y el Nasdaq",
      "s": "TheStreet",
      "d": "4-nov",
@@ -247,12 +261,6 @@
      "s": "Cautious Optimism / CNBC",
      "d": "28-oct",
      "u": "https://www.cautiousoptimism.news/msft-alpha-earnings"
-    },
-    {
-     "t": "Avanza en su silicio propio: planea desplegar sus chips Maia para inferencia de IA y reducir su dependencia de NVIDIA; Bloomberg Intelligence advierte que Maia esta 'ni cerca' de la tecnologia de NVIDIA/Alphabet",
-     "s": "TheStreet",
-     "d": "23-oct",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-23-2026"
     }
    ]
   },
@@ -260,6 +268,12 @@
    "trend": "'Gemini 3', 'Google TPU', Google Cloud +103%, debate 'cash burn de IA'",
    "peak": "Resultados 28-oct (AMC) y continuacion 29-oct (-12%)",
    "news": [
+    {
+     "t": "Retrocede con big tech en la correccion del Nasdaq (-5.52%) por los temores de burbuja de IA",
+     "s": "Yahoo Finance",
+     "d": "5-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
     {
      "t": "Rebota ~+4.1% con el rally post-electoral, recuperando parte del desplome que sufrio por sus resultados del 3T",
      "s": "TheStreet",
@@ -271,12 +285,6 @@
      "s": "Yahoo Finance",
      "d": "30-oct",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
-    },
-    {
-     "t": "Extiende la caida: se hunde ~12.3% (a ~$282), uno de los mayores lastres del Nasdaq, prolongando el castigo por sus resultados del 3T (utilidad operativa e ingresos algo por debajo y mayor cash burn de IA, FCF -$9.1B)",
-     "s": "The Motley Fool",
-     "d": "29-oct",
-     "u": "https://www.fool.com/coverage/stock-market-today/2026/10/29/stock-market-today-oct-29-amazon-falls-on-q3-earnings-report-and-capex-concerns/"
     }
    ]
   },
@@ -284,6 +292,12 @@
    "trend": "'OpenAI $38B AWS deal', 'AWS +39%', 'Trainium', capex ~$220B, debate aceleracion de nube vs cash burn",
    "peak": "2-nov: maximo historico por el acuerdo con OpenAI",
    "news": [
+    {
+     "t": "Retrocede con big tech en la correccion general del Nasdaq (-5.52%), devolviendo parte del rally reciente",
+     "s": "Yahoo Finance",
+     "d": "5-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
     {
      "t": "Encabeza a big tech con ~+7.2% y toca maximo historico intradia en el rally de alivio tras la victoria democrata en las intermedias",
      "s": "TheStreet",
@@ -295,12 +309,6 @@
      "s": "TipRanks / Yahoo Finance",
      "d": "2-nov",
      "u": "https://www.tipranks.com/news/amazon-stock-amzn-jumps-6-on-38b-cloud-deal-with-chatgpt-maker-openai"
-    },
-    {
-     "t": "Revierte el salto premarket (~+10%) y cierra ~-2% tras el miss del 3T: pese a AWS +39%, se enfria el crecimiento de publicidad y el FCF a 12 meses marca una salida record de >$42B con capex 2026 ~$220B",
-     "s": "Yahoo Finance / CNBC",
-     "d": "30-oct",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
     }
    ]
   },
@@ -308,6 +316,12 @@
    "trend": "'Meta superintelligence', NVIDIA $3B + AMD $1B en su oferta, capex al alza, debate ROI",
    "peak": "Fichajes de IA y guia de capex",
    "news": [
+    {
+     "t": "Cae con big tech en el selloff de IA (Nasdaq -5.52%), presionada por el debate del capex en IA",
+     "s": "Yahoo Finance",
+     "d": "5-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
     {
      "t": "Rebota con big tech en el rally post-electoral (Dow +3%), recuperando parte de la caida reciente a territorio bajista",
      "s": "TheStreet",
@@ -319,12 +333,6 @@
      "s": "Yahoo Finance",
      "d": "30-oct",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
-    },
-    {
-     "t": "Retrocede ~1.2% en la sesion. Amplia su guerra de infraestructura de IA: AMD confirma Helios corriendo en Meta e invertira $1B en su oferta de acciones, y NVIDIA invertira $3B (Meta usara mas sistemas NVIDIA, incluidos Vera Rubin)",
-     "s": "TipRanks / The Motley Fool",
-     "d": "28-oct",
-     "u": "https://www.tipranks.com/news/why-are-ai-chip-stocks-amd-intel-and-nvidia-rising-today-october-28"
     }
    ]
   },
@@ -415,6 +423,12 @@
    "peak": "Resultados 3T (2-nov AMC): beat & raise con reaccion negativa",
    "news": [
     {
+     "t": "Pierde mas de 10% en sus minimos (~$40B de valor de mercado), ~25% por debajo de su record del 9-oct, en plena correccion de la IA por valuacion",
+     "s": "Yahoo Finance",
+     "d": "5-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
+    {
      "t": "Extiende la caida ~7.9% pese al blowout del 3T, castigada por la valuacion (~294x beneficios futuros, +174% en el ano) en plena jornada de temores de burbuja de IA. Goldman Sachs sube su PT a $188 (desde $141, mantiene Neutral)",
      "s": "Kiplinger / 24-7 Wall St.",
      "d": "3-nov",
@@ -425,12 +439,6 @@
      "s": "Roic.ai / CNBC",
      "d": "2-nov",
      "u": "https://www.roic.ai/news/palantir-shares-drop-85-despite-stellar-q3-earnings-beat-11-04-2025"
-    },
-    {
-     "t": "Cotiza plana (~$198.73) en la sesion; el mercado se posiciona para los resultados del 3T (esperados ~3-nov), con expectativas altas tras el run-up",
-     "s": "HeyGoTrade",
-     "d": "28-oct",
-     "u": "https://www.heygotrade.com/en/news/palantir-pltr-stock-news-october-28-2026/"
     }
    ]
   },
@@ -452,8 +460,14 @@
   },
   "APP": {
    "trend": "'AppLovin AXON', 'short report', 'e-commerce ads', duelo alcistas vs cortos",
-   "peak": "Cada short report o dato de e-commerce",
+   "peak": "Resultados 3T (5-nov): blowout, ~+28%",
    "news": [
+    {
+     "t": "Se dispara ~+28% (el gran verde del dia): blowout del 3T con ingresos $2.18B (vs $2.07B est.) y guia 4T $2.37-2.40B (vs $2.25B est.); el volumen de calls fue ~6.8x su promedio",
+     "s": "Yahoo Finance",
+     "d": "5-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
     {
      "t": "Motor AXON con margen EBITDA ~84%; volatilidad por reportes de cortos (earnings proximos)",
      "s": "prensa"
@@ -497,6 +511,12 @@
    "peak": "Resultados 29-oct (AMC)",
    "news": [
     {
+     "t": "Cae ~11% en la jornada de capitulacion (VIX +70%) con la debilidad cripto (BTC ~$80K) de fondo",
+     "s": "Yahoo Finance",
+     "d": "5-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
+    {
      "t": "El Bitcoin sigue debil (~$80,150), muy por debajo de los $100,000, lo que presiona a las plataformas cripto pese al rally general de la bolsa",
      "s": "VistaP Global / TheStreet",
      "d": "4-nov",
@@ -507,12 +527,6 @@
      "s": "Kiplinger",
      "d": "3-nov",
      "u": "https://www.kiplinger.com/investing/stocks/stocks-retreat-as-bubble-worries-ramp-up-stock-market-today"
-    },
-    {
-     "t": "Cae (>6% en premarket) tras resultados del 3T decepcionantes y la debilidad cripto; Bitcoin retrocede a ~$76,700 (-2.7%) por el hackeo de $6.3B a Binance",
-     "s": "Yahoo Finance",
-     "d": "30-oct",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
     }
    ]
   },
@@ -520,6 +534,12 @@
    "trend": "'Saylor', 'MSTR Bitcoin', 'mNAV premium', debate sostenibilidad del apalancamiento",
    "peak": "Movimientos fuertes del BTC",
    "news": [
+    {
+     "t": "Cae ~10% (apuesta apalancada al BTC) en el selloff general de riesgo, con el Bitcoin aun debil (~$80K)",
+     "s": "Yahoo Finance",
+     "d": "5-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
     {
      "t": "Apuesta apalancada al BTC: el Bitcoin cae a ~$80,150, lejos de los $100,000, pesando sobre la accion aun en una jornada de fuerte rally bursatil",
      "s": "VistaP Global / TheStreet",
@@ -531,12 +551,6 @@
      "s": "Kiplinger",
      "d": "3-nov",
      "u": "https://www.kiplinger.com/investing/stocks/stocks-retreat-as-bubble-worries-ramp-up-stock-market-today"
-    },
-    {
-     "t": "Cae (>6% en premarket) junto con Coinbase por el desplome del Bitcoin a ~$76,700 (-2.7%) tras el hackeo de $6.3B a Binance",
-     "s": "Yahoo Finance",
-     "d": "30-oct",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
     }
    ]
   },
@@ -544,6 +558,12 @@
    "trend": "'robotaxi'/'Waymo', run-up a resultados 3T, debate 'value trap vs buy the dip'",
    "peak": "Dia del reporte 2T (5-ago)",
    "news": [
+    {
+     "t": "Retrocede ~3% en la jornada de aversion al riesgo; la IV sigue elevada (~37% vs HV 28%) tras resultados",
+     "s": "Yahoo Finance",
+     "d": "5-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
     {
      "t": "Sube ~+3.5% pese a una guia 4T floja, sumandose al rally post-electoral (el dia previo habia caido ~5% tras reportar el 3T con BPA inflado por un beneficio fiscal)",
      "s": "TheStreet",
@@ -555,12 +575,6 @@
      "s": "Kiplinger",
      "d": "3-nov",
      "u": "https://www.kiplinger.com/investing/stocks/stocks-retreat-as-bubble-worries-ramp-up-stock-market-today"
-    },
-    {
-     "t": "Mencionada entre los posibles pretendientes por Instacart (CART) segun reportes; DoorDash estaria en conversaciones avanzadas",
-     "s": "Investrade",
-     "d": "26-oct",
-     "u": "https://investrade.com/market-review-october-26-2026/"
     }
    ]
   },
@@ -568,6 +582,12 @@
    "trend": "'Constellation nuclear', 'Three Mile Island', 'data center PPA'",
    "peak": "Anuncios de PPAs y avances regulatorios",
    "news": [
+    {
+     "t": "Cae ~3% con el complejo de energia nuclear/data center en la jornada de aversion al riesgo",
+     "s": "Yahoo Finance",
+     "d": "5-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
     {
      "t": "El gobierno de EE.UU. ofrece hasta $5 mil millones en financiamiento condicional para modernizar su flota nuclear (Illinois/Maryland/Pensilvania), que anadiria ~1.1 GW de capacidad",
      "s": "VistaP Global / Investrade",
@@ -585,6 +605,12 @@
    "peak": "Anuncios de PPAs y datos de demanda",
    "news": [
     {
+     "t": "Cae ~6.5% con el complejo de energia para IA; el volumen de puts salta a ~2.1x su promedio (cobertura)",
+     "s": "Yahoo Finance",
+     "d": "5-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
+    {
      "t": "PPAs nucleares de 20 anos con Meta; Cogentrix suma 5.5 GW de gas; >$10 bn de caja 26-27",
      "s": "IR"
     }
@@ -594,6 +620,12 @@
    "trend": "'gas turbine shortage', backlog ~$200B, compra Trench $9B, 'power demand AI'",
    "peak": "Resultados 28-oct (BMO): +3.7%",
    "news": [
+    {
+     "t": "Cae ~8% en el selloff del complejo de energia/data center de IA pese a su backlog record (~$200B) y la subida de guia del 3T",
+     "s": "Yahoo Finance",
+     "d": "5-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
     {
      "t": "Reporta 3T (28-oct) y bate (+3.7%): ~$30 mil millones en nuevos pedidos, backlog que crece de $176B a ~$200B, anuncia la compra de Trench Group por $9 mil millones (soluciones de red/conversion de energia), sube su guia de ingresos 2026 a $46.5-47.5B y DOBLA su recompra de $10B a $20B",
      "s": "GuruFocus / Investing.com",
@@ -605,10 +637,6 @@
      "s": "Investrade",
      "d": "27-oct",
      "u": "https://investrade.com/market-review-october-27-2026/"
-    },
-    {
-     "t": "Backlog $176 bn; guia FY26 elevada; turbinas de gas practicamente agotadas por anos",
-     "s": "IR"
     }
    ]
   },
@@ -616,6 +644,12 @@
    "trend": "'data center power', 'electrification', 'Eaton backlog'",
    "peak": "Datos de backlog/capex de hyperscalers",
    "news": [
+    {
+     "t": "Cae ~7.5% arrastrada por la venta de nombres de energia/electrificacion para data centers",
+     "s": "Yahoo Finance",
+     "d": "5-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
     {
      "t": "Ordenes de data center +85%, backlog +43%; separa negocio de Mobility",
      "s": "IR"
@@ -626,6 +660,12 @@
    "trend": "'liquid cooling', 'Vertiv AI', 'data center capex'",
    "peak": "Dia del salto +17% por demanda de IA",
    "news": [
+    {
+     "t": "Se desploma ~14% en el selloff del complejo de energia/data center de IA, devolviendo el salto de ~+17% por resultados",
+     "s": "Yahoo Finance",
+     "d": "5-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
     {
      "t": "Salta casi +17%, de los mayores avances del dia, por pronosticos alcistas de demanda de infraestructura de IA a largo plazo; el volumen de calls fue ~2.5x su promedio",
      "s": "The Motley Fool",
@@ -643,6 +683,12 @@
    "peak": "Resultados 29-oct (BMO): -9%",
    "news": [
     {
+     "t": "Cae ~7% con el complejo de energia/data center en la correccion general del mercado",
+     "s": "Yahoo Finance",
+     "d": "5-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
+    {
      "t": "Reporta 3T antes de la apertura y CAE ~9% (a ~$648) pese al beat: ingresos record $20.68B (+17.3%, apenas bajo $20.69B est.) y BPA ajustado $7.20 (vs $7.04 est., ayudado por $128M de reembolsos de aranceles IEEPA); Power Generation +30% a $3.42B por turbinas/motores para data centers. El mercado castiga la ausencia de guia numerica y premia solo a quien sube pronosticos (como Vertiv)",
      "s": "24/7 Wall St. / The Motley Fool",
      "d": "29-oct",
@@ -653,10 +699,6 @@
      "s": "Yahoo Finance / Kiplinger",
      "d": "28-oct",
      "u": "https://finance.yahoo.com/markets/stocks/articles/dear-caterpillar-stock-fans-mark-141927161.html"
-    },
-    {
-     "t": "Acuerdo Utah/Joule por 4 GW; deal Microsoft-Chevron; gensets/turbinas para 'bring your own power'",
-     "s": "prensa"
     }
    ]
   },
@@ -664,6 +706,12 @@
    "trend": "'Bloom Energy data center', 'fuel cells', 'on-site power'",
    "peak": "Cada anuncio de acuerdo",
    "news": [
+    {
+     "t": "Se hunde ~16% en la venta generalizada de nombres de energia para IA pese a su reciente 'blowout' del 3T",
+     "s": "Yahoo Finance",
+     "d": "5-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
     {
      "t": "Sube ~7.5% a mediodia, entre los mayores avances del S&P 500",
      "s": "TheStreet",
@@ -675,12 +723,6 @@
      "s": "TheStreet",
      "d": "23-oct",
      "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-23-2026"
-    },
-    {
-     "t": "Reporta 3T 2026 (22-oct): trimestre 'blowout' que la afianza como play de infraestructura de IA de alto crecimiento (planes de ~4x los ingresos de 2025)",
-     "s": "Chartmill / io-fund",
-     "d": "22-oct",
-     "u": "https://www.chartmill.com/news/BE/Chartmill-51918-Bloom-Energy-NYSEBE-Delivers-Blowout-Quarter-Solidifying-Its-Position-as-a-High-Growth-AI-Infrastructure-Play"
     }
    ]
   },
@@ -737,6 +779,12 @@
    "peak": "Acuerdos nucleares y datos de precio del uranio",
    "news": [
     {
+     "t": "Cae ~5% con el complejo nuclear/uranio en la correccion general del mercado",
+     "s": "Yahoo Finance",
+     "d": "5-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
+    {
      "t": "Uranio en maximos de 14 anos; subio dividendo 50%; 49% de Westinghouse",
      "s": "IR"
     }
@@ -747,6 +795,12 @@
    "peak": "Cada noticia regulatoria o de Altman",
    "news": [
     {
+     "t": "Cae ~13% en la venta de nombres nucleares/SMR; la IV implicita salta a ~101% (vs HV 69%)",
+     "s": "Yahoo Finance",
+     "d": "5-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
+    {
      "t": "Micro-reactor Aurora (modelo PPA); HALEU via Centrus desde 2029; respaldo de Sam Altman",
      "s": "IR"
     }
@@ -756,6 +810,12 @@
    "trend": "'NuScale SMR', 'small modular reactor', 'nuclear AI'",
    "peak": "Acuerdos y noticias regulatorias",
    "news": [
+    {
+     "t": "Se desploma ~16% en el castigo al complejo nuclear/SMR; el volumen de puts salta a ~2.8x su promedio y la IV a ~101% (vs HV 76%)",
+     "s": "Yahoo Finance",
+     "d": "5-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
     {
      "t": "Barclays la baja a Underweight por retrasos comerciales e incertidumbre en contratos (sector SMR/nuclear bajo presion)",
      "s": "Investrade",
@@ -772,6 +832,12 @@
    "trend": "'GLP-1'/'semaglutide', expansion internacional (Alemania), 'AI care'",
    "peak": "Reporte 2T (10-ago) y propuesta FDA (may-26)",
    "news": [
+    {
+     "t": "Cae ~11% en la venta general de riesgo; la IV implicita salta a ~97% (vs HV 69%)",
+     "s": "Yahoo Finance",
+     "d": "5-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
     {
      "t": "Sube tras lanzar en Alemania un servicio de perdida de peso para hombres (expansion internacional de su oferta GLP-1)",
      "s": "moomoo",
