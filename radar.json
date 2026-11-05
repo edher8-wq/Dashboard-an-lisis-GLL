@@ -13,6 +13,12 @@
   "MSFT": [
    {
     "type": "8-K",
+    "t": "8-K: Cambio en directivos/consejo",
+    "d": "5-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/789019/000119312526448357/0001193125-26-448357-index.htm"
+   },
+   {
+    "type": "8-K",
     "t": "8-K: Otros eventos relevantes; Estados financieros/anexos",
     "d": "4-nov",
     "u": "https://www.sec.gov/Archives/edgar/data/789019/000119312526447173/0001193125-26-447173-index.htm"
@@ -106,6 +112,12 @@
   ],
   "PLTR": [
    {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "4-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1321655/000184024426000023/0001840244-26-000023-index.htm"
+   },
+   {
     "type": "8-K",
     "t": "8-K: Resultados (earnings); Regulation FD (divulgacion); Estados financieros/anexos",
     "d": "2-nov",
@@ -172,6 +184,14 @@
     "t": "8-K: Resultados (earnings); Cambio en directivos/consejo; Estados financieros/anexos",
     "d": "4-nov",
     "u": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000039/0001543151-26-000039-index.htm"
+   }
+  ],
+  "VST": [
+   {
+    "type": "8-K",
+    "t": "8-K: Adquisicion/venta completada; Deuda/obligacion material; Venta de valores (dilucion); Regulation FD (divulgacion); Estados financieros/anexos",
+    "d": "5-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1692819/000114036126042013/0001140361-26-042013-index.htm"
    }
   ],
   "ETN": [
