@@ -1,7 +1,37 @@
 {
- "updated": "4-nov",
+ "updated": "5-nov",
  "source": "SEC EDGAR",
  "tickers": {
+  "AMZN": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "4-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1018724/000193600626000028/0001936006-26-000028-index.htm"
+   }
+  ],
+  "MSFT": [
+   {
+    "type": "8-K",
+    "t": "8-K: Otros eventos relevantes; Estados financieros/anexos",
+    "d": "4-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/789019/000119312526447173/0001193125-26-447173-index.htm"
+   }
+  ],
+  "META": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "4-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326016962/0000950103-26-016962-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "4-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1326801/000116007726000013/0001160077-26-000013-index.htm"
+   }
+  ],
   "TSM": [
    {
     "type": "Form 4",
@@ -84,6 +114,12 @@
   ],
   "APP": [
    {
+    "type": "8-K",
+    "t": "8-K: Resultados (earnings); Votacion de accionistas; Estados financieros/anexos",
+    "d": "4-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1751008/000175100826000068/0001751008-26-000068-index.htm"
+   },
+   {
     "type": "Form 4",
     "t": "Form 4",
     "d": "2-nov",
@@ -118,6 +154,12 @@
   ],
   "MSTR": [
    {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "4-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526447181/0001193125-26-447181-index.htm"
+   },
+   {
     "type": "8-K",
     "t": "8-K: Regulation FD (divulgacion); Otros eventos relevantes",
     "d": "2-nov",
@@ -133,6 +175,12 @@
    }
   ],
   "ETN": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "4-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1551182/000110465926122683/0001104659-26-122683-index.htm"
+   },
    {
     "type": "8-K",
     "t": "8-K: Resultados (earnings); Estados financieros/anexos",
@@ -174,6 +222,24 @@
    {
     "type": "Form 4",
     "t": "Form 4",
+    "d": "4-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1849056/000185562326000022/0001855623-26-000022-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "4-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1849056/000202143326000023/0002021433-26-000023-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "4-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1849056/000202178626000023/0002021786-26-000023-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
     "d": "2-nov",
     "u": "https://www.sec.gov/Archives/edgar/data/1849056/000214682826000012/0002146828-26-000012-index.htm"
    },
@@ -190,6 +256,14 @@
     "t": "8-K: Resultados (earnings); Estados financieros/anexos",
     "d": "3-nov",
     "u": "https://www.sec.gov/Archives/edgar/data/1336920/000133692026000290/0001336920-26-000290-index.htm"
+   }
+  ],
+  "LUMN": [
+   {
+    "type": "8-K",
+    "t": "8-K: Resultados (earnings); Regulation FD (divulgacion); Estados financieros/anexos",
+    "d": "4-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/18926/000001892626000071/0000018926-26-000071-index.htm"
    }
   ]
  }
