@@ -34,6 +34,12 @@
   ],
   "META": [
    {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "6-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326017123/0000950103-26-017123-index.htm"
+   },
+   {
     "type": "8-K",
     "t": "8-K: Otros eventos relevantes; Estados financieros/anexos",
     "d": "5-nov",
@@ -50,6 +56,14 @@
     "t": "Form 4",
     "d": "4-nov",
     "u": "https://www.sec.gov/Archives/edgar/data/1326801/000116007726000013/0001160077-26-000013-index.htm"
+   }
+  ],
+  "NVDA": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "6-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1045810/000119764726000013/0001197647-26-000013-index.htm"
    }
   ],
   "TSM": [
@@ -100,12 +114,28 @@
     "u": "https://www.sec.gov/Archives/edgar/data/2023554/000124264826000049/0001242648-26-000049-index.htm"
    }
   ],
+  "CRWV": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "6-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000453/0001769628-26-000453-index.htm"
+   }
+  ],
   "IREN": [
    {
     "type": "8-K",
     "t": "8-K: Resultados (earnings); Estados financieros/anexos",
     "d": "5-nov",
     "u": "https://www.sec.gov/Archives/edgar/data/1878848/000187884826000065/0001878848-26-000065-index.htm"
+   }
+  ],
+  "SPCX": [
+   {
+    "type": "8-K",
+    "t": "8-K: Cambio en directivos/consejo",
+    "d": "6-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026071689/0001628280-26-071689-index.htm"
    }
   ],
   "WYFI": [
@@ -147,6 +177,12 @@
    }
   ],
   "MSTR": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "6-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526451813/0001193125-26-451813-index.htm"
+   },
    {
     "type": "Form 4",
     "t": "Form 4",
