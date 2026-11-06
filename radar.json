@@ -165,6 +165,12 @@
   "VST": [
    {
     "type": "8-K",
+    "t": "8-K: Resultados (earnings); Estados financieros/anexos",
+    "d": "6-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000023/0001692819-26-000023-index.htm"
+   },
+   {
+    "type": "8-K",
     "t": "8-K: Adquisicion/venta completada; Deuda/obligacion material; Venta de valores (dilucion); Regulation FD (divulgacion); Estados financieros/anexos",
     "d": "5-nov",
     "u": "https://www.sec.gov/Archives/edgar/data/1692819/000114036126042013/0001140361-26-042013-index.htm"
