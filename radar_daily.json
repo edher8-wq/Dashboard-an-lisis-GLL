@@ -1,71 +1,29 @@
 {
- "updated": "6-nov",
- "source": "IBKR opciones + social + analistas",
+ "updated": "9-nov",
+ "source": "Social + analistas (IBKR no disponible esta corrida)",
  "tickers": {
+  "AMD": [
+   {
+    "type": "Analista",
+    "t": "Oppenheimer sube a Outperform con PT $600 (upgrade); la accion salta +13.3%",
+    "d": "9-nov",
+    "u": "https://www.fool.com/coverage/stock-market-today/2026/11/09/stock-market-today-nov-9-amd-jumps-on-oppenheimer-upgrade-and-google-cloud-chip-selection/"
+   }
+  ],
   "NVDA": [
    {
-    "type": "Opciones",
-    "t": "IV anual 56% vs HV 34% (ratio 1.62) - salto de volatilidad de cara a resultados (~19-nov)",
-    "d": "6-nov"
-   }
-  ],
-  "ASML": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 65% vs HV 45% (ratio 1.46) - salto de volatilidad (puts ~1.3x su promedio)",
-    "d": "6-nov"
-   }
-  ],
-  "APP": [
-   {
-    "type": "Opciones",
-    "t": "Volumen de calls 5.4x y de puts 2.1x su promedio tras el blowout del 3T (continuacion ~+10%)",
-    "d": "6-nov"
-   },
-   {
     "type": "Social",
-    "t": "Chatter social disparado vs su promedio: continua el impulso del salto por earnings",
-    "d": "6-nov"
-   }
-  ],
-  "IREN": [
-   {
-    "type": "Opciones",
-    "t": "Volumen de puts 2.2x su promedio en la jornada de resultados (cobertura pese al salto ~+17-20%)",
-    "d": "6-nov"
-   },
-   {
-    "type": "Social",
-    "t": "Chatter social disparado vs su promedio: salta ~+17-20% por su FQ1'27 record (nombre retail/AI)",
-    "d": "6-nov"
-   }
-  ],
-  "OKLO": [
-   {
-    "type": "Opciones",
-    "t": "Volumen de calls 2.2x su promedio (apetito alcista) en el rebote de los nucleares/SMR",
-    "d": "6-nov"
+    "t": "Chatter disparado por la investigacion a Jensen Huang; volumen de acciones ~3.7x su promedio (apetito especulativo/cobertura)",
+    "d": "9-nov",
+    "u": "https://www.fool.com/coverage/stock-market-today/2026/11/09/stock-market-today-nov-9-nvidia-stock-plunges-4-on-jensen-huang-investigation-as-nasdaq-surges-nearly-3/"
    }
   ],
   "HIMS": [
    {
-    "type": "Opciones",
-    "t": "IV anual 96% vs HV 72% (ratio 1.33) - salto de volatilidad tras el acuerdo ampliado con Eli Lilly",
-    "d": "6-nov"
-   }
-  ],
-  "SLS": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 252% vs HV 88% (ratio 2.85) - volatilidad extrema (posible catalizador clinico; topline de SLS009 en 4T 2026)",
-    "d": "6-nov"
-   }
-  ],
-  "WYFI": [
-   {
-    "type": "Opciones",
-    "t": "IV anual 154% vs HV 101% (ratio 1.53) - salto de volatilidad (volumen de opciones bajo)",
-    "d": "6-nov"
+    "type": "Social",
+    "t": "Interes corto alto (~23%) y caida ~10% antes de resultados: tension short/retail",
+    "d": "9-nov",
+    "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
    }
   ]
  }
