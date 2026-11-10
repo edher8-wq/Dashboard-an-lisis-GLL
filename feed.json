@@ -1,11 +1,17 @@
 {
- "updated": "9-nov",
- "note": "Refresco diario. Jornada 9-nov (lunes): fuerte rebote de la IA tras la correccion de la semana pasada. Nasdaq +2.74% (25,253) y S&P 500 +2.35% (7,550) recuperan terreno y el Dow sube +2.15% (52,390); el VIX se desploma ~22% a 19.92 y el crudo cae (~-4.5%, Brent ~$91). Gran excepcion: NVIDIA cae -4.3% a $178.67 (volumen ~3.7x) despues de que su junta abriera una investigacion independiente a su CEO Jensen Huang por un memo donde admite una relacion con una mujer que la inteligencia de EE.UU. vincula a China; la rotacion favorece a AMD (+13.3%) por el upgrade de Oppenheimer (PT $600) y su seleccion en Google Cloud, y a Broadcom (+8.8%), Intel (+5.5%), Meta (+5.1%) y Tesla (+5.5%). Alphabet presenta dos nuevos chips TPU que compiten con NVIDIA. SpaceX entre los 8 ganadores de la base lunar de la NASA (hasta $10 mil M). HIMS cae ~10% antes de resultados (short ~23%). CoreWeave (+3%) reporta el 10-nov. Las emisoras sin novedad conservan su research previo.",
+ "updated": "10-nov",
+ "note": "Refresco diario. Jornada 10-nov (martes): reversion tras el fuerte rebote del lunes. Un dato de inflacion caliente (CPI de octubre: general +0.4% y subyacente +0.3% m/m, por encima de lo esperado) hizo que el mercado pasara a descontar un ALZA de tasas de la Fed en diciembre; el bono a 10 anos salto ~14 pb a 5.00%. Los indices cerraron en rojo con las acciones de IA/chips a la cabeza de las perdidas: Nasdaq -0.74% (25,066), S&P 500 -0.38% (7,521) y Dow -0.30% (52,232); ~61% de las emisoras bajaron. NVIDIA cae por segundo dia (-5.5% a ~$168, ~-26% en el mes) por una demanda de accionistas y reportes de que la relacion de Jensen Huang con una presunta espia china habria ayudado a mover >$7.5 mil M en chips a China (Trump dice que el FBI investiga); arrastra a los servidores de IA (Super Micro -4%, Dell -6%, HPE -2%). GE Vernova -7% por un cargo de $3.7 mil M de SoftBank y la modificacion de contratos de energia para data centers, lo que presiona al complejo de energia para IA (FSLR -6.3%). Microsoft -3% tras un lanzamiento de Anthropic que competiria con Office. HIMS se hunde -16.5% por un recorte de guia de EBITDA pese a ingresos +49%. CoreWeave reporta tras el cierre un 3T con beat y sube su guia a $13.3B. El crudo cae (WTI ~$85.5). Anthropic fija su rango de salida a bolsa (valuacion de hasta ~$1.4 billones). Las emisoras sin novedad propia conservan su research previo.",
  "tickers": {
   "NVDA": {
-   "trend": "Escandalo de gobernanza: investigacion independiente a Jensen Huang (presunta operacion de inteligencia china). Se suma el debate 'pico vs sigue' del gasto en IA, el backlog de Vera Rubin/GB300 y la cita de resultados ~17-nov",
-   "peak": "9-nov: investigacion a Jensen Huang (-4.3%, vol ~3.7x)",
+   "trend": "Escandalo de gobernanza en escalada: demanda de accionistas e investigacion (FBI/Congreso) por la presunta espia china y un reporte de >$7.5B en chips desviados a China; se suma el debate del gasto en IA y la cita de resultados ~19-nov",
+   "peak": "10-nov: demanda + reporte de chips a China + FBI (-5.5%, 2do dia en rojo)",
    "news": [
+    {
+     "t": "Segundo dia de caida (-5.5% a ~$168): una demanda de accionistas alega que NVIDIA y el CEO Jensen Huang enganaron a los inversionistas sobre su relacion con una presunta espia china, y un reporte afirma que ese vinculo ayudo a mover >=$7.5 mil M en chips hacia firmas chinas. Trump dice que el FBI investiga el caso y el congresista Moolenaar pide explicaciones. La accion acumula ~-26% en el mes de cara a resultados (~19-nov).",
+     "s": "24/7 Wall St. / StockTitan",
+     "d": "10-nov",
+     "u": "https://247wallst.com/investing/2026/11/10/super-micro-falls-4-as-nvidias-slide-drags-ai-server-stocks-dell-drops-6-hewlett-packard-enterprise-declines-2/"
+    },
     {
      "t": "La junta abre una investigacion independiente luego de que el CEO Jensen Huang admitiera en un memo una relacion extramarital con una mujer que la inteligencia de EE.UU. cree trabajaba para China. La accion cae -4.3% a $178.67 (volumen ~3.7x su promedio) mientras el resto del mercado rebota con fuerza; NVIDIA dice no tener razones para creer que se comprometio informacion sensible. Proximo catalizador: resultados ~17-nov.",
      "s": "The Motley Fool",
@@ -17,12 +23,6 @@
      "s": "Yahoo Finance",
      "d": "6-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
-    },
-    {
-     "t": "Se hunde ~9% en el estallido del selloff de IA/chips: rompe su media movil de 200 dias y acumula ~-15% en el mes (SOX -12.25%). La IV implicita salta a ~61% (vs HV 33%) de cara a resultados (~19-nov)",
-     "s": "Yahoo Finance",
-     "d": "5-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
     }
    ]
   },
@@ -253,6 +253,12 @@
    "peak": "Resultados 28-oct (AMC): Azure +48%",
    "news": [
     {
+     "t": "Cae ~3% intradia despues de que Anthropic anunciara herramientas de trabajo para su asistente Claude que podrian competir con Office; el retroceso se da en la jornada de reversion del mercado por el CPI caliente.",
+     "s": "StockTitan",
+     "d": "10-nov",
+     "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-10-2026"
+    },
+    {
      "t": "Sube ~2.7% en el rebote de la IA; sigue entre los megacaps que acumulan alzas desde la eleccion pese a la correccion previa del mercado.",
      "s": "Yahoo Finance",
      "d": "9-nov",
@@ -263,12 +269,6 @@
      "s": "Yahoo Finance",
      "d": "5-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
-    },
-    {
-     "t": "Salta ~+7.1% y marca maximo historico intradia en el rally de alivio post-elecciones, entre los mayores impulsores del Dow y el Nasdaq",
-     "s": "TheStreet",
-     "d": "4-nov",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
     }
    ]
   },
@@ -345,9 +345,15 @@
    ]
   },
   "CRWV": {
-   "trend": "'CoreWeave debt', 'neocloud', bonos distressed; chatter aun elevado",
-   "peak": "Dia del desplome del ~14% por el salto del rendimiento de sus bonos",
+   "trend": "Resultados 3T (10-nov): beat con guia al alza ($13.3B); el debate pasa de 'deuda/bonos distressed' a si el crecimiento (+168%) justifica el apalancamiento",
+   "peak": "10-nov: 3T beat + guia a $13.3B (rebote tras caer ~42%)",
    "news": [
+    {
+     "t": "Reporta 3T tras el cierre y supera estimaciones: ingresos $3.66B (+168% a/a, vs ~$3.54B est.), perdida por accion -$1.27 (mejor que -$1.55 est.) aunque la perdida neta GAAP se amplia a $709M; SUBE la guia de ingresos 2026 a $13.0-13.3B y el run-rate de salida a $20-21B, con backlog ~$132.5B. La accion (que llegaba ~-42% desde su pico) rebota tras el reporte; persiste el foco en el alto costo de su deuda.",
+     "s": "CNBC / 24-7 Wall St. / Seeking Alpha",
+     "d": "10-nov",
+     "u": "https://seekingalpha.com/news/4670097-coreweave-pops-as-q3-results-guidance-top-estimates"
+    },
     {
      "t": "Sube ~3% arrastrada por los buenos resultados de un rival (neoclouds; 'no es un reinicio fundamental') y de cara a su propio reporte del 3T el 10-nov.",
      "s": "TIKR",
@@ -359,12 +365,6 @@
      "s": "Investrade",
      "d": "27-oct",
      "u": "https://investrade.com/market-review-october-27-2026/"
-    },
-    {
-     "t": "El grupo de 'neoclouds' se vuelve volatil tras advertencia de Elon Musk de que los mercados de deuda cerraron el financiamiento a operadores de data centers de IA sin ingresos propios; CRWV cae y luego rebota",
-     "s": "Investrade",
-     "d": "26-oct",
-     "u": "https://investrade.com/market-review-october-26-2026/"
     }
    ]
   },
@@ -632,8 +632,14 @@
   },
   "GEV": {
    "trend": "'gas turbine shortage', backlog ~$200B, compra Trench $9B, 'power demand AI'",
-   "peak": "Resultados 28-oct (BMO): +3.7%",
+   "peak": "10-nov: cargo de SoftBank ($3.7B) y modificacion de contratos (-7%)",
    "news": [
+    {
+     "t": "Cae ~7% despues de que SoftBank revelara un cargo de $3.7 mil M y la modificacion de contratos de equipo electrico ligados a data centers de IA en EE.UU., lo que aviva dudas sobre una menor demanda de infraestructura y arrastra al complejo de energia para IA.",
+     "s": "TheStreet",
+     "d": "10-nov",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
+    },
     {
      "t": "Cae ~8% en el selloff del complejo de energia/data center de IA pese a su backlog record (~$200B) y la subida de guia del 3T",
      "s": "Yahoo Finance",
@@ -645,12 +651,6 @@
      "s": "GuruFocus / Investing.com",
      "d": "28-oct",
      "u": "https://www.gurufocus.com/news/9148117/ge-vernova-gev-reports-strong-q3-orders-raises-buyback-and-revenue-guidance"
-    },
-    {
-     "t": "Sube con las renovables tras la aprobacion de tres proyectos eolicos (preview de resultados del 28-oct)",
-     "s": "Investrade",
-     "d": "27-oct",
-     "u": "https://investrade.com/market-review-october-27-2026/"
     }
    ]
   },
@@ -769,6 +769,12 @@
    "peak": "Resultados 29-oct (AMC)",
    "news": [
     {
+     "t": "Cae ~6.3% con el complejo solar/energia para IA en la reversion del martes (inflacion caliente y alza de tasas); sin catalizador propio tras el miss del 3T de la semana pasada.",
+     "s": "TheStreet",
+     "d": "10-nov",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
+    },
+    {
      "t": "Presionada tras confirmarse el miss del 3T: ingresos $1.23B vs $1.29B est. y recorte de la guia de ingresos FY26",
      "s": "Yahoo Finance",
      "d": "30-oct",
@@ -779,12 +785,6 @@
      "s": "StockStory / Chartmill",
      "d": "29-oct",
      "u": "https://stockstory.org/us/stocks/nasdaq/fslr/news/earnings/first-solar-nasdaqfslr-misses-q3-2026-sales-expectations"
-    },
-    {
-     "t": "Reporta 3T manana 29-oct tras el cierre; foco en el backlog de PPAs con hyperscalers y la capacidad domestica (~14 GW) bajo el 45X",
-     "s": "Yahoo Finance",
-     "d": "28-oct",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/first-solar-release-q3-earnings-124000020.html"
     }
    ]
   },
@@ -843,9 +843,15 @@
    ]
   },
   "HIMS": {
-   "trend": "'GLP-1'/'semaglutide', expansion internacional (Alemania), 'AI care'",
-   "peak": "Reporte 2T (10-ago) y propuesta FDA (may-26)",
+   "trend": "Resultados 3T (10-nov): ingresos +49% pero recorte de guia de EBITDA; tension short (~23%)/retail y actividad de opciones extrema; 'GLP-1'/semaglutida y alianza con Eli Lilly de fondo",
+   "peak": "10-nov: resultados 3T + recorte de guia EBITDA (-16.5%)",
    "news": [
+    {
+     "t": "Se desploma ~16.5% tras reportar el 3T: ingresos +49% a $890.4M pero RECORTA su guia de EBITDA ajustado 2026 a $257-277M. El volumen de puts salto ~3.7x y el de calls ~2.4x su promedio (actividad de opciones extrema); el interes corto venia alto (~23%).",
+     "s": "StockTitan",
+     "d": "10-nov",
+     "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-10-2026"
+    },
     {
      "t": "Cae ~10% antes de sus resultados del 3T, con un interes corto alto (~23%); recientemente amplio el acceso a los GLP-1 de Eli Lilly.",
      "s": "Yahoo Finance",
@@ -857,12 +863,6 @@
      "s": "Rallies.ai / TheStreet",
      "d": "6-nov",
      "u": "https://rallies.ai/news/eli-lilly-expands-hims-hers-partnership-with-zepbound-kwikpen-and-foundayo-access"
-    },
-    {
-     "t": "Cae ~11% en la venta general de riesgo; la IV implicita salta a ~97% (vs HV 69%)",
-     "s": "Yahoo Finance",
-     "d": "5-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
     }
    ]
   },

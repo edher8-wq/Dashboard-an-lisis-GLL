@@ -1,29 +1,33 @@
 {
- "updated": "9-nov",
- "source": "Social + analistas (IBKR no disponible esta corrida)",
+ "updated": "10-nov",
+ "source": "IBKR opciones + social + analistas",
  "tickers": {
-  "AMD": [
-   {
-    "type": "Analista",
-    "t": "Oppenheimer sube a Outperform con PT $600 (upgrade); la accion salta +13.3%",
-    "d": "9-nov",
-    "u": "https://www.fool.com/coverage/stock-market-today/2026/11/09/stock-market-today-nov-9-amd-jumps-on-oppenheimer-upgrade-and-google-cloud-chip-selection/"
-   }
-  ],
   "NVDA": [
    {
+    "type": "Opciones",
+    "t": "IV implicita ~60% anual vs HV ~45% (ratio 1.34): prima de volatilidad elevada de cara a resultados (~19-nov)",
+    "d": "10-nov"
+   },
+   {
     "type": "Social",
-    "t": "Chatter disparado por la investigacion a Jensen Huang; volumen de acciones ~3.7x su promedio (apetito especulativo/cobertura)",
-    "d": "9-nov",
-    "u": "https://www.fool.com/coverage/stock-market-today/2026/11/09/stock-market-today-nov-9-nvidia-stock-plunges-4-on-jensen-huang-investigation-as-nasdaq-surges-nearly-3/"
+    "t": "Chatter disparado por la demanda de accionistas y el reporte de la 'espia china'/FBI (historia viral de gobernanza)",
+    "d": "10-nov",
+    "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-10-2026"
    }
   ],
   "HIMS": [
    {
-    "type": "Social",
-    "t": "Interes corto alto (~23%) y caida ~10% antes de resultados: tension short/retail",
-    "d": "9-nov",
-    "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
+    "type": "Opciones",
+    "t": "Volumen de puts ~3.7x y de calls ~2.4x su promedio: actividad de opciones extrema tras el desplome por resultados (-16.5%)",
+    "d": "10-nov",
+    "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-10-2026"
+   }
+  ],
+  "SLS": [
+   {
+    "type": "Opciones",
+    "t": "IV implicita ~305% anual vs HV ~97% (ratio 3.1): prima de volatilidad extrema ante catalizador clinico (topline SLS009 esperado en 4T)",
+    "d": "10-nov"
    }
   ]
  }
