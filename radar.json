@@ -14,8 +14,38 @@
    {
     "type": "Form 4",
     "t": "Form 4",
-    "d": "9-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000734/0001046179-26-000734-index.htm"
+    "d": "10-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000794/0001046179-26-000794-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "10-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000793/0001046179-26-000793-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "10-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000792/0001046179-26-000792-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "10-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000791/0001046179-26-000791-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "10-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000790/0001046179-26-000790-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "10-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000789/0001046179-26-000789-index.htm"
    }
   ],
   "CRWV": [
@@ -24,6 +54,14 @@
     "t": "Form 4",
     "d": "9-nov",
     "u": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000457/0001769628-26-000457-index.htm"
+   }
+  ],
+  "WYFI": [
+   {
+    "type": "8-K",
+    "t": "8-K: Acuerdo material nuevo; Deuda/obligacion material",
+    "d": "10-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/2042022/000121390026117723/0001213900-26-117723-index.htm"
    }
   ],
   "UPST": [
