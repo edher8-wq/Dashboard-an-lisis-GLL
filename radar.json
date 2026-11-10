@@ -1,21 +1,13 @@
 {
- "updated": "9-nov",
+ "updated": "10-nov",
  "source": "SEC EDGAR",
  "tickers": {
-  "META": [
+  "MSFT": [
    {
     "type": "Form 4",
     "t": "Form 4",
-    "d": "6-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326017123/0000950103-26-017123-index.htm"
-   }
-  ],
-  "NVDA": [
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "6-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1045810/000119764726000013/0001197647-26-000013-index.htm"
+    "d": "9-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/789019/000078901926000230/0000789019-26-000230-index.htm"
    }
   ],
   "TSM": [
@@ -30,16 +22,8 @@
    {
     "type": "Form 4",
     "t": "Form 4",
-    "d": "6-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000453/0001769628-26-000453-index.htm"
-   }
-  ],
-  "SPCX": [
-   {
-    "type": "8-K",
-    "t": "8-K: Cambio en directivos/consejo",
-    "d": "6-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026071689/0001628280-26-071689-index.htm"
+    "d": "9-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000457/0001769628-26-000457-index.htm"
    }
   ],
   "UPST": [
@@ -56,12 +40,6 @@
     "t": "8-K: Regulation FD (divulgacion); Otros eventos relevantes",
     "d": "9-nov",
     "u": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526452693/0001193125-26-452693-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "6-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526451813/0001193125-26-451813-index.htm"
    }
   ],
   "CEG": [
@@ -78,12 +56,6 @@
     "t": "8-K: Otros eventos relevantes; Estados financieros/anexos",
     "d": "9-nov",
     "u": "https://www.sec.gov/Archives/edgar/data/1692819/000114036126042795/0001140361-26-042795-index.htm"
-   },
-   {
-    "type": "8-K",
-    "t": "8-K: Resultados (earnings); Estados financieros/anexos",
-    "d": "6-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000023/0001692819-26-000023-index.htm"
    }
   ],
   "HIMS": [
