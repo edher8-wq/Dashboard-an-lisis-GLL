@@ -1,11 +1,17 @@
 {
- "updated": "10-nov",
- "note": "Refresco diario. Jornada 10-nov (martes): reversion tras el fuerte rebote del lunes. Un dato de inflacion caliente (CPI de octubre: general +0.4% y subyacente +0.3% m/m, por encima de lo esperado) hizo que el mercado pasara a descontar un ALZA de tasas de la Fed en diciembre; el bono a 10 anos salto ~14 pb a 5.00%. Los indices cerraron en rojo con las acciones de IA/chips a la cabeza de las perdidas: Nasdaq -0.74% (25,066), S&P 500 -0.38% (7,521) y Dow -0.30% (52,232); ~61% de las emisoras bajaron. NVIDIA cae por segundo dia (-5.5% a ~$168, ~-26% en el mes) por una demanda de accionistas y reportes de que la relacion de Jensen Huang con una presunta espia china habria ayudado a mover >$7.5 mil M en chips a China (Trump dice que el FBI investiga); arrastra a los servidores de IA (Super Micro -4%, Dell -6%, HPE -2%). GE Vernova -7% por un cargo de $3.7 mil M de SoftBank y la modificacion de contratos de energia para data centers, lo que presiona al complejo de energia para IA (FSLR -6.3%). Microsoft -3% tras un lanzamiento de Anthropic que competiria con Office. HIMS se hunde -16.5% por un recorte de guia de EBITDA pese a ingresos +49%. CoreWeave reporta tras el cierre un 3T con beat y sube su guia a $13.3B. El crudo cae (WTI ~$85.5). Anthropic fija su rango de salida a bolsa (valuacion de hasta ~$1.4 billones). Las emisoras sin novedad propia conservan su research previo.",
+ "updated": "11-nov",
+ "note": "Refresco diario. Jornada 11-nov (miercoles, Veterans Day; bolsa abierta, bono cerrado): fuerte rebote y recuperacion de la IA tras la reversion del martes. Los indices cerraron en verde liderados por tecnologia: Nasdaq +1.60% (25,466), S&P 500 +1.31% (7,619) y Dow +0.49% (52,486); Russell 2000 +0.88% y el VIX cayo ~10% a 17.49. El catalizador fue CoreWeave, que se disparo ~+21% tras su 3T (ingresos +168%, guia elevada a $13.0-13.3B) y, sobre todo, tras decir que NO tomara mas deuda cara hasta 2027: eso alivio el temor por el financiamiento del buildout de IA y reactivo todo el complejo (neoclouds, energia y memoria). La memoria salto >+10% (Sandisk, Micron, SK Hynix); Bloom Energy +~14% y Nebius +~15%. NVIDIA reboto +2.9% a $173.73 y rompio 2 dias de caidas, aunque Baird la bajo a Neutral y recorto su PT de $500 a $200 y Morgan Stanley la saco de sus Top Picks. Apple marco un record (>$355, ~$5.16 billones). De fondo persiste la resaca del CPI caliente del martes: el mercado descuenta casi por completo un ALZA de tasas de la Fed en diciembre, el bono a 10 anos ronda 5.00% y el petroleo sigue elevado (WTI ~$86-87) por la tension EE.UU.-Iran y el estrecho de Ormuz. Las ventas minoristas de octubre fueron las mas debiles desde nov-2025. Las emisoras sin novedad propia conservan su research previo.",
  "tickers": {
   "NVDA": {
-   "trend": "Escandalo de gobernanza en escalada: demanda de accionistas e investigacion (FBI/Congreso) por la presunta espia china y un reporte de >$7.5B en chips desviados a China; se suma el debate del gasto en IA y la cita de resultados ~19-nov",
-   "peak": "10-nov: demanda + reporte de chips a China + FBI (-5.5%, 2do dia en rojo)",
+   "trend": "Rebote tecnico (+2.9%) pero con deterioro de sell-side: Baird a Neutral (PT $500->$200) y Morgan Stanley la quita de Top Picks; sigue la investigacion de la junta (caso Huang/espia china) y el debate del gasto en IA, de cara a resultados ~19-nov",
+   "peak": "11-nov: rebote +2.9% a $173.73 pese al downgrade de Baird (PT $500->$200)",
    "news": [
+    {
+     "t": "Rebota +2.9% a $173.73 y rompe una racha de 2 dias en rojo tras un desplome que borro >$430 mil M de valor; aun asi Baird la baja a Neutral y recorta su PT de $500 a $200, y Morgan Stanley mantiene Overweight pero la saca de su lista de Top Picks. La junta sigue con la investigacion independiente del caso Jensen Huang; acumula ~-12% en noviembre de cara a resultados (~19-nov).",
+     "s": "Yahoo Finance / TheStreet",
+     "d": "11-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+    },
     {
      "t": "Segundo dia de caida (-5.5% a ~$168): una demanda de accionistas alega que NVIDIA y el CEO Jensen Huang enganaron a los inversionistas sobre su relacion con una presunta espia china, y un reporte afirma que ese vinculo ayudo a mover >=$7.5 mil M en chips hacia firmas chinas. Trump dice que el FBI investiga el caso y el congresista Moolenaar pide explicaciones. La accion acumula ~-26% en el mes de cara a resultados (~19-nov).",
      "s": "24/7 Wall St. / StockTitan",
@@ -17,12 +23,6 @@
      "s": "The Motley Fool",
      "d": "9-nov",
      "u": "https://www.fool.com/coverage/stock-market-today/2026/11/09/stock-market-today-nov-9-nvidia-stock-plunges-4-on-jensen-huang-investigation-as-nasdaq-surges-nearly-3/"
-    },
-    {
-     "t": "Rebota con fuerza al inicio del rebote de chips pero devuelve las ganancias y cierra en rojo; la IV implicita sigue elevada (~56% anual vs HV 34%) de cara a sus resultados (~19-nov)",
-     "s": "Yahoo Finance",
-     "d": "6-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
     }
    ]
   },
@@ -30,6 +30,12 @@
    "trend": "run-up al 3T (15-oct), 'N2/2nm', capacidad reservada, lectura cruzada con superciclo de memoria",
    "peak": "Dias de earnings",
    "news": [
+    {
+     "t": "Acompana el fuerte rebote de los semiconductores en la recuperacion de la IA (sin catalizador propio).",
+     "s": "Yahoo Finance",
+     "d": "11-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+    },
     {
      "t": "Acompana el fuerte rebote de los semiconductores (sin catalizador propio en la jornada).",
      "s": "Yahoo Finance",
@@ -41,12 +47,6 @@
      "s": "Yahoo Finance",
      "d": "6-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
-    },
-    {
-     "t": "Cae ~10% arrastrada por el desplome de semiconductores (SOX -12.25%); el volumen de puts sube a ~2x su promedio (cobertura)",
-     "s": "Yahoo Finance",
-     "d": "5-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
     }
    ]
   },
@@ -54,6 +54,12 @@
    "trend": "UBS reafirma Buy antes del 3T, demanda EUV para IA/HBM satura capacidad",
    "peak": "Dias de earnings y noticias de China",
    "news": [
+    {
+     "t": "Rebota con el sector de semiconductores en la recuperacion de la IA (sin catalizador propio).",
+     "s": "Yahoo Finance",
+     "d": "11-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+    },
     {
      "t": "Rebota con el sector de semiconductores en la recuperacion de la IA (sin catalizador propio).",
      "s": "Yahoo Finance",
@@ -65,10 +71,6 @@
      "s": "IndMoney / newsquawk",
      "d": "15-oct",
      "u": "https://www.indmoney.com/blog/us-stocks/asml-stock"
-    },
-    {
-     "t": "Ordenes 2T EUR5.5 mM ('extremadamente fuertes'); guia 2026 elevada",
-     "s": "IR"
     }
    ]
   },
@@ -76,6 +78,12 @@
    "trend": "Upgrade de Oppenheimer (Outperform, PT $600), seleccion por Google Cloud (EPYC en TPU 8tx), blowout del 3T (DC +97% a/a) y rotacion desde NVIDIA",
    "peak": "9-nov: upgrade Oppenheimer + Google Cloud (+13.3%)",
    "news": [
+    {
+     "t": "Rebota con el grupo de chips en la fuerte recuperacion de la IA (entre los ganadores del S&P 500), tras la correccion previa.",
+     "s": "TheStreet / Yahoo Finance",
+     "d": "11-nov",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
+    },
     {
      "t": "Salta +13.3% a $508.58: Oppenheimer sube a Outperform con PT $600 y AMD confirma que sus EPYC de 5a gen alimentan la TPU 8tx de Google Cloud (computo confidencial para IA). Se suma el impulso del 3T (centro de datos +97% a/a, guia ~+80% para 2027) y la rotacion desde NVIDIA por la incertidumbre en su cupula.",
      "s": "The Motley Fool",
@@ -87,19 +95,19 @@
      "s": "TheStreet / Yahoo Finance",
      "d": "6-nov",
      "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026"
-    },
-    {
-     "t": "Se desploma ~15% en el selloff de IA/chips (acumula ~-22% en el mes); la CEO Lisa Su resta importancia: 'el mercado a veces puede ser un poco cortoplacista'",
-     "s": "Yahoo Finance",
-     "d": "5-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
     }
    ]
   },
   "MRVL": {
-   "trend": "'custom silicon', 'Marvell Google deal', debate 'crecimiento vs margen'",
-   "peak": "Dia del anuncio del acuerdo con Google",
+   "trend": "Acuerdo para ADQUIRIR Lumentum (LITE) por ~$115B en acciones (anunciado 2-nov; 4.50 MRVL por accion LITE; cierre esperado 1S2028): crea un lider en conectividad para IA (optica + silicio a medida); de fondo, 'custom silicon' y el debate 'crecimiento vs margen'",
+   "peak": "2-nov: anuncio de la adquisicion de Lumentum por ~$115B en acciones",
    "news": [
+    {
+     "t": "Rebota con el grupo de chips; Lumentum (LITE, su objetivo de adquisicion) sube ~+12% recuperando parte de las perdidas ligadas a la oferta en acciones (4.50 acciones de Marvell por cada accion de Lumentum, ~$115B de valor de empresa, cierre esperado 1S2028).",
+     "s": "Yahoo Finance / Marvell IR",
+     "d": "11-nov",
+     "u": "https://investor.marvell.com/news-events/press-releases/detail/1040/"
+    },
     {
      "t": "Rebota con el grupo de chips en la recuperacion de la IA (sin catalizador propio).",
      "s": "Yahoo Finance",
@@ -111,12 +119,6 @@
      "s": "Yahoo Finance",
      "d": "6-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
-    },
-    {
-     "t": "Se desploma ~16% arrastrada por el selloff generalizado de chips (SOX -12.25%), devolviendo buena parte del rally del hype de 'silicio personalizado'",
-     "s": "Yahoo Finance",
-     "d": "5-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
     }
    ]
   },
@@ -124,6 +126,12 @@
    "trend": "'Intel government stake', alianza con Oracle (Xeon/X14), '18A', 'turnaround'",
    "peak": "Resultados 29-oct (AMC): -18%",
    "news": [
+    {
+     "t": "Rebota junto con el resto de los semiconductores en la fuerte recuperacion de la IA (sin catalizador propio).",
+     "s": "Yahoo Finance",
+     "d": "11-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+    },
     {
      "t": "Rebota +5.5% a $59.37 junto con el resto de los semiconductores en la fuerte recuperacion de la IA (sin catalizador propio).",
      "s": "The Motley Fool",
@@ -135,12 +143,6 @@
      "s": "Yahoo Finance",
      "d": "6-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
-    },
-    {
-     "t": "Cae ~11% en el selloff de chips; el volumen de puts salta a ~2.1x su promedio (cobertura/bajista)",
-     "s": "Yahoo Finance",
-     "d": "5-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
     }
    ]
   },
@@ -171,6 +173,12 @@
    "peak": "Reporte (sep): blowout con reaccion muda",
    "news": [
     {
+     "t": "Salta >+10% en el fuerte rebote del complejo de memoria/chips (SK Hynix y Sandisk tambien >+10%), con el superciclo de precios de DRAM/HBM para IA de fondo.",
+     "s": "Yahoo Finance",
+     "d": "11-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+    },
+    {
      "t": "Las acciones de memoria repuntan con el sector de chips en el fuerte rebote de la IA; de fondo sigue el superciclo de precios (DRAM en maximos, Micron ve el apreton de memoria tensandose hasta 2028).",
      "s": "Yahoo Finance",
      "d": "9-nov",
@@ -181,12 +189,6 @@
      "s": "Yahoo Finance",
      "d": "6-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
-    },
-    {
-     "t": "Cae ~12% intradia, uno de los nombres mas golpeados del sector memoria/chips en la correccion del Nasdaq",
-     "s": "Yahoo Finance",
-     "d": "5-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
     }
    ]
   },
@@ -194,6 +196,12 @@
    "trend": "'NAND shortage', 'SSD pricing', cruce con Micron/Samsung/SK Hynix",
    "peak": "Reportes de pricing de memoria",
    "news": [
+    {
+     "t": "Sube >+10% en el rebote de memoria/almacenamiento junto con Micron y SK Hynix, impulsado por la demanda de memoria para IA.",
+     "s": "Yahoo Finance",
+     "d": "11-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+    },
     {
      "t": "Cae con el selloff general de semiconductores pese al 'beat & raise' del sector memoria",
      "s": "Yahoo Finance",
@@ -205,12 +213,6 @@
      "s": "The Motley Fool",
      "d": "28-oct",
      "u": "https://www.fool.com/coverage/stock-market-today/2026/10/28/stock-market-today-oct-28-sk-hynix-surges-on-record-q3-results-and-ai-memory-demand/"
-    },
-    {
-     "t": "Sube ~+5.53% en el rebote de memoria/almacenamiento; comentarios de NVIDIA sobre estandarizacion de memoria dan soporte (cotiza ~$1,370 vs maximo de junio ~$2,335)",
-     "s": "TradingKey / TheStreet",
-     "d": "19-oct",
-     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262224387-us-stock-market-close-nasdaq-rise-memory-micron-sandisk-tradingkey"
     }
    ]
   },
@@ -218,6 +220,12 @@
    "trend": "'HDD comeback', 'nearline demand', 'HAMR', cruce con Seagate",
    "peak": "Upgrades de analistas y datos de pricing",
    "news": [
+    {
+     "t": "Acompana el fuerte rebote del grupo de memoria/almacenamiento (Micron y Sandisk >+10%) en la recuperacion de la IA.",
+     "s": "Yahoo Finance",
+     "d": "11-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+    },
     {
      "t": "Acompana el rally de memoria/almacenamiento (SK Hynix record) tras reportar la semana pasada; el grupo de almacenamiento sigue siendo favorecido por la demanda de IA",
      "s": "The Motley Fool",
@@ -229,12 +237,6 @@
      "s": "finviz / Tiger Brokers",
      "d": "22-oct",
      "u": "https://finviz.com/news/378272/western-digital-beats-forecasts-and-raises-outlook-but-shares-fall-in-premarket-trading"
-    },
-    {
-     "t": "Sube ~+6.1%; Wall Street Zen la sube a Strong Buy de cara a resultados del 1T el 22-oct",
-     "s": "TheStreet",
-     "d": "19-oct",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-19-2026-nasdaq-futures-climb-as-tech-rebound-from-sell-off"
     }
    ]
   },
@@ -253,6 +255,12 @@
    "peak": "Resultados 28-oct (AMC): Azure +48%",
    "news": [
     {
+     "t": "Rebota con big tech en la recuperacion de la IA, recuperando parte de la caida del 10-nov (por el lanzamiento de herramientas de trabajo de Anthropic).",
+     "s": "Yahoo Finance",
+     "d": "11-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+    },
+    {
      "t": "Cae ~3% intradia despues de que Anthropic anunciara herramientas de trabajo para su asistente Claude que podrian competir con Office; el retroceso se da en la jornada de reversion del mercado por el CPI caliente.",
      "s": "StockTitan",
      "d": "10-nov",
@@ -263,12 +271,6 @@
      "s": "Yahoo Finance",
      "d": "9-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
-    },
-    {
-     "t": "Cae con big tech en la jornada de aversion al riesgo (Nasdaq -5.52%), tras marcar maximos el dia previo",
-     "s": "Yahoo Finance",
-     "d": "5-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
     }
    ]
   },
@@ -276,6 +278,12 @@
    "trend": "'Gemini 3', 'Google TPU', Google Cloud +103%, debate 'cash burn de IA'",
    "peak": "Resultados 28-oct (AMC) y continuacion 29-oct (-12%)",
    "news": [
+    {
+     "t": "Avanza con big tech en el fuerte rebote de la IA, recuperando parte de la correccion reciente.",
+     "s": "Yahoo Finance",
+     "d": "11-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+    },
     {
      "t": "Presenta dos nuevos chips de IA TPU (que compiten con los productos de NVIDIA) y AMD confirma que sus EPYC Gen5 alimentan la nueva TPU 8tx de Google Cloud. La accion avanza en una jornada de fuerte rebote de la IA.",
      "s": "Yahoo Finance",
@@ -287,12 +295,6 @@
      "s": "Yahoo Finance",
      "d": "5-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
-    },
-    {
-     "t": "Rebota ~+4.1% con el rally post-electoral, recuperando parte del desplome que sufrio por sus resultados del 3T",
-     "s": "TheStreet",
-     "d": "4-nov",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
     }
    ]
   },
@@ -300,6 +302,12 @@
    "trend": "'OpenAI $38B AWS deal', 'AWS +39%', 'Trainium', capex ~$220B, debate aceleracion de nube vs cash burn",
    "peak": "2-nov: maximo historico por el acuerdo con OpenAI",
    "news": [
+    {
+     "t": "Avanza con los megacaps en el rebote de la IA, entre los nombres mejor posicionados desde la eleccion.",
+     "s": "Yahoo Finance",
+     "d": "11-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+    },
     {
      "t": "Avanza ~2.9% en la recuperacion de la IA; entre los megacaps con mejor desempeno desde la eleccion.",
      "s": "Yahoo Finance",
@@ -311,12 +319,6 @@
      "s": "Yahoo Finance",
      "d": "5-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
-    },
-    {
-     "t": "Encabeza a big tech con ~+7.2% y toca maximo historico intradia en el rally de alivio tras la victoria democrata en las intermedias",
-     "s": "TheStreet",
-     "d": "4-nov",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
     }
    ]
   },
@@ -324,6 +326,12 @@
    "trend": "'Meta superintelligence', NVIDIA $3B + AMD $1B en su oferta, capex al alza, debate ROI",
    "peak": "Fichajes de IA y guia de capex",
    "news": [
+    {
+     "t": "Sube con big tech en la recuperacion de la IA tras la reversion del martes.",
+     "s": "Yahoo Finance",
+     "d": "11-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+    },
     {
      "t": "Salta ~+5.1% en el fuerte rebote de las acciones de IA tras la correccion de la semana previa.",
      "s": "Yahoo Finance",
@@ -335,19 +343,19 @@
      "s": "Yahoo Finance",
      "d": "5-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
-    },
-    {
-     "t": "Rebota con big tech en el rally post-electoral (Dow +3%), recuperando parte de la caida reciente a territorio bajista",
-     "s": "TheStreet",
-     "d": "4-nov",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
     }
    ]
   },
   "CRWV": {
-   "trend": "Resultados 3T (10-nov): beat con guia al alza ($13.3B); el debate pasa de 'deuda/bonos distressed' a si el crecimiento (+168%) justifica el apalancamiento",
-   "peak": "10-nov: 3T beat + guia a $13.3B (rebote tras caer ~42%)",
+   "trend": "Reaccion al 3T (10-nov): +21% el 11-nov; el alivio clave es que NO tomara mas deuda cara hasta 2027 y espera ~$9B en prepagos; el debate pasa de 'deuda distressed' a si el crecimiento (+168%) justifica el apalancamiento",
+   "peak": "11-nov: +21% tras el beat del 3T y el alivio de financiamiento (sin mas deuda cara hasta 2027)",
    "news": [
+    {
+     "t": "Se dispara ~+21% al dia siguiente de su 3T: el mercado premia los ingresos +168% a $3.66B y la subida de guia a $13.0-13.3B, y se alivia el temor por el financiamiento despues de que la empresa dijera que NO planea tomar mas deuda cara hasta 2027 y que espera ~$9 mil M en prepagos de clientes en tres meses.",
+     "s": "Yahoo Finance / TheStreet",
+     "d": "11-nov",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
+    },
     {
      "t": "Reporta 3T tras el cierre y supera estimaciones: ingresos $3.66B (+168% a/a, vs ~$3.54B est.), perdida por accion -$1.27 (mejor que -$1.55 est.) aunque la perdida neta GAAP se amplia a $709M; SUBE la guia de ingresos 2026 a $13.0-13.3B y el run-rate de salida a $20-21B, con backlog ~$132.5B. La accion (que llegaba ~-42% desde su pico) rebota tras el reporte; persiste el foco en el alto costo de su deuda.",
      "s": "CNBC / 24-7 Wall St. / Seeking Alpha",
@@ -359,12 +367,6 @@
      "s": "TIKR",
      "d": "9-nov",
      "u": "https://www.tikr.com/blog/coreweave-rises-3-as-a-rivals-results-lift-neoclouds-not-a-fundamental-reset"
-    },
-    {
-     "t": "Rebota con los nombres de data center/'neocloud' por el alivio sobre el financiamiento del buildout de IA (acuerdo Broadcom-Anthropic) y comentarios de Celestica (CLS)",
-     "s": "Investrade",
-     "d": "27-oct",
-     "u": "https://investrade.com/market-review-october-27-2026/"
     }
    ]
   },
@@ -372,6 +374,12 @@
    "trend": "'IREN AI pivot', 'Bitcoin miner to AI', 'data center power'",
    "peak": "Anuncios de contratos de IA Cloud",
    "news": [
+    {
+     "t": "Rebota con los 'neoclouds'/data center arrastrada por el salto de CoreWeave (+21%) tras su 3T; Nebius, otro par, sube ~+15%.",
+     "s": "Yahoo Finance",
+     "d": "11-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+    },
     {
      "t": "Salta ~+17-20% tras reportar un FQ1'27 record de rentabilidad: ~$200M de ingresos de AI Cloud, aunque con una perdida trimestral de ~$263M (mayor a la esperada); la accion sigue ~-50% en el ano. El volumen de puts fue ~2.2x su promedio",
      "s": "24/7 Wall St. / Yahoo Finance",
@@ -383,12 +391,6 @@
      "s": "Investrade",
      "d": "27-oct",
      "u": "https://investrade.com/market-review-october-27-2026/"
-    },
-    {
-     "t": "Arrastrada por la volatilidad de los 'neoclouds' tras la advertencia de Musk sobre el financiamiento de data centers de IA",
-     "s": "Investrade",
-     "d": "26-oct",
-     "u": "https://investrade.com/market-review-october-26-2026/"
     }
    ]
   },
@@ -396,6 +398,12 @@
    "trend": "'Starlink subscribers', $40B de deuda para GPUs, posible fusion SpaceX-Tesla",
    "peak": "Pruebas de Starship y noticias de Starlink",
    "news": [
+    {
+     "t": "Cae ~1.4% desmarcandose del rebote general, antes de la mision Starship Flight 15 prevista para el 13-nov.",
+     "s": "TheStreet",
+     "d": "11-nov",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
+    },
     {
      "t": "La NASA nombra ocho ganadores para su base lunar con contratos de hasta $10 mil millones y SpaceX es uno de ellos; las acciones del sector espacial repuntan.",
      "s": "Yahoo Finance",
@@ -407,12 +415,6 @@
      "s": "TheStreet",
      "d": "4-nov",
      "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
-    },
-    {
-     "t": "SpaceX asegura $40 mil millones en financiamiento de deuda para GPUs; Musk dice que no comprara 'neoclouds'; Barclays sube a Tesla citando una posible fusion con SpaceX",
-     "s": "Investrade",
-     "d": "26-oct",
-     "u": "https://investrade.com/market-review-october-26-2026/"
     }
    ]
   },
@@ -525,6 +527,12 @@
    "peak": "Resultados 29-oct (AMC)",
    "news": [
     {
+     "t": "El Bitcoin sigue debil (~$74,500) pese al rebote general de la bolsa, lo que mantiene presionadas a las plataformas cripto.",
+     "s": "Yahoo Finance",
+     "d": "11-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+    },
+    {
      "t": "Cae ~11% en la jornada de capitulacion (VIX +70%) con la debilidad cripto (BTC ~$80K) de fondo",
      "s": "Yahoo Finance",
      "d": "5-nov",
@@ -535,12 +543,6 @@
      "s": "VistaP Global / TheStreet",
      "d": "4-nov",
      "u": "https://vistapglobal.com/stock-market-today-november-4-2026-dow-surges-1569-points-as-oil-plunges-after-midterm-elections-aapl-cvs-docs-eprx-googl-law-modd-msft-nvda-qcom-ser-spcx-stz-tap/"
-    },
-    {
-     "t": "Presionada por la debilidad cripto: el Bitcoin cae por debajo de $100,000 por primera vez desde junio en una jornada de aversion al riesgo",
-     "s": "Kiplinger",
-     "d": "3-nov",
-     "u": "https://www.kiplinger.com/investing/stocks/stocks-retreat-as-bubble-worries-ramp-up-stock-market-today"
     }
    ]
   },
@@ -548,6 +550,12 @@
    "trend": "'Saylor', 'MSTR Bitcoin', 'mNAV premium', debate sostenibilidad del apalancamiento",
    "peak": "Movimientos fuertes del BTC",
    "news": [
+    {
+     "t": "Apuesta apalancada al BTC: el Bitcoin sigue debil (~$74,500) y limita el rebote de la accion pese al verde generalizado del mercado.",
+     "s": "Yahoo Finance",
+     "d": "11-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+    },
     {
      "t": "Cae ~10% (apuesta apalancada al BTC) en el selloff general de riesgo, con el Bitcoin aun debil (~$80K)",
      "s": "Yahoo Finance",
@@ -559,12 +567,6 @@
      "s": "VistaP Global / TheStreet",
      "d": "4-nov",
      "u": "https://vistapglobal.com/stock-market-today-november-4-2026-dow-surges-1569-points-as-oil-plunges-after-midterm-elections-aapl-cvs-docs-eprx-googl-law-modd-msft-nvda-qcom-ser-spcx-stz-tap/"
-    },
-    {
-     "t": "Cae con el Bitcoin, que pierde los $100,000 por primera vez desde junio en la sesion de aversion al riesgo (apuesta apalancada al BTC)",
-     "s": "Kiplinger",
-     "d": "3-nov",
-     "u": "https://www.kiplinger.com/investing/stocks/stocks-retreat-as-bubble-worries-ramp-up-stock-market-today"
     }
    ]
   },
@@ -597,6 +599,12 @@
    "peak": "Anuncios de PPAs y avances regulatorios",
    "news": [
     {
+     "t": "Rebota con el complejo de energia para data centers de IA en la recuperacion del grupo tras la correccion previa.",
+     "s": "TheStreet",
+     "d": "11-nov",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
+    },
+    {
      "t": "Cae ~3% con el complejo de energia nuclear/data center en la jornada de aversion al riesgo",
      "s": "Yahoo Finance",
      "d": "5-nov",
@@ -607,10 +615,6 @@
      "s": "VistaP Global / Investrade",
      "d": "27-oct",
      "u": "https://vistapglobal.com/stock-market-today-october-27-2026-nasdaq-gains-1-18-as-ai-stocks-lead-ahead-of-wednesdays-fed-decision-amwl-ceg-eprx-googl-hood-ko-meta-modd-msft-nvda-orcl-rcl-ser-ups"
-    },
-    {
-     "t": "Mayor flota nuclear de EE.UU. + Calpine ($26.6 bn); PPAs a 15-20 anos con hyperscalers",
-     "s": "IR"
     }
    ]
   },
@@ -618,6 +622,12 @@
    "trend": "'Vistra nuclear', 'data center PPA', 'ERCOT power'",
    "peak": "Anuncios de PPAs y datos de demanda",
    "news": [
+    {
+     "t": "Rebota con el complejo de energia para data centers de IA en la recuperacion del grupo tras la caida del 10-nov.",
+     "s": "TheStreet",
+     "d": "11-nov",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
+    },
     {
      "t": "Cae ~6.5% con el complejo de energia para IA; el volumen de puts salta a ~2.1x su promedio (cobertura)",
      "s": "Yahoo Finance",
@@ -635,6 +645,12 @@
    "peak": "10-nov: cargo de SoftBank ($3.7B) y modificacion de contratos (-7%)",
    "news": [
     {
+     "t": "Rebota con el complejo de energia/data center para IA tras el desplome del 10-nov por el cargo de SoftBank, en la recuperacion general del grupo.",
+     "s": "TheStreet",
+     "d": "11-nov",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
+    },
+    {
      "t": "Cae ~7% despues de que SoftBank revelara un cargo de $3.7 mil M y la modificacion de contratos de equipo electrico ligados a data centers de IA en EE.UU., lo que aviva dudas sobre una menor demanda de infraestructura y arrastra al complejo de energia para IA.",
      "s": "TheStreet",
      "d": "10-nov",
@@ -645,12 +661,6 @@
      "s": "Yahoo Finance",
      "d": "5-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
-    },
-    {
-     "t": "Reporta 3T (28-oct) y bate (+3.7%): ~$30 mil millones en nuevos pedidos, backlog que crece de $176B a ~$200B, anuncia la compra de Trench Group por $9 mil millones (soluciones de red/conversion de energia), sube su guia de ingresos 2026 a $46.5-47.5B y DOBLA su recompra de $10B a $20B",
-     "s": "GuruFocus / Investing.com",
-     "d": "28-oct",
-     "u": "https://www.gurufocus.com/news/9148117/ge-vernova-gev-reports-strong-q3-orders-raises-buyback-and-revenue-guidance"
     }
    ]
   },
@@ -658,6 +668,12 @@
    "trend": "'data center power', 'electrification', 'Eaton backlog'",
    "peak": "Datos de backlog/capex de hyperscalers",
    "news": [
+    {
+     "t": "Rebota con los nombres de energia/electrificacion para data centers en la recuperacion del complejo de IA.",
+     "s": "TheStreet",
+     "d": "11-nov",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
+    },
     {
      "t": "Cae ~7.5% arrastrada por la venta de nombres de energia/electrificacion para data centers",
      "s": "Yahoo Finance",
@@ -675,6 +691,12 @@
    "peak": "Dia del salto +17% por demanda de IA",
    "news": [
     {
+     "t": "Rebota con el complejo de energia/data center para IA en la recuperacion del grupo (Bloom Energy ~+14%), tras la fuerte caida del 10-nov.",
+     "s": "TheStreet",
+     "d": "11-nov",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
+    },
+    {
      "t": "Se desploma ~14% en el selloff del complejo de energia/data center de IA, devolviendo el salto de ~+17% por resultados",
      "s": "Yahoo Finance",
      "d": "5-nov",
@@ -685,10 +707,6 @@
      "s": "The Motley Fool",
      "d": "28-oct",
      "u": "https://www.fool.com/coverage/stock-market-today/2026/10/28/stock-market-today-oct-28-markets-edge-higher-as-fed-holds-rates-steady/"
-    },
-    {
-     "t": "Lider en enfriamiento liquido para racks 100kW+; book-to-bill >1; backlog $15 bn+",
-     "s": "IR"
     }
    ]
   },
@@ -721,6 +739,12 @@
    "peak": "Cada anuncio de acuerdo",
    "news": [
     {
+     "t": "Salta ~+14-16% liderando el rebote de la energia para IA: los resultados de CoreWeave alivian los temores sobre el financiamiento de los data centers.",
+     "s": "Yahoo Finance / TheStreet",
+     "d": "11-nov",
+     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
+    },
+    {
      "t": "Se hunde ~16% en la venta generalizada de nombres de energia para IA pese a su reciente 'blowout' del 3T",
      "s": "Yahoo Finance",
      "d": "5-nov",
@@ -731,12 +755,6 @@
      "s": "TheStreet",
      "d": "26-oct",
      "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-26-2026"
-    },
-    {
-     "t": "Se hunde ~11.1% pese al 'blowout' del 3T (beat y alza de guia): el mercado castiga el flujo de caja negativo y el alto capex del buildout",
-     "s": "TheStreet",
-     "d": "23-oct",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-23-2026"
     }
    ]
   },

@@ -1,33 +1,32 @@
 {
- "updated": "10-nov",
+ "updated": "11-nov",
  "source": "IBKR opciones + social + analistas",
  "tickers": {
   "NVDA": [
    {
-    "type": "Opciones",
-    "t": "IV implicita ~60% anual vs HV ~45% (ratio 1.34): prima de volatilidad elevada de cara a resultados (~19-nov)",
-    "d": "10-nov"
+    "type": "Analista",
+    "t": "Baird la baja a Neutral y recorta su precio objetivo de $500 a $200; Morgan Stanley mantiene Overweight pero la quita de su lista de Top Picks",
+    "d": "11-nov",
+    "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
    },
    {
     "type": "Social",
-    "t": "Chatter disparado por la demanda de accionistas y el reporte de la 'espia china'/FBI (historia viral de gobernanza)",
-    "d": "10-nov",
-    "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-10-2026"
+    "t": "Chatter aun disparado por el escandalo de gobernanza (caso Jensen Huang / investigacion de la junta) mientras la accion rebota +2.9%",
+    "d": "11-nov",
+    "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
    }
   ],
-  "HIMS": [
+  "CRWV": [
    {
     "type": "Opciones",
-    "t": "Volumen de puts ~3.7x y de calls ~2.4x su promedio: actividad de opciones extrema tras el desplome por resultados (-16.5%)",
-    "d": "10-nov",
-    "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-10-2026"
-   }
-  ],
-  "SLS": [
+    "t": "Volumen de calls ~2.0x su promedio (apetito alcista) tras el beat del 3T y la subida de guia",
+    "d": "11-nov"
+   },
    {
-    "type": "Opciones",
-    "t": "IV implicita ~305% anual vs HV ~97% (ratio 3.1): prima de volatilidad extrema ante catalizador clinico (topline SLS009 esperado en 4T)",
-    "d": "10-nov"
+    "type": "Social",
+    "t": "Chatter social disparado por el salto de ~+21% y el alivio de financiamiento (sin mas deuda cara hasta 2027)",
+    "d": "11-nov",
+    "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
    }
   ]
  }
