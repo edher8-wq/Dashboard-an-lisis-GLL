@@ -1,32 +1,26 @@
 {
- "updated": "11-nov",
+ "updated": "12-nov",
  "source": "IBKR opciones + social + analistas",
  "tickers": {
   "NVDA": [
    {
     "type": "Analista",
-    "t": "Baird la baja a Neutral y recorta su precio objetivo de $500 a $200; Morgan Stanley mantiene Overweight pero la quita de su lista de Top Picks",
-    "d": "11-nov",
-    "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+    "t": "Oppenheimer la baja y RETIRA su precio objetivo ('zapatos enormes que llenar, sin sucesor obvio'; riesgo de fuga de talento); Bernstein a Market Perform (PT $200); Dan Ives (Wedbush) recorta su PT de $300 a $225 — todo tras la renuncia del CEO Jensen Huang",
+    "d": "12-nov",
+    "u": "https://finance.yahoo.com/technology/live/nvidia-live-updates-jensen-huang-resigns-cfo-colette-kress-to-serve-as-interim-ceo-140341430.html"
    },
    {
     "type": "Social",
-    "t": "Chatter aun disparado por el escandalo de gobernanza (caso Jensen Huang / investigacion de la junta) mientras la accion rebota +2.9%",
-    "d": "11-nov",
-    "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
+    "t": "Chatter disparado por la renuncia sorpresiva de Jensen Huang como CEO (caso de amorios/espionaje chino, investigacion del FBI); la accion llego a caer ~13% intradia",
+    "d": "12-nov",
+    "u": "https://finance.yahoo.com/technology/live/nvidia-live-updates-jensen-huang-resigns-cfo-colette-kress-to-serve-as-interim-ceo-140341430.html"
    }
   ],
-  "CRWV": [
+  "SLS": [
    {
     "type": "Opciones",
-    "t": "Volumen de calls ~2.0x su promedio (apetito alcista) tras el beat del 3T y la subida de guia",
-    "d": "11-nov"
-   },
-   {
-    "type": "Social",
-    "t": "Chatter social disparado por el salto de ~+21% y el alivio de financiamiento (sin mas deuda cara hasta 2027)",
-    "d": "11-nov",
-    "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
+    "t": "IV anual ~348% vs HV ~98% (ratio ~3.6x) — salto extremo de volatilidad que anticipa un catalizador (topline de SLS009/CDK9 esperado en 4T 2026)",
+    "d": "12-nov"
    }
   ]
  }
