@@ -16,6 +16,14 @@
     "u": "https://www.sec.gov/Archives/edgar/data/789019/000078901926000230/0000789019-26-000230-index.htm"
    }
   ],
+  "NVDA": [
+   {
+    "type": "8-K",
+    "t": "8-K: Cambio en directivos/consejo; Estados financieros/anexos",
+    "d": "12-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/0001045810-26-000082-index.htm"
+   }
+  ],
   "TSM": [
    {
     "type": "Form 4",
@@ -52,6 +60,14 @@
     "t": "Form 4",
     "d": "10-nov",
     "u": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000789/0001046179-26-000789-index.htm"
+   }
+  ],
+  "MRVL": [
+   {
+    "type": "8-K",
+    "t": "8-K: Cambio en directivos/consejo; Estados financieros/anexos",
+    "d": "12-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1835632/000183563226000026/0001835632-26-000026-index.htm"
    }
   ],
   "CRWV": [
