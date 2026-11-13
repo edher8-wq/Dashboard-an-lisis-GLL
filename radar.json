@@ -92,6 +92,24 @@
   ],
   "MRVL": [
    {
+    "type": "Form 3",
+    "t": "Form 3",
+    "d": "13-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1835632/000162828026073725/0001628280-26-073725-index.htm"
+   },
+   {
+    "type": "Form 3",
+    "t": "Form 3",
+    "d": "13-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1835632/000162828026073723/0001628280-26-073723-index.htm"
+   },
+   {
+    "type": "Form 3",
+    "t": "Form 3",
+    "d": "13-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1835632/000162828026073722/0001628280-26-073722-index.htm"
+   },
+   {
     "type": "8-K",
     "t": "8-K: Cambio en directivos/consejo; Estados financieros/anexos",
     "d": "12-nov",
@@ -178,6 +196,14 @@
     "t": "Form 3",
     "d": "10-nov",
     "u": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526455407/0001193125-26-455407-index.htm"
+   }
+  ],
+  "VRT": [
+   {
+    "type": "8-K",
+    "t": "8-K: Regulation FD (divulgacion); Estados financieros/anexos",
+    "d": "13-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1674101/000162828026073564/0001628280-26-073564-index.htm"
    }
   ],
   "OKLO": [
