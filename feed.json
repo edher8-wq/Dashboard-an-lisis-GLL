@@ -1,11 +1,17 @@
 {
- "updated": "12-nov",
- "note": "Refresco diario. Jornada 12-nov (jueves): la bolsa cae moderadamente dominada por un shock de liderazgo en NVIDIA. La junta anuncio la RENUNCIA inmediata de Jensen Huang como CEO (la CFO Colette Kress queda como interina) tras reportes de un segundo y tercer amorio y el caso de la presunta espia china ligada a ~$7.5B en ventas de chips a China (el FBI investiga). NVIDIA llego a caer ~13% y cerro -4.34% a $166.19, con su capitalizacion por debajo de $4B (cae al 3er lugar detras de Apple y Microsoft). Indices: Nasdaq -0.39% (25,366), S&P 500 -0.35% (7,592) y Dow -0.36% (52,297); Russell 2000 -1.66%, VIX +7% a 18.71. Los chips se dividieron: AMD +5.9% y Broadcom +5.5% por la apuesta de que capturen cuota, mientras TSM, Intel, Micron y Sandisk cayeron 2-5%. Los megacaps resistieron (Alphabet +1.6%, Amazon +0.5%; Meta -0.8%). De fondo sigue la resaca del CPI caliente: el bono a 10 anos subio hacia ~5.0-5.1% con el mercado descontando un posible alza de la Fed, el oro cayo ~3% y el Bitcoin sigue debil (<$72,000, ~-8% en el mes); MSTR cayo hasta ~6% por su salida de dos indices MSCI. Wall Street recorto a NVIDIA (Oppenheimer la baja y retira su PT; Bernstein a Market Perform PT $200; Dan Ives recorta PT $300->$225) de cara a sus resultados del 17-nov. Las emisoras sin novedad propia conservan su research previo.",
+ "updated": "13-nov",
+ "note": "Refresco diario. Jornada 13-nov (viernes): Wall Street cierra mixta y cierra una semana volatil. El Dow sube +0.10% a 52,347.55 mientras el S&P 500 cae -0.40% a 7,561.67 y el Nasdaq -0.91% a 25,136; Russell 2000 -0.31% a 2,790, VIX +3.2% a 19.30. En la semana el Nasdaq sumo >2% (su mejor semana desde agosto), el S&P ~2.5% y el Dow ~2%. El dia lo marcan tres fuerzas: (1) el rendimiento del Treasury a 10 anos sube a 5.15% (toca 5.17%, maximo desde octubre) tras un PPI de octubre caliente (+0.3% m/m pero +6.5% anual, el mayor avance desde nov-2022); la gobernadora Bowman dice que 'las presiones de inflacion han persistido mas de lo que esperaba' y el mercado ya descuenta un posible ALZA de la Fed en diciembre. (2) Se enfria el rally de IA: NVIDIA extiende su caida -2% a $162.85 (cap <$4B, ~-12% en la semana) y HSBC la baja a Hold recortando su PT de $365 a $170 ('confianza sacudida', sin plan claro de sucesion) de cara a resultados el martes 17-nov; AMD se desploma ~10% (~$534, -8.75%) devolviendo lo ganado, con Broadcom -6%, Intel -5%, Micron -5%, SK Hynix -6% y Sandisk -9%. Jensen Huang sigue fuera (CFO Colette Kress interina); el jueves hubo fuerte compra minorista del bajon (Vanda: +$111M netos en los primeros 30 min). (3) Cripto debil: el Bitcoin cae -4.2% a $68,322, bajo $70,000 por primera vez en ~3 meses (-20% YTD); MSCI retira a Strategy (MSTR) de dos indices de EE.UU. (posible venta forzada) y COIN/HOOD/CRCL bajan. Microsoft arrastra una interrupcion de Outlook/Teams/Copilot (Ackman: su posicion es 'really, really strong'). Goldman fija su objetivo del S&P 500 en 8,700 para 2027. Radar de opciones (IBKR): jornada inusualmente tranquila -- volumenes de opciones por debajo del promedio en casi todos los nombres y ninguna senal de IV/HV>1.3, salvo SELLAS (SLS): volumen de puts ~2.9x su promedio e IV anual ~477% vs HV ~98% (ratio ~4.9x) ante el topline de SLS009 esperado en 4T. Las emisoras sin novedad propia conservan su research previo.",
  "tickers": {
   "NVDA": {
-   "trend": "Shock de liderazgo: renuncia inmediata del CEO Jensen Huang (CFO Colette Kress interina) tras el 2do/3er amorio y el caso de la presunta espia china (FBI); sell-side recorta (Oppenheimer baja y retira PT, Bernstein Market Perform PT $200, Ives PT $300->$225). Resultados el 17-nov; en duda el compromiso de $10B con Anthropic",
+   "trend": "Shock de liderazgo: renuncia del CEO Jensen Huang (CFO Colette Kress interina); el sell-side recorta (HSBC a Hold PT $170; Oppenheimer retira PT; Bernstein Market Perform PT $200; Ives PT $225). Fuerte compra minorista del bajon. Resultados el martes 17-nov",
    "peak": "12-nov: cae -4.34% a $166.19 (llego a -13%) por la renuncia sorpresiva de Jensen Huang",
    "news": [
+    {
+     "t": "HSBC la baja a Hold y recorta su PT de $365 a $170 ('la confianza del inversionista esta sacudida' y el plan de sucesion 'no esta claro', dice Frank Lee). La accion cae ~2% a $162.85 (cap <$4B, ~-12% en la semana); el jueves hubo fuerte compra minorista del bajon (Vanda: +$111M netos en los primeros 30 min). Reporta el martes 17-nov con Colette Kress como CEO interina.",
+     "s": "Yahoo Finance",
+     "d": "13-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+    },
     {
      "t": "La junta anuncia que Jensen Huang RENUNCIA como CEO, presidente y miembro del consejo, efectivo de inmediato; la CFO Colette Kress asume como CEO interina. La decision llega tras un reporte del NYT de un segundo amorio (con la ejecutiva Kimberly Powell, que le reportaba) y de Reuters/The Information de un tercer vinculo; antes se revelo el amorio con Alice Huang, presunta ligada a una red china que facilito ~$7.5B en ventas de chips a China (el FBI investiga). La accion llega a caer ~13% y cierra -4.34% a $166.19 (cap <$4B, cae al 3er lugar). Wall Street recorta: Oppenheimer la baja y retira su PT, Bernstein a Market Perform (PT $200) y Dan Ives recorta su PT de $300 a $225. Resultados el 17-nov; en duda su compromiso de hasta $10B con Anthropic.",
      "s": "Yahoo Finance / CNBC",
@@ -17,12 +23,6 @@
      "s": "Yahoo Finance / TheStreet",
      "d": "11-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
-    },
-    {
-     "t": "Segundo dia de caida (-5.5% a ~$168): una demanda de accionistas alega que NVIDIA y el CEO Jensen Huang enganaron a los inversionistas sobre su relacion con una presunta espia china, y un reporte afirma que ese vinculo ayudo a mover >=$7.5 mil M en chips hacia firmas chinas. Trump dice que el FBI investiga el caso y el congresista Moolenaar pide explicaciones. La accion acumula ~-26% en el mes de cara a resultados (~19-nov).",
-     "s": "24/7 Wall St. / StockTitan",
-     "d": "10-nov",
-     "u": "https://247wallst.com/investing/2026/11/10/super-micro-falls-4-as-nvidias-slide-drags-ai-server-stocks-dell-drops-6-hewlett-packard-enterprise-declines-2/"
     }
    ]
   },
@@ -30,6 +30,12 @@
    "trend": "run-up al 3T (15-oct), 'N2/2nm', capacidad reservada, lectura cruzada con superciclo de memoria",
    "peak": "Dias de earnings",
    "news": [
+    {
+     "t": "Acompana la nueva caida del complejo de chips al enfriarse el rally de IA y subir el Treasury a 10 anos sobre 5%.",
+     "s": "Yahoo Finance",
+     "d": "13-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+    },
     {
      "t": "Retrocede con el complejo de chips (cae >2% en premarket) arrastrada por la salida del CEO de NVIDIA, de quien fabrica los chips.",
      "s": "Yahoo Finance",
@@ -41,12 +47,6 @@
      "s": "Yahoo Finance",
      "d": "11-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
-    },
-    {
-     "t": "Acompana el fuerte rebote de los semiconductores (sin catalizador propio en la jornada).",
-     "s": "Yahoo Finance",
-     "d": "9-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
     }
    ]
   },
@@ -54,6 +54,12 @@
    "trend": "UBS reafirma Buy antes del 3T, demanda EUV para IA/HBM satura capacidad",
    "peak": "Dias de earnings y noticias de China",
    "news": [
+    {
+     "t": "Acompana la nueva baja del complejo de chips al enfriarse el rally de IA y subir las tasas.",
+     "s": "Yahoo Finance",
+     "d": "13-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+    },
     {
      "t": "Cae a terreno negativo junto con los semiconductores por el remezon de liderazgo en NVIDIA.",
      "s": "Yahoo Finance",
@@ -65,12 +71,6 @@
      "s": "Yahoo Finance",
      "d": "11-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
-    },
-    {
-     "t": "Rebota con el sector de semiconductores en la recuperacion de la IA (sin catalizador propio).",
-     "s": "Yahoo Finance",
-     "d": "9-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
     }
    ]
   },
@@ -79,16 +79,16 @@
    "peak": "9-nov: upgrade Oppenheimer + Google Cloud (+13.3%)",
    "news": [
     {
+     "t": "Se desploma ~10% a ~$534 (de los mayores perdedores del S&P 500) devolviendo las ganancias impulsadas por NVIDIA: se enfria el rally de IA y el rendimiento del Treasury a 10 anos supera 5%. Broadcom -6% e Intel -5% acompanan.",
+     "s": "Yahoo Finance / 24-7 Wall St.",
+     "d": "13-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+    },
+    {
      "t": "Sube ~+5.9% (de los mejores del S&P 500) mientras los inversionistas apuestan a que el caos en la cupula de NVIDIA le ceda cuota de mercado; Broadcom (+5.5%) tambien se beneficia.",
      "s": "The Motley Fool",
      "d": "12-nov",
      "u": "https://www.fool.com/coverage/stock-market-today/2026/11/12/stock-market-today-nov-12-nvidia-ceo-s-stunning-exit-sends-wall-street-lower-as-rivals-surge/"
-    },
-    {
-     "t": "Rebota con el grupo de chips en la fuerte recuperacion de la IA (entre los ganadores del S&P 500), tras la correccion previa.",
-     "s": "TheStreet / Yahoo Finance",
-     "d": "11-nov",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
     },
     {
      "t": "Salta +13.3% a $508.58: Oppenheimer sube a Outperform con PT $600 y AMD confirma que sus EPYC de 5a gen alimentan la TPU 8tx de Google Cloud (computo confidencial para IA). Se suma el impulso del 3T (centro de datos +97% a/a, guia ~+80% para 2027) y la rotacion desde NVIDIA por la incertidumbre en su cupula.",
@@ -127,6 +127,12 @@
    "peak": "Resultados 29-oct (AMC): -18%",
    "news": [
     {
+     "t": "Cae ~5% con el grupo de chips al enfriarse el rally de IA y subir el rendimiento del Treasury a 10 anos sobre 5%.",
+     "s": "Yahoo Finance",
+     "d": "13-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+    },
+    {
      "t": "Baja (~2% en premarket) con el grupo de chips tras la renuncia del CEO de NVIDIA.",
      "s": "Yahoo Finance",
      "d": "12-nov",
@@ -137,12 +143,6 @@
      "s": "Yahoo Finance",
      "d": "11-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
-    },
-    {
-     "t": "Rebota +5.5% a $59.37 junto con el resto de los semiconductores en la fuerte recuperacion de la IA (sin catalizador propio).",
-     "s": "The Motley Fool",
-     "d": "9-nov",
-     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/09/stock-market-today-nov-9-amd-jumps-on-oppenheimer-upgrade-and-google-cloud-chip-selection/"
     }
    ]
   },
@@ -173,6 +173,12 @@
    "peak": "Reporte (sep): blowout con reaccion muda",
    "news": [
     {
+     "t": "Cae ~5% con el complejo de memoria (SK Hynix -6%, Sandisk -9%) al enfriarse el rally de IA.",
+     "s": "Yahoo Finance",
+     "d": "13-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+    },
+    {
      "t": "Cae ~4% (premarket) con el complejo de memoria/chips arrastrado por la salida del CEO de NVIDIA; SK Hynix tambien ~-4%.",
      "s": "Yahoo Finance",
      "d": "12-nov",
@@ -183,12 +189,6 @@
      "s": "Yahoo Finance",
      "d": "11-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
-    },
-    {
-     "t": "Las acciones de memoria repuntan con el sector de chips en el fuerte rebote de la IA; de fondo sigue el superciclo de precios (DRAM en maximos, Micron ve el apreton de memoria tensandose hasta 2028).",
-     "s": "Yahoo Finance",
-     "d": "9-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
     }
    ]
   },
@@ -196,6 +196,12 @@
    "trend": "'NAND shortage', 'SSD pricing', cruce con Micron/Samsung/SK Hynix",
    "peak": "Reportes de pricing de memoria",
    "news": [
+    {
+     "t": "Cae ~9% liderando a la baja el grupo de memoria/almacenamiento al enfriarse el rally de IA.",
+     "s": "Yahoo Finance",
+     "d": "13-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+    },
     {
      "t": "Baja ~5% (premarket) con el grupo de memoria/almacenamiento por el remezon en NVIDIA.",
      "s": "Yahoo Finance",
@@ -207,12 +213,6 @@
      "s": "Yahoo Finance",
      "d": "11-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
-    },
-    {
-     "t": "Cae con el selloff general de semiconductores pese al 'beat & raise' del sector memoria",
-     "s": "Yahoo Finance",
-     "d": "30-oct",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
     }
    ]
   },
@@ -220,6 +220,12 @@
    "trend": "'HDD comeback', 'nearline demand', 'HAMR', cruce con Seagate",
    "peak": "Upgrades de analistas y datos de pricing",
    "news": [
+    {
+     "t": "Acompana la baja del complejo de memoria/almacenamiento al enfriarse el rally de IA y subir las tasas.",
+     "s": "Yahoo Finance",
+     "d": "13-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+    },
     {
      "t": "Acompana la baja del complejo de memoria/almacenamiento por el remezon de liderazgo en NVIDIA.",
      "s": "Yahoo Finance",
@@ -231,12 +237,6 @@
      "s": "Yahoo Finance",
      "d": "11-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
-    },
-    {
-     "t": "Acompana el rally de memoria/almacenamiento (SK Hynix record) tras reportar la semana pasada; el grupo de almacenamiento sigue siendo favorecido por la demanda de IA",
-     "s": "The Motley Fool",
-     "d": "28-oct",
-     "u": "https://www.fool.com/coverage/stock-market-today/2026/10/28/stock-market-today-oct-28-sk-hynix-surges-on-record-q3-results-and-ai-memory-demand/"
     }
    ]
   },
@@ -255,6 +255,12 @@
    "peak": "Resultados 28-oct (AMC): Azure +48%",
    "news": [
     {
+     "t": "Presionada por una interrupcion prolongada de Outlook/Teams/Copilot; Bill Ackman defiende que su posicion competitiva es 'really, really strong'.",
+     "s": "Yahoo Finance",
+     "d": "13-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+    },
+    {
      "t": "Recorta sus ganancias iniciales tras reportar problemas de acceso a buzones de Exchange Online en varias regiones; aun asi termina ~+0.4% y queda como la 2a mayor del mundo tras la caida de NVIDIA.",
      "s": "Yahoo Finance",
      "d": "12-nov",
@@ -265,12 +271,6 @@
      "s": "Yahoo Finance",
      "d": "11-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
-    },
-    {
-     "t": "Cae ~3% intradia despues de que Anthropic anunciara herramientas de trabajo para su asistente Claude que podrian competir con Office; el retroceso se da en la jornada de reversion del mercado por el CPI caliente.",
-     "s": "StockTitan",
-     "d": "10-nov",
-     "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-10-2026"
     }
    ]
   },
@@ -527,6 +527,12 @@
    "peak": "Resultados 29-oct (AMC)",
    "news": [
     {
+     "t": "Cae con la debilidad del Bitcoin, que pierde los $70,000 por primera vez en ~3 meses (-4.2% a ~$68,322, -20% YTD).",
+     "s": "Yahoo Finance",
+     "d": "13-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+    },
+    {
      "t": "Presionada por la debilidad del Bitcoin (<$72,000, ~-8% en el mes) en una jornada de aversion al riesgo.",
      "s": "Yahoo Finance",
      "d": "12-nov",
@@ -537,12 +543,6 @@
      "s": "Yahoo Finance",
      "d": "11-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
-    },
-    {
-     "t": "Cae ~11% en la jornada de capitulacion (VIX +70%) con la debilidad cripto (BTC ~$80K) de fondo",
-     "s": "Yahoo Finance",
-     "d": "5-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
     }
    ]
   },
@@ -550,6 +550,12 @@
    "trend": "'Saylor', 'MSTR Bitcoin', 'mNAV premium', debate sostenibilidad del apalancamiento",
    "peak": "Movimientos fuertes del BTC",
    "news": [
+    {
+     "t": "MSCI la RETIRA de dos indices de EE.UU. (posible venta forzada de fondos indexados) y el Bitcoin cae bajo $70,000 (~$68,322); el volumen de puts corre ~1.5x su promedio.",
+     "s": "Yahoo Finance",
+     "d": "13-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+    },
     {
      "t": "Cae hasta ~6% despues de que MSCI confirmara que la sacara de dos indices de EE.UU.; el Bitcoin sigue debil (~-8% en noviembre, por debajo de $72,000).",
      "s": "Yahoo Finance",
@@ -561,12 +567,6 @@
      "s": "Yahoo Finance",
      "d": "11-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
-    },
-    {
-     "t": "Cae ~10% (apuesta apalancada al BTC) en el selloff general de riesgo, con el Bitcoin aun debil (~$80K)",
-     "s": "Yahoo Finance",
-     "d": "5-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
     }
    ]
   },
