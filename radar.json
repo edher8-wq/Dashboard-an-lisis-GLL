@@ -102,6 +102,14 @@
     "u": "https://www.sec.gov/Archives/edgar/data/2042022/000121390026119667/0001213900-26-119667-index.htm"
    }
   ],
+  "PLTR": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "13-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1321655/000182415926000017/0001824159-26-000017-index.htm"
+   }
+  ],
   "UPST": [
    {
     "type": "Form 4",
