@@ -1,26 +1,12 @@
 {
- "updated": "13-nov",
+ "updated": "16-nov",
  "source": "IBKR opciones + social + analistas",
  "tickers": {
-  "NVDA": [
-   {
-    "type": "Analista",
-    "t": "HSBC la baja a Hold y recorta su precio objetivo de $365 a $170 ('la confianza del inversionista esta sacudida' y el plan de sucesion 'no esta claro', dice Frank Lee) de cara a resultados el martes 17-nov con Colette Kress como CEO interina",
-    "d": "13-nov",
-    "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
-   },
-   {
-    "type": "Social",
-    "t": "Flujo y chatter minorista disparados por la salida de Jensen Huang: Vanda Research estima +$111M netos de inversionistas minoristas en los primeros 30 minutos del jueves (compra agresiva del bajon)",
-    "d": "13-nov",
-    "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
-   }
-  ],
   "SLS": [
    {
     "type": "Opciones",
-    "t": "Volumen de puts ~2.9x su promedio (hoy 24,251 vs ~8,442) e IV anual ~477% vs HV ~98% (ratio ~4.9x): salto extremo de volatilidad que anticipa un catalizador binario (topline de SLS009/CDK9 esperado en 4T 2026; 8-K el 12-nov)",
-    "d": "13-nov"
+    "t": "Volumen de puts ~6.4x su promedio (hoy 45,069 vs ~7,053) e IV anual ~537% vs HV ~105% (ratio ~5.1x): salto extremo de volatilidad que anticipa un catalizador binario (topline de SLS009/CDK9 esperado en 4T)",
+    "d": "16-nov"
    }
   ]
  }
