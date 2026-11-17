@@ -1,16 +1,22 @@
 {
- "updated": "16-nov",
- "note": "Refresco diario. Jornada del 16-nov: Wall Street cae por tercer dia consecutivo en una sesion de aversion al riesgo de cara a los resultados de NVIDIA (esta semana) y a datos clave de empleo: el S&P 500 baja ~0.9%, el Nasdaq ~0.8% y el Dow ~1.2%, con los semiconductores/IA bajo presion. El mercado recorta la probabilidad de un recorte de la Fed en diciembre a ~45% (desde ~62% hace una semana), lo que presiona a los activos de mayor duracion. Tres focos: (1) NVIDIA cae ~4% a ~$156 antes de su reporte; se revela que Thiel Macro (Peter Thiel) vendio toda su posicion (~$100M) y que SoftBank tambien salio por completo, aunque Goldman Sachs sigue esperando un trimestre de 'beat & raise'. (2) Alphabet (GOOGL) sube ~3% a maximo historico tras conocerse que Berkshire Hathaway revelo en su 13F una nueva posicion de ~$4.3B (~17.85M de acciones); GOOGL acumula ~+51% en el ano. (3) Cripto en caida: el Bitcoin pierde los $94,000 (llego bajo $92,000), ~25% por debajo de su record del 6-oct (sobre $126,000), lastrando a COIN y MSTR. Radar de opciones (IBKR): jornada tranquila -- volumenes de opciones por debajo del promedio en casi todos los nombres y ninguna senal de IV/HV>1.3, salvo SELLAS (SLS): volumen de puts ~6.4x su promedio e IV anual ~537% vs HV ~105% (ratio ~5.1x) ante el catalizador binario de SLS009. NOTA: las fuentes en vivo de hoy muestran a Jensen Huang todavia como CEO de NVIDIA (sin confirmacion de la renuncia que figuraba en entradas previas); se refrescaron con datos verificables los nombres con novedad y se conservo el research previo en el resto.",
+ "updated": "17-nov",
+ "note": "Refresco diario. Jornada del 17-nov (martes): Wall Street vuelve a caer en una sesion de aversion al riesgo de cara a los resultados de NVIDIA, que reporta HOY tras el cierre. El Dow baja ~1.6%, el S&P 500 ~1.0% y el Nasdaq Composite llega a caer ~2.1% intradia (minimo desde abril) antes de recortar perdidas en la ultima hora. Pesan la venta de chips previa al reporte (MU ~-3.7%, INTC ~-3.9%), datos macro mixtos (produccion industrial de octubre -0.4%, ventas minoristas +0.2%) y el reporte de una caida de red clasificada de la NSA. NVIDIA (3T FY2027, su PRIMER reporte sin Jensen Huang -- renuncio el 12-nov y la CFO Colette Kress es CEO interina) SUPERA: ingresos +103% a/a a $115.8B (vs ~$109.0B est.) y guia el 4T a $130B +/-3% (vs ~$124.9B est.), amplia su recompra en $150B y sube ~1-3% en el after-hours; aun asi inquietan el margen bruto guiado a la baja (71-72%), el inventario ($39.7B) y una investigacion de la SEC reportada por el WSJ sobre sus divulgaciones. Fuera de la IA, el gran protagonista es SELLAS (SLS), que se dispara ~+156% luego de que su ensayo Fase 3 REGAL (vacuna GPS en leucemia mieloide aguda) cumpliera su objetivo de supervivencia (mediana 24.0 vs 14.7 meses; es un resultado de ensayo, no una aprobacion). Home Depot (HD) cae ~2.4% y anuncia a Richard McPhail como nuevo CEO (23-nov). Veraz: solo se actualizaron con fuentes verificables los nombres con novedad del 17-nov (NVDA, MU, INTC, SLS, HD, AMD, GOOGL y el complejo de chips) y se conservo el research previo en el resto.",
  "tickers": {
   "NVDA": {
-   "trend": "Correccion previa a resultados (reporta esta semana): la accion cae ~12% desde su maximo historico; se revela que Thiel Macro (Peter Thiel) vendio toda su posicion (~$100M) y SoftBank salio por completo, mientras Goldman Sachs espera un 'beat & raise'. Debate sobre gasto en IA, gobernanza y margenes de la transicion a Vera Rubin",
-   "peak": "16-nov: cae ~4% a ~$156 de cara a sus resultados",
+   "trend": "Reporto 3T (FY2027) tras el cierre del 17-nov: beat & raise (ingresos +103% a/a a $115.8B; guia 4T $130B +/-3%) y recompra ampliada en $150B, pero con margen bruto guiado a la baja (71-72%), inventario elevado ($39.7B) e investigacion de la SEC reportada por el WSJ. Primer reporte sin Jensen Huang (renuncio 12-nov; Colette Kress, CEO interina). Debate sobre gasto en IA, margenes de la transicion a Vera Rubin y gobernanza.",
+   "peak": "17-nov: resultados 3T (beat & raise) en su primer reporte sin Jensen Huang",
    "news": [
     {
-     "t": "Cae ~4.2% a ~$156 en una sesion de aversion a los chips de cara a sus resultados de esta semana. Se revela (via 13F) que Thiel Macro (Peter Thiel) vendio TODA su participacion (~$100M, mas de medio millon de acciones) y que SoftBank tambien salio por completo. La accion sigue ~+42% en el ano pero ~12% por debajo de su maximo historico.",
-     "s": "Yahoo Finance",
-     "d": "16-nov",
-     "u": "https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944169.html"
+     "t": "Reporta 3T (FY2027) tras el cierre de HOY y supera: ingresos +103% a/a a $115.8B (vs ~$109.0B est.) y BPA ajustado $2.68 (vs $2.48 est.); SUBE la guia del 4T a $130B +/-3% (vs ~$124.9B est.) con margen bruto 71-72% y amplia la recompra en $150B. La accion sube ~3% en el after-hours y luego modera a ~+1% (las opciones descontaban ~8%). Inquietan el inventario ($39.7B), que el flujo de caja operativo quedo por debajo del ingreso neto y una investigacion de la SEC (via WSJ) sobre si sus divulgaciones enganaron a inversionistas.",
+     "s": "TheStreet Pro / StockTitan",
+     "d": "17-nov",
+     "u": "https://pro.thestreet.com/stock-market-today/2026-11-17"
+    },
+    {
+     "t": "Primer reporte sin Jensen Huang como CEO (renuncio el 12-nov; la CFO Colette Kress es CEO interina). La accion caia ~0.4% en la sesion previa al reporte, tras -4.1% el lunes 16-nov a $156.14, camino a su septima semana consecutiva de baja; el consejo creo un Comite de Seguridad Nacional y Control de Exportaciones.",
+     "s": "StockTitan",
+     "d": "17-nov",
+     "u": "https://stocktitan.net/articles/stock-market-today-live-november-17-2026"
     },
     {
      "t": "Preview de resultados: un analista top de Goldman Sachs reitera que espera otro trimestre de 'beat & raise'; el foco esta en el ritmo de ingresos de data centers, la transicion a la plataforma Vera Rubin y los margenes.",
@@ -25,6 +31,12 @@
    "peak": "Dias de earnings",
    "news": [
     {
+     "t": "Acompana la baja del complejo de semiconductores en una sesion de aversion al riesgo (Dow ~-1.6%, Nasdaq ~-2.1% intradia); los chips se venden antes del reporte de NVIDIA de hoy tras el cierre.",
+     "s": "StockTitan",
+     "d": "17-nov",
+     "u": "https://stocktitan.net/articles/stock-market-today-live-november-17-2026"
+    },
+    {
      "t": "Acompana la baja del complejo de semiconductores, bajo presion en una sesion de aversion al riesgo de cara a los resultados de NVIDIA (esta semana).",
      "s": "Yahoo Finance",
      "d": "16-nov",
@@ -35,12 +47,6 @@
      "s": "Yahoo Finance",
      "d": "13-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
-    },
-    {
-     "t": "Retrocede con el complejo de chips (cae >2% en premarket) arrastrada por la salida del CEO de NVIDIA, de quien fabrica los chips.",
-     "s": "Yahoo Finance",
-     "d": "12-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
     }
    ]
   },
@@ -48,6 +54,12 @@
    "trend": "UBS reafirma Buy antes del 3T, demanda EUV para IA/HBM satura capacidad",
    "peak": "Dias de earnings y noticias de China",
    "news": [
+    {
+     "t": "Acompana la baja del complejo de semiconductores en una sesion de aversion al riesgo (Dow ~-1.6%, Nasdaq ~-2.1% intradia); los chips se venden antes del reporte de NVIDIA de hoy tras el cierre.",
+     "s": "StockTitan",
+     "d": "17-nov",
+     "u": "https://stocktitan.net/articles/stock-market-today-live-november-17-2026"
+    },
     {
      "t": "Acompana la baja del complejo de semiconductores, bajo presion en una sesion de aversion al riesgo de cara a los resultados de NVIDIA (esta semana).",
      "s": "Yahoo Finance",
@@ -59,12 +71,6 @@
      "s": "Yahoo Finance",
      "d": "13-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
-    },
-    {
-     "t": "Cae a terreno negativo junto con los semiconductores por el remezon de liderazgo en NVIDIA.",
-     "s": "Yahoo Finance",
-     "d": "12-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
     }
    ]
   },
@@ -72,6 +78,12 @@
    "trend": "Upgrade de Oppenheimer (Outperform, PT $600), seleccion por Google Cloud (EPYC en TPU 8tx), blowout del 3T (DC +97% a/a) y rotacion desde NVIDIA",
    "peak": "9-nov: upgrade Oppenheimer + Google Cloud (+13.3%)",
    "news": [
+    {
+     "t": "Su chip MI455X aparece en el primer puesto del indice de inferencia por chip de Epoch AI; acompana la baja del complejo de chips en la sesion de aversion al riesgo previa a los resultados de NVIDIA.",
+     "s": "TheStreet Pro",
+     "d": "17-nov",
+     "u": "https://pro.thestreet.com/stock-market-today/2026-11-17"
+    },
     {
      "t": "Acompana la baja del complejo de semiconductores, bajo presion en una sesion de aversion al riesgo de cara a los resultados de NVIDIA (esta semana).",
      "s": "Yahoo Finance",
@@ -83,12 +95,6 @@
      "s": "Yahoo Finance / 24-7 Wall St.",
      "d": "13-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
-    },
-    {
-     "t": "Sube ~+5.9% (de los mejores del S&P 500) mientras los inversionistas apuestan a que el caos en la cupula de NVIDIA le ceda cuota de mercado; Broadcom (+5.5%) tambien se beneficia.",
-     "s": "The Motley Fool",
-     "d": "12-nov",
-     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/12/stock-market-today-nov-12-nvidia-ceo-s-stunning-exit-sends-wall-street-lower-as-rivals-surge/"
     }
    ]
   },
@@ -121,6 +127,12 @@
    "peak": "Resultados 29-oct (AMC): -18%",
    "news": [
     {
+     "t": "Cae ~3.9% (intradia) con el complejo de chips, vendido antes del reporte de NVIDIA de hoy tras el cierre.",
+     "s": "StockTitan",
+     "d": "17-nov",
+     "u": "https://stocktitan.net/articles/stock-market-today-live-november-17-2026"
+    },
+    {
      "t": "Acompana la baja del complejo de semiconductores, bajo presion en una sesion de aversion al riesgo de cara a los resultados de NVIDIA (esta semana).",
      "s": "Yahoo Finance",
      "d": "16-nov",
@@ -131,12 +143,6 @@
      "s": "Yahoo Finance",
      "d": "13-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
-    },
-    {
-     "t": "Baja (~2% en premarket) con el grupo de chips tras la renuncia del CEO de NVIDIA.",
-     "s": "Yahoo Finance",
-     "d": "12-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
     }
    ]
   },
@@ -167,6 +173,12 @@
    "peak": "Reporte (sep): blowout con reaccion muda",
    "news": [
     {
+     "t": "Cae ~3.7% (intradia) con el complejo de memoria/chips, vendido antes del reporte de NVIDIA de hoy tras el cierre.",
+     "s": "StockTitan",
+     "d": "17-nov",
+     "u": "https://stocktitan.net/articles/stock-market-today-live-november-17-2026"
+    },
+    {
      "t": "Acompana la baja del complejo de semiconductores, bajo presion en una sesion de aversion al riesgo de cara a los resultados de NVIDIA (esta semana).",
      "s": "Yahoo Finance",
      "d": "16-nov",
@@ -177,12 +189,6 @@
      "s": "Yahoo Finance",
      "d": "13-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
-    },
-    {
-     "t": "Cae ~4% (premarket) con el complejo de memoria/chips arrastrado por la salida del CEO de NVIDIA; SK Hynix tambien ~-4%.",
-     "s": "Yahoo Finance",
-     "d": "12-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
     }
    ]
   },
@@ -190,6 +196,12 @@
    "trend": "'NAND shortage', 'SSD pricing', cruce con Micron/Samsung/SK Hynix",
    "peak": "Reportes de pricing de memoria",
    "news": [
+    {
+     "t": "Acompana la baja del complejo de memoria/almacenamiento en una sesion de aversion al riesgo previa al reporte de NVIDIA de hoy tras el cierre.",
+     "s": "StockTitan",
+     "d": "17-nov",
+     "u": "https://stocktitan.net/articles/stock-market-today-live-november-17-2026"
+    },
     {
      "t": "Acompana la baja del complejo de semiconductores, bajo presion en una sesion de aversion al riesgo de cara a los resultados de NVIDIA (esta semana).",
      "s": "Yahoo Finance",
@@ -201,12 +213,6 @@
      "s": "Yahoo Finance",
      "d": "13-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
-    },
-    {
-     "t": "Baja ~5% (premarket) con el grupo de memoria/almacenamiento por el remezon en NVIDIA.",
-     "s": "Yahoo Finance",
-     "d": "12-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
     }
    ]
   },
@@ -214,6 +220,12 @@
    "trend": "'HDD comeback', 'nearline demand', 'HAMR', cruce con Seagate",
    "peak": "Upgrades de analistas y datos de pricing",
    "news": [
+    {
+     "t": "Acompana la baja del complejo de memoria/almacenamiento en una sesion de aversion al riesgo previa al reporte de NVIDIA de hoy tras el cierre.",
+     "s": "StockTitan",
+     "d": "17-nov",
+     "u": "https://stocktitan.net/articles/stock-market-today-live-november-17-2026"
+    },
     {
      "t": "Acompana la baja del complejo de semiconductores, bajo presion en una sesion de aversion al riesgo de cara a los resultados de NVIDIA (esta semana).",
      "s": "Yahoo Finance",
@@ -225,12 +237,6 @@
      "s": "Yahoo Finance",
      "d": "13-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
-    },
-    {
-     "t": "Acompana la baja del complejo de memoria/almacenamiento por el remezon de liderazgo en NVIDIA.",
-     "s": "Yahoo Finance",
-     "d": "12-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
     }
    ]
   },
@@ -273,6 +279,12 @@
    "peak": "16-nov: maximo historico tras conocerse la posicion de Berkshire Hathaway",
    "news": [
     {
+     "t": "SemiAnalysis halla que las TPU de Google superan al GB300 de NVIDIA en costo por token en la mayoria de las velocidades, reforzando la tesis alcista de su silicio propio.",
+     "s": "TheStreet Pro",
+     "d": "17-nov",
+     "u": "https://pro.thestreet.com/stock-market-today/2026-11-17"
+    },
+    {
      "t": "Sube ~3% a un maximo historico despues de que Berkshire Hathaway revelara en su 13F una nueva posicion de ~$4.3 mil M (~17.85M de acciones) en Alphabet, sumando Google a sus mayores participaciones. GOOGL acumula ~+51% en el ano.",
      "s": "Yahoo Finance",
      "d": "16-nov",
@@ -283,12 +295,6 @@
      "s": "The Motley Fool",
      "d": "12-nov",
      "u": "https://www.fool.com/coverage/stock-market-today/2026/11/12/stock-market-today-nov-12-nvidia-ceo-s-stunning-exit-sends-wall-street-lower-as-rivals-surge/"
-    },
-    {
-     "t": "Avanza con big tech en el fuerte rebote de la IA, recuperando parte de la correccion reciente.",
-     "s": "Yahoo Finance",
-     "d": "11-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
     }
    ]
   },
@@ -879,19 +885,31 @@
    ]
   },
   "SLS": {
-   "trend": "'SELLAS REGAL', 'GPS AML', 'SLS009' en foros de biotech; actividad de opciones extrema",
-   "peak": "Cualquier comunicado de datos clinicos",
+   "trend": "Exito del ensayo Fase 3 REGAL (vacuna GPS en leucemia mieloide aguda): supervivencia global mediana de 24.0 vs 14.7 meses (17-nov, +156%). Sigue el topline de SLS009/CDK9 esperado en 4T. Mucho chatter de retail/biotech en foros.",
+   "peak": "17-nov: resultado positivo del Fase 3 REGAL (+156%)",
    "news": [
     {
-     "t": "SLS009 (CDK9) con topline en 4T 2026; GPS (Fase 3 REGAL) retrasado ~1 ano; caja $138 M",
+     "t": "Se DISPARA ~+156% despues de que su ensayo Fase 3 REGAL (vacuna contra el cancer GPS en leucemia mieloide aguda) CUMPLIERA su objetivo principal: supervivencia global mediana de 24.0 vs 14.7 meses del comparador. Es un resultado de ensayo, no una aprobacion de la FDA.",
+     "s": "StockTitan",
+     "d": "17-nov",
+     "u": "https://stocktitan.net/articles/stock-market-today-live-november-17-2026"
+    },
+    {
+     "t": "SLS009 (CDK9) con topline en 4T 2026; GPS (Fase 3 REGAL) era el gran catalizador binario pendiente; caja ~$138 M",
      "s": "IR"
     }
    ]
   },
   "HD": {
    "trend": "'Home Depot', 'housing market', 'rate cuts', 'Pro sales'",
-   "peak": "Datos macro (tasas/vivienda)",
+   "peak": "17-nov: 3T + anuncio de cambio de CEO (Richard McPhail, 23-nov)",
    "news": [
+    {
+     "t": "Cae ~2.4%: Richard McPhail asumira como CEO el 23-nov; reporto ventas del 3T de $43.4B y su guia anual apunta a un BPA del 4T por debajo del estimado.",
+     "s": "StockTitan",
+     "d": "17-nov",
+     "u": "https://stocktitan.net/articles/stock-market-today-live-november-17-2026"
+    },
     {
      "t": "Minimo de 52 semanas por congelacion de vivienda; beat limpio pero reafirmo (no subio) guia",
      "s": "IR"
