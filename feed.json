@@ -1,11 +1,17 @@
 {
- "updated": "17-nov",
- "note": "Refresco diario. Jornada del 17-nov (martes): Wall Street vuelve a caer en una sesion de aversion al riesgo de cara a los resultados de NVIDIA, que reporta HOY tras el cierre. El Dow baja ~1.6%, el S&P 500 ~1.0% y el Nasdaq Composite llega a caer ~2.1% intradia (minimo desde abril) antes de recortar perdidas en la ultima hora. Pesan la venta de chips previa al reporte (MU ~-3.7%, INTC ~-3.9%), datos macro mixtos (produccion industrial de octubre -0.4%, ventas minoristas +0.2%) y el reporte de una caida de red clasificada de la NSA. NVIDIA (3T FY2027, su PRIMER reporte sin Jensen Huang -- renuncio el 12-nov y la CFO Colette Kress es CEO interina) SUPERA: ingresos +103% a/a a $115.8B (vs ~$109.0B est.) y guia el 4T a $130B +/-3% (vs ~$124.9B est.), amplia su recompra en $150B y sube ~1-3% en el after-hours; aun asi inquietan el margen bruto guiado a la baja (71-72%), el inventario ($39.7B) y una investigacion de la SEC reportada por el WSJ sobre sus divulgaciones. Fuera de la IA, el gran protagonista es SELLAS (SLS), que se dispara ~+156% luego de que su ensayo Fase 3 REGAL (vacuna GPS en leucemia mieloide aguda) cumpliera su objetivo de supervivencia (mediana 24.0 vs 14.7 meses; es un resultado de ensayo, no una aprobacion). Home Depot (HD) cae ~2.4% y anuncia a Richard McPhail como nuevo CEO (23-nov). Veraz: solo se actualizaron con fuentes verificables los nombres con novedad del 17-nov (NVDA, MU, INTC, SLS, HD, AMD, GOOGL y el complejo de chips) y se conservo el research previo en el resto.",
+ "updated": "18-nov",
+ "note": "Refresco diario. Jornada del 18-nov (miercoles): el rebote inicial por el 'beat & raise' de NVIDIA (reporto anoche) se desvanece. Las acciones abren con fuerza (NVDA +3.5% premarket, CoreWeave +5.4%, AMD +2.9%, Micron +3.2%) pero ceden las ganancias durante la sesion: el Dow cierra -1.11% (-561 pts), el S&P 500 -0.23% (quinta baja seguida) y el Nasdaq Composite logra +0.42%. NVIDIA termina -2.89% pese al blowout (guia 4T $130B +/-3% vs ~$125.3B est.): el mercado reenfoca en el costo de financiar la infraestructura de IA, con el Treasury a 10 anos sobre 5%. CoreWeave se hunde -4.1% a $47.83 (volumen ~28% sobre su promedio) al volver el foco a su deuda; IREN -3.6% a $15.24. La energia es el peor sector (~-3%: Chevron -4.3%, Exxon -3.6%, WTI -4% a $82.19) y las aseguradoras de salud se desploman (UnitedHealth -10%, Humana -13%). SELLAS (SLS) sube ~+1.4% intradia: su Fase 3 REGAL sigue fresca pero propuso una oferta de acciones de $150M (dilucion). Veraz: solo se actualizaron con fuentes verificables del 18-nov los nombres con novedad confirmada (NVDA, CRWV, IREN, SLS y el complejo de chips/memoria en premarket) y se conservo el research previo en el resto.",
  "tickers": {
   "NVDA": {
-   "trend": "Reporto 3T (FY2027) tras el cierre del 17-nov: beat & raise (ingresos +103% a/a a $115.8B; guia 4T $130B +/-3%) y recompra ampliada en $150B, pero con margen bruto guiado a la baja (71-72%), inventario elevado ($39.7B) e investigacion de la SEC reportada por el WSJ. Primer reporte sin Jensen Huang (renuncio 12-nov; Colette Kress, CEO interina). Debate sobre gasto en IA, margenes de la transicion a Vera Rubin y gobernanza.",
-   "peak": "17-nov: resultados 3T (beat & raise) en su primer reporte sin Jensen Huang",
+   "trend": "Reporto 3T (FY2027) con beat & raise (guia 4T $130B +/-3%) y recompra ampliada en $150B, pero la accion CAE tras el reporte ('sell the news'): dominan las dudas sobre el costo de financiar la IA, el margen bruto guiado a la baja (71-72%), el inventario ($39.7B) y la investigacion de la SEC (WSJ). Primer reporte sin Jensen Huang (renuncio 12-nov; Colette Kress, CEO interina).",
+   "peak": "18-nov: cae -2.89% pese al blowout; el rebote premarket (+3.5%) se desvanece",
    "news": [
+    {
+     "t": "Cierra -2.89% pese al blowout del 3T reportado anoche: el beat & raise (guia 4T $130B +/-3% vs ~$125.3B est., recompra +$150B) impulso un alza de ~+3.5% en premarket que se EVAPORO al abrir la sesion regular. El mercado reenfoca en el costo de financiar la IA y el Treasury a 10 anos sobre 5%; es la quinta baja seguida del S&P 500.",
+     "s": "BNN Bloomberg / StockTitan",
+     "d": "18-nov",
+     "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
+    },
     {
      "t": "Reporta 3T (FY2027) tras el cierre de HOY y supera: ingresos +103% a/a a $115.8B (vs ~$109.0B est.) y BPA ajustado $2.68 (vs $2.48 est.); SUBE la guia del 4T a $130B +/-3% (vs ~$124.9B est.) con margen bruto 71-72% y amplia la recompra en $150B. La accion sube ~3% en el after-hours y luego modera a ~+1% (las opciones descontaban ~8%). Inquietan el inventario ($39.7B), que el flujo de caja operativo quedo por debajo del ingreso neto y una investigacion de la SEC (via WSJ) sobre si sus divulgaciones enganaron a inversionistas.",
      "s": "TheStreet Pro / StockTitan",
@@ -17,12 +23,6 @@
      "s": "StockTitan",
      "d": "17-nov",
      "u": "https://stocktitan.net/articles/stock-market-today-live-november-17-2026"
-    },
-    {
-     "t": "Preview de resultados: un analista top de Goldman Sachs reitera que espera otro trimestre de 'beat & raise'; el foco esta en el ritmo de ingresos de data centers, la transicion a la plataforma Vera Rubin y los margenes.",
-     "s": "TipRanks / Goldman Sachs",
-     "d": "16-nov",
-     "u": "https://www.tipranks.com/news/nvidia-nvda-set-for-another-beat-and-raise-quarter-says-top-goldman-sachs-analyst"
     }
    ]
   },
@@ -31,6 +31,12 @@
    "peak": "Dias de earnings",
    "news": [
     {
+     "t": "Acompana el rebote premarket del complejo de semiconductores tras el beat & raise de NVIDIA, que luego pierde fuerza durante una sesion mixta.",
+     "s": "BNN Bloomberg",
+     "d": "18-nov",
+     "u": "https://www.bnnbloomberg.ca/investing/2026/11/18/ai-stocks-rally-as-nvidia-outlook-calms-demand-fears/"
+    },
+    {
      "t": "Acompana la baja del complejo de semiconductores en una sesion de aversion al riesgo (Dow ~-1.6%, Nasdaq ~-2.1% intradia); los chips se venden antes del reporte de NVIDIA de hoy tras el cierre.",
      "s": "StockTitan",
      "d": "17-nov",
@@ -41,12 +47,6 @@
      "s": "Yahoo Finance",
      "d": "16-nov",
      "u": "https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944169.html"
-    },
-    {
-     "t": "Acompana la nueva caida del complejo de chips al enfriarse el rally de IA y subir el Treasury a 10 anos sobre 5%.",
-     "s": "Yahoo Finance",
-     "d": "13-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
     }
    ]
   },
@@ -55,6 +55,12 @@
    "peak": "Dias de earnings y noticias de China",
    "news": [
     {
+     "t": "Acompana el rebote premarket del complejo de semiconductores/EUV tras el beat de NVIDIA, que se modera durante la sesion.",
+     "s": "BNN Bloomberg",
+     "d": "18-nov",
+     "u": "https://www.bnnbloomberg.ca/investing/2026/11/18/ai-stocks-rally-as-nvidia-outlook-calms-demand-fears/"
+    },
+    {
      "t": "Acompana la baja del complejo de semiconductores en una sesion de aversion al riesgo (Dow ~-1.6%, Nasdaq ~-2.1% intradia); los chips se venden antes del reporte de NVIDIA de hoy tras el cierre.",
      "s": "StockTitan",
      "d": "17-nov",
@@ -65,12 +71,6 @@
      "s": "Yahoo Finance",
      "d": "16-nov",
      "u": "https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944169.html"
-    },
-    {
-     "t": "Acompana la nueva baja del complejo de chips al enfriarse el rally de IA y subir las tasas.",
-     "s": "Yahoo Finance",
-     "d": "13-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
     }
    ]
   },
@@ -78,6 +78,12 @@
    "trend": "Upgrade de Oppenheimer (Outperform, PT $600), seleccion por Google Cloud (EPYC en TPU 8tx), blowout del 3T (DC +97% a/a) y rotacion desde NVIDIA",
    "peak": "9-nov: upgrade Oppenheimer + Google Cloud (+13.3%)",
    "news": [
+    {
+     "t": "Sube ~+2.9% en premarket tras el beat & raise de NVIDIA, pero el complejo de chips cede gran parte de las ganancias durante la sesion al reenfocarse el mercado en el costo de financiar la IA.",
+     "s": "BNN Bloomberg",
+     "d": "18-nov",
+     "u": "https://www.bnnbloomberg.ca/investing/2026/11/18/ai-stocks-rally-as-nvidia-outlook-calms-demand-fears/"
+    },
     {
      "t": "Su chip MI455X aparece en el primer puesto del indice de inferencia por chip de Epoch AI; acompana la baja del complejo de chips en la sesion de aversion al riesgo previa a los resultados de NVIDIA.",
      "s": "TheStreet Pro",
@@ -89,12 +95,6 @@
      "s": "Yahoo Finance",
      "d": "16-nov",
      "u": "https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944169.html"
-    },
-    {
-     "t": "Se desploma ~10% a ~$534 (de los mayores perdedores del S&P 500) devolviendo las ganancias impulsadas por NVIDIA: se enfria el rally de IA y el rendimiento del Treasury a 10 anos supera 5%. Broadcom -6% e Intel -5% acompanan.",
-     "s": "Yahoo Finance / 24-7 Wall St.",
-     "d": "13-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
     }
    ]
   },
@@ -102,6 +102,12 @@
    "trend": "Acuerdo para ADQUIRIR Lumentum (LITE) por ~$115B en acciones (anunciado 2-nov; 4.50 MRVL por accion LITE; cierre esperado 1S2028): crea un lider en conectividad para IA (optica + silicio a medida); de fondo, 'custom silicon' y el debate 'crecimiento vs margen'",
    "peak": "2-nov: anuncio de la adquisicion de Lumentum por ~$115B en acciones",
    "news": [
+    {
+     "t": "Acompana el rebote premarket de los semiconductores/optica para IA tras el beat de NVIDIA (Lumentum, su objetivo de adquisicion, entre la fotonica que sube +3-6% en premarket); las ganancias pierden fuerza durante la sesion.",
+     "s": "BNN Bloomberg",
+     "d": "18-nov",
+     "u": "https://www.bnnbloomberg.ca/investing/2026/11/18/ai-stocks-rally-as-nvidia-outlook-calms-demand-fears/"
+    },
     {
      "t": "Rebota con el grupo de chips; Lumentum (LITE, su objetivo de adquisicion) sube ~+12% recuperando parte de las perdidas ligadas a la oferta en acciones (4.50 acciones de Marvell por cada accion de Lumentum, ~$115B de valor de empresa, cierre esperado 1S2028).",
      "s": "Yahoo Finance / Marvell IR",
@@ -113,12 +119,6 @@
      "s": "Yahoo Finance",
      "d": "9-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
-    },
-    {
-     "t": "Rebota con el sector de chips tras la fuerte caida del jueves, en una sesion de recuperacion que pierde fuerza hacia el cierre",
-     "s": "Yahoo Finance",
-     "d": "6-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
     }
    ]
   },
@@ -126,6 +126,12 @@
    "trend": "'Intel government stake', alianza con Oracle (Xeon/X14), '18A', 'turnaround'",
    "peak": "Resultados 29-oct (AMC): -18%",
    "news": [
+    {
+     "t": "Sube ~+1.8% en premarket con el grupo de chips tras el beat de NVIDIA.",
+     "s": "BNN Bloomberg",
+     "d": "18-nov",
+     "u": "https://www.bnnbloomberg.ca/investing/2026/11/18/ai-stocks-rally-as-nvidia-outlook-calms-demand-fears/"
+    },
     {
      "t": "Cae ~3.9% (intradia) con el complejo de chips, vendido antes del reporte de NVIDIA de hoy tras el cierre.",
      "s": "StockTitan",
@@ -137,12 +143,6 @@
      "s": "Yahoo Finance",
      "d": "16-nov",
      "u": "https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944169.html"
-    },
-    {
-     "t": "Cae ~5% con el grupo de chips al enfriarse el rally de IA y subir el rendimiento del Treasury a 10 anos sobre 5%.",
-     "s": "Yahoo Finance",
-     "d": "13-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
     }
    ]
   },
@@ -173,6 +173,12 @@
    "peak": "Reporte (sep): blowout con reaccion muda",
    "news": [
     {
+     "t": "Sube ~+3.2% en premarket con el complejo de memoria tras el beat de NVIDIA; las ganancias se moderan durante la sesion de dudas sobre el gasto en IA.",
+     "s": "BNN Bloomberg",
+     "d": "18-nov",
+     "u": "https://www.bnnbloomberg.ca/investing/2026/11/18/ai-stocks-rally-as-nvidia-outlook-calms-demand-fears/"
+    },
+    {
      "t": "Cae ~3.7% (intradia) con el complejo de memoria/chips, vendido antes del reporte de NVIDIA de hoy tras el cierre.",
      "s": "StockTitan",
      "d": "17-nov",
@@ -183,12 +189,6 @@
      "s": "Yahoo Finance",
      "d": "16-nov",
      "u": "https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944169.html"
-    },
-    {
-     "t": "Cae ~5% con el complejo de memoria (SK Hynix -6%, Sandisk -9%) al enfriarse el rally de IA.",
-     "s": "Yahoo Finance",
-     "d": "13-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
     }
    ]
   },
@@ -197,6 +197,12 @@
    "peak": "Reportes de pricing de memoria",
    "news": [
     {
+     "t": "Sube ~+3.6% en premarket liderando el rebote del almacenamiento/memoria tras el beat de NVIDIA.",
+     "s": "BNN Bloomberg",
+     "d": "18-nov",
+     "u": "https://www.bnnbloomberg.ca/investing/2026/11/18/ai-stocks-rally-as-nvidia-outlook-calms-demand-fears/"
+    },
+    {
      "t": "Acompana la baja del complejo de memoria/almacenamiento en una sesion de aversion al riesgo previa al reporte de NVIDIA de hoy tras el cierre.",
      "s": "StockTitan",
      "d": "17-nov",
@@ -207,12 +213,6 @@
      "s": "Yahoo Finance",
      "d": "16-nov",
      "u": "https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944169.html"
-    },
-    {
-     "t": "Cae ~9% liderando a la baja el grupo de memoria/almacenamiento al enfriarse el rally de IA.",
-     "s": "Yahoo Finance",
-     "d": "13-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
     }
    ]
   },
@@ -221,6 +221,12 @@
    "peak": "Upgrades de analistas y datos de pricing",
    "news": [
     {
+     "t": "Sube ~+3.1% en premarket con el complejo de almacenamiento tras el beat de NVIDIA.",
+     "s": "BNN Bloomberg",
+     "d": "18-nov",
+     "u": "https://www.bnnbloomberg.ca/investing/2026/11/18/ai-stocks-rally-as-nvidia-outlook-calms-demand-fears/"
+    },
+    {
      "t": "Acompana la baja del complejo de memoria/almacenamiento en una sesion de aversion al riesgo previa al reporte de NVIDIA de hoy tras el cierre.",
      "s": "StockTitan",
      "d": "17-nov",
@@ -231,12 +237,6 @@
      "s": "Yahoo Finance",
      "d": "16-nov",
      "u": "https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944169.html"
-    },
-    {
-     "t": "Acompana la baja del complejo de memoria/almacenamiento al enfriarse el rally de IA y subir las tasas.",
-     "s": "Yahoo Finance",
-     "d": "13-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
     }
    ]
   },
@@ -255,6 +255,12 @@
    "peak": "Resultados 28-oct (AMC): Azure +48%",
    "news": [
     {
+     "t": "Sube en premarket con los hyperscalers (grupo +0.4% a +2.8%) tras el beat de NVIDIA; big tech se modera en una sesion mixta (Nasdaq +0.4%, S&P -0.2%).",
+     "s": "BNN Bloomberg",
+     "d": "18-nov",
+     "u": "https://www.bnnbloomberg.ca/investing/2026/11/18/ai-stocks-rally-as-nvidia-outlook-calms-demand-fears/"
+    },
+    {
      "t": "Cae ligeramente con big tech en la sesion de aversion al riesgo previa a los resultados de NVIDIA.",
      "s": "Yahoo Finance",
      "d": "16-nov",
@@ -265,12 +271,6 @@
      "s": "Yahoo Finance",
      "d": "13-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
-    },
-    {
-     "t": "Recorta sus ganancias iniciales tras reportar problemas de acceso a buzones de Exchange Online en varias regiones; aun asi termina ~+0.4% y queda como la 2a mayor del mundo tras la caida de NVIDIA.",
-     "s": "Yahoo Finance",
-     "d": "12-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
     }
    ]
   },
@@ -278,6 +278,12 @@
    "trend": "Berkshire Hathaway revela una nueva posicion (~$4.3B) en su 13F; 'Gemini 3', TPU de Google, Google Cloud, debate de gasto en IA",
    "peak": "16-nov: maximo historico tras conocerse la posicion de Berkshire Hathaway",
    "news": [
+    {
+     "t": "Sube en premarket con los hyperscalers (grupo +0.4% a +2.8%) tras el beat de NVIDIA, reforzada por la tesis de su silicio propio (TPU); las ganancias se moderan en la sesion.",
+     "s": "BNN Bloomberg",
+     "d": "18-nov",
+     "u": "https://www.bnnbloomberg.ca/investing/2026/11/18/ai-stocks-rally-as-nvidia-outlook-calms-demand-fears/"
+    },
     {
      "t": "SemiAnalysis halla que las TPU de Google superan al GB300 de NVIDIA en costo por token en la mayoria de las velocidades, reforzando la tesis alcista de su silicio propio.",
      "s": "TheStreet Pro",
@@ -289,12 +295,6 @@
      "s": "Yahoo Finance",
      "d": "16-nov",
      "u": "https://finance.yahoo.com/news/warren-buffett-berkshire-snaps-major-212300418.html"
-    },
-    {
-     "t": "Avanza ~+1.6% desmarcandose de la caida de los chips; entre los megacaps que resisten el remezon de liderazgo en NVIDIA.",
-     "s": "The Motley Fool",
-     "d": "12-nov",
-     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/12/stock-market-today-nov-12-nvidia-ceo-s-stunning-exit-sends-wall-street-lower-as-rivals-surge/"
     }
    ]
   },
@@ -302,6 +302,12 @@
    "trend": "'OpenAI $38B AWS deal', 'AWS +39%', 'Trainium', capex ~$220B, debate aceleracion de nube vs cash burn",
    "peak": "2-nov: maximo historico por el acuerdo con OpenAI",
    "news": [
+    {
+     "t": "Sube en premarket con los hyperscalers (grupo +0.4% a +2.8%) tras el beat de NVIDIA; big tech se modera en una sesion mixta.",
+     "s": "BNN Bloomberg",
+     "d": "18-nov",
+     "u": "https://www.bnnbloomberg.ca/investing/2026/11/18/ai-stocks-rally-as-nvidia-outlook-calms-demand-fears/"
+    },
     {
      "t": "Baja ~1.8% en la sesion de aversion al riesgo previa a los resultados de NVIDIA.",
      "s": "Yahoo Finance",
@@ -313,12 +319,6 @@
      "s": "The Motley Fool",
      "d": "12-nov",
      "u": "https://www.fool.com/coverage/stock-market-today/2026/11/12/stock-market-today-nov-12-nvidia-ceo-s-stunning-exit-sends-wall-street-lower-as-rivals-surge/"
-    },
-    {
-     "t": "Avanza con los megacaps en el rebote de la IA, entre los nombres mejor posicionados desde la eleccion.",
-     "s": "Yahoo Finance",
-     "d": "11-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
     }
    ]
   },
@@ -326,6 +326,12 @@
    "trend": "'Meta superintelligence', NVIDIA $3B + AMD $1B en su oferta, capex al alza, debate ROI",
    "peak": "Fichajes de IA y guia de capex",
    "news": [
+    {
+     "t": "Sube en premarket con los hyperscalers (grupo +0.4% a +2.8%) tras el beat de NVIDIA; big tech se modera en una sesion mixta.",
+     "s": "BNN Bloomberg",
+     "d": "18-nov",
+     "u": "https://www.bnnbloomberg.ca/investing/2026/11/18/ai-stocks-rally-as-nvidia-outlook-calms-demand-fears/"
+    },
     {
      "t": "Cotiza en torno a la linea plana en una jornada mixta para los megacaps.",
      "s": "Yahoo Finance",
@@ -337,19 +343,19 @@
      "s": "The Motley Fool",
      "d": "12-nov",
      "u": "https://www.fool.com/coverage/stock-market-today/2026/11/12/stock-market-today-nov-12-nvidia-ceo-s-stunning-exit-sends-wall-street-lower-as-rivals-surge/"
-    },
-    {
-     "t": "Sube con big tech en la recuperacion de la IA tras la reversion del martes.",
-     "s": "Yahoo Finance",
-     "d": "11-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
     }
    ]
   },
   "CRWV": {
    "trend": "Reaccion al 3T (10-nov): +21% el 11-nov; el alivio clave es que NO tomara mas deuda cara hasta 2027 y espera ~$9B en prepagos; el debate pasa de 'deuda distressed' a si el crecimiento (+168%) justifica el apalancamiento",
-   "peak": "11-nov: +21% tras el beat del 3T y el alivio de financiamiento (sin mas deuda cara hasta 2027)",
+   "peak": "11-nov: +21% tras el 3T; 18-nov: -4.1% al volver el foco a su deuda",
    "news": [
+    {
+     "t": "Se hunde -4.13% a $47.83 (volumen ~28% sobre su promedio de 3 meses): el salto de ~+4.5% en premarket por el blowout de NVIDIA se evaporo al reenfocarse el mercado en su elevada carga de deuda y sus necesidades de financiamiento, con el Treasury a 10 anos sobre 5%.",
+     "s": "Motley Fool / StockTitan",
+     "d": "18-nov",
+     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-coreweave-slides-as-nvidia-s-blowout-earnings-fail-to-ease-debt-concerns/"
+    },
     {
      "t": "Cae ~10% (premarket) devolviendo parte del salto de +21% del dia previo, en la jornada de aversion al riesgo por la salida del CEO de NVIDIA.",
      "s": "Yahoo Finance",
@@ -361,12 +367,6 @@
      "s": "Yahoo Finance / TheStreet",
      "d": "11-nov",
      "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
-    },
-    {
-     "t": "Reporta 3T tras el cierre y supera estimaciones: ingresos $3.66B (+168% a/a, vs ~$3.54B est.), perdida por accion -$1.27 (mejor que -$1.55 est.) aunque la perdida neta GAAP se amplia a $709M; SUBE la guia de ingresos 2026 a $13.0-13.3B y el run-rate de salida a $20-21B, con backlog ~$132.5B. La accion (que llegaba ~-42% desde su pico) rebota tras el reporte; persiste el foco en el alto costo de su deuda.",
-     "s": "CNBC / 24-7 Wall St. / Seeking Alpha",
-     "d": "10-nov",
-     "u": "https://seekingalpha.com/news/4670097-coreweave-pops-as-q3-results-guidance-top-estimates"
     }
    ]
   },
@@ -374,6 +374,12 @@
    "trend": "'IREN AI pivot', 'Bitcoin miner to AI', 'data center power'",
    "peak": "Anuncios de contratos de IA Cloud",
    "news": [
+    {
+     "t": "Cae ~3.6% a $15.24 con el grupo de 'neoclouds'/data center, arrastrada por el retroceso de CoreWeave cuando el mercado reenfoca en el costo de financiar la infraestructura de IA.",
+     "s": "StockTitan",
+     "d": "18-nov",
+     "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
+    },
     {
      "t": "Rebota con los 'neoclouds'/data center arrastrada por el salto de CoreWeave (+21%) tras su 3T; Nebius, otro par, sube ~+15%.",
      "s": "Yahoo Finance",
@@ -385,12 +391,6 @@
      "s": "24/7 Wall St. / Yahoo Finance",
      "d": "6-nov",
      "u": "https://247wallst.com/investing/2025/11/06/iren-reports-record-fy26-q1-profitability/"
-    },
-    {
-     "t": "Rebota con los 'neoclouds'/data center en la sesion de recuperacion de la IA",
-     "s": "Investrade",
-     "d": "27-oct",
-     "u": "https://investrade.com/market-review-october-27-2026/"
     }
    ]
   },
@@ -885,9 +885,15 @@
    ]
   },
   "SLS": {
-   "trend": "Exito del ensayo Fase 3 REGAL (vacuna GPS en leucemia mieloide aguda): supervivencia global mediana de 24.0 vs 14.7 meses (17-nov, +156%). Sigue el topline de SLS009/CDK9 esperado en 4T. Mucho chatter de retail/biotech en foros.",
+   "trend": "Exito del Fase 3 REGAL (vacuna GPS en leucemia mieloide aguda): supervivencia global mediana 24.0 vs 14.7 meses (17-nov, +156%). El 18-nov propuso una oferta de acciones de $150M (dilucion). Sigue el topline de SLS009/CDK9 esperado en 4T. Mucho chatter de retail/biotech.",
    "peak": "17-nov: resultado positivo del Fase 3 REGAL (+156%)",
    "news": [
+    {
+     "t": "Sube ~+1.4% intradia: el exito del Fase 3 REGAL (17-nov, +156%) sigue fresco, pero la empresa PROPUSO una oferta de acciones de $150.0M (dilucion) que limita el avance. El volumen de calls corre ~2.8x su promedio.",
+     "s": "StockTitan",
+     "d": "18-nov",
+     "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
+    },
     {
      "t": "Se DISPARA ~+156% despues de que su ensayo Fase 3 REGAL (vacuna contra el cancer GPS en leucemia mieloide aguda) CUMPLIERA su objetivo principal: supervivencia global mediana de 24.0 vs 14.7 meses del comparador. Es un resultado de ensayo, no una aprobacion de la FDA.",
      "s": "StockTitan",

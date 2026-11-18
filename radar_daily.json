@@ -1,31 +1,24 @@
 {
- "updated": "17-nov",
+ "updated": "18-nov",
  "source": "IBKR opciones + social + analistas",
  "tickers": {
   "SLS": [
    {
     "type": "Opciones",
-    "t": "Volumen de calls ~8.7x y de puts ~9.7x su promedio (hoy 206,660 calls / 83,136 puts vs ~23,758 / ~8,567) e IV anual ~144% vs HV ~109% (ratio ~1.32): actividad de opciones extrema tras el resultado positivo del ensayo Fase 3 REGAL (vacuna GPS en leucemia mieloide aguda)",
-    "d": "17-nov"
+    "t": "Volumen de calls ~2.8x su promedio (hoy ~69,740 vs ~24,519): la actividad de opciones sigue extrema tras el exito del Fase 3 REGAL (17-nov) y la oferta de acciones propuesta de $150M (dilucion)",
+    "d": "18-nov"
    },
    {
     "type": "Social",
-    "t": "Chatter social/biotech disparado vs su promedio (Reddit/StockTwits) tras el salto de ~+156% por el exito del Fase 3 REGAL",
-    "d": "17-nov"
-   }
-  ],
-  "CEG": [
-   {
-    "type": "Opciones",
-    "t": "Volumen de puts ~2.5x su promedio (hoy ~16,197 vs ~6,548) en la sesion de aversion al riesgo del complejo de energia para data centers (cobertura/bajista)",
-    "d": "17-nov"
+    "t": "Chatter social/biotech aun disparado vs su promedio (Reddit/StockTwits) tras el +156% del Fase 3 REGAL",
+    "d": "18-nov"
    }
   ],
   "NVDA": [
    {
     "type": "Social",
-    "t": "Chatter social disparado vs su promedio de cara a sus resultados de HOY tras el cierre y por su primer reporte sin Jensen Huang (renuncio el 12-nov; Colette Kress, CEO interina)",
-    "d": "17-nov"
+    "t": "Chatter social disparado vs su promedio en su primer reporte sin Jensen Huang: el beat & raise del 3T y la posterior caida (-2.89%) dominan la conversacion",
+    "d": "18-nov"
    }
   ]
  }
