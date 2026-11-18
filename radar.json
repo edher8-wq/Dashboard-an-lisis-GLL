@@ -108,6 +108,14 @@
     "u": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/0001045810-26-000088-index.htm"
    }
   ],
+  "TSM": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "18-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000803/0001046179-26-000803-index.htm"
+   }
+  ],
   "AMD": [
    {
     "type": "Form 4",
