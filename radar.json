@@ -515,6 +515,20 @@
     "d": "17-nov",
     "u": "https://www.sec.gov/Archives/edgar/data/354950/000035495026000182/0000354950-26-000182-index.htm"
    }
+  ],
+  "MMS": [
+   {
+    "type": "8-K",
+    "t": "8-K: Acuerdo material nuevo; Adquisicion/venta completada; Deuda/obligacion material; Estados financieros/anexos",
+    "d": "19-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1032220/000103222026000052/0001032220-26-000052-index.htm"
+   },
+   {
+    "type": "8-K",
+    "t": "8-K: Resultados (earnings); Estados financieros/anexos",
+    "d": "19-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1032220/000103222026000048/0001032220-26-000048-index.htm"
+   }
   ]
  }
 }
