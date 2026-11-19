@@ -1,11 +1,17 @@
 {
- "updated": "18-nov",
- "note": "Refresco diario. Jornada del 18-nov (miercoles): el rebote inicial por el 'beat & raise' de NVIDIA (reporto anoche) se desvanece. Las acciones abren con fuerza (NVDA +3.5% premarket, CoreWeave +5.4%, AMD +2.9%, Micron +3.2%) pero ceden las ganancias durante la sesion: el Dow cierra -1.11% (-561 pts), el S&P 500 -0.23% (quinta baja seguida) y el Nasdaq Composite logra +0.42%. NVIDIA termina -2.89% pese al blowout (guia 4T $130B +/-3% vs ~$125.3B est.): el mercado reenfoca en el costo de financiar la infraestructura de IA, con el Treasury a 10 anos sobre 5%. CoreWeave se hunde -4.1% a $47.83 (volumen ~28% sobre su promedio) al volver el foco a su deuda; IREN -3.6% a $15.24. La energia es el peor sector (~-3%: Chevron -4.3%, Exxon -3.6%, WTI -4% a $82.19) y las aseguradoras de salud se desploman (UnitedHealth -10%, Humana -13%). SELLAS (SLS) sube ~+1.4% intradia: su Fase 3 REGAL sigue fresca pero propuso una oferta de acciones de $150M (dilucion). Veraz: solo se actualizaron con fuentes verificables del 18-nov los nombres con novedad confirmada (NVDA, CRWV, IREN, SLS y el complejo de chips/memoria en premarket) y se conservo el research previo en el resto.",
+ "updated": "19-nov",
+ "note": "Refresco diario. Jornada del 19-nov (jueves): FUERTE aversion al riesgo y venta del 'AI trade'. El Dow se hunde -1,101 pts (-2.19%) a 49,097, el S&P 500 -2.02% a 7,175.83 y el Nasdaq Composite -2.25% a 23,879; el VIX salta +13.8% a 27.98 y el 10 anos sigue en ~5.05%. El detonante fue el estreno bursatil de Anthropic (ANT): abrio +34% sobre su precio de salida de $83 (colocacion record de $81.3B) tocando ~$1.5B de valor, pero cedio para cerrar en $97.17 (+17%); el retail vendio acciones individuales -AMD a la cabeza- para financiar la compra de ANT. AMD se desploma -7.72% a $489.19 tras un reporte bajista de Hunterbrook Capital (abrio posicion corta). El SOX cae -2.41% (27 de 30 en rojo); NVIDIA ~-3%, mientras Intel y Qualcomm logran cerrar en verde. El Vicepresidente de la Fed, Philip Jefferson, dijo que la inversion en data centers de IA presiona la demanda y la inflacion (lectura de tasas mas altas). Bitcoin ~$61,828. Veraz: se actualizaron con fuentes del 19-nov los nombres con novedad confirmada (AMD, NVDA, complejo de chips, hyperscalers, CRWV/IREN, COIN/MSTR, SPCX) y se conservo el research previo en el resto.",
  "tickers": {
   "NVDA": {
    "trend": "Reporto 3T (FY2027) con beat & raise (guia 4T $130B +/-3%) y recompra ampliada en $150B, pero la accion CAE tras el reporte ('sell the news'): dominan las dudas sobre el costo de financiar la IA, el margen bruto guiado a la baja (71-72%), el inventario ($39.7B) y la investigacion de la SEC (WSJ). Primer reporte sin Jensen Huang (renuncio 12-nov; Colette Kress, CEO interina).",
-   "peak": "18-nov: cae -2.89% pese al blowout; el rebote premarket (+3.5%) se desvanece",
+   "peak": "19-nov: ~-3% en la venta del 'AI trade' por el estreno de Anthropic (tras el beat & raise del 3T el 17-nov)",
    "news": [
+    {
+     "t": "Cae ~3% en una jornada de fuerte venta del 'AI trade': el retail freno sus compras de NVIDIA y roto hacia el estreno bursatil de Anthropic (ANT). El SOX cae -2.41% (27 de 30 componentes en rojo) en la resaca del beat & raise del 3T.",
+     "s": "Yahoo Finance",
+     "d": "19-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+    },
     {
      "t": "Cierra -2.89% pese al blowout del 3T reportado anoche: el beat & raise (guia 4T $130B +/-3% vs ~$125.3B est., recompra +$150B) impulso un alza de ~+3.5% en premarket que se EVAPORO al abrir la sesion regular. El mercado reenfoca en el costo de financiar la IA y el Treasury a 10 anos sobre 5%; es la quinta baja seguida del S&P 500.",
      "s": "BNN Bloomberg / StockTitan",
@@ -17,12 +23,6 @@
      "s": "TheStreet Pro / StockTitan",
      "d": "17-nov",
      "u": "https://pro.thestreet.com/stock-market-today/2026-11-17"
-    },
-    {
-     "t": "Primer reporte sin Jensen Huang como CEO (renuncio el 12-nov; la CFO Colette Kress es CEO interina). La accion caia ~0.4% en la sesion previa al reporte, tras -4.1% el lunes 16-nov a $156.14, camino a su septima semana consecutiva de baja; el consejo creo un Comite de Seguridad Nacional y Control de Exportaciones.",
-     "s": "StockTitan",
-     "d": "17-nov",
-     "u": "https://stocktitan.net/articles/stock-market-today-live-november-17-2026"
     }
    ]
   },
@@ -30,6 +30,12 @@
    "trend": "run-up al 3T (15-oct), 'N2/2nm', capacidad reservada, lectura cruzada con superciclo de memoria",
    "peak": "Dias de earnings",
    "news": [
+    {
+     "t": "Acompana la caida del complejo de semiconductores en la jornada de venta del 'AI trade' (SOX -2.41%, 27 de 30 en rojo) desatada por el estreno bursatil de Anthropic y el reporte corto contra AMD.",
+     "s": "Yahoo Finance",
+     "d": "19-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+    },
     {
      "t": "Acompana el rebote premarket del complejo de semiconductores tras el beat & raise de NVIDIA, que luego pierde fuerza durante una sesion mixta.",
      "s": "BNN Bloomberg",
@@ -41,12 +47,6 @@
      "s": "StockTitan",
      "d": "17-nov",
      "u": "https://stocktitan.net/articles/stock-market-today-live-november-17-2026"
-    },
-    {
-     "t": "Acompana la baja del complejo de semiconductores, bajo presion en una sesion de aversion al riesgo de cara a los resultados de NVIDIA (esta semana).",
-     "s": "Yahoo Finance",
-     "d": "16-nov",
-     "u": "https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944169.html"
     }
    ]
   },
@@ -54,6 +54,12 @@
    "trend": "UBS reafirma Buy antes del 3T, demanda EUV para IA/HBM satura capacidad",
    "peak": "Dias de earnings y noticias de China",
    "news": [
+    {
+     "t": "Acompana la caida del complejo de semiconductores en la jornada de venta del 'AI trade' (SOX -2.41%, 27 de 30 en rojo) desatada por el estreno bursatil de Anthropic y el reporte corto contra AMD.",
+     "s": "Yahoo Finance",
+     "d": "19-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+    },
     {
      "t": "Acompana el rebote premarket del complejo de semiconductores/EUV tras el beat de NVIDIA, que se modera durante la sesion.",
      "s": "BNN Bloomberg",
@@ -65,19 +71,19 @@
      "s": "StockTitan",
      "d": "17-nov",
      "u": "https://stocktitan.net/articles/stock-market-today-live-november-17-2026"
-    },
-    {
-     "t": "Acompana la baja del complejo de semiconductores, bajo presion en una sesion de aversion al riesgo de cara a los resultados de NVIDIA (esta semana).",
-     "s": "Yahoo Finance",
-     "d": "16-nov",
-     "u": "https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944169.html"
     }
    ]
   },
   "AMD": {
-   "trend": "Upgrade de Oppenheimer (Outperform, PT $600), seleccion por Google Cloud (EPYC en TPU 8tx), blowout del 3T (DC +97% a/a) y rotacion desde NVIDIA",
-   "peak": "9-nov: upgrade Oppenheimer + Google Cloud (+13.3%)",
+   "trend": "Reporte bajista de Hunterbrook Capital (abrio corto, 19-nov) sobre sus compromisos de financiamiento a clientes y riesgo de exportacion a China; de fondo, el upgrade de Oppenheimer (Outperform, PT $600) y la seleccion por Google Cloud",
+   "peak": "19-nov: -7.72% a $489.19 por el reporte corto de Hunterbrook",
    "news": [
+    {
+     "t": "Se desploma -7.72% a $489.19 (principal lastre del dia): Hunterbrook Capital abrio una posicion corta y publico un reporte bajista que cuestiona sus compromisos de financiamiento a clientes (garantias de leasing, respaldo de capacidad cloud no vendida, participaciones en clientes) -mayores que los de NVIDIA frente a ingresos y con menos caja- ademas de riesgo por controles de exportacion a China. El retail lo vendio para financiar el IPO de Anthropic.",
+     "s": "TradingKey / Yahoo Finance",
+     "d": "19-nov",
+     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262313953-us-stock-nasdaq-falls-anthropic-ipo-debut-amd-short-report-tradingkey"
+    },
     {
      "t": "Sube ~+2.9% en premarket tras el beat & raise de NVIDIA, pero el complejo de chips cede gran parte de las ganancias durante la sesion al reenfocarse el mercado en el costo de financiar la IA.",
      "s": "BNN Bloomberg",
@@ -89,12 +95,6 @@
      "s": "TheStreet Pro",
      "d": "17-nov",
      "u": "https://pro.thestreet.com/stock-market-today/2026-11-17"
-    },
-    {
-     "t": "Acompana la baja del complejo de semiconductores, bajo presion en una sesion de aversion al riesgo de cara a los resultados de NVIDIA (esta semana).",
-     "s": "Yahoo Finance",
-     "d": "16-nov",
-     "u": "https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944169.html"
     }
    ]
   },
@@ -102,6 +102,12 @@
    "trend": "Acuerdo para ADQUIRIR Lumentum (LITE) por ~$115B en acciones (anunciado 2-nov; 4.50 MRVL por accion LITE; cierre esperado 1S2028): crea un lider en conectividad para IA (optica + silicio a medida); de fondo, 'custom silicon' y el debate 'crecimiento vs margen'",
    "peak": "2-nov: anuncio de la adquisicion de Lumentum por ~$115B en acciones",
    "news": [
+    {
+     "t": "Acompana la caida del complejo de semiconductores en la jornada de venta del 'AI trade' (SOX -2.41%, 27 de 30 en rojo) desatada por el estreno bursatil de Anthropic y el reporte corto contra AMD.",
+     "s": "Yahoo Finance",
+     "d": "19-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+    },
     {
      "t": "Acompana el rebote premarket de los semiconductores/optica para IA tras el beat de NVIDIA (Lumentum, su objetivo de adquisicion, entre la fotonica que sube +3-6% en premarket); las ganancias pierden fuerza durante la sesion.",
      "s": "BNN Bloomberg",
@@ -113,12 +119,6 @@
      "s": "Yahoo Finance / Marvell IR",
      "d": "11-nov",
      "u": "https://investor.marvell.com/news-events/press-releases/detail/1040/"
-    },
-    {
-     "t": "Rebota con el grupo de chips en la recuperacion de la IA (sin catalizador propio).",
-     "s": "Yahoo Finance",
-     "d": "9-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
     }
    ]
   },
@@ -126,6 +126,12 @@
    "trend": "'Intel government stake', alianza con Oracle (Xeon/X14), '18A', 'turnaround'",
    "peak": "Resultados 29-oct (AMC): -18%",
    "news": [
+    {
+     "t": "Entre los pocos nombres de chips que logran cerrar en VERDE (junto con Qualcomm) pese a la caida del SOX (-2.41%) en la jornada de venta del 'AI trade'.",
+     "s": "Yahoo Finance",
+     "d": "19-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+    },
     {
      "t": "Sube ~+1.8% en premarket con el grupo de chips tras el beat de NVIDIA.",
      "s": "BNN Bloomberg",
@@ -137,12 +143,6 @@
      "s": "StockTitan",
      "d": "17-nov",
      "u": "https://stocktitan.net/articles/stock-market-today-live-november-17-2026"
-    },
-    {
-     "t": "Acompana la baja del complejo de semiconductores, bajo presion en una sesion de aversion al riesgo de cara a los resultados de NVIDIA (esta semana).",
-     "s": "Yahoo Finance",
-     "d": "16-nov",
-     "u": "https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944169.html"
     }
    ]
   },
@@ -173,6 +173,12 @@
    "peak": "Reporte (sep): blowout con reaccion muda",
    "news": [
     {
+     "t": "Pierde las ganancias previas con el complejo de memoria/chips (junto con SK Hynix) en la jornada de venta del 'AI trade' (SOX -2.41%).",
+     "s": "Yahoo Finance",
+     "d": "19-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+    },
+    {
      "t": "Sube ~+3.2% en premarket con el complejo de memoria tras el beat de NVIDIA; las ganancias se moderan durante la sesion de dudas sobre el gasto en IA.",
      "s": "BNN Bloomberg",
      "d": "18-nov",
@@ -183,12 +189,6 @@
      "s": "StockTitan",
      "d": "17-nov",
      "u": "https://stocktitan.net/articles/stock-market-today-live-november-17-2026"
-    },
-    {
-     "t": "Acompana la baja del complejo de semiconductores, bajo presion en una sesion de aversion al riesgo de cara a los resultados de NVIDIA (esta semana).",
-     "s": "Yahoo Finance",
-     "d": "16-nov",
-     "u": "https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944169.html"
     }
    ]
   },
@@ -196,6 +196,12 @@
    "trend": "'NAND shortage', 'SSD pricing', cruce con Micron/Samsung/SK Hynix",
    "peak": "Reportes de pricing de memoria",
    "news": [
+    {
+     "t": "Acompana la caida del complejo de semiconductores en la jornada de venta del 'AI trade' (SOX -2.41%, 27 de 30 en rojo) desatada por el estreno bursatil de Anthropic y el reporte corto contra AMD.",
+     "s": "Yahoo Finance",
+     "d": "19-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+    },
     {
      "t": "Sube ~+3.6% en premarket liderando el rebote del almacenamiento/memoria tras el beat de NVIDIA.",
      "s": "BNN Bloomberg",
@@ -207,12 +213,6 @@
      "s": "StockTitan",
      "d": "17-nov",
      "u": "https://stocktitan.net/articles/stock-market-today-live-november-17-2026"
-    },
-    {
-     "t": "Acompana la baja del complejo de semiconductores, bajo presion en una sesion de aversion al riesgo de cara a los resultados de NVIDIA (esta semana).",
-     "s": "Yahoo Finance",
-     "d": "16-nov",
-     "u": "https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944169.html"
     }
    ]
   },
@@ -220,6 +220,12 @@
    "trend": "'HDD comeback', 'nearline demand', 'HAMR', cruce con Seagate",
    "peak": "Upgrades de analistas y datos de pricing",
    "news": [
+    {
+     "t": "Acompana la caida del complejo de semiconductores en la jornada de venta del 'AI trade' (SOX -2.41%, 27 de 30 en rojo) desatada por el estreno bursatil de Anthropic y el reporte corto contra AMD.",
+     "s": "Yahoo Finance",
+     "d": "19-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+    },
     {
      "t": "Sube ~+3.1% en premarket con el complejo de almacenamiento tras el beat de NVIDIA.",
      "s": "BNN Bloomberg",
@@ -231,12 +237,6 @@
      "s": "StockTitan",
      "d": "17-nov",
      "u": "https://stocktitan.net/articles/stock-market-today-live-november-17-2026"
-    },
-    {
-     "t": "Acompana la baja del complejo de semiconductores, bajo presion en una sesion de aversion al riesgo de cara a los resultados de NVIDIA (esta semana).",
-     "s": "Yahoo Finance",
-     "d": "16-nov",
-     "u": "https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944169.html"
     }
    ]
   },
@@ -255,6 +255,12 @@
    "peak": "Resultados 28-oct (AMC): Azure +48%",
    "news": [
     {
+     "t": "Cae con big tech en la jornada de fuerte venta del 'AI trade' (Nasdaq -2.25%) desatada por el estreno bursatil de Anthropic.",
+     "s": "Yahoo Finance",
+     "d": "19-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+    },
+    {
      "t": "Sube en premarket con los hyperscalers (grupo +0.4% a +2.8%) tras el beat de NVIDIA; big tech se modera en una sesion mixta (Nasdaq +0.4%, S&P -0.2%).",
      "s": "BNN Bloomberg",
      "d": "18-nov",
@@ -265,12 +271,6 @@
      "s": "Yahoo Finance",
      "d": "16-nov",
      "u": "https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944169.html"
-    },
-    {
-     "t": "Presionada por una interrupcion prolongada de Outlook/Teams/Copilot; Bill Ackman defiende que su posicion competitiva es 'really, really strong'.",
-     "s": "Yahoo Finance",
-     "d": "13-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
     }
    ]
   },
@@ -278,6 +278,12 @@
    "trend": "Berkshire Hathaway revela una nueva posicion (~$4.3B) en su 13F; 'Gemini 3', TPU de Google, Google Cloud, debate de gasto en IA",
    "peak": "16-nov: maximo historico tras conocerse la posicion de Berkshire Hathaway",
    "news": [
+    {
+     "t": "Resiste mejor que el mercado (~+0.7% intradia antes de moderar) como inversionista revelado de Anthropic, cuyo estreno bursatil domina la sesion; big tech en una jornada de fuerte aversion al riesgo (Nasdaq -2.25%).",
+     "s": "Yahoo Finance",
+     "d": "19-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+    },
     {
      "t": "Sube en premarket con los hyperscalers (grupo +0.4% a +2.8%) tras el beat de NVIDIA, reforzada por la tesis de su silicio propio (TPU); las ganancias se moderan en la sesion.",
      "s": "BNN Bloomberg",
@@ -289,12 +295,6 @@
      "s": "TheStreet Pro",
      "d": "17-nov",
      "u": "https://pro.thestreet.com/stock-market-today/2026-11-17"
-    },
-    {
-     "t": "Sube ~3% a un maximo historico despues de que Berkshire Hathaway revelara en su 13F una nueva posicion de ~$4.3 mil M (~17.85M de acciones) en Alphabet, sumando Google a sus mayores participaciones. GOOGL acumula ~+51% en el ano.",
-     "s": "Yahoo Finance",
-     "d": "16-nov",
-     "u": "https://finance.yahoo.com/news/warren-buffett-berkshire-snaps-major-212300418.html"
     }
    ]
   },
@@ -302,6 +302,12 @@
    "trend": "'OpenAI $38B AWS deal', 'AWS +39%', 'Trainium', capex ~$220B, debate aceleracion de nube vs cash burn",
    "peak": "2-nov: maximo historico por el acuerdo con OpenAI",
    "news": [
+    {
+     "t": "Cae ~0.9% intradia resistiendo mejor que el mercado como inversionista revelado de Anthropic (ANT), cuyo IPO domina la sesion de venta del 'AI trade' (Nasdaq -2.25%).",
+     "s": "Yahoo Finance",
+     "d": "19-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+    },
     {
      "t": "Sube en premarket con los hyperscalers (grupo +0.4% a +2.8%) tras el beat de NVIDIA; big tech se modera en una sesion mixta.",
      "s": "BNN Bloomberg",
@@ -313,12 +319,6 @@
      "s": "Yahoo Finance",
      "d": "16-nov",
      "u": "https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944169.html"
-    },
-    {
-     "t": "Sube ~+0.5% resistiendo la jornada de aversion a chips por la salida del CEO de NVIDIA.",
-     "s": "The Motley Fool",
-     "d": "12-nov",
-     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/12/stock-market-today-nov-12-nvidia-ceo-s-stunning-exit-sends-wall-street-lower-as-rivals-surge/"
     }
    ]
   },
@@ -326,6 +326,12 @@
    "trend": "'Meta superintelligence', NVIDIA $3B + AMD $1B en su oferta, capex al alza, debate ROI",
    "peak": "Fichajes de IA y guia de capex",
    "news": [
+    {
+     "t": "Cae con big tech en la jornada de fuerte venta del 'AI trade' (Nasdaq -2.25%) por el estreno bursatil de Anthropic.",
+     "s": "Yahoo Finance",
+     "d": "19-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+    },
     {
      "t": "Sube en premarket con los hyperscalers (grupo +0.4% a +2.8%) tras el beat de NVIDIA; big tech se modera en una sesion mixta.",
      "s": "BNN Bloomberg",
@@ -337,12 +343,6 @@
      "s": "Yahoo Finance",
      "d": "16-nov",
      "u": "https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944169.html"
-    },
-    {
-     "t": "Cae ~-0.8% en una jornada mixta para los megacaps por el remezon de liderazgo en NVIDIA.",
-     "s": "The Motley Fool",
-     "d": "12-nov",
-     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/12/stock-market-today-nov-12-nvidia-ceo-s-stunning-exit-sends-wall-street-lower-as-rivals-surge/"
     }
    ]
   },
@@ -350,6 +350,12 @@
    "trend": "Reaccion al 3T (10-nov): +21% el 11-nov; el alivio clave es que NO tomara mas deuda cara hasta 2027 y espera ~$9B en prepagos; el debate pasa de 'deuda distressed' a si el crecimiento (+168%) justifica el apalancamiento",
    "peak": "11-nov: +21% tras el 3T; 18-nov: -4.1% al volver el foco a su deuda",
    "news": [
+    {
+     "t": "Acompana la venta generalizada del 'AI trade'/data center el 19-nov (Nasdaq -2.25%, SOX -2.41%) desatada por el estreno de Anthropic y el reporte corto contra AMD; sin catalizador propio confirmado en la sesion.",
+     "s": "Yahoo Finance",
+     "d": "19-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+    },
     {
      "t": "Se hunde -4.13% a $47.83 (volumen ~28% sobre su promedio de 3 meses): el salto de ~+4.5% en premarket por el blowout de NVIDIA se evaporo al reenfocarse el mercado en su elevada carga de deuda y sus necesidades de financiamiento, con el Treasury a 10 anos sobre 5%.",
      "s": "Motley Fool / StockTitan",
@@ -361,12 +367,6 @@
      "s": "Yahoo Finance",
      "d": "12-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
-    },
-    {
-     "t": "Se dispara ~+21% al dia siguiente de su 3T: el mercado premia los ingresos +168% a $3.66B y la subida de guia a $13.0-13.3B, y se alivia el temor por el financiamiento despues de que la empresa dijera que NO planea tomar mas deuda cara hasta 2027 y que espera ~$9 mil M en prepagos de clientes en tres meses.",
-     "s": "Yahoo Finance / TheStreet",
-     "d": "11-nov",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
     }
    ]
   },
@@ -374,6 +374,12 @@
    "trend": "'IREN AI pivot', 'Bitcoin miner to AI', 'data center power'",
    "peak": "Anuncios de contratos de IA Cloud",
    "news": [
+    {
+     "t": "Acompana la venta generalizada del 'AI trade'/data center el 19-nov (Nasdaq -2.25%, SOX -2.41%) desatada por el estreno de Anthropic y el reporte corto contra AMD; sin catalizador propio confirmado en la sesion.",
+     "s": "Yahoo Finance",
+     "d": "19-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+    },
     {
      "t": "Cae ~3.6% a $15.24 con el grupo de 'neoclouds'/data center, arrastrada por el retroceso de CoreWeave cuando el mercado reenfoca en el costo de financiar la infraestructura de IA.",
      "s": "StockTitan",
@@ -385,12 +391,6 @@
      "s": "Yahoo Finance",
      "d": "11-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
-    },
-    {
-     "t": "Salta ~+17-20% tras reportar un FQ1'27 record de rentabilidad: ~$200M de ingresos de AI Cloud, aunque con una perdida trimestral de ~$263M (mayor a la esperada); la accion sigue ~-50% en el ano. El volumen de puts fue ~2.2x su promedio",
-     "s": "24/7 Wall St. / Yahoo Finance",
-     "d": "6-nov",
-     "u": "https://247wallst.com/investing/2025/11/06/iren-reports-record-fy26-q1-profitability/"
     }
    ]
   },
@@ -398,6 +398,12 @@
    "trend": "'Starlink subscribers', $40B de deuda para GPUs, posible fusion SpaceX-Tesla",
    "peak": "Pruebas de Starship y noticias de Starlink",
    "news": [
+    {
+     "t": "Cae -3.70% en la jornada de fuerte aversion al riesgo (Dow -2.19%); de fondo, el retail canalizo compras record hacia el estreno bursatil de Anthropic (ANT).",
+     "s": "Yahoo Finance",
+     "d": "19-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+    },
     {
      "t": "Bloomberg reporta que avanzan las conversaciones de fusion SpaceX-Tesla, con posible anuncio en diciembre o deslizandose a inicios de 2027; Tesla sube ~+1%.",
      "s": "Yahoo Finance / Bloomberg",
@@ -409,12 +415,6 @@
      "s": "TheStreet",
      "d": "11-nov",
      "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
-    },
-    {
-     "t": "La NASA nombra ocho ganadores para su base lunar con contratos de hasta $10 mil millones y SpaceX es uno de ellos; las acciones del sector espacial repuntan.",
-     "s": "Yahoo Finance",
-     "d": "9-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
     }
    ]
   },
@@ -527,6 +527,12 @@
    "peak": "Resultados 29-oct (AMC)",
    "news": [
     {
+     "t": "Presionada por la debilidad del Bitcoin, que cotiza ~$61,828 (muy por debajo de los ~$94,000 de mediados de mes), en una jornada de fuerte aversion al riesgo (Nasdaq -2.25%).",
+     "s": "Yahoo Finance",
+     "d": "19-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+    },
+    {
      "t": "Cae con la debilidad del Bitcoin, que pierde los $94,000 (llego bajo $92,000), ~25% por debajo de su record del 6-oct (sobre $126,000); ~$19B en posiciones apalancadas se liquidaron en octubre.",
      "s": "MarketPulse / Yahoo Finance",
      "d": "16-nov",
@@ -537,12 +543,6 @@
      "s": "Yahoo Finance",
      "d": "13-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
-    },
-    {
-     "t": "Presionada por la debilidad del Bitcoin (<$72,000, ~-8% en el mes) en una jornada de aversion al riesgo.",
-     "s": "Yahoo Finance",
-     "d": "12-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
     }
    ]
   },
@@ -550,6 +550,12 @@
    "trend": "'Saylor', 'MSTR Bitcoin', 'mNAV premium', debate sostenibilidad del apalancamiento",
    "peak": "Movimientos fuertes del BTC",
    "news": [
+    {
+     "t": "Presionada por la debilidad del Bitcoin (~$61,828, muy por debajo de su maximo de octubre), que castiga su apuesta apalancada al BTC, en la venta del 'AI trade' (Nasdaq -2.25%).",
+     "s": "Yahoo Finance",
+     "d": "19-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+    },
     {
      "t": "Presionada por la fuerte caida del Bitcoin (<$94,000, ~25% debajo de su maximo de octubre), que castiga su apuesta apalancada al BTC.",
      "s": "Yahoo Finance",
@@ -561,12 +567,6 @@
      "s": "Yahoo Finance",
      "d": "13-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
-    },
-    {
-     "t": "Cae hasta ~6% despues de que MSCI confirmara que la sacara de dos indices de EE.UU.; el Bitcoin sigue debil (~-8% en noviembre, por debajo de $72,000).",
-     "s": "Yahoo Finance",
-     "d": "12-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
     }
    ]
   },

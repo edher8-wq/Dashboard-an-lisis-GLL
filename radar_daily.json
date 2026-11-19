@@ -1,24 +1,19 @@
 {
- "updated": "18-nov",
+ "updated": "19-nov",
  "source": "IBKR opciones + social + analistas",
  "tickers": {
-  "SLS": [
+  "AMD": [
    {
-    "type": "Opciones",
-    "t": "Volumen de calls ~2.8x su promedio (hoy ~69,740 vs ~24,519): la actividad de opciones sigue extrema tras el exito del Fase 3 REGAL (17-nov) y la oferta de acciones propuesta de $150M (dilucion)",
-    "d": "18-nov"
+    "type": "Analista",
+    "t": "Hunterbrook Capital abre posicion corta y publica un reporte bajista: alega que sus compromisos de financiamiento a clientes (garantias de leasing, respaldo de capacidad cloud no vendida y participaciones en clientes) son mayores que los de NVIDIA frente a ingresos y con menos caja, ademas de riesgo por controles de exportacion a China. La accion cae -7.72% a $489.19",
+    "d": "19-nov",
+    "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262313953-us-stock-nasdaq-falls-anthropic-ipo-debut-amd-short-report-tradingkey"
    },
    {
     "type": "Social",
-    "t": "Chatter social/biotech aun disparado vs su promedio (Reddit/StockTwits) tras el +156% del Fase 3 REGAL",
-    "d": "18-nov"
-   }
-  ],
-  "NVDA": [
-   {
-    "type": "Social",
-    "t": "Chatter social disparado vs su promedio en su primer reporte sin Jensen Huang: el beat & raise del 3T y la posterior caida (-2.89%) dominan la conversacion",
-    "d": "18-nov"
+    "t": "Chatter social disparado vs su promedio (Reddit/StockTwits): fue la accion mas vendida por el retail (dato de Vanda Research), que roto hacia el estreno bursatil de Anthropic, amplificado por el reporte bajista de Hunterbrook",
+    "d": "19-nov",
+    "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
    }
   ]
  }
