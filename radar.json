@@ -90,6 +90,12 @@
    {
     "type": "Form 4",
     "t": "Form 4",
+    "d": "20-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1046179/000211403226000002/0002114032-26-000002-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
     "d": "18-nov",
     "u": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000803/0001046179-26-000803-index.htm"
    }
@@ -257,6 +263,12 @@
    }
   ],
   "PYPL": [
+   {
+    "type": "8-K",
+    "t": "8-K: Cambio en directivos/consejo; Regulation FD (divulgacion); Estados financieros/anexos",
+    "d": "20-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1633917/000119312526469335/0001193125-26-469335-index.htm"
+   },
    {
     "type": "Form 4",
     "t": "Form 4",
@@ -451,6 +463,12 @@
    }
   ],
   "SLS": [
+   {
+    "type": "8-K",
+    "t": "8-K: Acuerdo material nuevo; Otros eventos relevantes; Estados financieros/anexos",
+    "d": "20-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1390478/000110465926130331/0001104659-26-130331-index.htm"
+   },
    {
     "type": "8-K",
     "t": "8-K: Regulation FD (divulgacion); Otros eventos relevantes; Estados financieros/anexos",
