@@ -1,19 +1,56 @@
 {
- "updated": "19-nov",
+ "updated": "20-nov",
  "source": "IBKR opciones + social + analistas",
  "tickers": {
-  "AMD": [
+  "NVDA": [
    {
     "type": "Analista",
-    "t": "Hunterbrook Capital abre posicion corta y publica un reporte bajista: alega que sus compromisos de financiamiento a clientes (garantias de leasing, respaldo de capacidad cloud no vendida y participaciones en clientes) son mayores que los de NVIDIA frente a ingresos y con menos caja, ademas de riesgo por controles de exportacion a China. La accion cae -7.72% a $489.19",
-    "d": "19-nov",
-    "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262313953-us-stock-nasdaq-falls-anthropic-ipo-debut-amd-short-report-tradingkey"
+    "t": "Bernstein (Stacy Rasgon) la BAJA a Market Perform (desde Outperform) y recorta el PT a $200 (desde $400) por la incertidumbre de liderazgo tras la salida de Jensen Huang; Baird tambien la baja a Neutral con PT $200 (desde $500). Es el 3er broker en 2 dias en dar un paso atras; ~4 downgrades en 2 dias con PT promedio ~$239.",
+    "d": "20-nov",
+    "u": "https://investinglive.com/stocks/bernstein-halves-nvidia-target-to-200-the-3rd-broker-in-2-days-to-step-back-over-huang/"
    },
    {
     "type": "Social",
-    "t": "Chatter social disparado vs su promedio (Reddit/StockTwits): fue la accion mas vendida por el retail (dato de Vanda Research), que roto hacia el estreno bursatil de Anthropic, amplificado por el reporte bajista de Hunterbrook",
-    "d": "19-nov",
-    "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+    "t": "Chatter social disparado vs su promedio: la revision de la SEC sobre posibles problemas contables (Reuters/WSJ) y la caida ~13% a ~$135 (-37% en el mes) dominan los foros.",
+    "d": "20-nov",
+    "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262316111-nasdaq-falls-ai-stock-selloff-nvidia-sec-probe-tradingkey"
+   }
+  ],
+  "AMD": [
+   {
+    "type": "Social",
+    "t": "Chatter social disparado vs su promedio (Reddit/StockTwits): el retail siguio vendiendo en el segundo dia de caidas (-13.26%, ~-20% en dos dias) tras el reporte corto de Hunterbrook del 19-nov y las dudas de seguridad de firmware/vinculos con China.",
+    "d": "20-nov",
+    "u": "https://247wallst.com/investing/2026/11/20/amd-stock-drops-another-7-0-before-the-bell-and-taiwan-semiconductor-slides-4-2-as-nasdaq-futures-fall-1-6-after-asias-chip-selloff/"
+   }
+  ],
+  "SNDK": [
+   {
+    "type": "Opciones",
+    "t": "Volumen de calls 2.6x y de puts 3.3x su promedio (actividad extrema de opciones en el desplome de la memoria; Micron -13.86%, SOX -10.73%).",
+    "d": "20-nov"
+   }
+  ],
+  "MSTR": [
+   {
+    "type": "Opciones",
+    "t": "IV anual ~109% vs HV ~80% (IV/HV ~1.35) — salto de volatilidad con el Bitcoin hundiendose bajo $59,000; el volumen de puts corre ~1.4x su promedio.",
+    "d": "20-nov",
+    "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-drops-below-59k-wiping-183406394.html"
+   }
+  ],
+  "PYPL": [
+   {
+    "type": "Opciones",
+    "t": "IV anual ~38% vs HV ~28% (IV/HV ~1.34) — salto de volatilidad implicita (posible evento proximo).",
+    "d": "20-nov"
+   }
+  ],
+  "UPST": [
+   {
+    "type": "Opciones",
+    "t": "Volumen de puts 2.2x su promedio (cobertura/bajista), apuesta apalancada al ciclo de tasas en una jornada de aversion al riesgo.",
+    "d": "20-nov"
    }
   ]
  }
