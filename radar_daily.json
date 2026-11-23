@@ -1,56 +1,44 @@
 {
- "updated": "20-nov",
+ "updated": "23-nov",
  "source": "IBKR opciones + social + analistas",
  "tickers": {
   "NVDA": [
    {
-    "type": "Analista",
-    "t": "Bernstein (Stacy Rasgon) la BAJA a Market Perform (desde Outperform) y recorta el PT a $200 (desde $400) por la incertidumbre de liderazgo tras la salida de Jensen Huang; Baird tambien la baja a Neutral con PT $200 (desde $500). Es el 3er broker en 2 dias en dar un paso atras; ~4 downgrades en 2 dias con PT promedio ~$239.",
-    "d": "20-nov",
-    "u": "https://investinglive.com/stocks/bernstein-halves-nvidia-target-to-200-the-3rd-broker-in-2-days-to-step-back-over-huang/"
-   },
-   {
     "type": "Social",
-    "t": "Chatter social disparado vs su promedio: la revision de la SEC sobre posibles problemas contables (Reuters/WSJ) y la caida ~13% a ~$135 (-37% en el mes) dominan los foros.",
-    "d": "20-nov",
-    "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262316111-nasdaq-falls-ai-stock-selloff-nvidia-sec-probe-tradingkey"
+    "t": "Chatter social disparado vs su promedio (Reddit/StockTwits): el regreso de Jensen Huang como CEO y el salto ~+32% dominan los foros; Nomura lo describe como un 'mechanical bounce' por recompra de cortos.",
+    "d": "23-nov",
+    "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html"
    }
   ],
-  "AMD": [
+  "MU": [
    {
     "type": "Social",
-    "t": "Chatter social disparado vs su promedio (Reddit/StockTwits): el retail siguio vendiendo en el segundo dia de caidas (-13.26%, ~-20% en dos dias) tras el reporte corto de Hunterbrook del 19-nov y las dudas de seguridad de firmware/vinculos con China.",
-    "d": "20-nov",
-    "u": "https://247wallst.com/investing/2026/11/20/amd-stock-drops-another-7-0-before-the-bell-and-taiwan-semiconductor-slides-4-2-as-nasdaq-futures-fall-1-6-after-asias-chip-selloff/"
+    "t": "Chatter social disparado vs su promedio: el salto ~+19% por los acuerdos plurianuales de memoria y la nota de Citi desata al retail (short squeeze de la memoria).",
+    "d": "23-nov",
+    "u": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-micron-surges-19-as-nvidia-ceo-change-calms-ai-spending-fears/"
    }
   ],
   "SNDK": [
    {
     "type": "Opciones",
-    "t": "Volumen de calls 2.6x y de puts 3.3x su promedio (actividad extrema de opciones en el desplome de la memoria; Micron -13.86%, SOX -10.73%).",
-    "d": "20-nov"
-   }
-  ],
-  "MSTR": [
-   {
-    "type": "Opciones",
-    "t": "IV anual ~109% vs HV ~80% (IV/HV ~1.35) — salto de volatilidad con el Bitcoin hundiendose bajo $59,000; el volumen de puts corre ~1.4x su promedio.",
-    "d": "20-nov",
-    "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-drops-below-59k-wiping-183406394.html"
-   }
-  ],
-  "PYPL": [
-   {
-    "type": "Opciones",
-    "t": "IV anual ~38% vs HV ~28% (IV/HV ~1.34) — salto de volatilidad implicita (posible evento proximo).",
-    "d": "20-nov"
+    "t": "Volumen de calls 2.3x y de puts 2.6x su promedio (actividad extrema de opciones en el rebote de la memoria; SanDisk ~+22%, Seagate ~+18%).",
+    "d": "23-nov",
+    "u": "https://247wallst.com/investing/2026/11/23/sandisk-surges-22-as-jensen-huangs-return-to-nvidia-sparks-ai-chip-rebound-seagate-jumps-18-micron-rallies-16/"
    }
   ],
   "UPST": [
    {
     "type": "Opciones",
-    "t": "Volumen de puts 2.2x su promedio (cobertura/bajista), apuesta apalancada al ciclo de tasas en una jornada de aversion al riesgo.",
-    "d": "20-nov"
+    "t": "Volumen de calls 2.1x su promedio (apetito alcista), apuesta apalancada al ciclo de tasas en la jornada de fuerte rebote del mercado.",
+    "d": "23-nov"
+   }
+  ],
+  "HIMS": [
+   {
+    "type": "Analista",
+    "t": "Wall Street Zen la BAJA a 'Sell' (downgrade), con tension short (~23%)/retail de fondo tras el recorte de guia de EBITDA del 3T.",
+    "d": "21-nov",
+    "u": "https://www.marketbeat.com/instant-alerts/analyst-hims-hers-health-nyse-hims-cut-to-sell-at-wall-street-zen-2026-11-21/"
    }
   ]
  }

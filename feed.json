@@ -1,11 +1,17 @@
 {
- "updated": "20-nov",
- "note": "Refresco diario. Jornada del 20-nov (viernes): SEGUNDO dia de aceleracion en la venta del 'AI trade'. El Nasdaq Composite se hunde -5.28% a 22,617.73 (borra TODA su ganancia de 2026), el S&P 500 -3.70% a 6,910.39 (entra en correccion) y el Dow -1.93% a 48,147.33 (tambien en correccion); el Nasdaq 100 -5.61%. El golpe se concentra en semiconductores: el SOX se desploma -10.73% con sus 30 componentes en rojo (su peor semana desde 2001). NVIDIA cae ~13% (~$135, -37% en el mes) tras reportarse que la SEC revisa posibles problemas contables (Reuters/WSJ); Micron -13.86%, AMD -13.26% (por dudas de seguridad de firmware y supuestos vinculos con firmas chinas vetadas), Intel -7.82%, ASML -6.44%. El VIX salta ~+23% a ~34.9 y el 10 anos cede a ~4.94%. Bitcoin se hunde bajo $59,000 (~$58,000, -6/-7%; ~$1.53B en liquidaciones en 24h), arrastrando a MSTR (~-6.6%) y a los mineros. Asia marco el tono (Taiwan -6.2%, su peor semana desde 1991; Kospi -5.2%; Nikkei -5.1%). Veraz: se actualizaron con fuentes del 20-nov los nombres con dato confirmado y se conservo el research previo en el resto.",
+ "updated": "23-nov",
+ "note": "Refresco diario. Jornada del 23-nov (lunes): REBOTE HISTORICO del 'AI trade'. La junta de NVIDIA REINCORPORA a Jensen Huang como presidente, CEO y director (efectivo de inmediato), 11 dias despues de su renuncia y tras la presion publica del presidente Trump; la accion se dispara ~+31.5% (a ~$165) y la junta afirma que el movimiento 'no representa riesgo de seguridad nacional'. El Nasdaq Composite salta +6.5% (24,090), su mejor dia desde abril de 2025; el S&P 500 +4.7% (7,237) SALE de territorio de correccion tras 7 bajas seguidas; el Dow +3.0% (+1,448 pts, 49,595). El QQQ abrio casi +8% (su mayor salto de apertura desde su debut en 1999). El rebote lo lideran chips y memoria: Micron +19% (acuerdos plurianuales de suministro de memoria; nota de Citi), SanDisk ~+22%, CoreWeave +22%; Bloom Energy +18%. El VIX se desploma ~-24% (a ~27). Bitcoin rebota sobre $61,000 (desde un minimo de ~$55,149 el sabado), aliviando a COIN (+7%) y MSTR (+9%). Nomura (McElligott) advierte que es un 'mechanical bounce' por recompra de cortos y desarme de coberturas de dealers, no un giro de fundamentales. Veraz: se actualizaron con fuentes del 23-nov los nombres con dato confirmado y se conservo el research previo en el resto.",
  "tickers": {
   "NVDA": {
-   "trend": "Reporto 3T (FY2027) con beat & raise pero la accion CAE ('sell the news'); encima pesa la salida de Jensen Huang (12-nov) y la revision de la SEC (Reuters/WSJ) sobre posibles problemas contables. -37% en el ultimo mes.",
-   "peak": "20-nov: ~-13% (~$135) por el desplome de chips (SOX -10.73%) y la revision contable de la SEC",
+   "trend": "Regreso de Jensen Huang como CEO (23-nov) tras su salida del 12-nov y la revision contable de la SEC; recupera parte del desplome del mes (-37% previo).",
+   "peak": "23-nov: ~+31.5% (~$165) por la reincorporacion de Jensen Huang como CEO",
    "news": [
+    {
+     "t": "La junta REINCORPORA a Jensen Huang como presidente, CEO y director (efectivo de inmediato), 11 dias despues de su renuncia y tras la presion publica de Trump; la junta afirma que 'no representa riesgo de seguridad nacional'. La accion se dispara ~+31.5% (a ~$165). Nomura (McElligott) lo llama 'mechanical bounce' por recompra de cortos y desarme de coberturas de dealers.",
+     "s": "Yahoo Finance / CNN",
+     "d": "23-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html"
+    },
     {
      "t": "Se hunde ~13% (a ~$135, -37% en el mes) en el segundo dia de la venta del 'AI trade': Reuters reporta que la SEC revisa posibles problemas contables en NVIDIA (el WSJ adelanto la investigacion el martes). Cae por noveno dia de los ultimos diez; el SOX se desploma -10.73% con sus 30 componentes en rojo.",
      "s": "TradingKey / Reuters",
@@ -17,12 +23,6 @@
      "s": "Yahoo Finance",
      "d": "19-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
-    },
-    {
-     "t": "Cierra -2.89% pese al blowout del 3T reportado anoche: el beat & raise (guia 4T $130B +/-3% vs ~$125.3B est., recompra +$150B) impulso un alza de ~+3.5% en premarket que se EVAPORO al abrir la sesion regular. El mercado reenfoca en el costo de financiar la IA y el Treasury a 10 anos sobre 5%; es la quinta baja seguida del S&P 500.",
-     "s": "BNN Bloomberg / StockTitan",
-     "d": "18-nov",
-     "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
     }
    ]
   },
@@ -30,6 +30,12 @@
    "trend": "run-up al 3T (15-oct), 'N2/2nm', capacidad reservada, lectura cruzada con superciclo de memoria",
    "peak": "Dias de earnings",
    "news": [
+    {
+     "t": "Rebota con el complejo de semiconductores en el rally del 'AI trade' por el regreso de Huang a NVIDIA.",
+     "s": "Yahoo Finance",
+     "d": "23-nov",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/u-chip-neocloud-stocks-rally-102133642.html"
+    },
     {
      "t": "Acompana el desplome global de chips: la bolsa de Taiwan cae -6.2% (su peor semana desde 1991) y el SOX en EE.UU. -10.73% con sus 30 componentes en rojo.",
      "s": "24-7 Wall St. / TradingKey",
@@ -41,12 +47,6 @@
      "s": "Yahoo Finance",
      "d": "19-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
-    },
-    {
-     "t": "Acompana el rebote premarket del complejo de semiconductores tras el beat & raise de NVIDIA, que luego pierde fuerza durante una sesion mixta.",
-     "s": "BNN Bloomberg",
-     "d": "18-nov",
-     "u": "https://www.bnnbloomberg.ca/investing/2026/11/18/ai-stocks-rally-as-nvidia-outlook-calms-demand-fears/"
     }
    ]
   },
@@ -54,6 +54,12 @@
    "trend": "UBS reafirma Buy antes del 3T, demanda EUV para IA/HBM satura capacidad",
    "peak": "Dias de earnings y noticias de China",
    "news": [
+    {
+     "t": "Rebota con el complejo de semiconductores/EUV en el rally del 'AI trade' por el regreso de Huang a NVIDIA.",
+     "s": "Yahoo Finance",
+     "d": "23-nov",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/u-chip-neocloud-stocks-rally-102133642.html"
+    },
     {
      "t": "Cae -6.44% en el desplome del complejo de semiconductores/EUV (SOX -10.73%, sus 30 componentes en rojo).",
      "s": "TradingKey",
@@ -65,12 +71,6 @@
      "s": "Yahoo Finance",
      "d": "19-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
-    },
-    {
-     "t": "Acompana el rebote premarket del complejo de semiconductores/EUV tras el beat de NVIDIA, que se modera durante la sesion.",
-     "s": "BNN Bloomberg",
-     "d": "18-nov",
-     "u": "https://www.bnnbloomberg.ca/investing/2026/11/18/ai-stocks-rally-as-nvidia-outlook-calms-demand-fears/"
     }
    ]
   },
@@ -78,6 +78,12 @@
    "trend": "Reporte bajista de Hunterbrook Capital (abrio corto, 19-nov) sobre sus compromisos de financiamiento a clientes y riesgo de exportacion a China; de fondo, el upgrade de Oppenheimer (Outperform, PT $600) y la seleccion por Google Cloud",
    "peak": "20-nov: -13.26% (segundo dia, ~-20% en dos dias); 19-nov: -7.72% por el reporte corto de Hunterbrook",
    "news": [
+    {
+     "t": "Rebota ~+7% (a ~$453) con el complejo de chips tras el regreso de Huang a NVIDIA, recuperando parte del desplome de la semana pasada (reporte corto de Hunterbrook del 19-nov).",
+     "s": "Yahoo Finance",
+     "d": "23-nov",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/u-chip-neocloud-stocks-rally-102133642.html"
+    },
     {
      "t": "Extiende el desplome -13.26% en el segundo dia del selloff de chips (SOX -10.73%): se suma la preocupacion por la seguridad de su firmware y supuestos vinculos con firmas chinas vetadas, sobre el reporte corto de Hunterbrook del 19-nov. Perdida acumulada de dos dias ~-20%.",
      "s": "TradingKey / 24-7 Wall St.",
@@ -89,12 +95,6 @@
      "s": "TradingKey / Yahoo Finance",
      "d": "19-nov",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262313953-us-stock-nasdaq-falls-anthropic-ipo-debut-amd-short-report-tradingkey"
-    },
-    {
-     "t": "Sube ~+2.9% en premarket tras el beat & raise de NVIDIA, pero el complejo de chips cede gran parte de las ganancias durante la sesion al reenfocarse el mercado en el costo de financiar la IA.",
-     "s": "BNN Bloomberg",
-     "d": "18-nov",
-     "u": "https://www.bnnbloomberg.ca/investing/2026/11/18/ai-stocks-rally-as-nvidia-outlook-calms-demand-fears/"
     }
    ]
   },
@@ -102,6 +102,12 @@
    "trend": "Acuerdo para ADQUIRIR Lumentum (LITE) por ~$115B en acciones (anunciado 2-nov; 4.50 MRVL por accion LITE; cierre esperado 1S2028): crea un lider en conectividad para IA (optica + silicio a medida); de fondo, 'custom silicon' y el debate 'crecimiento vs margen'",
    "peak": "2-nov: anuncio de la adquisicion de Lumentum por ~$115B en acciones",
    "news": [
+    {
+     "t": "Rebota con el complejo de semiconductores/optica por el regreso de Huang a NVIDIA; Lumentum (LITE), su objetivo de adquisicion, salta ~+18%.",
+     "s": "The Motley Fool",
+     "d": "23-nov",
+     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"
+    },
     {
      "t": "Acompana el desplome del complejo de semiconductores (SOX -10.73%, sus 30 componentes en rojo) en el segundo dia de la venta del 'AI trade'.",
      "s": "TradingKey / Yahoo Finance",
@@ -113,12 +119,6 @@
      "s": "Yahoo Finance",
      "d": "19-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
-    },
-    {
-     "t": "Acompana el rebote premarket de los semiconductores/optica para IA tras el beat de NVIDIA (Lumentum, su objetivo de adquisicion, entre la fotonica que sube +3-6% en premarket); las ganancias pierden fuerza durante la sesion.",
-     "s": "BNN Bloomberg",
-     "d": "18-nov",
-     "u": "https://www.bnnbloomberg.ca/investing/2026/11/18/ai-stocks-rally-as-nvidia-outlook-calms-demand-fears/"
     }
    ]
   },
@@ -126,6 +126,12 @@
    "trend": "'Intel government stake', alianza con Oracle (Xeon/X14), '18A', 'turnaround'",
    "peak": "Resultados 29-oct (AMC): -18%",
    "news": [
+    {
+     "t": "Rebota con el complejo de chips en el rally del 'AI trade' por el regreso de Huang a NVIDIA.",
+     "s": "Yahoo Finance",
+     "d": "23-nov",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/u-chip-neocloud-stocks-rally-102133642.html"
+    },
     {
      "t": "Cae -7.82% en el desplome del complejo de chips (SOX -10.73%, sus 30 componentes en rojo).",
      "s": "TradingKey",
@@ -137,12 +143,6 @@
      "s": "Yahoo Finance",
      "d": "19-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
-    },
-    {
-     "t": "Sube ~+1.8% en premarket con el grupo de chips tras el beat de NVIDIA.",
-     "s": "BNN Bloomberg",
-     "d": "18-nov",
-     "u": "https://www.bnnbloomberg.ca/investing/2026/11/18/ai-stocks-rally-as-nvidia-outlook-calms-demand-fears/"
     }
    ]
   },
@@ -150,6 +150,12 @@
    "trend": "'100 trillion won', 'supera a NVIDIA', HBM4/Vera Rubin, superciclo de memoria",
    "peak": "Preliminar del 8-oct (titular global)",
    "news": [
+    {
+     "t": "Lectura cruzada positiva: SK Hynix sube ~+9% con el rebote de la memoria/chips tras el regreso de Huang a NVIDIA.",
+     "s": "Yahoo Finance",
+     "d": "23-nov",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html"
+    },
     {
      "t": "Lectura cruzada positiva: SK Hynix se dispara +13.3% tras resultados record del 3T (DRAM/HBM 'agotados' hasta 2029), reforzando el superciclo de memoria que beneficia a Samsung",
      "s": "The Motley Fool",
@@ -161,17 +167,19 @@
      "s": "TheStreet / CNN",
      "d": "15-oct",
      "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-15-2026"
-    },
-    {
-     "t": "3T preliminar record: supera 100 bill. de won de utilidad operativa; HBM4 calificado para Vera Rubin/MI455X",
-     "s": "prensa"
     }
    ]
   },
   "MU": {
    "trend": "'superciclo', 'HBM sold out', 'memory bottom' (BofA); debate pico vs estructural",
-   "peak": "20-nov: -13.86%, lidera la caida de la memoria (SOX -10.73%)",
+   "peak": "23-nov: +19% por acuerdos plurianuales de memoria (rebote); 20-nov: -13.86% (desplome)",
    "news": [
+    {
+     "t": "Se dispara ~+19% liderando el rebote de la memoria: reporta nuevos acuerdos PLURIANUALES de suministro de memoria con clientes; Citi senala que terminar el financiamiento de NVIDIA recortaria la demanda de DRAM solo ~12%. El regreso de Huang calma los temores sobre el gasto en IA.",
+     "s": "The Motley Fool / Yahoo Finance",
+     "d": "23-nov",
+     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-micron-surges-19-as-nvidia-ceo-change-calms-ai-spending-fears/"
+    },
     {
      "t": "Lidera la caida de la memoria con -13.86% en el desplome del complejo de chips (SOX -10.73%, sus 30 componentes en rojo); el grupo de semiconductores encara su peor semana desde 2001.",
      "s": "TradingKey",
@@ -183,12 +191,6 @@
      "s": "Yahoo Finance",
      "d": "19-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
-    },
-    {
-     "t": "Sube ~+3.2% en premarket con el complejo de memoria tras el beat de NVIDIA; las ganancias se moderan durante la sesion de dudas sobre el gasto en IA.",
-     "s": "BNN Bloomberg",
-     "d": "18-nov",
-     "u": "https://www.bnnbloomberg.ca/investing/2026/11/18/ai-stocks-rally-as-nvidia-outlook-calms-demand-fears/"
     }
    ]
   },
@@ -196,6 +198,12 @@
    "trend": "'NAND shortage', 'SSD pricing', cruce con Micron/Samsung/SK Hynix",
    "peak": "Reportes de pricing de memoria",
    "news": [
+    {
+     "t": "Rebota fuerte (~+22%) con el complejo de memoria/almacenamiento tras el regreso de Huang a NVIDIA (Seagate ~+18%, Micron ~+19%); actividad de opciones extrema (calls 2.3x y puts 2.6x su promedio).",
+     "s": "24-7 Wall St.",
+     "d": "23-nov",
+     "u": "https://247wallst.com/investing/2026/11/23/sandisk-surges-22-as-jensen-huangs-return-to-nvidia-sparks-ai-chip-rebound-seagate-jumps-18-micron-rallies-16/"
+    },
     {
      "t": "Acompana el desplome del complejo de memoria/almacenamiento (SOX -10.73%, sus 30 componentes en rojo; Micron -13.86%) en la peor semana de los chips desde 2001.",
      "s": "TradingKey",
@@ -207,12 +215,6 @@
      "s": "Yahoo Finance",
      "d": "19-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
-    },
-    {
-     "t": "Sube ~+3.6% en premarket liderando el rebote del almacenamiento/memoria tras el beat de NVIDIA.",
-     "s": "BNN Bloomberg",
-     "d": "18-nov",
-     "u": "https://www.bnnbloomberg.ca/investing/2026/11/18/ai-stocks-rally-as-nvidia-outlook-calms-demand-fears/"
     }
    ]
   },
@@ -220,6 +222,12 @@
    "trend": "'HDD comeback', 'nearline demand', 'HAMR', cruce con Seagate",
    "peak": "Upgrades de analistas y datos de pricing",
    "news": [
+    {
+     "t": "Rebota con el complejo de almacenamiento/memoria en el rally liderado por NVIDIA (Seagate ~+18%, SanDisk ~+22%).",
+     "s": "24-7 Wall St.",
+     "d": "23-nov",
+     "u": "https://247wallst.com/investing/2026/11/23/sandisk-surges-22-as-jensen-huangs-return-to-nvidia-sparks-ai-chip-rebound-seagate-jumps-18-micron-rallies-16/"
+    },
     {
      "t": "Acompana el desplome del complejo de memoria/almacenamiento (SOX -10.73%, sus 30 componentes en rojo) en el segundo dia de la venta del 'AI trade'.",
      "s": "TradingKey",
@@ -231,12 +239,6 @@
      "s": "Yahoo Finance",
      "d": "19-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
-    },
-    {
-     "t": "Sube ~+3.1% en premarket con el complejo de almacenamiento tras el beat de NVIDIA.",
-     "s": "BNN Bloomberg",
-     "d": "18-nov",
-     "u": "https://www.bnnbloomberg.ca/investing/2026/11/18/ai-stocks-rally-as-nvidia-outlook-calms-demand-fears/"
     }
    ]
   },
@@ -255,6 +257,12 @@
    "peak": "Resultados 28-oct (AMC): Azure +48%",
    "news": [
     {
+     "t": "Sube ~+1.6% (a ~$492.50) con big tech en el rebote del 'AI trade'.",
+     "s": "The Motley Fool",
+     "d": "23-nov",
+     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"
+    },
+    {
      "t": "Cae con big tech en el segundo dia de la venta del 'AI trade' (Nasdaq Composite -5.28%, que borra toda su ganancia de 2026; S&P 500 en correccion).",
      "s": "TradingKey",
      "d": "20-nov",
@@ -265,12 +273,6 @@
      "s": "Yahoo Finance",
      "d": "19-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
-    },
-    {
-     "t": "Sube en premarket con los hyperscalers (grupo +0.4% a +2.8%) tras el beat de NVIDIA; big tech se modera en una sesion mixta (Nasdaq +0.4%, S&P -0.2%).",
-     "s": "BNN Bloomberg",
-     "d": "18-nov",
-     "u": "https://www.bnnbloomberg.ca/investing/2026/11/18/ai-stocks-rally-as-nvidia-outlook-calms-demand-fears/"
     }
    ]
   },
@@ -278,6 +280,12 @@
    "trend": "Berkshire Hathaway revela una nueva posicion (~$4.3B) en su 13F; 'Gemini 3', TPU de Google, Google Cloud, debate de gasto en IA",
    "peak": "16-nov: maximo historico tras conocerse la posicion de Berkshire Hathaway",
    "news": [
+    {
+     "t": "Sube ~+5.9% (a ~$279) con los hyperscalers en el rebote del 'AI trade' por el regreso de Huang.",
+     "s": "The Motley Fool",
+     "d": "23-nov",
+     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"
+    },
     {
      "t": "Jornada de fuerte aversion al riesgo (Nasdaq -5.28%); de fondo, prensa coreana reporta que Google busca comprar HBM directamente para sus TPU (Bernstein estima ahorros de ~$50B en la vida del producto), reforzando su tesis de silicio propio.",
      "s": "TradingKey",
@@ -289,12 +297,6 @@
      "s": "Yahoo Finance",
      "d": "19-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
-    },
-    {
-     "t": "Sube en premarket con los hyperscalers (grupo +0.4% a +2.8%) tras el beat de NVIDIA, reforzada por la tesis de su silicio propio (TPU); las ganancias se moderan en la sesion.",
-     "s": "BNN Bloomberg",
-     "d": "18-nov",
-     "u": "https://www.bnnbloomberg.ca/investing/2026/11/18/ai-stocks-rally-as-nvidia-outlook-calms-demand-fears/"
     }
    ]
   },
@@ -302,6 +304,12 @@
    "trend": "'OpenAI $38B AWS deal', 'AWS +39%', 'Trainium', capex ~$220B, debate aceleracion de nube vs cash burn",
    "peak": "2-nov: maximo historico por el acuerdo con OpenAI",
    "news": [
+    {
+     "t": "Sube ~+3.5% (a ~$255) con los hyperscalers en el rebote del 'AI trade'.",
+     "s": "The Motley Fool",
+     "d": "23-nov",
+     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"
+    },
     {
      "t": "Cae con big tech en el segundo dia de la venta del 'AI trade' (Nasdaq -5.28%, S&P 500 en correccion).",
      "s": "TradingKey",
@@ -313,12 +321,6 @@
      "s": "Yahoo Finance",
      "d": "19-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
-    },
-    {
-     "t": "Sube en premarket con los hyperscalers (grupo +0.4% a +2.8%) tras el beat de NVIDIA; big tech se modera en una sesion mixta.",
-     "s": "BNN Bloomberg",
-     "d": "18-nov",
-     "u": "https://www.bnnbloomberg.ca/investing/2026/11/18/ai-stocks-rally-as-nvidia-outlook-calms-demand-fears/"
     }
    ]
   },
@@ -326,6 +328,12 @@
    "trend": "'Meta superintelligence', NVIDIA $3B + AMD $1B en su oferta, capex al alza, debate ROI",
    "peak": "Fichajes de IA y guia de capex",
    "news": [
+    {
+     "t": "Sube ~+6.6% (a ~$598) con big tech en el rebote del 'AI trade'.",
+     "s": "The Motley Fool",
+     "d": "23-nov",
+     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"
+    },
     {
      "t": "Cae con big tech en el segundo dia de la venta del 'AI trade' (Nasdaq -5.28%, S&P 500 en correccion).",
      "s": "TradingKey",
@@ -337,19 +345,19 @@
      "s": "Yahoo Finance",
      "d": "19-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
-    },
-    {
-     "t": "Sube en premarket con los hyperscalers (grupo +0.4% a +2.8%) tras el beat de NVIDIA; big tech se modera en una sesion mixta.",
-     "s": "BNN Bloomberg",
-     "d": "18-nov",
-     "u": "https://www.bnnbloomberg.ca/investing/2026/11/18/ai-stocks-rally-as-nvidia-outlook-calms-demand-fears/"
     }
    ]
   },
   "CRWV": {
    "trend": "El alivio del 3T (10-nov, +21% el 11-nov) se evaporo: el foco vuelve a su elevada carga de deuda y necesidades de financiamiento; nuevo minimo de 52 semanas el 20-nov.",
-   "peak": "20-nov: ~-12% a nuevo minimo de 52 semanas; 11-nov: +21% tras el 3T",
+   "peak": "23-nov: ~+22% (llego a +30% intradia) por el regreso de Huang; 20-nov: ~-12% a minimo de 52 semanas",
    "news": [
+    {
+     "t": "Rebota ~+22% (llego a +30% intradia) con el regreso de Huang a NVIDIA, recuperando parte del desplome; Nebius (NBIS) tambien +20%.",
+     "s": "The Motley Fool / Yahoo Finance",
+     "d": "23-nov",
+     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"
+    },
     {
      "t": "Se desploma ~12% a un nuevo minimo de 52 semanas en el segundo dia del selloff tecnologico, al volver el foco a su elevada carga de deuda y a sus necesidades de financiamiento.",
      "s": "GuruFocus",
@@ -361,12 +369,6 @@
      "s": "Yahoo Finance",
      "d": "19-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
-    },
-    {
-     "t": "Se hunde -4.13% a $47.83 (volumen ~28% sobre su promedio de 3 meses): el salto de ~+4.5% en premarket por el blowout de NVIDIA se evaporo al reenfocarse el mercado en su elevada carga de deuda y sus necesidades de financiamiento, con el Treasury a 10 anos sobre 5%.",
-     "s": "Motley Fool / StockTitan",
-     "d": "18-nov",
-     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-coreweave-slides-as-nvidia-s-blowout-earnings-fail-to-ease-debt-concerns/"
     }
    ]
   },
@@ -374,6 +376,12 @@
    "trend": "'IREN AI pivot', 'Bitcoin miner to AI', 'data center power'",
    "peak": "Anuncios de contratos de IA Cloud",
    "news": [
+    {
+     "t": "Rebota con el grupo de 'neoclouds'/data center en el rally del 'AI trade' por el regreso de Huang (Nebius +20%, CoreWeave +22%).",
+     "s": "Yahoo Finance",
+     "d": "23-nov",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/u-chip-neocloud-stocks-rally-102133642.html"
+    },
     {
      "t": "Cae con el grupo de 'neoclouds'/mineros en el segundo dia del selloff: los mineros de Bitcoin perdieron ~12-13% con el BTC hundiendose bajo $59,000.",
      "s": "Yahoo Finance",
@@ -385,12 +393,6 @@
      "s": "Yahoo Finance",
      "d": "19-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
-    },
-    {
-     "t": "Cae ~3.6% a $15.24 con el grupo de 'neoclouds'/data center, arrastrada por el retroceso de CoreWeave cuando el mercado reenfoca en el costo de financiar la infraestructura de IA.",
-     "s": "StockTitan",
-     "d": "18-nov",
-     "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
     }
    ]
   },
@@ -398,6 +400,12 @@
    "trend": "'Starlink subscribers', $40B de deuda para GPUs, posible fusion SpaceX-Tesla",
    "peak": "Pruebas de Starship y noticias de Starlink",
    "news": [
+    {
+     "t": "Sube ~+4.4% en el rebote general del mercado (Dow +3%) por el regreso de Huang a NVIDIA.",
+     "s": "The Motley Fool",
+     "d": "23-nov",
+     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"
+    },
     {
      "t": "Cae -3.70% en la jornada de fuerte aversion al riesgo (Dow -2.19%); de fondo, el retail canalizo compras record hacia el estreno bursatil de Anthropic (ANT).",
      "s": "Yahoo Finance",
@@ -409,12 +417,6 @@
      "s": "Yahoo Finance / Bloomberg",
      "d": "12-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
-    },
-    {
-     "t": "Cae ~1.4% desmarcandose del rebote general, antes de la mision Starship Flight 15 prevista para el 13-nov.",
-     "s": "TheStreet",
-     "d": "11-nov",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
     }
    ]
   },
@@ -433,6 +435,12 @@
    "peak": "Resultados 3T (2-nov AMC): beat & raise con reaccion negativa",
    "news": [
     {
+     "t": "Rebota con el 'AI trade' en el rally por el regreso de Huang a NVIDIA, recuperando parte de la correccion por valuacion.",
+     "s": "CNN",
+     "d": "23-nov",
+     "u": "https://www.cnn.com/2026/11/23/markets/us-stocks-rebound-intl"
+    },
+    {
      "t": "Cae ~5.5% en el segundo dia del selloff tecnologico (Nasdaq -5.28%), castigada por valuacion junto al resto del 'AI trade'.",
      "s": "Global Banking & Finance",
      "d": "20-nov",
@@ -443,12 +451,6 @@
      "s": "Yahoo Finance",
      "d": "5-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
-    },
-    {
-     "t": "Extiende la caida ~7.9% pese al blowout del 3T, castigada por la valuacion (~294x beneficios futuros, +174% en el ano) en plena jornada de temores de burbuja de IA. Goldman Sachs sube su PT a $188 (desde $141, mantiene Neutral)",
-     "s": "Kiplinger / 24-7 Wall St.",
-     "d": "3-nov",
-     "u": "https://www.kiplinger.com/investing/stocks/stocks-retreat-as-bubble-worries-ramp-up-stock-market-today"
     }
    ]
   },
@@ -527,6 +529,12 @@
    "peak": "Resultados 29-oct (AMC)",
    "news": [
     {
+     "t": "Sube ~+6.7% (a ~$109) con el rebote del Bitcoin sobre $61,000 (desde un minimo de ~$55,149 el sabado); aun ~-39% en el mes.",
+     "s": "24-7 Wall St.",
+     "d": "23-nov",
+     "u": "https://247wallst.com/investing/2026/11/23/strategy-is-still-down-45-in-a-month-can-mstr-stock-revisit-150-as-bitcoin-holds-60000/"
+    },
+    {
      "t": "Cae ~2% presionada por el desplome del Bitcoin bajo $59,000 (~$58,000, -6/-7%; ~$1.53B en liquidaciones en 24h, $1.4B de ellas en largos).",
      "s": "Yahoo Finance",
      "d": "20-nov",
@@ -537,19 +545,19 @@
      "s": "Yahoo Finance",
      "d": "19-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
-    },
-    {
-     "t": "Cae con la debilidad del Bitcoin, que pierde los $94,000 (llego bajo $92,000), ~25% por debajo de su record del 6-oct (sobre $126,000); ~$19B en posiciones apalancadas se liquidaron en octubre.",
-     "s": "MarketPulse / Yahoo Finance",
-     "d": "16-nov",
-     "u": "https://www.marketpulse.com/markets/bitcoin-drops-below-95000-market-under-pressure-as-investor-confidence-wanes/"
     }
    ]
   },
   "MSTR": {
    "trend": "'Saylor', 'MSTR Bitcoin', 'mNAV premium', debate sostenibilidad del apalancamiento",
-   "peak": "20-nov: ~-6.6% con el BTC bajo $59,000",
+   "peak": "23-nov: ~+9% con el BTC de regreso sobre $61,000 (aun -45% en el mes)",
    "news": [
+    {
+     "t": "Sube ~+9% (a ~$85) con el Bitcoin de regreso sobre $61,000; aun -45% en el mes. La junta elevo a $4,000M (desde $3,000M) la autorizacion de recompra de preferentes (8-K del 23-nov).",
+     "s": "24-7 Wall St.",
+     "d": "23-nov",
+     "u": "https://247wallst.com/investing/2026/11/23/strategy-is-still-down-45-in-a-month-can-mstr-stock-revisit-150-as-bitcoin-holds-60000/"
+    },
     {
      "t": "Cae ~6.6% con el desplome del Bitcoin bajo $59,000 (~$58,000): su apuesta apalancada al BTC acumula -44% en el mes y la accion cotiza bajo $100 (mNAV ~1x).",
      "s": "Yahoo Finance",
@@ -561,12 +569,6 @@
      "s": "Yahoo Finance",
      "d": "19-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
-    },
-    {
-     "t": "Presionada por la fuerte caida del Bitcoin (<$94,000, ~25% debajo de su maximo de octubre), que castiga su apuesta apalancada al BTC.",
-     "s": "Yahoo Finance",
-     "d": "16-nov",
-     "u": "https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944169.html"
     }
    ]
   },
@@ -599,6 +601,12 @@
    "peak": "Anuncios de PPAs y avances regulatorios",
    "news": [
     {
+     "t": "Rebota con el complejo de energia/grid para IA en el rally por el regreso de Huang a NVIDIA.",
+     "s": "24-7 Wall St.",
+     "d": "23-nov",
+     "u": "https://247wallst.com/investing/2026/11/23/energy-fuels-surges-8-on-plan-to-produce-1-million-pounds-of-uranium-oklo-climbs-7-nuscale-power-gains-6/"
+    },
+    {
      "t": "Cae ~4% (a ~$242.83, -31% YTD): la venta alcanza al mayor operador nuclear de EE.UU. pese a que el sector de utilities cotiza al alza.",
      "s": "24-7 Wall St.",
      "d": "20-nov",
@@ -609,12 +617,6 @@
      "s": "TheStreet",
      "d": "11-nov",
      "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
-    },
-    {
-     "t": "Cae ~3% con el complejo de energia nuclear/data center en la jornada de aversion al riesgo",
-     "s": "Yahoo Finance",
-     "d": "5-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
     }
    ]
   },
@@ -622,6 +624,12 @@
    "trend": "'Vistra nuclear', 'data center PPA', 'ERCOT power'",
    "peak": "Anuncios de PPAs y datos de demanda",
    "news": [
+    {
+     "t": "Rebota con el complejo de energia para data centers de IA en el rally por el regreso de Huang.",
+     "s": "24-7 Wall St.",
+     "d": "23-nov",
+     "u": "https://247wallst.com/investing/2026/11/23/energy-fuels-surges-8-on-plan-to-produce-1-million-pounds-of-uranium-oklo-climbs-7-nuscale-power-gains-6/"
+    },
     {
      "t": "Rebota con el complejo de energia para data centers de IA en la recuperacion del grupo tras la caida del 10-nov.",
      "s": "TheStreet",
@@ -633,10 +641,6 @@
      "s": "Yahoo Finance",
      "d": "5-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
-    },
-    {
-     "t": "PPAs nucleares de 20 anos con Meta; Cogentrix suma 5.5 GW de gas; >$10 bn de caja 26-27",
-     "s": "IR"
     }
    ]
   },
@@ -644,6 +648,12 @@
    "trend": "'gas turbine shortage', backlog ~$200B, compra Trench $9B, 'power demand AI'",
    "peak": "10-nov: cargo de SoftBank ($3.7B) y modificacion de contratos (-7%)",
    "news": [
+    {
+     "t": "Rebota con el complejo de energia/data center para IA en el rally por el regreso de Huang.",
+     "s": "The Motley Fool",
+     "d": "23-nov",
+     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"
+    },
     {
      "t": "Rebota con el complejo de energia/data center para IA tras el desplome del 10-nov por el cargo de SoftBank, en la recuperacion general del grupo.",
      "s": "TheStreet",
@@ -655,12 +665,6 @@
      "s": "TheStreet",
      "d": "10-nov",
      "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
-    },
-    {
-     "t": "Cae ~8% en el selloff del complejo de energia/data center de IA pese a su backlog record (~$200B) y la subida de guia del 3T",
-     "s": "Yahoo Finance",
-     "d": "5-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
     }
    ]
   },
@@ -668,6 +672,12 @@
    "trend": "'data center power', 'electrification', 'Eaton backlog'",
    "peak": "Datos de backlog/capex de hyperscalers",
    "news": [
+    {
+     "t": "Rebota con los nombres de energia/electrificacion para data centers en el rally del 'AI trade'.",
+     "s": "The Motley Fool",
+     "d": "23-nov",
+     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"
+    },
     {
      "t": "Rebota con los nombres de energia/electrificacion para data centers en la recuperacion del complejo de IA.",
      "s": "TheStreet",
@@ -679,10 +689,6 @@
      "s": "Yahoo Finance",
      "d": "5-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
-    },
-    {
-     "t": "Ordenes de data center +85%, backlog +43%; separa negocio de Mobility",
-     "s": "IR"
     }
    ]
   },
@@ -690,6 +696,12 @@
    "trend": "'liquid cooling', 'Vertiv AI', 'data center capex'",
    "peak": "Dia del salto +17% por demanda de IA",
    "news": [
+    {
+     "t": "Rebota con el complejo de energia/refrigeracion liquida para data centers de IA en el rally del 23-nov.",
+     "s": "The Motley Fool",
+     "d": "23-nov",
+     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"
+    },
     {
      "t": "Rebota con el complejo de energia/data center para IA en la recuperacion del grupo (Bloom Energy ~+14%), tras la fuerte caida del 10-nov.",
      "s": "TheStreet",
@@ -701,12 +713,6 @@
      "s": "Yahoo Finance",
      "d": "5-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
-    },
-    {
-     "t": "Salta casi +17%, de los mayores avances del dia, por pronosticos alcistas de demanda de infraestructura de IA a largo plazo; el volumen de calls fue ~2.5x su promedio",
-     "s": "The Motley Fool",
-     "d": "28-oct",
-     "u": "https://www.fool.com/coverage/stock-market-today/2026/10/28/stock-market-today-oct-28-markets-edge-higher-as-fed-holds-rates-steady/"
     }
    ]
   },
@@ -714,6 +720,12 @@
    "trend": "'Caterpillar data center', 'backup power', 'genset shortage'",
    "peak": "Resultados 29-oct (BMO): -9%",
    "news": [
+    {
+     "t": "Rebota con el complejo de energia/data center en el rebote general del mercado.",
+     "s": "The Motley Fool",
+     "d": "23-nov",
+     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"
+    },
     {
      "t": "Cae ~7% con el complejo de energia/data center en la correccion general del mercado",
      "s": "Yahoo Finance",
@@ -725,19 +737,19 @@
      "s": "24/7 Wall St. / The Motley Fool",
      "d": "29-oct",
      "u": "https://247wallst.com/investing/2026/10/29/caterpillar-beat-earnings-and-still-dropped-9-the-ai-power-trade-just-hit-the-same-wall-as-software/"
-    },
-    {
-     "t": "Reporta 3T manana 29-oct antes de la apertura; foco en gensets/turbinas para data centers ('bring your own power') y en la demanda de energia por IA",
-     "s": "Yahoo Finance / Kiplinger",
-     "d": "28-oct",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/dear-caterpillar-stock-fans-mark-141927161.html"
     }
    ]
   },
   "BE": {
    "trend": "'Bloom Energy data center', 'fuel cells', 'on-site power'",
-   "peak": "Cada anuncio de acuerdo",
+   "peak": "23-nov: ~+18% liderando la energia para IA (regreso de Huang)",
    "news": [
+    {
+     "t": "Salta ~+18% liderando la energia para IA en el rebote por el regreso de Huang a NVIDIA.",
+     "s": "The Motley Fool",
+     "d": "23-nov",
+     "u": "https://fool.com/investing/2026/11/23/why-bloom-energy-is-up-today"
+    },
     {
      "t": "Salta ~+14-16% liderando el rebote de la energia para IA: los resultados de CoreWeave alivian los temores sobre el financiamiento de los data centers.",
      "s": "Yahoo Finance / TheStreet",
@@ -749,12 +761,6 @@
      "s": "Yahoo Finance",
      "d": "5-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
-    },
-    {
-     "t": "Sube ~7.5% a mediodia, entre los mayores avances del S&P 500",
-     "s": "TheStreet",
-     "d": "26-oct",
-     "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-26-2026"
     }
    ]
   },
@@ -811,6 +817,12 @@
    "peak": "Acuerdos nucleares y datos de precio del uranio",
    "news": [
     {
+     "t": "Rebota con el complejo de uranio/nuclear en el rally del 'AI trade'.",
+     "s": "24-7 Wall St.",
+     "d": "23-nov",
+     "u": "https://247wallst.com/investing/2026/11/23/energy-fuels-surges-8-on-plan-to-produce-1-million-pounds-of-uranium-oklo-climbs-7-nuscale-power-gains-6/"
+    },
+    {
      "t": "Cae ~3% (a ~$59.57) cotizando con el grupo nuclear en la jornada de aversion al riesgo.",
      "s": "24-7 Wall St.",
      "d": "20-nov",
@@ -821,10 +833,6 @@
      "s": "Yahoo Finance",
      "d": "5-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
-    },
-    {
-     "t": "Uranio en maximos de 14 anos; subio dividendo 50%; 49% de Westinghouse",
-     "s": "IR"
     }
    ]
   },
@@ -832,6 +840,12 @@
    "trend": "'Oklo SMR', 'Sam Altman nuclear', 'NRC approval'",
    "peak": "Cada noticia regulatoria o de Altman",
    "news": [
+    {
+     "t": "Rebota con el complejo nuclear/SMR en el rally del 'AI trade' (Oklo, NuScale y Cameco suben con el regreso de Huang a NVIDIA).",
+     "s": "24-7 Wall St.",
+     "d": "23-nov",
+     "u": "https://247wallst.com/investing/2026/11/23/energy-fuels-surges-8-on-plan-to-produce-1-million-pounds-of-uranium-oklo-climbs-7-nuscale-power-gains-6/"
+    },
     {
      "t": "Resiste casi plana (~-0.1% a ~$20.82, -71% YTD) mientras el resto del complejo nuclear/SMR se vende con la aversion al riesgo.",
      "s": "24-7 Wall St.",
@@ -843,17 +857,19 @@
      "s": "Yahoo Finance",
      "d": "5-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
-    },
-    {
-     "t": "Micro-reactor Aurora (modelo PPA); HALEU via Centrus desde 2029; respaldo de Sam Altman",
-     "s": "IR"
     }
    ]
   },
   "SMR": {
    "trend": "'NuScale SMR', 'small modular reactor', 'nuclear AI'",
-   "peak": "20-nov: ~-9% (a ~$3.48) en el castigo al complejo nuclear/SMR",
+   "peak": "23-nov: rebota con el complejo nuclear/SMR; 20-nov: ~-9% (a ~$3.48)",
    "news": [
+    {
+     "t": "Rebota con el complejo nuclear/SMR en el rally del 'AI trade' por el regreso de Huang a NVIDIA.",
+     "s": "24-7 Wall St.",
+     "d": "23-nov",
+     "u": "https://247wallst.com/investing/2026/11/23/energy-fuels-surges-8-on-plan-to-produce-1-million-pounds-of-uranium-oklo-climbs-7-nuscale-power-gains-6/"
+    },
     {
      "t": "Se hunde ~9% (a ~$3.48, -75% YTD) al extenderse el selloff a las nucleares/SMR; la empresa sigue sin contratos vinculantes con clientes.",
      "s": "24-7 Wall St.",
@@ -865,12 +881,6 @@
      "s": "Yahoo Finance",
      "d": "5-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
-    },
-    {
-     "t": "Barclays la baja a Underweight por retrasos comerciales e incertidumbre en contratos (sector SMR/nuclear bajo presion)",
-     "s": "Investrade",
-     "d": "20-oct",
-     "u": "https://investrade.com/market-review-october-20-2026/"
     }
    ]
   },
@@ -878,6 +888,12 @@
    "trend": "Resultados 3T (10-nov): ingresos +49% pero recorte de guia de EBITDA; tension short (~23%)/retail y actividad de opciones extrema; 'GLP-1'/semaglutida y alianza con Eli Lilly de fondo",
    "peak": "10-nov: resultados 3T + recorte de guia EBITDA (-16.5%)",
    "news": [
+    {
+     "t": "Wall Street Zen la BAJA a 'Sell' (21-nov); de fondo, tension short (~23%)/retail tras el recorte de guia de EBITDA del 3T (10-nov) y su alianza con Eli Lilly.",
+     "s": "MarketBeat / Defense World",
+     "d": "21-nov",
+     "u": "https://www.marketbeat.com/instant-alerts/analyst-hims-hers-health-nyse-hims-cut-to-sell-at-wall-street-zen-2026-11-21/"
+    },
     {
      "t": "Se desploma ~16.5% tras reportar el 3T: ingresos +49% a $890.4M pero RECORTA su guia de EBITDA ajustado 2026 a $257-277M. El volumen de puts salto ~3.7x y el de calls ~2.4x su promedio (actividad de opciones extrema); el interes corto venia alto (~23%).",
      "s": "StockTitan",
@@ -889,12 +905,6 @@
      "s": "Yahoo Finance",
      "d": "9-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
-    },
-    {
-     "t": "Sube ~+5% tras ampliar su alianza con Eli Lilly: podra vender directamente en su plataforma Zepbound, KwikPen y Foundayo (acceso a los GLP-1 de Lilly). La IV implicita salta a ~96% anual (vs HV 72%)",
-     "s": "Rallies.ai / TheStreet",
-     "d": "6-nov",
-     "u": "https://rallies.ai/news/eli-lilly-expands-hims-hers-partnership-with-zepbound-kwikpen-and-foundayo-access"
     }
    ]
   },
