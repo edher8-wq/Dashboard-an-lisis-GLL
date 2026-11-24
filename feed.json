@@ -1,11 +1,17 @@
 {
- "updated": "23-nov",
- "note": "Refresco diario. Jornada del 23-nov (lunes): REBOTE HISTORICO del 'AI trade'. La junta de NVIDIA REINCORPORA a Jensen Huang como presidente, CEO y director (efectivo de inmediato), 11 dias despues de su renuncia y tras la presion publica del presidente Trump; la accion se dispara ~+31.5% (a ~$165) y la junta afirma que el movimiento 'no representa riesgo de seguridad nacional'. El Nasdaq Composite salta +6.5% (24,090), su mejor dia desde abril de 2025; el S&P 500 +4.7% (7,237) SALE de territorio de correccion tras 7 bajas seguidas; el Dow +3.0% (+1,448 pts, 49,595). El QQQ abrio casi +8% (su mayor salto de apertura desde su debut en 1999). El rebote lo lideran chips y memoria: Micron +19% (acuerdos plurianuales de suministro de memoria; nota de Citi), SanDisk ~+22%, CoreWeave +22%; Bloom Energy +18%. El VIX se desploma ~-24% (a ~27). Bitcoin rebota sobre $61,000 (desde un minimo de ~$55,149 el sabado), aliviando a COIN (+7%) y MSTR (+9%). Nomura (McElligott) advierte que es un 'mechanical bounce' por recompra de cortos y desarme de coberturas de dealers, no un giro de fundamentales. Veraz: se actualizaron con fuentes del 23-nov los nombres con dato confirmado y se conservo el research previo en el resto.",
+ "updated": "24-nov",
+ "note": "Refresco diario. Jornada del 24-nov (martes): RESACA del rebote historico del lunes. El 'AI trade' pierde impulso. NVIDIA cae ~8% (devuelve ~$240,000M de valor de mercado) pese a que Melius Research la SUBE a 'Buy'. El Nasdaq Composite retrocede ~2.2% (~23,549) y el S&P 500 ~1.0% (~7,166), mientras el Dow aguanta en verde (~+0.3/+0.5%, ~49,715-49,846) por rotacion a defensivos (salud lidera). Renovada presion en semiconductores: Micron se desploma ~11-12% despues de que BNP Paribas (Exane) la BAJARA de 'Outperform' a 'Neutral' y recortara con fuerza su precio objetivo (~-$1,000) por riesgos de capacidad de los hyperscalers hacia 2028 y recortes de memoria en data centers. El oro cae ~2.3% ($3,568) y el Tesoro a 10 anos ronda ~4.9-5%. Bitcoin vuelve a caer bajo $60,000 (~$59,663, -2.8%), presionando a COIN y MSTR. Fuera del tablero destacan Analog Devices (ADI ~-17/-19% por guia floja), Kohl's (KSS ~+15/+17% por beat) y Pinterest (PINS ~+10/+12%). De fondo: sanciones a Iran/Estrecho de Ormuz presionan el petroleo y el reporte de inflacion PCE llega el miercoles 25-nov. Veraz: cifras intradia (~11:31 ET) de fuentes del 24-nov; se conservo el research previo donde no hubo novedad confirmada.",
  "tickers": {
   "NVDA": {
-   "trend": "Regreso de Jensen Huang como CEO (23-nov) tras su salida del 12-nov y la revision contable de la SEC; recupera parte del desplome del mes (-37% previo).",
+   "trend": "Devuelve parte del salto del lunes: resaca tras el regreso de Jensen Huang (23-nov, +31.5%); Melius Research la sube a 'Buy' (24-nov) pero el 'AI trade' se enfria de nuevo.",
    "peak": "23-nov: ~+31.5% (~$165) por la reincorporacion de Jensen Huang como CEO",
    "news": [
+    {
+     "t": "Cae ~8% (a ~$152, devolviendo ~$240,000M de valor) mientras el rebote historico del lunes pierde impulso y vuelve la presion sobre los semiconductores. En paralelo, Melius Research la SUBE a 'Buy' (upgrade).",
+     "s": "The Motley Fool / Defense World",
+     "d": "24-nov",
+     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-midday-nov-24-nvidia-drops-9-as-wall-street-s-historic-ai-rally-loses-momentum/"
+    },
     {
      "t": "La junta REINCORPORA a Jensen Huang como presidente, CEO y director (efectivo de inmediato), 11 dias despues de su renuncia y tras la presion publica de Trump; la junta afirma que 'no representa riesgo de seguridad nacional'. La accion se dispara ~+31.5% (a ~$165). Nomura (McElligott) lo llama 'mechanical bounce' por recompra de cortos y desarme de coberturas de dealers.",
      "s": "Yahoo Finance / CNN",
@@ -17,12 +23,6 @@
      "s": "TradingKey / Reuters",
      "d": "20-nov",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262316111-nasdaq-falls-ai-stock-selloff-nvidia-sec-probe-tradingkey"
-    },
-    {
-     "t": "Cae ~3% en una jornada de fuerte venta del 'AI trade': el retail freno sus compras de NVIDIA y roto hacia el estreno bursatil de Anthropic (ANT). El SOX cae -2.41% (27 de 30 componentes en rojo) en la resaca del beat & raise del 3T.",
-     "s": "Yahoo Finance",
-     "d": "19-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
     }
    ]
   },
@@ -171,9 +171,15 @@
    ]
   },
   "MU": {
-   "trend": "'superciclo', 'HBM sold out', 'memory bottom' (BofA); debate pico vs estructural",
-   "peak": "23-nov: +19% por acuerdos plurianuales de memoria (rebote); 20-nov: -13.86% (desplome)",
+   "trend": "BNP Paribas (Exane) la baja de 'Outperform' a 'Neutral' (24-nov) por riesgos de capacidad de hyperscalers a 2028; antes, 'superciclo'/'HBM sold out' y el salto del lunes (+19%).",
+   "peak": "24-nov: ~-11/-12% por el downgrade de BNP Paribas; 23-nov: +19% (rebote)",
    "news": [
+    {
+     "t": "Se desploma ~11-12% (hacia el soporte de ~$600): BNP Paribas (Exane) la BAJA de 'Outperform' a 'Neutral' y recorta con fuerza su precio objetivo (~-$1,000), citando riesgos en los planes de capacidad de los hyperscalers hacia 2028 y posibles recortes de memoria en data centers. Borra el salto de +19% del lunes.",
+     "s": "Investing.com / Seeking Alpha / MarketBeat",
+     "d": "24-nov",
+     "u": "https://www.marketbeat.com/instant-alerts/analyst-micron-technology-nasdaq-mu-rating-lowered-to-neutral-at-bnp-paribas-exane-2026-11-24/"
+    },
     {
      "t": "Se dispara ~+19% liderando el rebote de la memoria: reporta nuevos acuerdos PLURIANUALES de suministro de memoria con clientes; Citi senala que terminar el financiamiento de NVIDIA recortaria la demanda de DRAM solo ~12%. El regreso de Huang calma los temores sobre el gasto en IA.",
      "s": "The Motley Fool / Yahoo Finance",
@@ -185,12 +191,6 @@
      "s": "TradingKey",
      "d": "20-nov",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262316111-nasdaq-falls-ai-stock-selloff-nvidia-sec-probe-tradingkey"
-    },
-    {
-     "t": "Pierde las ganancias previas con el complejo de memoria/chips (junto con SK Hynix) en la jornada de venta del 'AI trade' (SOX -2.41%).",
-     "s": "Yahoo Finance",
-     "d": "19-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
     }
    ]
   },
@@ -257,6 +257,12 @@
    "peak": "Resultados 28-oct (AMC): Azure +48%",
    "news": [
     {
+     "t": "Aguanta casi plana (~+0.1%, ~$493) resistiendo mejor que el resto de big tech en la caida del martes.",
+     "s": "The Motley Fool",
+     "d": "24-nov",
+     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-midday-nov-24-nvidia-drops-9-as-wall-street-s-historic-ai-rally-loses-momentum/"
+    },
+    {
      "t": "Sube ~+1.6% (a ~$492.50) con big tech en el rebote del 'AI trade'.",
      "s": "The Motley Fool",
      "d": "23-nov",
@@ -267,12 +273,6 @@
      "s": "TradingKey",
      "d": "20-nov",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262316111-nasdaq-falls-ai-stock-selloff-nvidia-sec-probe-tradingkey"
-    },
-    {
-     "t": "Cae con big tech en la jornada de fuerte venta del 'AI trade' (Nasdaq -2.25%) desatada por el estreno bursatil de Anthropic.",
-     "s": "Yahoo Finance",
-     "d": "19-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
     }
    ]
   },
@@ -280,6 +280,12 @@
    "trend": "Berkshire Hathaway revela una nueva posicion (~$4.3B) en su 13F; 'Gemini 3', TPU de Google, Google Cloud, debate de gasto en IA",
    "peak": "16-nov: maximo historico tras conocerse la posicion de Berkshire Hathaway",
    "news": [
+    {
+     "t": "Retrocede ~1.7% (~$275) devolviendo parte del rebote del lunes en la jornada de aversion al riesgo (Nasdaq ~-2.2%).",
+     "s": "The Motley Fool",
+     "d": "24-nov",
+     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-midday-nov-24-nvidia-drops-9-as-wall-street-s-historic-ai-rally-loses-momentum/"
+    },
     {
      "t": "Sube ~+5.9% (a ~$279) con los hyperscalers en el rebote del 'AI trade' por el regreso de Huang.",
      "s": "The Motley Fool",
@@ -291,12 +297,6 @@
      "s": "TradingKey",
      "d": "20-nov",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262316111-nasdaq-falls-ai-stock-selloff-nvidia-sec-probe-tradingkey"
-    },
-    {
-     "t": "Resiste mejor que el mercado (~+0.7% intradia antes de moderar) como inversionista revelado de Anthropic, cuyo estreno bursatil domina la sesion; big tech en una jornada de fuerte aversion al riesgo (Nasdaq -2.25%).",
-     "s": "Yahoo Finance",
-     "d": "19-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
     }
    ]
   },
@@ -304,6 +304,12 @@
    "trend": "'OpenAI $38B AWS deal', 'AWS +39%', 'Trainium', capex ~$220B, debate aceleracion de nube vs cash burn",
    "peak": "2-nov: maximo historico por el acuerdo con OpenAI",
    "news": [
+    {
+     "t": "Retrocede ~1.7% (~$251) con big tech en la resaca del rebote del lunes (Nasdaq ~-2.2%).",
+     "s": "The Motley Fool",
+     "d": "24-nov",
+     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-midday-nov-24-nvidia-drops-9-as-wall-street-s-historic-ai-rally-loses-momentum/"
+    },
     {
      "t": "Sube ~+3.5% (a ~$255) con los hyperscalers en el rebote del 'AI trade'.",
      "s": "The Motley Fool",
@@ -315,12 +321,6 @@
      "s": "TradingKey",
      "d": "20-nov",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262316111-nasdaq-falls-ai-stock-selloff-nvidia-sec-probe-tradingkey"
-    },
-    {
-     "t": "Cae ~0.9% intradia resistiendo mejor que el mercado como inversionista revelado de Anthropic (ANT), cuyo IPO domina la sesion de venta del 'AI trade' (Nasdaq -2.25%).",
-     "s": "Yahoo Finance",
-     "d": "19-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
     }
    ]
   },
@@ -328,6 +328,12 @@
    "trend": "'Meta superintelligence', NVIDIA $3B + AMD $1B en su oferta, capex al alza, debate ROI",
    "peak": "Fichajes de IA y guia de capex",
    "news": [
+    {
+     "t": "Cae ~1.5% (~$588) con big tech en la jornada de aversion al riesgo del martes.",
+     "s": "The Motley Fool",
+     "d": "24-nov",
+     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-midday-nov-24-nvidia-drops-9-as-wall-street-s-historic-ai-rally-loses-momentum/"
+    },
     {
      "t": "Sube ~+6.6% (a ~$598) con big tech en el rebote del 'AI trade'.",
      "s": "The Motley Fool",
@@ -339,12 +345,6 @@
      "s": "TradingKey",
      "d": "20-nov",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262316111-nasdaq-falls-ai-stock-selloff-nvidia-sec-probe-tradingkey"
-    },
-    {
-     "t": "Cae con big tech en la jornada de fuerte venta del 'AI trade' (Nasdaq -2.25%) por el estreno bursatil de Anthropic.",
-     "s": "Yahoo Finance",
-     "d": "19-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
     }
    ]
   },
@@ -401,6 +401,12 @@
    "peak": "Pruebas de Starship y noticias de Starlink",
    "news": [
     {
+     "t": "Cae ~5.9% (~$125.50) en la jornada de aversion al riesgo del martes, devolviendo parte del rebote del lunes.",
+     "s": "The Motley Fool",
+     "d": "24-nov",
+     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-midday-nov-24-nvidia-drops-9-as-wall-street-s-historic-ai-rally-loses-momentum/"
+    },
+    {
      "t": "Sube ~+4.4% en el rebote general del mercado (Dow +3%) por el regreso de Huang a NVIDIA.",
      "s": "The Motley Fool",
      "d": "23-nov",
@@ -411,12 +417,6 @@
      "s": "Yahoo Finance",
      "d": "19-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
-    },
-    {
-     "t": "Bloomberg reporta que avanzan las conversaciones de fusion SpaceX-Tesla, con posible anuncio en diciembre o deslizandose a inicios de 2027; Tesla sube ~+1%.",
-     "s": "Yahoo Finance / Bloomberg",
-     "d": "12-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
     }
    ]
   },
@@ -529,6 +529,12 @@
    "peak": "Resultados 29-oct (AMC)",
    "news": [
     {
+     "t": "Presionada por el Bitcoin de regreso bajo $60,000 (~$59,663, -2.8%), devolviendo parte del rebote del lunes.",
+     "s": "The Motley Fool",
+     "d": "24-nov",
+     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-midday-nov-24-nvidia-drops-9-as-wall-street-s-historic-ai-rally-loses-momentum/"
+    },
+    {
      "t": "Sube ~+6.7% (a ~$109) con el rebote del Bitcoin sobre $61,000 (desde un minimo de ~$55,149 el sabado); aun ~-39% en el mes.",
      "s": "24-7 Wall St.",
      "d": "23-nov",
@@ -539,12 +545,6 @@
      "s": "Yahoo Finance",
      "d": "20-nov",
      "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-drops-below-59k-wiping-183406394.html"
-    },
-    {
-     "t": "Presionada por la debilidad del Bitcoin, que cotiza ~$61,828 (muy por debajo de los ~$94,000 de mediados de mes), en una jornada de fuerte aversion al riesgo (Nasdaq -2.25%).",
-     "s": "Yahoo Finance",
-     "d": "19-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
     }
    ]
   },
@@ -552,6 +552,12 @@
    "trend": "'Saylor', 'MSTR Bitcoin', 'mNAV premium', debate sostenibilidad del apalancamiento",
    "peak": "23-nov: ~+9% con el BTC de regreso sobre $61,000 (aun -45% en el mes)",
    "news": [
+    {
+     "t": "Cae con el Bitcoin de regreso bajo $60,000 (~$59,663, -2.8%): su apuesta apalancada al BTC vuelve a sufrir tras el rebote del lunes.",
+     "s": "The Motley Fool",
+     "d": "24-nov",
+     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-midday-nov-24-nvidia-drops-9-as-wall-street-s-historic-ai-rally-loses-momentum/"
+    },
     {
      "t": "Sube ~+9% (a ~$85) con el Bitcoin de regreso sobre $61,000; aun -45% en el mes. La junta elevo a $4,000M (desde $3,000M) la autorizacion de recompra de preferentes (8-K del 23-nov).",
      "s": "24-7 Wall St.",
@@ -563,12 +569,6 @@
      "s": "Yahoo Finance",
      "d": "20-nov",
      "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-drops-below-59k-wiping-183406394.html"
-    },
-    {
-     "t": "Presionada por la debilidad del Bitcoin (~$61,828, muy por debajo de su maximo de octubre), que castiga su apuesta apalancada al BTC, en la venta del 'AI trade' (Nasdaq -2.25%).",
-     "s": "Yahoo Finance",
-     "d": "19-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
     }
    ]
   },

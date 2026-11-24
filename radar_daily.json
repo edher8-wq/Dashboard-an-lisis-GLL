@@ -1,44 +1,21 @@
 {
- "updated": "23-nov",
+ "updated": "24-nov",
  "source": "IBKR opciones + social + analistas",
  "tickers": {
-  "NVDA": [
-   {
-    "type": "Social",
-    "t": "Chatter social disparado vs su promedio (Reddit/StockTwits): el regreso de Jensen Huang como CEO y el salto ~+32% dominan los foros; Nomura lo describe como un 'mechanical bounce' por recompra de cortos.",
-    "d": "23-nov",
-    "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html"
-   }
-  ],
   "MU": [
    {
-    "type": "Social",
-    "t": "Chatter social disparado vs su promedio: el salto ~+19% por los acuerdos plurianuales de memoria y la nota de Citi desata al retail (short squeeze de la memoria).",
-    "d": "23-nov",
-    "u": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-micron-surges-19-as-nvidia-ceo-change-calms-ai-spending-fears/"
+    "type": "Analista",
+    "t": "BNP Paribas (Exane) la BAJA de 'Outperform' a 'Neutral' y recorta con fuerza el PT (~-$1,000) por riesgos de capacidad de hyperscalers a 2028 (downgrade); -11/-12%.",
+    "d": "24-nov",
+    "u": "https://www.marketbeat.com/instant-alerts/analyst-micron-technology-nasdaq-mu-rating-lowered-to-neutral-at-bnp-paribas-exane-2026-11-24/"
    }
   ],
-  "SNDK": [
-   {
-    "type": "Opciones",
-    "t": "Volumen de calls 2.3x y de puts 2.6x su promedio (actividad extrema de opciones en el rebote de la memoria; SanDisk ~+22%, Seagate ~+18%).",
-    "d": "23-nov",
-    "u": "https://247wallst.com/investing/2026/11/23/sandisk-surges-22-as-jensen-huangs-return-to-nvidia-sparks-ai-chip-rebound-seagate-jumps-18-micron-rallies-16/"
-   }
-  ],
-  "UPST": [
-   {
-    "type": "Opciones",
-    "t": "Volumen de calls 2.1x su promedio (apetito alcista), apuesta apalancada al ciclo de tasas en la jornada de fuerte rebote del mercado.",
-    "d": "23-nov"
-   }
-  ],
-  "HIMS": [
+  "NVDA": [
    {
     "type": "Analista",
-    "t": "Wall Street Zen la BAJA a 'Sell' (downgrade), con tension short (~23%)/retail de fondo tras el recorte de guia de EBITDA del 3T.",
-    "d": "21-nov",
-    "u": "https://www.marketbeat.com/instant-alerts/analyst-hims-hers-health-nyse-hims-cut-to-sell-at-wall-street-zen-2026-11-21/"
+    "t": "Melius Research la SUBE a 'Buy' (upgrade) pese a que la accion devuelve ~$240,000M del salto del lunes.",
+    "d": "24-nov",
+    "u": "https://www.defenseworld.net/2026/11/24/nvidia-nasdaqnvda-upgraded-to-buy-at-melius-research.html"
    }
   ]
  }
