@@ -2,6 +2,14 @@
  "updated": "24-nov",
  "source": "SEC EDGAR",
  "tickers": {
+  "GOOGL": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "23-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526472910/0001193125-26-472910-index.htm"
+   }
+  ],
   "META": [
    {
     "type": "8-K",
@@ -60,6 +68,14 @@
     "t": "Form 4",
     "d": "23-nov",
     "u": "https://www.sec.gov/Archives/edgar/data/106040/000126682426000243/0001266824-26-000243-index.htm"
+   }
+  ],
+  "PLTR": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "23-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1321655/000182415926000019/0001824159-26-000019-index.htm"
    }
   ],
   "MSTR": [
