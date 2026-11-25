@@ -1,11 +1,17 @@
 {
- "updated": "24-nov",
- "note": "Refresco diario. Jornada del 24-nov (martes): RESACA del rebote historico del lunes. El 'AI trade' pierde impulso. NVIDIA cae ~8% (devuelve ~$240,000M de valor de mercado) pese a que Melius Research la SUBE a 'Buy'. El Nasdaq Composite retrocede ~2.2% (~23,549) y el S&P 500 ~1.0% (~7,166), mientras el Dow aguanta en verde (~+0.3/+0.5%, ~49,715-49,846) por rotacion a defensivos (salud lidera). Renovada presion en semiconductores: Micron se desploma ~11-12% despues de que BNP Paribas (Exane) la BAJARA de 'Outperform' a 'Neutral' y recortara con fuerza su precio objetivo (~-$1,000) por riesgos de capacidad de los hyperscalers hacia 2028 y recortes de memoria en data centers. El oro cae ~2.3% ($3,568) y el Tesoro a 10 anos ronda ~4.9-5%. Bitcoin vuelve a caer bajo $60,000 (~$59,663, -2.8%), presionando a COIN y MSTR. Fuera del tablero destacan Analog Devices (ADI ~-17/-19% por guia floja), Kohl's (KSS ~+15/+17% por beat) y Pinterest (PINS ~+10/+12%). De fondo: sanciones a Iran/Estrecho de Ormuz presionan el petroleo y el reporte de inflacion PCE llega el miercoles 25-nov. Veraz: cifras intradia (~11:31 ET) de fuentes del 24-nov; se conservo el research previo donde no hubo novedad confirmada.",
+ "updated": "25-nov",
+ "note": "Refresco diario. Jornada del 25-nov (miercoles, vispera de Thanksgiving): REVERSION DRAMATICA. El PCE de octubre llego CALIENTE (general 3.8% y subyacente 3.3% interanual; subyacente +0.3% mensual por tercer mes consecutivo) y, sumado a un nuevo plan de aranceles (Seccion 301, hasta 20%; China 20%), desato un desplome matinal del 'AI trade': el S&P 500 llego a caer ~3.2% (minimo ~6,970) y el Nasdaq ~4.6% (minimo ~22,635; SOX ~-7%), con el Dow hundido ~1,105 puntos. Pero Wall Street protagonizo una remontada historica: el Dow borro TODO el hoyo y cerro +0.33% (50,183), el S&P -0.25% (7,183) y el Nasdaq Composite -0.62% (23,586); el SOX recorto a solo -0.65%. Lo notable: el mercado ahora descuenta una SUBIDA de tasas de la Fed en diciembre (CME FedWatch ~97%, reunion del 8-9 dic). La energia lidero (crudo +2.5% a ~$84 por tension Iran/Estrecho de Ormuz); tecnologia y consumo discrecional bajo presion. Oro +0.3% (~$3,600), Bitcoin ~$60,100 (+0.5%), Tesoro a 10 anos ~4.85%, VIX +6% (~28), Russell 2000 +0.8%. Fuera del tablero: HP Inc (HPQ) +11.5% por resultados, Charter (CHTR) +8.4%, Ambarella (AMBA) -19.8% y Nutanix (NTNX) -15.2%. Veraz: cifras de cierre del 25-nov de Motley Fool, The Company Chronicle y Vista Partners; se conservo el research previo donde no hubo novedad confirmada.",
  "tickers": {
   "NVDA": {
-   "trend": "Devuelve parte del salto del lunes: resaca tras el regreso de Jensen Huang (23-nov, +31.5%); Melius Research la sube a 'Buy' (24-nov) pero el 'AI trade' se enfria de nuevo.",
+   "trend": "Vaiven extremo: tras el salto del lunes por el regreso de Jensen Huang (+31.5%), devuelve terreno con la resaca del 'AI trade'; el 25-nov cae con el PCE caliente pero recorta en la remontada de la tarde.",
    "peak": "23-nov: ~+31.5% (~$165) por la reincorporacion de Jensen Huang como CEO",
    "news": [
+    {
+     "t": "Cae -3.9% (a $149.30) en el desplome matinal del 'AI trade' detonado por el PCE caliente y los nuevos aranceles, pero recorta con fuerza desde los minimos en la remontada historica de la tarde. Queda ~18.9% por encima de su cierre del viernes ($125.53).",
+     "s": "The Company Chronicle",
+     "d": "25-nov",
+     "u": "https://thecompanychronicle.com/story/stocks-close-dow-erases-1100-point-loss-nasdaq-sp500-slip-november-25-2026"
+    },
     {
      "t": "Cae ~8% (a ~$152, devolviendo ~$240,000M de valor) mientras el rebote historico del lunes pierde impulso y vuelve la presion sobre los semiconductores. En paralelo, Melius Research la SUBE a 'Buy' (upgrade).",
      "s": "The Motley Fool / Defense World",
@@ -17,12 +23,6 @@
      "s": "Yahoo Finance / CNN",
      "d": "23-nov",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html"
-    },
-    {
-     "t": "Se hunde ~13% (a ~$135, -37% en el mes) en el segundo dia de la venta del 'AI trade': Reuters reporta que la SEC revisa posibles problemas contables en NVIDIA (el WSJ adelanto la investigacion el martes). Cae por noveno dia de los ultimos diez; el SOX se desploma -10.73% con sus 30 componentes en rojo.",
-     "s": "TradingKey / Reuters",
-     "d": "20-nov",
-     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262316111-nasdaq-falls-ai-stock-selloff-nvidia-sec-probe-tradingkey"
     }
    ]
   },
@@ -75,9 +75,15 @@
    ]
   },
   "AMD": {
-   "trend": "Reporte bajista de Hunterbrook Capital (abrio corto, 19-nov) sobre sus compromisos de financiamiento a clientes y riesgo de exportacion a China; de fondo, el upgrade de Oppenheimer (Outperform, PT $600) y la seleccion por Google Cloud",
-   "peak": "20-nov: -13.26% (segundo dia, ~-20% en dos dias); 19-nov: -7.72% por el reporte corto de Hunterbrook",
+   "trend": "Reporte bajista de Hunterbrook (19-nov) sobre financiamiento a clientes y riesgo China; de fondo, el upgrade de Oppenheimer (PT $600) y la seleccion por Google Cloud. Alta volatilidad diaria con el 'AI trade'.",
+   "peak": "20-nov: -13.26% (segundo dia, ~-20% en dos dias) por el reporte corto de Hunterbrook",
    "news": [
+    {
+     "t": "Cae -1.75% (a $406.03): llega a hundirse hasta ~-9% intradia en el selloff de chips por el PCE caliente, pero recupera casi todo en la remontada de la tarde.",
+     "s": "The Company Chronicle / Vista Partners",
+     "d": "25-nov",
+     "u": "https://thecompanychronicle.com/story/stocks-close-dow-erases-1100-point-loss-nasdaq-sp500-slip-november-25-2026"
+    },
     {
      "t": "Rebota ~+7% (a ~$453) con el complejo de chips tras el regreso de Huang a NVIDIA, recuperando parte del desplome de la semana pasada (reporte corto de Hunterbrook del 19-nov).",
      "s": "Yahoo Finance",
@@ -89,19 +95,19 @@
      "s": "TradingKey / 24-7 Wall St.",
      "d": "20-nov",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262316111-nasdaq-falls-ai-stock-selloff-nvidia-sec-probe-tradingkey"
-    },
-    {
-     "t": "Se desploma -7.72% a $489.19 (principal lastre del dia): Hunterbrook Capital abrio una posicion corta y publico un reporte bajista que cuestiona sus compromisos de financiamiento a clientes (garantias de leasing, respaldo de capacidad cloud no vendida, participaciones en clientes) -mayores que los de NVIDIA frente a ingresos y con menos caja- ademas de riesgo por controles de exportacion a China. El retail lo vendio para financiar el IPO de Anthropic.",
-     "s": "TradingKey / Yahoo Finance",
-     "d": "19-nov",
-     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262313953-us-stock-nasdaq-falls-anthropic-ipo-debut-amd-short-report-tradingkey"
     }
    ]
   },
   "MRVL": {
-   "trend": "Acuerdo para ADQUIRIR Lumentum (LITE) por ~$115B en acciones (anunciado 2-nov; 4.50 MRVL por accion LITE; cierre esperado 1S2028): crea un lider en conectividad para IA (optica + silicio a medida); de fondo, 'custom silicon' y el debate 'crecimiento vs margen'",
+   "trend": "Acuerdo para ADQUIRIR Lumentum (LITE) por ~$115B en acciones (anunciado 2-nov; cierre esperado 1S2028): lider en conectividad para IA (optica + silicio a medida); de fondo, 'custom silicon' y el debate 'crecimiento vs margen'",
    "peak": "2-nov: anuncio de la adquisicion de Lumentum por ~$115B en acciones",
    "news": [
+    {
+     "t": "Cae con el complejo de semiconductores (hasta ~-9% intradia) en el desplome matinal por el PCE caliente, y recorta perdidas con la remontada de la tarde (el SOX cierra -0.65% vs ~-7% en minimos).",
+     "s": "Vista Partners / The Company Chronicle",
+     "d": "25-nov",
+     "u": "https://vistapglobal.com/stocks-close-mixed-on-wednesday-november-25-2026-as-hot-pce-inflation-new-tariff-plans-and-an-ai-sell-off-test-wall-street-amd-eprx-googl-modd-nvda-ser-spcx-vix/"
+    },
     {
      "t": "Rebota con el complejo de semiconductores/optica por el regreso de Huang a NVIDIA; Lumentum (LITE), su objetivo de adquisicion, salta ~+18%.",
      "s": "The Motley Fool",
@@ -113,12 +119,6 @@
      "s": "TradingKey / Yahoo Finance",
      "d": "20-nov",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262316111-nasdaq-falls-ai-stock-selloff-nvidia-sec-probe-tradingkey"
-    },
-    {
-     "t": "Acompana la caida del complejo de semiconductores en la jornada de venta del 'AI trade' (SOX -2.41%, 27 de 30 en rojo) desatada por el estreno bursatil de Anthropic y el reporte corto contra AMD.",
-     "s": "Yahoo Finance",
-     "d": "19-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
     }
    ]
   },
@@ -126,6 +126,12 @@
    "trend": "'Intel government stake', alianza con Oracle (Xeon/X14), '18A', 'turnaround'",
    "peak": "Resultados 29-oct (AMC): -18%",
    "news": [
+    {
+     "t": "Cae con el complejo de chips (hasta ~-9% intradia) en el desplome por el PCE caliente, recortando perdidas en la remontada de la tarde.",
+     "s": "Vista Partners",
+     "d": "25-nov",
+     "u": "https://vistapglobal.com/stocks-close-mixed-on-wednesday-november-25-2026-as-hot-pce-inflation-new-tariff-plans-and-an-ai-sell-off-test-wall-street-amd-eprx-googl-modd-nvda-ser-spcx-vix/"
+    },
     {
      "t": "Rebota con el complejo de chips en el rally del 'AI trade' por el regreso de Huang a NVIDIA.",
      "s": "Yahoo Finance",
@@ -137,12 +143,6 @@
      "s": "TradingKey",
      "d": "20-nov",
      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262316111-nasdaq-falls-ai-stock-selloff-nvidia-sec-probe-tradingkey"
-    },
-    {
-     "t": "Entre los pocos nombres de chips que logran cerrar en VERDE (junto con Qualcomm) pese a la caida del SOX (-2.41%) en la jornada de venta del 'AI trade'.",
-     "s": "Yahoo Finance",
-     "d": "19-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
     }
    ]
   },
@@ -171,9 +171,15 @@
    ]
   },
   "MU": {
-   "trend": "BNP Paribas (Exane) la baja de 'Outperform' a 'Neutral' (24-nov) por riesgos de capacidad de hyperscalers a 2028; antes, 'superciclo'/'HBM sold out' y el salto del lunes (+19%).",
+   "trend": "BNP Paribas (Exane) la bajo a 'Neutral' (24-nov) por riesgos de capacidad de hyperscalers a 2028; sigue el debate 'superciclo'/'HBM sold out' con alta volatilidad diaria.",
    "peak": "24-nov: ~-11/-12% por el downgrade de BNP Paribas; 23-nov: +19% (rebote)",
    "news": [
+    {
+     "t": "Cae ~4.5% (a ~$601.25): llega a hundirse ~9% intradia con el selloff de memoria/chips por el PCE caliente, antes de recortar en la remontada de la tarde.",
+     "s": "The Company Chronicle / Vista Partners",
+     "d": "25-nov",
+     "u": "https://thecompanychronicle.com/story/stocks-close-dow-erases-1100-point-loss-nasdaq-sp500-slip-november-25-2026"
+    },
     {
      "t": "Se desploma ~11-12% (hacia el soporte de ~$600): BNP Paribas (Exane) la BAJA de 'Outperform' a 'Neutral' y recorta con fuerza su precio objetivo (~-$1,000), citando riesgos en los planes de capacidad de los hyperscalers hacia 2028 y posibles recortes de memoria en data centers. Borra el salto de +19% del lunes.",
      "s": "Investing.com / Seeking Alpha / MarketBeat",
@@ -185,12 +191,6 @@
      "s": "The Motley Fool / Yahoo Finance",
      "d": "23-nov",
      "u": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-micron-surges-19-as-nvidia-ceo-change-calms-ai-spending-fears/"
-    },
-    {
-     "t": "Lidera la caida de la memoria con -13.86% en el desplome del complejo de chips (SOX -10.73%, sus 30 componentes en rojo); el grupo de semiconductores encara su peor semana desde 2001.",
-     "s": "TradingKey",
-     "d": "20-nov",
-     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262316111-nasdaq-falls-ai-stock-selloff-nvidia-sec-probe-tradingkey"
     }
    ]
   },
@@ -257,6 +257,12 @@
    "peak": "Resultados 28-oct (AMC): Azure +48%",
    "news": [
     {
+     "t": "Cae -1.25% (a $489.93), resistiendo mejor que el resto de big tech en el desplome matinal por el PCE caliente, antes de la remontada de la tarde.",
+     "s": "The Company Chronicle",
+     "d": "25-nov",
+     "u": "https://thecompanychronicle.com/story/stocks-close-dow-erases-1100-point-loss-nasdaq-sp500-slip-november-25-2026"
+    },
+    {
      "t": "Aguanta casi plana (~+0.1%, ~$493) resistiendo mejor que el resto de big tech en la caida del martes.",
      "s": "The Motley Fool",
      "d": "24-nov",
@@ -267,12 +273,6 @@
      "s": "The Motley Fool",
      "d": "23-nov",
      "u": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"
-    },
-    {
-     "t": "Cae con big tech en el segundo dia de la venta del 'AI trade' (Nasdaq Composite -5.28%, que borra toda su ganancia de 2026; S&P 500 en correccion).",
-     "s": "TradingKey",
-     "d": "20-nov",
-     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262316111-nasdaq-falls-ai-stock-selloff-nvidia-sec-probe-tradingkey"
     }
    ]
   },
@@ -280,6 +280,12 @@
    "trend": "Berkshire Hathaway revela una nueva posicion (~$4.3B) en su 13F; 'Gemini 3', TPU de Google, Google Cloud, debate de gasto en IA",
    "peak": "16-nov: maximo historico tras conocerse la posicion de Berkshire Hathaway",
    "news": [
+    {
+     "t": "Retrocede ~2.1% (a ~$273): llega a caer ~5% intradia con big tech en el desplome por el PCE caliente, recortando en la remontada de la tarde.",
+     "s": "The Company Chronicle / Vista Partners",
+     "d": "25-nov",
+     "u": "https://thecompanychronicle.com/story/stocks-close-dow-erases-1100-point-loss-nasdaq-sp500-slip-november-25-2026"
+    },
     {
      "t": "Retrocede ~1.7% (~$275) devolviendo parte del rebote del lunes en la jornada de aversion al riesgo (Nasdaq ~-2.2%).",
      "s": "The Motley Fool",
@@ -291,12 +297,6 @@
      "s": "The Motley Fool",
      "d": "23-nov",
      "u": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"
-    },
-    {
-     "t": "Jornada de fuerte aversion al riesgo (Nasdaq -5.28%); de fondo, prensa coreana reporta que Google busca comprar HBM directamente para sus TPU (Bernstein estima ahorros de ~$50B en la vida del producto), reforzando su tesis de silicio propio.",
-     "s": "TradingKey",
-     "d": "20-nov",
-     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262316111-nasdaq-falls-ai-stock-selloff-nvidia-sec-probe-tradingkey"
     }
    ]
   },
@@ -304,6 +304,12 @@
    "trend": "'OpenAI $38B AWS deal', 'AWS +39%', 'Trainium', capex ~$220B, debate aceleracion de nube vs cash burn",
    "peak": "2-nov: maximo historico por el acuerdo con OpenAI",
    "news": [
+    {
+     "t": "Cae -3.1% (a $244.43) con big tech en el desplome del 'AI trade' por el PCE caliente; recorta desde el minimo (~-5% intradia) en la remontada de la tarde.",
+     "s": "The Company Chronicle / Vista Partners",
+     "d": "25-nov",
+     "u": "https://thecompanychronicle.com/story/stocks-close-dow-erases-1100-point-loss-nasdaq-sp500-slip-november-25-2026"
+    },
     {
      "t": "Retrocede ~1.7% (~$251) con big tech en la resaca del rebote del lunes (Nasdaq ~-2.2%).",
      "s": "The Motley Fool",
@@ -315,12 +321,6 @@
      "s": "The Motley Fool",
      "d": "23-nov",
      "u": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"
-    },
-    {
-     "t": "Cae con big tech en el segundo dia de la venta del 'AI trade' (Nasdaq -5.28%, S&P 500 en correccion).",
-     "s": "TradingKey",
-     "d": "20-nov",
-     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262316111-nasdaq-falls-ai-stock-selloff-nvidia-sec-probe-tradingkey"
     }
    ]
   },
@@ -328,6 +328,12 @@
    "trend": "'Meta superintelligence', NVIDIA $3B + AMD $1B en su oferta, capex al alza, debate ROI",
    "peak": "Fichajes de IA y guia de capex",
    "news": [
+    {
+     "t": "Sube +3.4% (a $609.89) desmarcandose del resto de big tech en verde pese al desplome del 'AI trade' por el PCE caliente; sin catalizador propio confirmado.",
+     "s": "The Company Chronicle",
+     "d": "25-nov",
+     "u": "https://thecompanychronicle.com/story/stocks-close-dow-erases-1100-point-loss-nasdaq-sp500-slip-november-25-2026"
+    },
     {
      "t": "Cae ~1.5% (~$588) con big tech en la jornada de aversion al riesgo del martes.",
      "s": "The Motley Fool",
@@ -339,19 +345,19 @@
      "s": "The Motley Fool",
      "d": "23-nov",
      "u": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"
-    },
-    {
-     "t": "Cae con big tech en el segundo dia de la venta del 'AI trade' (Nasdaq -5.28%, S&P 500 en correccion).",
-     "s": "TradingKey",
-     "d": "20-nov",
-     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262316111-nasdaq-falls-ai-stock-selloff-nvidia-sec-probe-tradingkey"
     }
    ]
   },
   "CRWV": {
-   "trend": "El alivio del 3T (10-nov, +21% el 11-nov) se evaporo: el foco vuelve a su elevada carga de deuda y necesidades de financiamiento; nuevo minimo de 52 semanas el 20-nov.",
+   "trend": "El alivio del 3T (10-nov, +21%) se evaporo: el foco vuelve a su elevada carga de deuda y necesidades de financiamiento; alta volatilidad diaria con el 'AI trade'.",
    "peak": "23-nov: ~+22% (llego a +30% intradia) por el regreso de Huang; 20-nov: ~-12% a minimo de 52 semanas",
    "news": [
+    {
+     "t": "Cae con fuerza en el desplome matinal de los 'neoclouds'/AI (junto con Oracle y Nebius) por el PCE caliente, antes de recortar perdidas en la remontada de la tarde.",
+     "s": "Vista Partners",
+     "d": "25-nov",
+     "u": "https://vistapglobal.com/stocks-close-mixed-on-wednesday-november-25-2026-as-hot-pce-inflation-new-tariff-plans-and-an-ai-sell-off-test-wall-street-amd-eprx-googl-modd-nvda-ser-spcx-vix/"
+    },
     {
      "t": "Rebota ~+22% (llego a +30% intradia) con el regreso de Huang a NVIDIA, recuperando parte del desplome; Nebius (NBIS) tambien +20%.",
      "s": "The Motley Fool / Yahoo Finance",
@@ -363,12 +369,6 @@
      "s": "GuruFocus",
      "d": "20-nov",
      "u": "https://www.gurufocus.com/news/9213331/coreweave-crwv-shares-plunge-1215-amid-tech-selloff-hits-new-52week-low"
-    },
-    {
-     "t": "Acompana la venta generalizada del 'AI trade'/data center el 19-nov (Nasdaq -2.25%, SOX -2.41%) desatada por el estreno de Anthropic y el reporte corto contra AMD; sin catalizador propio confirmado en la sesion.",
-     "s": "Yahoo Finance",
-     "d": "19-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
     }
    ]
   },
@@ -397,9 +397,15 @@
    ]
   },
   "SPCX": {
-   "trend": "'Starlink subscribers', $40B de deuda para GPUs, posible fusion SpaceX-Tesla",
+   "trend": "'Starlink subscribers', $40B de deuda para GPUs, posible fusion SpaceX-Tesla; de fondo, satelites de computo orbital.",
    "peak": "Pruebas de Starship y noticias de Starlink",
    "news": [
+    {
+     "t": "Recorta a ~-1% (desde ~-8% intradia) tras autorizar la FCC hasta 1 millon de satelites de data center para SpaceX; de fondo, SpaceX y Tesla formaron comites especiales para explorar una fusion en acciones que valoraria al grupo combinado en ~$3.2-3.5 billones (el filing advierte que el computo orbital no esta probado a escala comercial).",
+     "s": "Vista Partners",
+     "d": "25-nov",
+     "u": "https://vistapglobal.com/stocks-close-mixed-on-wednesday-november-25-2026-as-hot-pce-inflation-new-tariff-plans-and-an-ai-sell-off-test-wall-street-amd-eprx-googl-modd-nvda-ser-spcx-vix/"
+    },
     {
      "t": "Cae ~5.9% (~$125.50) en la jornada de aversion al riesgo del martes, devolviendo parte del rebote del lunes.",
      "s": "The Motley Fool",
@@ -411,12 +417,6 @@
      "s": "The Motley Fool",
      "d": "23-nov",
      "u": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"
-    },
-    {
-     "t": "Cae -3.70% en la jornada de fuerte aversion al riesgo (Dow -2.19%); de fondo, el retail canalizo compras record hacia el estreno bursatil de Anthropic (ANT).",
-     "s": "Yahoo Finance",
-     "d": "19-nov",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
     }
    ]
   },

@@ -1,11 +1,25 @@
 {
- "updated": "24-nov",
+ "updated": "25-nov",
  "source": "IBKR opciones + social + analistas",
  "tickers": {
+  "NEE": [
+   {
+    "type": "Opciones",
+    "t": "Volumen de calls ~9.5x su promedio (84,603 vs ~8,954): fuerte apetito alcista/posicionamiento por evento en la utility.",
+    "d": "25-nov"
+   }
+  ],
+  "SMR": [
+   {
+    "type": "Opciones",
+    "t": "Volumen de puts ~3.6x su promedio (28,741 vs ~7,931): cobertura/apuesta bajista tras el castigo reciente al complejo nuclear/SMR.",
+    "d": "25-nov"
+   }
+  ],
   "MU": [
    {
     "type": "Analista",
-    "t": "BNP Paribas (Exane) la BAJA de 'Outperform' a 'Neutral' y recorta con fuerza el PT (~-$1,000) por riesgos de capacidad de hyperscalers a 2028 (downgrade); -11/-12%.",
+    "t": "BNP Paribas (Exane) la BAJA de 'Outperform' a 'Neutral' y recorta con fuerza el PT (~-$1,000) por riesgos de capacidad de hyperscalers a 2028 (downgrade); -11/-12% el 24-nov.",
     "d": "24-nov",
     "u": "https://www.marketbeat.com/instant-alerts/analyst-micron-technology-nasdaq-mu-rating-lowered-to-neutral-at-bnp-paribas-exane-2026-11-24/"
    }
@@ -13,7 +27,7 @@
   "NVDA": [
    {
     "type": "Analista",
-    "t": "Melius Research la SUBE a 'Buy' (upgrade) pese a que la accion devuelve ~$240,000M del salto del lunes.",
+    "t": "Melius Research la SUBE a 'Buy' (upgrade) pese a la volatilidad reciente del 'AI trade'.",
     "d": "24-nov",
     "u": "https://www.defenseworld.net/2026/11/24/nvidia-nasdaqnvda-upgraded-to-buy-at-melius-research.html"
    }
