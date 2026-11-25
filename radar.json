@@ -274,6 +274,12 @@
    {
     "type": "Form 4",
     "t": "Form 4",
+    "d": "25-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1679788/000185143226000004/0001851432-26-000004-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
     "d": "24-nov",
     "u": "https://www.sec.gov/Archives/edgar/data/1679788/000166871126000004/0001668711-26-000004-index.htm"
    },
@@ -296,6 +302,22 @@
     "t": "8-K: Regulation FD (divulgacion); Otros eventos relevantes",
     "d": "23-nov",
     "u": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526470961/0001193125-26-470961-index.htm"
+   }
+  ],
+  "VST": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "25-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1692819/000194049426000010/0001940494-26-000010-index.htm"
+   }
+  ],
+  "GEV": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "25-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1996810/000176364226000005/0001763642-26-000005-index.htm"
    }
   ],
   "ETN": [
@@ -332,6 +354,52 @@
     "t": "Form 4",
     "d": "24-nov",
     "u": "https://www.sec.gov/Archives/edgar/data/1773751/000183779626000008/0001837796-26-000008-index.htm"
+   }
+  ],
+  "HD": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "25-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/354950/000035495026000192/0000354950-26-000192-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "25-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/354950/000035495026000191/0000354950-26-000191-index.htm"
+   }
+  ],
+  "MMS": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "25-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1032220/000119312526478566/0001193125-26-478566-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "25-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1032220/000119312526478565/0001193125-26-478565-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "25-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1032220/000119312526478563/0001193125-26-478563-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "25-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1032220/000119312526478561/0001193125-26-478561-index.htm"
+   },
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "25-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1032220/000119312526478560/0001193125-26-478560-index.htm"
    }
   ]
  }
