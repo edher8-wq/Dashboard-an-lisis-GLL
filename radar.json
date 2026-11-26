@@ -1,5 +1,5 @@
 {
- "updated": "25-nov",
+ "updated": "26-nov",
  "source": "SEC EDGAR",
  "tickers": {
   "AMZN": [
@@ -55,6 +55,12 @@
    }
   ],
   "META": [
+   {
+    "type": "Form 4",
+    "t": "Form 4",
+    "d": "25-nov",
+    "u": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326018246/0000950103-26-018246-index.htm"
+   },
    {
     "type": "8-K",
     "t": "8-K: Otros eventos relevantes",
