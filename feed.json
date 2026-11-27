@@ -1,11 +1,17 @@
 {
- "updated": "26-nov",
- "note": "Feriado de Thanksgiving: NYSE y Nasdaq CERRADOS el jueves 26-nov (el viernes 27-nov hay sesion corta hasta la 1pm ET). Sin jornada bursatil hoy; se conserva el research de la ultima sesion real (miercoles 25-nov). Ese 25-nov fue de alta volatilidad: un PCE de octubre mas caliente de lo esperado y un nuevo paquete arancelario golpearon al 'AI trade' por la manana (Nasdaq y el indice de semis SOX con fuertes caidas intradia), pero Wall Street protagonizo una remontada en la tarde que borro gran parte del hoyo (Dow +0.33% a ~50,183; S&P 500 -0.25% a ~7,183; Nasdaq Composite -0.62% a ~23,586; SOX -0.65%). La atencion sigue puesta en la reunion de la Fed del 8-9 dic y en la trayectoria del 'AI trade'. Veraz: por el feriado NO hubo datos de mercado nuevos; las entradas por emisora se conservan de la jornada del 25-nov. El radar SEC (EDGAR) ya quedo actualizado al 26-nov por el proceso automatico del repo.",
+ "updated": "27-nov",
+ "note": "Sesion CORTA de Black Friday (viernes 27-nov, cierre a la 1pm ET): fuerte rebote del 'AI trade' que cierra una semana de recuperacion. S&P 500 +1.60% a 7,297.49 (su mejor semana en mas de un anio); Nasdaq Composite +2.31% a 24,129.50; Dow +1.18% a 50,774.94. Lideran tecnologia, semiconductores/AI y consumo discrecional (datos tempranos de Black Friday); rezagadas utilities y comunicaciones. El oro sube +3.75% a $3,668.50 y el rendimiento del Treasury a 10 anios baja a 4.85%; la atencion sigue en la Fed del 8-9 dic. Destacan Micron +7.6% y Amazon +4.0%; el complejo de memoria lidera (Sandisk ~+16%). Veraz: las entradas por emisora sin novedad confirmada hoy se conservan del research de la ultima sesion real (miercoles 25-nov), con el rebote del 27-nov como telon de fondo. El radar SEC (EDGAR) se conservo del proceso automatico del repo (host SEC bloqueado por red en esta sesion).",
  "tickers": {
   "NVDA": {
    "trend": "Vaiven extremo: tras el salto del lunes por el regreso de Jensen Huang (+31.5%), devuelve terreno con la resaca del 'AI trade'; el 25-nov cae con el PCE caliente pero recorta en la remontada de la tarde.",
    "peak": "23-nov: ~+31.5% (~$165) por la reincorporacion de Jensen Huang como CEO",
    "news": [
+    {
+     "t": "En la sesion corta de Black Friday (27-nov) el 'AI trade' rebota con fuerza (Nasdaq +2.31%); NVDA cierra solo ligeramente al alza (~+0.8% segun el ticker intradia), rezagada frente a los lideres (Micron +7.6%).",
+     "s": "The Motley Fool",
+     "d": "27-nov",
+     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/27/stock-market-today-nov-27-s-and-p-500-posts-best-week-in-19-months-as-ai-stocks-rebound/"
+    },
     {
      "t": "Cae -3.9% (a $149.30) en el desplome matinal del 'AI trade' detonado por el PCE caliente y los nuevos aranceles, pero recorta con fuerza desde los minimos en la remontada historica de la tarde. Queda ~18.9% por encima de su cierre del viernes ($125.53).",
      "s": "The Company Chronicle",
@@ -171,9 +177,15 @@
    ]
   },
   "MU": {
-   "trend": "BNP Paribas (Exane) la bajo a 'Neutral' (24-nov) por riesgos de capacidad de hyperscalers a 2028; sigue el debate 'superciclo'/'HBM sold out' con alta volatilidad diaria.",
+   "trend": "BNP Paribas (Exane) la bajo a 'Neutral' (24-nov); el 27-nov rebota +7.6% con el complejo de memoria liderando; sigue el debate 'superciclo'/'HBM sold out' con alta volatilidad.",
    "peak": "24-nov: ~-11/-12% por el downgrade de BNP Paribas; 23-nov: +19% (rebote)",
    "news": [
+    {
+     "t": "Sube +7.6% (hacia ~$645) con el renovado apetito por semiconductores en el rebote del 'AI trade' de la sesion corta; el complejo de memoria lidera la jornada.",
+     "s": "The Motley Fool",
+     "d": "27-nov",
+     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/27/stock-market-today-nov-27-s-and-p-500-posts-best-week-in-19-months-as-ai-stocks-rebound/"
+    },
     {
      "t": "Cae ~4.5% (a ~$601.25): llega a hundirse ~9% intradia con el selloff de memoria/chips por el PCE caliente, antes de recortar en la remontada de la tarde.",
      "s": "The Company Chronicle / Vista Partners",
@@ -195,7 +207,7 @@
    ]
   },
   "SNDK": {
-   "trend": "'NAND shortage', 'SSD pricing', cruce con Micron/Samsung/SK Hynix",
+   "trend": "'NAND shortage', 'SSD pricing', cruce con Micron/Samsung/SK Hynix; el 27-nov es el gran destacado del complejo de memoria con ~+16% en la sesion corta.",
    "peak": "Reportes de pricing de memoria",
    "news": [
     {
@@ -301,9 +313,15 @@
    ]
   },
   "AMZN": {
-   "trend": "'OpenAI $38B AWS deal', 'AWS +39%', 'Trainium', capex ~$220B, debate aceleracion de nube vs cash burn",
+   "trend": "'OpenAI $38B AWS deal', 'AWS +39%', 'Trainium', capex ~$220B; el 27-nov rebota +4% con el consumo discrecional y datos de Black Friday.",
    "peak": "2-nov: maximo historico por el acuerdo con OpenAI",
    "news": [
+    {
+     "t": "Sube +3.96% (a ~$254) en la sesion corta de Black Friday, impulsada por datos tempranos alentadores de compras navidenias y el optimismo sobre sus iniciativas de IA/AWS.",
+     "s": "The Motley Fool",
+     "d": "27-nov",
+     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/27/stock-market-today-nov-27-s-and-p-500-posts-best-week-in-19-months-as-ai-stocks-rebound/"
+    },
     {
      "t": "Cae -3.1% (a $244.43) con big tech en el desplome del 'AI trade' por el PCE caliente; recorta desde el minimo (~-5% intradia) en la remontada de la tarde.",
      "s": "The Company Chronicle / Vista Partners",
