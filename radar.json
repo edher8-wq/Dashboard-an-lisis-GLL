@@ -1,53 +1,7 @@
 {
- "updated": "27-nov",
+ "updated": "28-nov",
  "source": "SEC EDGAR",
  "tickers": {
-  "AMZN": [
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1018724/000137454526000012/0001374545-26-000012-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1018724/000202481326000012/0002024813-26-000012-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1018724/000193600626000032/0001936006-26-000032-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1018724/000155797926000010/0001557979-26-000010-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1018724/000163990226000010/0001639902-26-000010-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000058/0001018724-26-000058-index.htm"
-   }
-  ],
-  "GOOGL": [
-   {
-    "type": "8-K",
-    "t": "8-K: Otros eventos relevantes; Estados financieros/anexos",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526475973/0001193125-26-475973-index.htm"
-   }
-  ],
   "META": [
    {
     "type": "Form 4",
@@ -56,186 +10,12 @@
     "u": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326018246/0000950103-26-018246-index.htm"
    }
   ],
-  "MRVL": [
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1835632/000162828026075833/0001628280-26-075833-index.htm"
-   }
-  ],
-  "SNDK": [
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/2023554/000124264826000059/0001242648-26-000059-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/2023554/000124264826000058/0001242648-26-000058-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/2023554/000124264826000057/0001242648-26-000057-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/2023554/000124264826000056/0001242648-26-000056-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/2023554/000124264826000055/0001242648-26-000055-index.htm"
-   }
-  ],
-  "CRWV": [
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000482/0001769628-26-000482-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000480/0001769628-26-000480-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000478/0001769628-26-000478-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000476/0001769628-26-000476-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000474/0001769628-26-000474-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000472/0001769628-26-000472-index.htm"
-   }
-  ],
-  "PLTR": [
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1321655/000121106026000012/0001211060-26-000012-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1321655/000182392326000017/0001823923-26-000017-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1321655/000182415926000021/0001824159-26-000021-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1321655/000182395126000013/0001823951-26-000013-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1321655/000182395126000011/0001823951-26-000011-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1321655/000182394026000014/0001823940-26-000014-index.htm"
-   }
-  ],
-  "APP": [
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1751008/000184699826000007/0001846998-26-000007-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1751008/000213393826000007/0002133938-26-000007-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1751008/000200306526000009/0002003065-26-000009-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1751008/000213394726000009/0002133947-26-000009-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1751008/000184839526000016/0001848395-26-000016-index.htm"
-   }
-  ],
-  "PYPL": [
-   {
-    "type": "8-K",
-    "t": "8-K: Cambio en directivos/consejo",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1633917/000119312526476056/0001193125-26-476056-index.htm"
-   }
-  ],
   "COIN": [
    {
     "type": "Form 4",
     "t": "Form 4",
     "d": "25-nov",
     "u": "https://www.sec.gov/Archives/edgar/data/1679788/000185143226000004/0001851432-26-000004-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1679788/000166871126000004/0001668711-26-000004-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1679788/000185165826000005/0001851658-26-000005-index.htm"
-   },
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1679788/000185143226000003/0001851432-26-000003-index.htm"
    }
   ],
   "VST": [
@@ -258,22 +38,6 @@
     "t": "Form 4",
     "d": "25-nov",
     "u": "https://www.sec.gov/Archives/edgar/data/1996810/000176364226000005/0001763642-26-000005-index.htm"
-   }
-  ],
-  "OKLO": [
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1849056/000214768026000020/0002147680-26-000020-index.htm"
-   }
-  ],
-  "HIMS": [
-   {
-    "type": "Form 4",
-    "t": "Form 4",
-    "d": "24-nov",
-    "u": "https://www.sec.gov/Archives/edgar/data/1773751/000183779626000008/0001837796-26-000008-index.htm"
    }
   ],
   "HD": [
